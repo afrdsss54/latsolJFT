@@ -1,1 +1,3230 @@
-window.JFT_QUESTIONS = [{"section": 0, "prompt": "「病院」の よみかたは？", "options": ["びょういん", "びよういん", "びょうえん", "びょうにん"], "answer": 0, "explanation": "病院（びょういん）= rumah sakit."}, {"section": 0, "prompt": "「郵便局」の よみかたは？", "options": ["ゆびんきょく", "ゆうびんきょく", "ゆうべんきょく", "ゆうびんきょう"], "answer": 1, "explanation": "郵便局（ゆうびんきょく）= kantor pos."}, {"section": 0, "prompt": "「野菜」は どれですか。", "options": ["くだもの", "やさい", "さかな", "にく"], "answer": 1, "explanation": "野菜（やさい）= sayuran."}, {"section": 0, "prompt": "「あした」の いみは？", "options": ["kemarin", "hari ini", "besok", "minggu depan"], "answer": 2, "explanation": "あした = besok."}, {"section": 0, "prompt": "「入口」の よみかたは？", "options": ["でぐち", "いりぐち", "いりくち", "でくち"], "answer": 1, "explanation": "入口（いりぐち）= pintu masuk."}, {"section": 0, "prompt": "「電車」の よみかたは？", "options": ["でんしゃ", "てんしゃ", "でんき", "じてんしゃ"], "answer": 0, "explanation": "電車（でんしゃ）= kereta listrik."}, {"section": 0, "prompt": "「薬」の よみかたは？", "options": ["くすり", "くつ", "かさ", "かぎ"], "answer": 0, "explanation": "薬（くすり）= obat."}, {"section": 0, "prompt": "「予約」の いみは？", "options": ["pembayaran", "pemesanan", "pengiriman", "pembatalan"], "answer": 1, "explanation": "予約（よやく）= reservasi."}, {"section": 0, "prompt": "「毎週」の よみかたは？", "options": ["まいにち", "まいげつ", "まいしゅう", "まいとし"], "answer": 2, "explanation": "毎週（まいしゅう）= setiap minggu."}, {"section": 0, "prompt": "「駅員」の よみかたは？", "options": ["えきいん", "えきじん", "えきにん", "えきえん"], "answer": 0, "explanation": "駅員（えきいん）= petugas stasiun."}, {"section": 0, "prompt": "「安い」の はんたいは？", "options": ["ちかい", "たかい", "はやい", "おそい"], "answer": 1, "explanation": "安い (murah) ↔ 高い (mahal)."}, {"section": 0, "prompt": "「しごとが おわりました。」の いみは？", "options": ["Pekerjaan dimulai", "Pekerjaan selesai", "Pekerjaan sulit", "Pekerjaan dibatalkan"], "answer": 1, "explanation": "おわりました = sudah selesai."}, {"section": 1, "prompt": "きのう、スーパー（　）かいものを しました。", "options": ["で", "に", "を", "が"], "answer": 0, "explanation": "Tempat melakukan aktivitas menggunakan で."}, {"section": 1, "prompt": "わたしは 日本語（　）べんきょうしています。", "options": ["に", "を", "へ", "と"], "answer": 1, "explanation": "Objek dari べんきょうします menggunakan を."}, {"section": 1, "prompt": "あした あめが（　）、うちに います。", "options": ["ふったら", "ふって", "ふるとき", "ふりますが"], "answer": 0, "explanation": "〜たら menyatakan kondisi “jika”."}, {"section": 1, "prompt": "ここで しゃしんを（　）も いいですか。", "options": ["とる", "とって", "とった", "とり"], "answer": 1, "explanation": "〜てもいいですか = bolehkah saya ...?"}, {"section": 1, "prompt": "この へやで たばこを（　）ください。", "options": ["すわないで", "すって", "すいます", "すった"], "answer": 0, "explanation": "〜ないでください = mohon jangan."}, {"section": 1, "prompt": "日本へ いった（　）が あります。", "options": ["こと", "もの", "ところ", "ため"], "answer": 0, "explanation": "〜たことがあります = pernah melakukan."}, {"section": 1, "prompt": "ちょっと まって（　）。", "options": ["ください", "います", "あります", "です"], "answer": 0, "explanation": "〜てください = tolong lakukan."}, {"section": 1, "prompt": "この かばんは あの かばん（　）かるいです。", "options": ["より", "まで", "から", "ほど"], "answer": 0, "explanation": "A は B より = A lebih ... daripada B."}, {"section": 1, "prompt": "ねつが あるので、きょうは 会社を（　）。", "options": ["やすみます", "あそびます", "はしります", "およぎます"], "answer": 0, "explanation": "会社を休みます = tidak masuk kerja."}, {"section": 1, "prompt": "ここから 駅まで あるいて 10分（　）かかります。", "options": ["ぐらい", "しか", "だけ", "まで"], "answer": 0, "explanation": "ぐらい = kira-kira."}, {"section": 1, "prompt": "すみません、もう いちど（　）ください。", "options": ["いって", "いう", "いった", "いわない"], "answer": 0, "explanation": "いってください = tolong katakan."}, {"section": 1, "prompt": "A: ありがとうございます。 B:（　）。", "options": ["どういたしまして", "おやすみなさい", "いただきます", "いってきます"], "answer": 0, "explanation": "どういたしまして = sama-sama."}, {"section": 2, "prompt": "女の人は 何時に 来ますか。", "options": ["9時", "10時", "11時", "12時"], "answer": 1, "explanation": "「10時に行きます」と言っています。", "audio": "女の人：あした、十時に行きます。"}, {"section": 2, "prompt": "男の人は 何を 買いますか。", "options": ["パン", "牛乳", "卵", "水"], "answer": 2, "explanation": "「卵を買います」と言っています。", "audio": "男の人：スーパーで卵を買います。"}, {"section": 2, "prompt": "電車は 何番線ですか。", "options": ["1番線", "2番線", "3番線", "4番線"], "answer": 2, "explanation": "「三番線」とアナウンスしています。", "audio": "アナウンス：大阪行きの電車は三番線です。"}, {"section": 2, "prompt": "女の人は どこへ 行きますか。", "options": ["病院", "学校", "銀行", "郵便局"], "answer": 0, "explanation": "「病院に行きます」と言っています。", "audio": "女の人：今日は病院に行きます。"}, {"section": 2, "prompt": "休みは 何曜日ですか。", "options": ["月曜日", "火曜日", "水曜日", "金曜日"], "answer": 3, "explanation": "「金曜日は休みです」と言っています。", "audio": "店員：金曜日はお休みです。"}, {"section": 2, "prompt": "コーヒーは いくらですか。", "options": ["200円", "300円", "400円", "500円"], "answer": 1, "explanation": "「三百円です」と言っています。", "audio": "店員：コーヒーは三百円です。"}, {"section": 2, "prompt": "男の人は どうして 休みますか。", "options": ["ねつがある", "いそがしい", "旅行する", "雨がふる"], "answer": 0, "explanation": "「熱があるので休みます」と言っています。", "audio": "男の人：熱があるので、今日は会社を休みます。"}, {"section": 2, "prompt": "バスは 何分後に 来ますか。", "options": ["5分", "10分", "15分", "20分"], "answer": 1, "explanation": "「十分後に来ます」と言っています。", "audio": "案内：バスは十分後に来ます。"}, {"section": 2, "prompt": "女の人は 何を 飲みますか。", "options": ["お茶", "水", "ジュース", "コーヒー"], "answer": 0, "explanation": "「お茶をください」と言っています。", "audio": "女の人：すみません、お茶をください。"}, {"section": 2, "prompt": "待ち合わせは どこですか。", "options": ["駅の前", "学校の中", "公園", "店の中"], "answer": 0, "explanation": "「駅の前で会いましょう」と言っています。", "audio": "男の人：午後三時に駅の前で会いましょう。"}, {"section": 2, "prompt": "この店は 何時に 閉まりますか。", "options": ["6時", "7時", "8時", "9時"], "answer": 2, "explanation": "「夜八時まで」と言っています。", "audio": "店員：この店は夜八時までです。"}, {"section": 2, "prompt": "何を 持ってきて くださいか。", "options": ["かさ", "パスポート", "お金", "本"], "answer": 1, "explanation": "「パスポートを持ってきてください」と言っています。", "audio": "係の人：明日はパスポートを持ってきてください。"}, {"section": 3, "prompt": "【お知らせ】図書館は 月曜日に 休みます。図書館は いつ 休みですか。", "options": ["日曜日", "月曜日", "火曜日", "水曜日"], "answer": 1, "explanation": "月曜日 = Senin."}, {"section": 3, "prompt": "【メール】田中さんへ。会議は 午後2時から 3時までです。会議は いつ 始まりますか。", "options": ["1時", "2時", "3時", "4時"], "answer": 1, "explanation": "午後2時から = mulai pukul 14.00."}, {"section": 3, "prompt": "【店の案内】営業時間 9:00〜18:00。何時まで あいていますか。", "options": ["16:00", "17:00", "18:00", "19:00"], "answer": 2, "explanation": "18:00 = jam tutup."}, {"section": 3, "prompt": "【掲示】この 部屋では 食べないでください。何を してはいけませんか。", "options": ["話す", "食べる", "読む", "書く"], "answer": 1, "explanation": "食べないでください = jangan makan."}, {"section": 3, "prompt": "【メール】あしたは 雨です。かさを 持ってきてください。何を 持っていきますか。", "options": ["かさ", "かばん", "くつ", "ぼうし"], "answer": 0, "explanation": "かさ = payung."}, {"section": 3, "prompt": "【案内】駅から 病院まで バスで 15分です。どのぐらい かかりますか。", "options": ["5分", "10分", "15分", "30分"], "answer": 2, "explanation": "バスで15分 = 15 menit dengan bus."}, {"section": 3, "prompt": "【広告】りんご 1こ 100円、3こ 250円。3こは いくらですか。", "options": ["100円", "200円", "250円", "300円"], "answer": 2, "explanation": "3こ 250円 = tiga buah 250 yen."}, {"section": 3, "prompt": "【メモ】山田さんは 10時に 来ます。佐藤さんは 11時に 来ます。先に 来るのは だれですか。", "options": ["山田さん", "佐藤さん", "二人とも", "わかりません"], "answer": 0, "explanation": "10時 lebih awal daripada 11時."}, {"section": 3, "prompt": "【お知らせ】ごみは 火曜日と 金曜日に 出してください。ごみを 出す日は いつですか。", "options": ["月・水", "火・金", "木・土", "土・日"], "answer": 1, "explanation": "火曜日 dan 金曜日 = Selasa dan Jumat."}, {"section": 3, "prompt": "【メール】きょうは いそがしいので、あした 電話します。いつ 電話しますか。", "options": ["きのう", "きょう", "あした", "らいしゅう"], "answer": 2, "explanation": "あした = besok."}, {"section": 3, "prompt": "【求人】仕事は 朝8時から 午後5時までです。仕事は 何時に 始まりますか。", "options": ["7時", "8時", "9時", "17時"], "answer": 1, "explanation": "朝8時から = mulai pukul 08.00."}, {"section": 3, "prompt": "【掲示】エレベーターが こわれています。かいだんを 使ってください。何を 使いますか。", "options": ["エレベーター", "かいだん", "でんしゃ", "バス"], "answer": 1, "explanation": "かいだん = tangga."}];
+window.JFT_BANK = [
+  {
+    "section": 0,
+    "prompt": "「病院」の よみかたは？",
+    "options": [
+      "びょういん",
+      "びよういん",
+      "びょうえん",
+      "びょうにん"
+    ],
+    "answer": 0,
+    "explanation": "病院（びょういん）= rumah sakit.",
+    "id": "S1-001"
+  },
+  {
+    "section": 0,
+    "prompt": "「郵便局」の よみかたは？",
+    "options": [
+      "ゆびんきょく",
+      "ゆうびんきょく",
+      "ゆうべんきょく",
+      "ゆうびんきょう"
+    ],
+    "answer": 1,
+    "explanation": "郵便局（ゆうびんきょく）= kantor pos.",
+    "id": "S1-002"
+  },
+  {
+    "section": 0,
+    "prompt": "「野菜」は どれですか。",
+    "options": [
+      "くだもの",
+      "やさい",
+      "さかな",
+      "にく"
+    ],
+    "answer": 1,
+    "explanation": "野菜（やさい）= sayuran.",
+    "id": "S1-003"
+  },
+  {
+    "section": 0,
+    "prompt": "「あした」の いみは？",
+    "options": [
+      "kemarin",
+      "hari ini",
+      "besok",
+      "minggu depan"
+    ],
+    "answer": 2,
+    "explanation": "あした = besok.",
+    "id": "S1-004"
+  },
+  {
+    "section": 0,
+    "prompt": "「入口」の よみかたは？",
+    "options": [
+      "でぐち",
+      "いりぐち",
+      "いりくち",
+      "でくち"
+    ],
+    "answer": 1,
+    "explanation": "入口（いりぐち）= pintu masuk.",
+    "id": "S1-005"
+  },
+  {
+    "section": 0,
+    "prompt": "「電車」の よみかたは？",
+    "options": [
+      "でんしゃ",
+      "てんしゃ",
+      "でんき",
+      "じてんしゃ"
+    ],
+    "answer": 0,
+    "explanation": "電車（でんしゃ）= kereta listrik.",
+    "id": "S1-006"
+  },
+  {
+    "section": 0,
+    "prompt": "「薬」の よみかたは？",
+    "options": [
+      "くすり",
+      "くつ",
+      "かさ",
+      "かぎ"
+    ],
+    "answer": 0,
+    "explanation": "薬（くすり）= obat.",
+    "id": "S1-007"
+  },
+  {
+    "section": 0,
+    "prompt": "「予約」の いみは？",
+    "options": [
+      "pembayaran",
+      "pemesanan",
+      "pengiriman",
+      "pembatalan"
+    ],
+    "answer": 1,
+    "explanation": "予約（よやく）= reservasi.",
+    "id": "S1-008"
+  },
+  {
+    "section": 0,
+    "prompt": "「毎週」の よみかたは？",
+    "options": [
+      "まいにち",
+      "まいげつ",
+      "まいしゅう",
+      "まいとし"
+    ],
+    "answer": 2,
+    "explanation": "毎週（まいしゅう）= setiap minggu.",
+    "id": "S1-009"
+  },
+  {
+    "section": 0,
+    "prompt": "「駅員」の よみかたは？",
+    "options": [
+      "えきいん",
+      "えきじん",
+      "えきにん",
+      "えきえん"
+    ],
+    "answer": 0,
+    "explanation": "駅員（えきいん）= petugas stasiun.",
+    "id": "S1-010"
+  },
+  {
+    "section": 0,
+    "prompt": "「安い」の はんたいは？",
+    "options": [
+      "ちかい",
+      "たかい",
+      "はやい",
+      "おそい"
+    ],
+    "answer": 1,
+    "explanation": "安い (murah) ↔ 高い (mahal).",
+    "id": "S1-011"
+  },
+  {
+    "section": 0,
+    "prompt": "「しごとが おわりました。」の いみは？",
+    "options": [
+      "Pekerjaan dimulai",
+      "Pekerjaan selesai",
+      "Pekerjaan sulit",
+      "Pekerjaan dibatalkan"
+    ],
+    "answer": 1,
+    "explanation": "おわりました = sudah selesai.",
+    "id": "S1-012"
+  },
+  {
+    "section": 0,
+    "prompt": "「駅」の よみかたは どれですか。",
+    "options": [
+      "がくせい",
+      "えき",
+      "ちかてつ",
+      "くすり"
+    ],
+    "answer": 1,
+    "explanation": "駅（えき）= stasiun.",
+    "id": "S1-013"
+  },
+  {
+    "section": 0,
+    "prompt": "「銀行」の いみは どれですか。",
+    "options": [
+      "foto",
+      "bandara",
+      "masakan",
+      "bank"
+    ],
+    "answer": 3,
+    "explanation": "銀行（ぎんこう）= bank.",
+    "id": "S1-014"
+  },
+  {
+    "section": 0,
+    "prompt": "「学校」の よみかたは どれですか。",
+    "options": [
+      "かいもの",
+      "りょこう",
+      "がっこう",
+      "しんぶん"
+    ],
+    "answer": 2,
+    "explanation": "学校（がっこう）= sekolah.",
+    "id": "S1-015"
+  },
+  {
+    "section": 0,
+    "prompt": "「会社」の いみは どれですか。",
+    "options": [
+      "cuaca",
+      "kantin",
+      "perpustakaan",
+      "perusahaan"
+    ],
+    "answer": 3,
+    "explanation": "会社（かいしゃ）= perusahaan.",
+    "id": "S1-016"
+  },
+  {
+    "section": 0,
+    "prompt": "「仕事」の よみかたは どれですか。",
+    "options": [
+      "かいぎ",
+      "じかん",
+      "しごと",
+      "こうえん"
+    ],
+    "answer": 2,
+    "explanation": "仕事（しごと）= pekerjaan.",
+    "id": "S1-017"
+  },
+  {
+    "section": 0,
+    "prompt": "「家族」の いみは どれですか。",
+    "options": [
+      "setiap pagi",
+      "keluarga",
+      "listrik",
+      "alamat"
+    ],
+    "answer": 1,
+    "explanation": "家族（かぞく）= keluarga.",
+    "id": "S1-018"
+  },
+  {
+    "section": 0,
+    "prompt": "「友達」の よみかたは どれですか。",
+    "options": [
+      "じてんしゃ",
+      "なまえ",
+      "まいばん",
+      "ともだち"
+    ],
+    "answer": 3,
+    "explanation": "友達（ともだち）= teman.",
+    "id": "S1-019"
+  },
+  {
+    "section": 0,
+    "prompt": "「先生」の いみは どれですか。",
+    "options": [
+      "obat",
+      "guru",
+      "minggu depan",
+      "kereta bawah tanah"
+    ],
+    "answer": 1,
+    "explanation": "先生（せんせい）= guru.",
+    "id": "S1-020"
+  },
+  {
+    "section": 0,
+    "prompt": "「学生」の よみかたは どれですか。",
+    "options": [
+      "がくせい",
+      "しゃしん",
+      "せんしゅう",
+      "くうこう"
+    ],
+    "answer": 0,
+    "explanation": "学生（がくせい）= pelajar.",
+    "id": "S1-021"
+  },
+  {
+    "section": 0,
+    "prompt": "「料理」の いみは どれですか。",
+    "options": [
+      "koran",
+      "bulan ini",
+      "belanja",
+      "masakan"
+    ],
+    "answer": 3,
+    "explanation": "料理（りょうり）= masakan.",
+    "id": "S1-022"
+  },
+  {
+    "section": 0,
+    "prompt": "「旅行」の よみかたは どれですか。",
+    "options": [
+      "りょこう",
+      "らいげつ",
+      "しょくどう",
+      "としょかん"
+    ],
+    "answer": 0,
+    "explanation": "旅行（りょこう）= perjalanan.",
+    "id": "S1-023"
+  },
+  {
+    "section": 0,
+    "prompt": "「天気」の いみは どれですか。",
+    "options": [
+      "rapat",
+      "tahun lalu",
+      "cuaca",
+      "taman"
+    ],
+    "answer": 2,
+    "explanation": "天気（てんき）= cuaca.",
+    "id": "S1-024"
+  },
+  {
+    "section": 0,
+    "prompt": "「時間」の よみかたは どれですか。",
+    "options": [
+      "ことし",
+      "まいあさ",
+      "じゅうしょ",
+      "じかん"
+    ],
+    "answer": 3,
+    "explanation": "時間（じかん）= waktu.",
+    "id": "S1-025"
+  },
+  {
+    "section": 0,
+    "prompt": "「電気」の いみは どれですか。",
+    "options": [
+      "listrik",
+      "baru",
+      "setiap malam",
+      "nama"
+    ],
+    "answer": 0,
+    "explanation": "電気（でんき）= listrik.",
+    "id": "S1-026"
+  },
+  {
+    "section": 0,
+    "prompt": "「自転車」の よみかたは どれですか。",
+    "options": [
+      "くすり",
+      "ふるい",
+      "らいしゅう",
+      "じてんしゃ"
+    ],
+    "answer": 3,
+    "explanation": "自転車（じてんしゃ）= sepeda.",
+    "id": "S1-027"
+  },
+  {
+    "section": 0,
+    "prompt": "「地下鉄」の いみは どれですか。",
+    "options": [
+      "foto",
+      "mahal/tinggi",
+      "kereta bawah tanah",
+      "minggu lalu"
+    ],
+    "answer": 2,
+    "explanation": "地下鉄（ちかてつ）= kereta bawah tanah.",
+    "id": "S1-028"
+  },
+  {
+    "section": 0,
+    "prompt": "「空港」の よみかたは どれですか。",
+    "options": [
+      "こんげつ",
+      "やすい",
+      "かいもの",
+      "くうこう"
+    ],
+    "answer": 3,
+    "explanation": "空港（くうこう）= bandara.",
+    "id": "S1-029"
+  },
+  {
+    "section": 0,
+    "prompt": "「新聞」の いみは どれですか。",
+    "options": [
+      "koran",
+      "kantin",
+      "bulan depan",
+      "dekat"
+    ],
+    "answer": 0,
+    "explanation": "新聞（しんぶん）= koran.",
+    "id": "S1-030"
+  },
+  {
+    "section": 0,
+    "prompt": "「図書館」の よみかたは どれですか。",
+    "options": [
+      "とおい",
+      "きょねん",
+      "かいぎ",
+      "としょかん"
+    ],
+    "answer": 3,
+    "explanation": "図書館（としょかん）= perpustakaan.",
+    "id": "S1-031"
+  },
+  {
+    "section": 0,
+    "prompt": "「公園」の いみは どれですか。",
+    "options": [
+      "setiap pagi",
+      "cepat/awal",
+      "tahun ini",
+      "taman"
+    ],
+    "answer": 3,
+    "explanation": "公園（こうえん）= taman.",
+    "id": "S1-032"
+  },
+  {
+    "section": 0,
+    "prompt": "「住所」の よみかたは どれですか。",
+    "options": [
+      "じゅうしょ",
+      "おそい",
+      "あたらしい",
+      "まいばん"
+    ],
+    "answer": 0,
+    "explanation": "住所（じゅうしょ）= alamat.",
+    "id": "S1-033"
+  },
+  {
+    "section": 0,
+    "prompt": "「名前」の いみは どれですか。",
+    "options": [
+      "lama",
+      "nama",
+      "minggu depan",
+      "luas"
+    ],
+    "answer": 1,
+    "explanation": "名前（なまえ）= nama.",
+    "id": "S1-034"
+  },
+  {
+    "section": 0,
+    "prompt": "「薬」の よみかたは どれですか。",
+    "options": [
+      "たかい",
+      "くすり",
+      "せんしゅう",
+      "せまい"
+    ],
+    "answer": 1,
+    "explanation": "薬（くすり）= obat.",
+    "id": "S1-035"
+  },
+  {
+    "section": 0,
+    "prompt": "「写真」の いみは どれですか。",
+    "options": [
+      "murah",
+      "bulan ini",
+      "foto",
+      "panas (cuaca)"
+    ],
+    "answer": 2,
+    "explanation": "写真（しゃしん）= foto.",
+    "id": "S1-036"
+  },
+  {
+    "section": 0,
+    "prompt": "「買物」の よみかたは どれですか。",
+    "options": [
+      "さむい",
+      "らいげつ",
+      "ちかい",
+      "かいもの"
+    ],
+    "answer": 3,
+    "explanation": "買物（かいもの）= belanja.",
+    "id": "S1-037"
+  },
+  {
+    "section": 0,
+    "prompt": "「食堂」の いみは どれですか。",
+    "options": [
+      "kantin",
+      "sibuk",
+      "jauh",
+      "tahun lalu"
+    ],
+    "answer": 0,
+    "explanation": "食堂（しょくどう）= kantin.",
+    "id": "S1-038"
+  },
+  {
+    "section": 0,
+    "prompt": "「会議」の よみかたは どれですか。",
+    "options": [
+      "はやい",
+      "かいぎ",
+      "えき",
+      "ことし"
+    ],
+    "answer": 1,
+    "explanation": "会議（かいぎ）= rapat.",
+    "id": "S1-039"
+  },
+  {
+    "section": 0,
+    "prompt": "「毎朝」の いみは どれですか。",
+    "options": [
+      "setiap pagi",
+      "baru",
+      "lambat/terlambat",
+      "bank"
+    ],
+    "answer": 0,
+    "explanation": "毎朝（まいあさ）= setiap pagi.",
+    "id": "S1-040"
+  },
+  {
+    "section": 0,
+    "prompt": "「毎晩」の よみかたは どれですか。",
+    "options": [
+      "まいばん",
+      "ひろい",
+      "ふるい",
+      "がっこう"
+    ],
+    "answer": 0,
+    "explanation": "毎晩（まいばん）= setiap malam.",
+    "id": "S1-041"
+  },
+  {
+    "section": 0,
+    "prompt": "「来週」の いみは どれですか。",
+    "options": [
+      "minggu depan",
+      "mahal/tinggi",
+      "sempit",
+      "perusahaan"
+    ],
+    "answer": 0,
+    "explanation": "来週（らいしゅう）= minggu depan.",
+    "id": "S1-042"
+  },
+  {
+    "section": 0,
+    "prompt": "「先週」の よみかたは どれですか。",
+    "options": [
+      "せんしゅう",
+      "やすい",
+      "しごと",
+      "あつい"
+    ],
+    "answer": 0,
+    "explanation": "先週（せんしゅう）= minggu lalu.",
+    "id": "S1-043"
+  },
+  {
+    "section": 0,
+    "prompt": "「今月」の いみは どれですか。",
+    "options": [
+      "keluarga",
+      "bulan ini",
+      "dekat",
+      "dingin (cuaca)"
+    ],
+    "answer": 1,
+    "explanation": "今月（こんげつ）= bulan ini.",
+    "id": "S1-044"
+  },
+  {
+    "section": 0,
+    "prompt": "「来月」の よみかたは どれですか。",
+    "options": [
+      "らいげつ",
+      "いそがしい",
+      "ともだち",
+      "とおい"
+    ],
+    "answer": 0,
+    "explanation": "来月（らいげつ）= bulan depan.",
+    "id": "S1-045"
+  },
+  {
+    "section": 0,
+    "prompt": "「去年」の いみは どれですか。",
+    "options": [
+      "cepat/awal",
+      "guru",
+      "tahun lalu",
+      "stasiun"
+    ],
+    "answer": 2,
+    "explanation": "去年（きょねん）= tahun lalu.",
+    "id": "S1-046"
+  },
+  {
+    "section": 0,
+    "prompt": "「今年」の よみかたは どれですか。",
+    "options": [
+      "ことし",
+      "ぎんこう",
+      "おそい",
+      "がくせい"
+    ],
+    "answer": 0,
+    "explanation": "今年（ことし）= tahun ini.",
+    "id": "S1-047"
+  },
+  {
+    "section": 0,
+    "prompt": "「新しい」の いみは どれですか。",
+    "options": [
+      "luas",
+      "baru",
+      "masakan",
+      "sekolah"
+    ],
+    "answer": 1,
+    "explanation": "新しい（あたらしい）= baru.",
+    "id": "S1-048"
+  },
+  {
+    "section": 0,
+    "prompt": "「古い」の よみかたは どれですか。",
+    "options": [
+      "かいしゃ",
+      "せまい",
+      "りょこう",
+      "ふるい"
+    ],
+    "answer": 3,
+    "explanation": "古い（ふるい）= lama.",
+    "id": "S1-049"
+  },
+  {
+    "section": 0,
+    "prompt": "「高い」の いみは どれですか。",
+    "options": [
+      "pekerjaan",
+      "cuaca",
+      "mahal/tinggi",
+      "panas (cuaca)"
+    ],
+    "answer": 2,
+    "explanation": "高い（たかい）= mahal/tinggi.",
+    "id": "S1-050"
+  },
+  {
+    "section": 0,
+    "prompt": "「安い」の よみかたは どれですか。",
+    "options": [
+      "かぞく",
+      "さむい",
+      "じかん",
+      "やすい"
+    ],
+    "answer": 3,
+    "explanation": "安い（やすい）= murah.",
+    "id": "S1-051"
+  },
+  {
+    "section": 0,
+    "prompt": "「近い」の いみは どれですか。",
+    "options": [
+      "listrik",
+      "dekat",
+      "sibuk",
+      "teman"
+    ],
+    "answer": 1,
+    "explanation": "近い（ちかい）= dekat.",
+    "id": "S1-052"
+  },
+  {
+    "section": 0,
+    "prompt": "「遠い」の よみかたは どれですか。",
+    "options": [
+      "じてんしゃ",
+      "せんせい",
+      "とおい",
+      "えき"
+    ],
+    "answer": 2,
+    "explanation": "遠い（とおい）= jauh.",
+    "id": "S1-053"
+  },
+  {
+    "section": 0,
+    "prompt": "「早い」の いみは どれですか。",
+    "options": [
+      "pelajar",
+      "bank",
+      "cepat/awal",
+      "kereta bawah tanah"
+    ],
+    "answer": 2,
+    "explanation": "早い（はやい）= cepat/awal.",
+    "id": "S1-054"
+  },
+  {
+    "section": 0,
+    "prompt": "「遅い」の よみかたは どれですか。",
+    "options": [
+      "おそい",
+      "りょうり",
+      "くうこう",
+      "がっこう"
+    ],
+    "answer": 0,
+    "explanation": "遅い（おそい）= lambat/terlambat.",
+    "id": "S1-055"
+  },
+  {
+    "section": 0,
+    "prompt": "「広い」の いみは どれですか。",
+    "options": [
+      "perusahaan",
+      "koran",
+      "luas",
+      "perjalanan"
+    ],
+    "answer": 2,
+    "explanation": "広い（ひろい）= luas.",
+    "id": "S1-056"
+  },
+  {
+    "section": 0,
+    "prompt": "「狭い」の よみかたは どれですか。",
+    "options": [
+      "しごと",
+      "てんき",
+      "せまい",
+      "としょかん"
+    ],
+    "answer": 2,
+    "explanation": "狭い（せまい）= sempit.",
+    "id": "S1-057"
+  },
+  {
+    "section": 0,
+    "prompt": "「暑い」の いみは どれですか。",
+    "options": [
+      "waktu",
+      "taman",
+      "panas (cuaca)",
+      "keluarga"
+    ],
+    "answer": 2,
+    "explanation": "暑い（あつい）= panas (cuaca).",
+    "id": "S1-058"
+  },
+  {
+    "section": 0,
+    "prompt": "「寒い」の よみかたは どれですか。",
+    "options": [
+      "でんき",
+      "さむい",
+      "ともだち",
+      "じゅうしょ"
+    ],
+    "answer": 1,
+    "explanation": "寒い（さむい）= dingin (cuaca).",
+    "id": "S1-059"
+  },
+  {
+    "section": 0,
+    "prompt": "「忙しい」の いみは どれですか。",
+    "options": [
+      "sepeda",
+      "nama",
+      "guru",
+      "sibuk"
+    ],
+    "answer": 3,
+    "explanation": "忙しい（いそがしい）= sibuk.",
+    "id": "S1-060"
+  },
+  {
+    "section": 1,
+    "prompt": "きのう、スーパー（　）かいものを しました。",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": 0,
+    "explanation": "Tempat melakukan aktivitas menggunakan で.",
+    "id": "S2-001"
+  },
+  {
+    "section": 1,
+    "prompt": "わたしは 日本語（　）べんきょうしています。",
+    "options": [
+      "に",
+      "を",
+      "へ",
+      "と"
+    ],
+    "answer": 1,
+    "explanation": "Objek dari べんきょうします menggunakan を.",
+    "id": "S2-002"
+  },
+  {
+    "section": 1,
+    "prompt": "あした あめが（　）、うちに います。",
+    "options": [
+      "ふったら",
+      "ふって",
+      "ふるとき",
+      "ふりますが"
+    ],
+    "answer": 0,
+    "explanation": "〜たら menyatakan kondisi “jika”.",
+    "id": "S2-003"
+  },
+  {
+    "section": 1,
+    "prompt": "ここで しゃしんを（　）も いいですか。",
+    "options": [
+      "とる",
+      "とって",
+      "とった",
+      "とり"
+    ],
+    "answer": 1,
+    "explanation": "〜てもいいですか = bolehkah saya ...?",
+    "id": "S2-004"
+  },
+  {
+    "section": 1,
+    "prompt": "この へやで たばこを（　）ください。",
+    "options": [
+      "すわないで",
+      "すって",
+      "すいます",
+      "すった"
+    ],
+    "answer": 0,
+    "explanation": "〜ないでください = mohon jangan.",
+    "id": "S2-005"
+  },
+  {
+    "section": 1,
+    "prompt": "日本へ いった（　）が あります。",
+    "options": [
+      "こと",
+      "もの",
+      "ところ",
+      "ため"
+    ],
+    "answer": 0,
+    "explanation": "〜たことがあります = pernah melakukan.",
+    "id": "S2-006"
+  },
+  {
+    "section": 1,
+    "prompt": "ちょっと まって（　）。",
+    "options": [
+      "ください",
+      "います",
+      "あります",
+      "です"
+    ],
+    "answer": 0,
+    "explanation": "〜てください = tolong lakukan.",
+    "id": "S2-007"
+  },
+  {
+    "section": 1,
+    "prompt": "この かばんは あの かばん（　）かるいです。",
+    "options": [
+      "より",
+      "まで",
+      "から",
+      "ほど"
+    ],
+    "answer": 0,
+    "explanation": "A は B より = A lebih ... daripada B.",
+    "id": "S2-008"
+  },
+  {
+    "section": 1,
+    "prompt": "ねつが あるので、きょうは 会社を（　）。",
+    "options": [
+      "やすみます",
+      "あそびます",
+      "はしります",
+      "およぎます"
+    ],
+    "answer": 0,
+    "explanation": "会社を休みます = tidak masuk kerja.",
+    "id": "S2-009"
+  },
+  {
+    "section": 1,
+    "prompt": "ここから 駅まで あるいて 10分（　）かかります。",
+    "options": [
+      "ぐらい",
+      "しか",
+      "だけ",
+      "まで"
+    ],
+    "answer": 0,
+    "explanation": "ぐらい = kira-kira.",
+    "id": "S2-010"
+  },
+  {
+    "section": 1,
+    "prompt": "すみません、もう いちど（　）ください。",
+    "options": [
+      "いって",
+      "いう",
+      "いった",
+      "いわない"
+    ],
+    "answer": 0,
+    "explanation": "いってください = tolong katakan.",
+    "id": "S2-011"
+  },
+  {
+    "section": 1,
+    "prompt": "A: ありがとうございます。 B:（　）。",
+    "options": [
+      "どういたしまして",
+      "おやすみなさい",
+      "いただきます",
+      "いってきます"
+    ],
+    "answer": 0,
+    "explanation": "どういたしまして = sama-sama.",
+    "id": "S2-012"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：スーパー】店員：いらっしゃいませ。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "いってきます。",
+      "ただいま。",
+      "おやすみなさい。",
+      "これを ください。"
+    ],
+    "answer": 3,
+    "explanation": "Di toko, pembeli menyampaikan barang yang ingin dibeli. Situasi: スーパー.",
+    "id": "S2-013"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：コンビニ】A：ありがとうございます。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "いってらっしゃい。",
+      "おかえりなさい。",
+      "ごちそうさま。",
+      "どういたしまして。"
+    ],
+    "answer": 3,
+    "explanation": "Balasan untuk ucapan terima kasih. Situasi: コンビニ.",
+    "id": "S2-014"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：びょういん】A：すみません。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "いただきます。",
+      "はじめまして。",
+      "いいえ、だいじょうぶです。",
+      "おめでとうございます。"
+    ],
+    "answer": 2,
+    "explanation": "Menanggapi permintaan maaf. Situasi: びょういん.",
+    "id": "S2-015"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：えき】A：おなまえは？\nいちばん いい へんじは どれですか。",
+    "options": [
+      "わたしは アリです。",
+      "きのう でした。",
+      "これは かさです。",
+      "あついです。"
+    ],
+    "answer": 0,
+    "explanation": "Menjawab pertanyaan nama. Situasi: えき.",
+    "id": "S2-016"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：としょかん】A：おくには どちらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "青いです。",
+      "ごはんです。",
+      "三時です。",
+      "インドネシアです。"
+    ],
+    "answer": 3,
+    "explanation": "Menjawab asal negara. Situasi: としょかん.",
+    "id": "S2-017"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：こうえん】A：いっしょに おひるを たべませんか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、ぜひ。",
+      "きょうは 月ようびです。",
+      "それは いくらですか。",
+      "わたしは ねこです。"
+    ],
+    "answer": 0,
+    "explanation": "Menerima ajakan makan. Situasi: こうえん.",
+    "id": "S2-018"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ぎんこう】A：この でんしゃは えきに とまりますか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、たべます。",
+      "はい、よみます。",
+      "はい、とまります。",
+      "はい、かきます。"
+    ],
+    "answer": 2,
+    "explanation": "Menjawab apakah kereta berhenti di stasiun. Situasi: ぎんこう.",
+    "id": "S2-019"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ゆうびんきょく】A：ここに すわっても いいですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、どうぞ。",
+      "はい、おかえり。",
+      "はい、ただいま。",
+      "はい、いただきます。"
+    ],
+    "answer": 0,
+    "explanation": "Memberi izin duduk. Situasi: ゆうびんきょく.",
+    "id": "S2-020"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：しょくどう】A：もう いちど いって ください。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、あおいです。",
+      "はい、きのうです。",
+      "はい、わかりました。",
+      "はい、はしります。"
+    ],
+    "answer": 2,
+    "explanation": "Memenuhi permintaan pengulangan. Situasi: しょくどう.",
+    "id": "S2-021"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ホテル】A：トイレは どこですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "おおきいです。",
+      "おいしいです。",
+      "あたらしいです。",
+      "あちらです。"
+    ],
+    "answer": 3,
+    "explanation": "Menunjukkan lokasi toilet. Situasi: ホテル.",
+    "id": "S2-022"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：がっこう】A：きょうは なんようびですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "木ようびです。",
+      "せんせいです。",
+      "バスです。",
+      "五百円です。"
+    ],
+    "answer": 0,
+    "explanation": "Menjawab hari. Situasi: がっこう.",
+    "id": "S2-023"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：くうこう】A：これは いくらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "日本です。",
+      "五百円です。",
+      "一人です。",
+      "金ようびです。"
+    ],
+    "answer": 1,
+    "explanation": "Menjawab harga. Situasi: くうこう.",
+    "id": "S2-024"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：えき】店員：いらっしゃいませ。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "おやすみなさい。",
+      "これを ください。",
+      "いってきます。",
+      "ただいま。"
+    ],
+    "answer": 1,
+    "explanation": "Di toko, pembeli menyampaikan barang yang ingin dibeli. Situasi: えき.",
+    "id": "S2-025"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：としょかん】A：ありがとうございます。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "ごちそうさま。",
+      "どういたしまして。",
+      "いってらっしゃい。",
+      "おかえりなさい。"
+    ],
+    "answer": 1,
+    "explanation": "Balasan untuk ucapan terima kasih. Situasi: としょかん.",
+    "id": "S2-026"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：こうえん】A：すみません。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "いいえ、だいじょうぶです。",
+      "はじめまして。",
+      "いただきます。",
+      "おめでとうございます。"
+    ],
+    "answer": 0,
+    "explanation": "Menanggapi permintaan maaf. Situasi: こうえん.",
+    "id": "S2-027"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ぎんこう】A：おなまえは？\nいちばん いい へんじは どれですか。",
+    "options": [
+      "あついです。",
+      "わたしは アリです。",
+      "きのう でした。",
+      "これは かさです。"
+    ],
+    "answer": 1,
+    "explanation": "Menjawab pertanyaan nama. Situasi: ぎんこう.",
+    "id": "S2-028"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ゆうびんきょく】A：おくには どちらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "ごはんです。",
+      "インドネシアです。",
+      "三時です。",
+      "青いです。"
+    ],
+    "answer": 1,
+    "explanation": "Menjawab asal negara. Situasi: ゆうびんきょく.",
+    "id": "S2-029"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：しょくどう】A：いっしょに おひるを たべませんか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、ぜひ。",
+      "わたしは ねこです。",
+      "きょうは 月ようびです。",
+      "それは いくらですか。"
+    ],
+    "answer": 0,
+    "explanation": "Menerima ajakan makan. Situasi: しょくどう.",
+    "id": "S2-030"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ホテル】A：この でんしゃは えきに とまりますか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、よみます。",
+      "はい、かきます。",
+      "はい、とまります。",
+      "はい、たべます。"
+    ],
+    "answer": 2,
+    "explanation": "Menjawab apakah kereta berhenti di stasiun. Situasi: ホテル.",
+    "id": "S2-031"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：がっこう】A：ここに すわっても いいですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、おかえり。",
+      "はい、ただいま。",
+      "はい、どうぞ。",
+      "はい、いただきます。"
+    ],
+    "answer": 2,
+    "explanation": "Memberi izin duduk. Situasi: がっこう.",
+    "id": "S2-032"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：くうこう】A：もう いちど いって ください。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、はしります。",
+      "はい、わかりました。",
+      "はい、きのうです。",
+      "はい、あおいです。"
+    ],
+    "answer": 1,
+    "explanation": "Memenuhi permintaan pengulangan. Situasi: くうこう.",
+    "id": "S2-033"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：スーパー】A：トイレは どこですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "あちらです。",
+      "おいしいです。",
+      "おおきいです。",
+      "あたらしいです。"
+    ],
+    "answer": 0,
+    "explanation": "Menunjukkan lokasi toilet. Situasi: スーパー.",
+    "id": "S2-034"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：コンビニ】A：きょうは なんようびですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "五百円です。",
+      "木ようびです。",
+      "バスです。",
+      "せんせいです。"
+    ],
+    "answer": 1,
+    "explanation": "Menjawab hari. Situasi: コンビニ.",
+    "id": "S2-035"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：びょういん】A：これは いくらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "日本です。",
+      "一人です。",
+      "金ようびです。",
+      "五百円です。"
+    ],
+    "answer": 3,
+    "explanation": "Menjawab harga. Situasi: びょういん.",
+    "id": "S2-036"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ぎんこう】店員：いらっしゃいませ。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "これを ください。",
+      "ただいま。",
+      "いってきます。",
+      "おやすみなさい。"
+    ],
+    "answer": 0,
+    "explanation": "Di toko, pembeli menyampaikan barang yang ingin dibeli. Situasi: ぎんこう.",
+    "id": "S2-037"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ゆうびんきょく】A：ありがとうございます。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "ごちそうさま。",
+      "どういたしまして。",
+      "いってらっしゃい。",
+      "おかえりなさい。"
+    ],
+    "answer": 1,
+    "explanation": "Balasan untuk ucapan terima kasih. Situasi: ゆうびんきょく.",
+    "id": "S2-038"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：しょくどう】A：すみません。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "いいえ、だいじょうぶです。",
+      "おめでとうございます。",
+      "いただきます。",
+      "はじめまして。"
+    ],
+    "answer": 0,
+    "explanation": "Menanggapi permintaan maaf. Situasi: しょくどう.",
+    "id": "S2-039"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ホテル】A：おなまえは？\nいちばん いい へんじは どれですか。",
+    "options": [
+      "これは かさです。",
+      "きのう でした。",
+      "あついです。",
+      "わたしは アリです。"
+    ],
+    "answer": 3,
+    "explanation": "Menjawab pertanyaan nama. Situasi: ホテル.",
+    "id": "S2-040"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：がっこう】A：おくには どちらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "インドネシアです。",
+      "三時です。",
+      "青いです。",
+      "ごはんです。"
+    ],
+    "answer": 0,
+    "explanation": "Menjawab asal negara. Situasi: がっこう.",
+    "id": "S2-041"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：くうこう】A：いっしょに おひるを たべませんか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、ぜひ。",
+      "わたしは ねこです。",
+      "それは いくらですか。",
+      "きょうは 月ようびです。"
+    ],
+    "answer": 0,
+    "explanation": "Menerima ajakan makan. Situasi: くうこう.",
+    "id": "S2-042"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：スーパー】A：この でんしゃは えきに とまりますか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、たべます。",
+      "はい、よみます。",
+      "はい、とまります。",
+      "はい、かきます。"
+    ],
+    "answer": 2,
+    "explanation": "Menjawab apakah kereta berhenti di stasiun. Situasi: スーパー.",
+    "id": "S2-043"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：コンビニ】A：ここに すわっても いいですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、いただきます。",
+      "はい、どうぞ。",
+      "はい、おかえり。",
+      "はい、ただいま。"
+    ],
+    "answer": 1,
+    "explanation": "Memberi izin duduk. Situasi: コンビニ.",
+    "id": "S2-044"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：びょういん】A：もう いちど いって ください。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、あおいです。",
+      "はい、わかりました。",
+      "はい、きのうです。",
+      "はい、はしります。"
+    ],
+    "answer": 1,
+    "explanation": "Memenuhi permintaan pengulangan. Situasi: びょういん.",
+    "id": "S2-045"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：えき】A：トイレは どこですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "おおきいです。",
+      "あちらです。",
+      "おいしいです。",
+      "あたらしいです。"
+    ],
+    "answer": 1,
+    "explanation": "Menunjukkan lokasi toilet. Situasi: えき.",
+    "id": "S2-046"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：としょかん】A：きょうは なんようびですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "せんせいです。",
+      "バスです。",
+      "木ようびです。",
+      "五百円です。"
+    ],
+    "answer": 2,
+    "explanation": "Menjawab hari. Situasi: としょかん.",
+    "id": "S2-047"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：こうえん】A：これは いくらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "五百円です。",
+      "日本です。",
+      "一人です。",
+      "金ようびです。"
+    ],
+    "answer": 0,
+    "explanation": "Menjawab harga. Situasi: こうえん.",
+    "id": "S2-048"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ホテル】店員：いらっしゃいませ。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "おやすみなさい。",
+      "これを ください。",
+      "いってきます。",
+      "ただいま。"
+    ],
+    "answer": 1,
+    "explanation": "Di toko, pembeli menyampaikan barang yang ingin dibeli. Situasi: ホテル.",
+    "id": "S2-049"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：がっこう】A：ありがとうございます。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "おかえりなさい。",
+      "いってらっしゃい。",
+      "ごちそうさま。",
+      "どういたしまして。"
+    ],
+    "answer": 3,
+    "explanation": "Balasan untuk ucapan terima kasih. Situasi: がっこう.",
+    "id": "S2-050"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：くうこう】A：すみません。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "いいえ、だいじょうぶです。",
+      "いただきます。",
+      "おめでとうございます。",
+      "はじめまして。"
+    ],
+    "answer": 0,
+    "explanation": "Menanggapi permintaan maaf. Situasi: くうこう.",
+    "id": "S2-051"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：スーパー】A：おなまえは？\nいちばん いい へんじは どれですか。",
+    "options": [
+      "あついです。",
+      "これは かさです。",
+      "わたしは アリです。",
+      "きのう でした。"
+    ],
+    "answer": 2,
+    "explanation": "Menjawab pertanyaan nama. Situasi: スーパー.",
+    "id": "S2-052"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：コンビニ】A：おくには どちらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "インドネシアです。",
+      "ごはんです。",
+      "青いです。",
+      "三時です。"
+    ],
+    "answer": 0,
+    "explanation": "Menjawab asal negara. Situasi: コンビニ.",
+    "id": "S2-053"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：びょういん】A：いっしょに おひるを たべませんか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "それは いくらですか。",
+      "はい、ぜひ。",
+      "わたしは ねこです。",
+      "きょうは 月ようびです。"
+    ],
+    "answer": 1,
+    "explanation": "Menerima ajakan makan. Situasi: びょういん.",
+    "id": "S2-054"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：えき】A：この でんしゃは えきに とまりますか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、たべます。",
+      "はい、よみます。",
+      "はい、かきます。",
+      "はい、とまります。"
+    ],
+    "answer": 3,
+    "explanation": "Menjawab apakah kereta berhenti di stasiun. Situasi: えき.",
+    "id": "S2-055"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：としょかん】A：ここに すわっても いいですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、いただきます。",
+      "はい、どうぞ。",
+      "はい、ただいま。",
+      "はい、おかえり。"
+    ],
+    "answer": 1,
+    "explanation": "Memberi izin duduk. Situasi: としょかん.",
+    "id": "S2-056"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：こうえん】A：もう いちど いって ください。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "はい、はしります。",
+      "はい、きのうです。",
+      "はい、あおいです。",
+      "はい、わかりました。"
+    ],
+    "answer": 3,
+    "explanation": "Memenuhi permintaan pengulangan. Situasi: こうえん.",
+    "id": "S2-057"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ぎんこう】A：トイレは どこですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "あたらしいです。",
+      "おいしいです。",
+      "あちらです。",
+      "おおきいです。"
+    ],
+    "answer": 2,
+    "explanation": "Menunjukkan lokasi toilet. Situasi: ぎんこう.",
+    "id": "S2-058"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：ゆうびんきょく】A：きょうは なんようびですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "せんせいです。",
+      "木ようびです。",
+      "バスです。",
+      "五百円です。"
+    ],
+    "answer": 1,
+    "explanation": "Menjawab hari. Situasi: ゆうびんきょく.",
+    "id": "S2-059"
+  },
+  {
+    "section": 1,
+    "prompt": "【ばめん：しょくどう】A：これは いくらですか。\nいちばん いい へんじは どれですか。",
+    "options": [
+      "五百円です。",
+      "日本です。",
+      "金ようびです。",
+      "一人です。"
+    ],
+    "answer": 0,
+    "explanation": "Menjawab harga. Situasi: しょくどう.",
+    "id": "S2-060"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に 来ますか。",
+    "options": [
+      "9時",
+      "10時",
+      "11時",
+      "12時"
+    ],
+    "answer": 1,
+    "explanation": "「10時に行きます」と言っています。",
+    "audio": "女の人：あした、十時に行きます。",
+    "id": "S3-001"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を 買いますか。",
+    "options": [
+      "パン",
+      "牛乳",
+      "卵",
+      "水"
+    ],
+    "answer": 2,
+    "explanation": "「卵を買います」と言っています。",
+    "audio": "男の人：スーパーで卵を買います。",
+    "id": "S3-002"
+  },
+  {
+    "section": 2,
+    "prompt": "電車は 何番線ですか。",
+    "options": [
+      "1番線",
+      "2番線",
+      "3番線",
+      "4番線"
+    ],
+    "answer": 2,
+    "explanation": "「三番線」とアナウンスしています。",
+    "audio": "アナウンス：大阪行きの電車は三番線です。",
+    "id": "S3-003"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は どこへ 行きますか。",
+    "options": [
+      "病院",
+      "学校",
+      "銀行",
+      "郵便局"
+    ],
+    "answer": 0,
+    "explanation": "「病院に行きます」と言っています。",
+    "audio": "女の人：今日は病院に行きます。",
+    "id": "S3-004"
+  },
+  {
+    "section": 2,
+    "prompt": "休みは 何曜日ですか。",
+    "options": [
+      "月曜日",
+      "火曜日",
+      "水曜日",
+      "金曜日"
+    ],
+    "answer": 3,
+    "explanation": "「金曜日は休みです」と言っています。",
+    "audio": "店員：金曜日はお休みです。",
+    "id": "S3-005"
+  },
+  {
+    "section": 2,
+    "prompt": "コーヒーは いくらですか。",
+    "options": [
+      "200円",
+      "300円",
+      "400円",
+      "500円"
+    ],
+    "answer": 1,
+    "explanation": "「三百円です」と言っています。",
+    "audio": "店員：コーヒーは三百円です。",
+    "id": "S3-006"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうして 休みますか。",
+    "options": [
+      "ねつがある",
+      "いそがしい",
+      "旅行する",
+      "雨がふる"
+    ],
+    "answer": 0,
+    "explanation": "「熱があるので休みます」と言っています。",
+    "audio": "男の人：熱があるので、今日は会社を休みます。",
+    "id": "S3-007"
+  },
+  {
+    "section": 2,
+    "prompt": "バスは 何分後に 来ますか。",
+    "options": [
+      "5分",
+      "10分",
+      "15分",
+      "20分"
+    ],
+    "answer": 1,
+    "explanation": "「十分後に来ます」と言っています。",
+    "audio": "案内：バスは十分後に来ます。",
+    "id": "S3-008"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何を 飲みますか。",
+    "options": [
+      "お茶",
+      "水",
+      "ジュース",
+      "コーヒー"
+    ],
+    "answer": 0,
+    "explanation": "「お茶をください」と言っています。",
+    "audio": "女の人：すみません、お茶をください。",
+    "id": "S3-009"
+  },
+  {
+    "section": 2,
+    "prompt": "待ち合わせは どこですか。",
+    "options": [
+      "駅の前",
+      "学校の中",
+      "公園",
+      "店の中"
+    ],
+    "answer": 0,
+    "explanation": "「駅の前で会いましょう」と言っています。",
+    "audio": "男の人：午後三時に駅の前で会いましょう。",
+    "id": "S3-010"
+  },
+  {
+    "section": 2,
+    "prompt": "この店は 何時に 閉まりますか。",
+    "options": [
+      "6時",
+      "7時",
+      "8時",
+      "9時"
+    ],
+    "answer": 2,
+    "explanation": "「夜八時まで」と言っています。",
+    "audio": "店員：この店は夜八時までです。",
+    "id": "S3-011"
+  },
+  {
+    "section": 2,
+    "prompt": "何を 持ってきて くださいか。",
+    "options": [
+      "かさ",
+      "パスポート",
+      "お金",
+      "本"
+    ],
+    "answer": 1,
+    "explanation": "「パスポートを持ってきてください」と言っています。",
+    "audio": "係の人：明日はパスポートを持ってきてください。",
+    "id": "S3-012"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "11時",
+      "4時",
+      "2時",
+      "12時"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut 十一時 (11時).",
+    "audio": "女の人：あした、十一時に スーパーへ いきます。",
+    "id": "S3-013"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "ケーキ",
+      "みず",
+      "りんご",
+      "バナナ"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut りんご sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、コンビニで りんごを かいます。",
+    "id": "S3-014"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "月よう日",
+      "金よう日",
+      "木よう日",
+      "土よう日"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 木よう日.",
+    "audio": "女の人：木よう日に ともだちと あいます。",
+    "id": "S3-015"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "電車",
+      "地下鉄",
+      "バス",
+      "歩いて"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut transportasi: 地下鉄.",
+    "audio": "男の人：まいあさ、地下鉄で かいしゃに いきます。",
+    "id": "S3-016"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "3時",
+      "6時",
+      "8時",
+      "4時"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut 三時 (3時).",
+    "audio": "女の人：あした、三時に としょかんへ いきます。",
+    "id": "S3-017"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "コーヒー",
+      "たまご",
+      "バナナ",
+      "さかな"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut バナナ sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、こうえんで バナナを かいます。",
+    "id": "S3-018"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "水よう日",
+      "金よう日",
+      "月よう日",
+      "火よう日"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 月よう日.",
+    "audio": "女の人：月よう日に ともだちと あいます。",
+    "id": "S3-019"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "地下鉄",
+      "タクシー",
+      "歩いて",
+      "自転車"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut transportasi: タクシー.",
+    "audio": "男の人：まいあさ、タクシーで かいしゃに いきます。",
+    "id": "S3-020"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "12時",
+      "7時",
+      "8時",
+      "10時"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut 七時 (7時).",
+    "audio": "女の人：あした、七時に しょくどうへ いきます。",
+    "id": "S3-021"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "コーヒー",
+      "パン",
+      "おにぎり",
+      "りんご"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut コーヒー sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、ホテルで コーヒーを かいます。",
+    "id": "S3-022"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "日よう日",
+      "火よう日",
+      "土よう日",
+      "金よう日"
+    ],
+    "answer": 3,
+    "explanation": "Audio menyebut 金よう日.",
+    "audio": "女の人：金よう日に ともだちと あいます。",
+    "id": "S3-023"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "電車",
+      "タクシー",
+      "バス",
+      "自転車"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut transportasi: バス.",
+    "audio": "男の人：まいあさ、バスで かいしゃに いきます。",
+    "id": "S3-024"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "2時",
+      "12時",
+      "11時",
+      "4時"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 十一時 (11時).",
+    "audio": "女の人：あした、十一時に スーパーへ いきます。",
+    "id": "S3-025"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "バナナ",
+      "みず",
+      "りんご",
+      "ケーキ"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut りんご sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、コンビニで りんごを かいます。",
+    "id": "S3-026"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "木よう日",
+      "火よう日",
+      "水よう日",
+      "土よう日"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut 火よう日.",
+    "audio": "女の人：火よう日に ともだちと あいます。",
+    "id": "S3-027"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "地下鉄",
+      "歩いて",
+      "バス",
+      "電車"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut transportasi: 地下鉄.",
+    "audio": "男の人：まいあさ、地下鉄で かいしゃに いきます。",
+    "id": "S3-028"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "3時",
+      "4時",
+      "6時",
+      "8時"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut 三時 (3時).",
+    "audio": "女の人：あした、三時に としょかんへ いきます。",
+    "id": "S3-029"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "バナナ",
+      "たまご",
+      "さかな",
+      "コーヒー"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut バナナ sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、こうえんで バナナを かいます。",
+    "id": "S3-030"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "日よう日",
+      "月よう日",
+      "土よう日",
+      "水よう日"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 土よう日.",
+    "audio": "女の人：土よう日に ともだちと あいます。",
+    "id": "S3-031"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "自転車",
+      "地下鉄",
+      "歩いて",
+      "タクシー"
+    ],
+    "answer": 3,
+    "explanation": "Audio menyebut transportasi: タクシー.",
+    "audio": "男の人：まいあさ、タクシーで かいしゃに いきます。",
+    "id": "S3-032"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "10時",
+      "8時",
+      "7時",
+      "12時"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 七時 (7時).",
+    "audio": "女の人：あした、七時に しょくどうへ いきます。",
+    "id": "S3-033"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "りんご",
+      "おにぎり",
+      "コーヒー",
+      "パン"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut コーヒー sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、ホテルで コーヒーを かいます。",
+    "id": "S3-034"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "金よう日",
+      "水よう日",
+      "木よう日",
+      "日よう日"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut 水よう日.",
+    "audio": "女の人：水よう日に ともだちと あいます。",
+    "id": "S3-035"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "自転車",
+      "電車",
+      "タクシー",
+      "バス"
+    ],
+    "answer": 3,
+    "explanation": "Audio menyebut transportasi: バス.",
+    "audio": "男の人：まいあさ、バスで かいしゃに いきます。",
+    "id": "S3-036"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "11時",
+      "12時",
+      "4時",
+      "2時"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut 十一時 (11時).",
+    "audio": "女の人：あした、十一時に スーパーへ いきます。",
+    "id": "S3-037"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "ケーキ",
+      "りんご",
+      "バナナ",
+      "みず"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut りんご sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、コンビニで りんごを かいます。",
+    "id": "S3-038"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "月よう日",
+      "火よう日",
+      "木よう日",
+      "日よう日"
+    ],
+    "answer": 3,
+    "explanation": "Audio menyebut 日よう日.",
+    "audio": "女の人：日よう日に ともだちと あいます。",
+    "id": "S3-039"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "電車",
+      "バス",
+      "地下鉄",
+      "歩いて"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut transportasi: 地下鉄.",
+    "audio": "男の人：まいあさ、地下鉄で かいしゃに いきます。",
+    "id": "S3-040"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "8時",
+      "4時",
+      "3時",
+      "6時"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 三時 (3時).",
+    "audio": "女の人：あした、三時に としょかんへ いきます。",
+    "id": "S3-041"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "さかな",
+      "コーヒー",
+      "バナナ",
+      "たまご"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut バナナ sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、こうえんで バナナを かいます。",
+    "id": "S3-042"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "木よう日",
+      "土よう日",
+      "月よう日",
+      "金よう日"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut 木よう日.",
+    "audio": "女の人：木よう日に ともだちと あいます。",
+    "id": "S3-043"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "タクシー",
+      "自転車",
+      "歩いて",
+      "地下鉄"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut transportasi: タクシー.",
+    "audio": "男の人：まいあさ、タクシーで かいしゃに いきます。",
+    "id": "S3-044"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "7時",
+      "12時",
+      "8時",
+      "10時"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut 七時 (7時).",
+    "audio": "女の人：あした、七時に しょくどうへ いきます。",
+    "id": "S3-045"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "コーヒー",
+      "りんご",
+      "パン",
+      "おにぎり"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut コーヒー sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、ホテルで コーヒーを かいます。",
+    "id": "S3-046"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "水よう日",
+      "金よう日",
+      "月よう日",
+      "火よう日"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 月よう日.",
+    "audio": "女の人：月よう日に ともだちと あいます。",
+    "id": "S3-047"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "電車",
+      "バス",
+      "タクシー",
+      "自転車"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut transportasi: バス.",
+    "audio": "男の人：まいあさ、バスで かいしゃに いきます。",
+    "id": "S3-048"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "4時",
+      "11時",
+      "12時",
+      "2時"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut 十一時 (11時).",
+    "audio": "女の人：あした、十一時に スーパーへ いきます。",
+    "id": "S3-049"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "みず",
+      "バナナ",
+      "りんご",
+      "ケーキ"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut りんご sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、コンビニで りんごを かいます。",
+    "id": "S3-050"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "金よう日",
+      "火よう日",
+      "日よう日",
+      "土よう日"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut 金よう日.",
+    "audio": "女の人：金よう日に ともだちと あいます。",
+    "id": "S3-051"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "地下鉄",
+      "バス",
+      "歩いて",
+      "電車"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut transportasi: 地下鉄.",
+    "audio": "男の人：まいあさ、地下鉄で かいしゃに いきます。",
+    "id": "S3-052"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "4時",
+      "8時",
+      "3時",
+      "6時"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut 三時 (3時).",
+    "audio": "女の人：あした、三時に としょかんへ いきます。",
+    "id": "S3-053"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "たまご",
+      "さかな",
+      "バナナ",
+      "コーヒー"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut バナナ sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、こうえんで バナナを かいます。",
+    "id": "S3-054"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "木よう日",
+      "土よう日",
+      "水よう日",
+      "火よう日"
+    ],
+    "answer": 3,
+    "explanation": "Audio menyebut 火よう日.",
+    "audio": "女の人：火よう日に ともだちと あいます。",
+    "id": "S3-055"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "タクシー",
+      "地下鉄",
+      "自転車",
+      "歩いて"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut transportasi: タクシー.",
+    "audio": "男の人：まいあさ、タクシーで かいしゃに いきます。",
+    "id": "S3-056"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何時に いきますか。",
+    "options": [
+      "8時",
+      "10時",
+      "12時",
+      "7時"
+    ],
+    "answer": 3,
+    "explanation": "Audio menyebut 七時 (7時).",
+    "audio": "女の人：あした、七時に しょくどうへ いきます。",
+    "id": "S3-057"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は 何を かいますか。",
+    "options": [
+      "コーヒー",
+      "りんご",
+      "おにぎり",
+      "パン"
+    ],
+    "answer": 0,
+    "explanation": "Audio menyebut コーヒー sebagai barang yang dibeli.",
+    "audio": "男の人：きょう、ホテルで コーヒーを かいます。",
+    "id": "S3-058"
+  },
+  {
+    "section": 2,
+    "prompt": "女の人は 何よう日に ともだちと あいますか。",
+    "options": [
+      "水よう日",
+      "土よう日",
+      "月よう日",
+      "日よう日"
+    ],
+    "answer": 1,
+    "explanation": "Audio menyebut 土よう日.",
+    "audio": "女の人：土よう日に ともだちと あいます。",
+    "id": "S3-059"
+  },
+  {
+    "section": 2,
+    "prompt": "男の人は どうやって かいしゃに いきますか。",
+    "options": [
+      "タクシー",
+      "自転車",
+      "バス",
+      "電車"
+    ],
+    "answer": 2,
+    "explanation": "Audio menyebut transportasi: バス.",
+    "audio": "男の人：まいあさ、バスで かいしゃに いきます。",
+    "id": "S3-060"
+  },
+  {
+    "section": 3,
+    "prompt": "【お知らせ】図書館は 月曜日に 休みます。図書館は いつ 休みですか。",
+    "options": [
+      "日曜日",
+      "月曜日",
+      "火曜日",
+      "水曜日"
+    ],
+    "answer": 1,
+    "explanation": "月曜日 = Senin.",
+    "id": "S4-001"
+  },
+  {
+    "section": 3,
+    "prompt": "【メール】田中さんへ。会議は 午後2時から 3時までです。会議は いつ 始まりますか。",
+    "options": [
+      "1時",
+      "2時",
+      "3時",
+      "4時"
+    ],
+    "answer": 1,
+    "explanation": "午後2時から = mulai pukul 14.00.",
+    "id": "S4-002"
+  },
+  {
+    "section": 3,
+    "prompt": "【店の案内】営業時間 9:00〜18:00。何時まで あいていますか。",
+    "options": [
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00"
+    ],
+    "answer": 2,
+    "explanation": "18:00 = jam tutup.",
+    "id": "S4-003"
+  },
+  {
+    "section": 3,
+    "prompt": "【掲示】この 部屋では 食べないでください。何を してはいけませんか。",
+    "options": [
+      "話す",
+      "食べる",
+      "読む",
+      "書く"
+    ],
+    "answer": 1,
+    "explanation": "食べないでください = jangan makan.",
+    "id": "S4-004"
+  },
+  {
+    "section": 3,
+    "prompt": "【メール】あしたは 雨です。かさを 持ってきてください。何を 持っていきますか。",
+    "options": [
+      "かさ",
+      "かばん",
+      "くつ",
+      "ぼうし"
+    ],
+    "answer": 0,
+    "explanation": "かさ = payung.",
+    "id": "S4-005"
+  },
+  {
+    "section": 3,
+    "prompt": "【案内】駅から 病院まで バスで 15分です。どのぐらい かかりますか。",
+    "options": [
+      "5分",
+      "10分",
+      "15分",
+      "30分"
+    ],
+    "answer": 2,
+    "explanation": "バスで15分 = 15 menit dengan bus.",
+    "id": "S4-006"
+  },
+  {
+    "section": 3,
+    "prompt": "【広告】りんご 1こ 100円、3こ 250円。3こは いくらですか。",
+    "options": [
+      "100円",
+      "200円",
+      "250円",
+      "300円"
+    ],
+    "answer": 2,
+    "explanation": "3こ 250円 = tiga buah 250 yen.",
+    "id": "S4-007"
+  },
+  {
+    "section": 3,
+    "prompt": "【メモ】山田さんは 10時に 来ます。佐藤さんは 11時に 来ます。先に 来るのは だれですか。",
+    "options": [
+      "山田さん",
+      "佐藤さん",
+      "二人とも",
+      "わかりません"
+    ],
+    "answer": 0,
+    "explanation": "10時 lebih awal daripada 11時.",
+    "id": "S4-008"
+  },
+  {
+    "section": 3,
+    "prompt": "【お知らせ】ごみは 火曜日と 金曜日に 出してください。ごみを 出す日は いつですか。",
+    "options": [
+      "月・水",
+      "火・金",
+      "木・土",
+      "土・日"
+    ],
+    "answer": 1,
+    "explanation": "火曜日 dan 金曜日 = Selasa dan Jumat.",
+    "id": "S4-009"
+  },
+  {
+    "section": 3,
+    "prompt": "【メール】きょうは いそがしいので、あした 電話します。いつ 電話しますか。",
+    "options": [
+      "きのう",
+      "きょう",
+      "あした",
+      "らいしゅう"
+    ],
+    "answer": 2,
+    "explanation": "あした = besok.",
+    "id": "S4-010"
+  },
+  {
+    "section": 3,
+    "prompt": "【求人】仕事は 朝8時から 午後5時までです。仕事は 何時に 始まりますか。",
+    "options": [
+      "7時",
+      "8時",
+      "9時",
+      "17時"
+    ],
+    "answer": 1,
+    "explanation": "朝8時から = mulai pukul 08.00.",
+    "id": "S4-011"
+  },
+  {
+    "section": 3,
+    "prompt": "【掲示】エレベーターが こわれています。かいだんを 使ってください。何を 使いますか。",
+    "options": [
+      "エレベーター",
+      "かいだん",
+      "でんしゃ",
+      "バス"
+    ],
+    "answer": 1,
+    "explanation": "かいだん = tangga.",
+    "id": "S4-012"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "12時",
+      "1時",
+      "6時",
+      "3時"
+    ],
+    "answer": 0,
+    "explanation": "Pengumuman menyebut buka mulai 12時.",
+    "passage": "【おしらせ】\nスーパーは 十二時から あいています。\nよろしく おねがいします。",
+    "id": "S4-013"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "日よう日",
+      "木よう日",
+      "金よう日",
+      "火よう日"
+    ],
+    "answer": 1,
+    "explanation": "Acara berlangsung 木よう日.",
+    "passage": "【イベント】\n木よう日に コンビニで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-014"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "おちゃ",
+      "パン",
+      "やさい",
+      "おにぎり"
+    ],
+    "answer": 0,
+    "explanation": "Memo meminta membeli おちゃ.",
+    "passage": "【メモ】\nきょうは おちゃを かって ください。\nほかの ものは いりません。",
+    "id": "S4-015"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "としょかん",
+      "しょくどう",
+      "くうこう",
+      "こうえん"
+    ],
+    "answer": 0,
+    "explanation": "Email menyebut lokasi pertemuan: としょかん.",
+    "passage": "【メール】\nあしたは としょかんで あいましょう。\n十一時に きて ください。",
+    "id": "S4-016"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "10時",
+      "4時",
+      "5時",
+      "7時"
+    ],
+    "answer": 1,
+    "explanation": "Pengumuman menyebut buka mulai 4時.",
+    "passage": "【おしらせ】\nとしょかんは 四時から あいています。\nよろしく おねがいします。",
+    "id": "S4-017"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "火よう日",
+      "木よう日",
+      "土よう日",
+      "月よう日"
+    ],
+    "answer": 3,
+    "explanation": "Acara berlangsung 月よう日.",
+    "passage": "【イベント】\n月よう日に こうえんで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-018"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "やさい",
+      "牛乳",
+      "ケーキ",
+      "みず"
+    ],
+    "answer": 0,
+    "explanation": "Memo meminta membeli やさい.",
+    "passage": "【メモ】\nきょうは やさいを かって ください。\nほかの ものは いりません。",
+    "id": "S4-019"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "えき",
+      "スーパー",
+      "しょくどう",
+      "ホテル"
+    ],
+    "answer": 2,
+    "explanation": "Email menyebut lokasi pertemuan: しょくどう.",
+    "passage": "【メール】\nあしたは しょくどうで あいましょう。\n三時に きて ください。",
+    "id": "S4-020"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "2時",
+      "8時",
+      "9時",
+      "11時"
+    ],
+    "answer": 1,
+    "explanation": "Pengumuman menyebut buka mulai 8時.",
+    "passage": "【おしらせ】\nしょくどうは 八時から あいています。\nよろしく おねがいします。",
+    "id": "S4-021"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "金よう日",
+      "土よう日",
+      "月よう日",
+      "水よう日"
+    ],
+    "answer": 0,
+    "explanation": "Acara berlangsung 金よう日.",
+    "passage": "【イベント】\n金よう日に ホテルで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-022"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "たまご",
+      "おちゃ",
+      "牛乳",
+      "さかな"
+    ],
+    "answer": 2,
+    "explanation": "Memo meminta membeli 牛乳.",
+    "passage": "【メモ】\nきょうは 牛乳を かって ください。\nほかの ものは いりません。",
+    "id": "S4-023"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "ゆうびんきょく",
+      "コンビニ",
+      "スーパー",
+      "としょかん"
+    ],
+    "answer": 2,
+    "explanation": "Email menyebut lokasi pertemuan: スーパー.",
+    "passage": "【メール】\nあしたは スーパーで あいましょう。\n七時に きて ください。",
+    "id": "S4-024"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "1時",
+      "6時",
+      "3時",
+      "12時"
+    ],
+    "answer": 3,
+    "explanation": "Pengumuman menyebut buka mulai 12時.",
+    "passage": "【おしらせ】\nスーパーは 十二時から あいています。\nよろしく おねがいします。",
+    "id": "S4-025"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "火よう日",
+      "水よう日",
+      "日よう日",
+      "金よう日"
+    ],
+    "answer": 0,
+    "explanation": "Acara berlangsung 火よう日.",
+    "passage": "【イベント】\n火よう日に コンビニで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-026"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "やさい",
+      "おにぎり",
+      "パン",
+      "おちゃ"
+    ],
+    "answer": 3,
+    "explanation": "Memo meminta membeli おちゃ.",
+    "passage": "【メモ】\nきょうは おちゃを かって ください。\nほかの ものは いりません。",
+    "id": "S4-027"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "しょくどう",
+      "くうこう",
+      "こうえん",
+      "としょかん"
+    ],
+    "answer": 3,
+    "explanation": "Email menyebut lokasi pertemuan: としょかん.",
+    "passage": "【メール】\nあしたは としょかんで あいましょう。\n十一時に きて ください。",
+    "id": "S4-028"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "10時",
+      "4時",
+      "7時",
+      "5時"
+    ],
+    "answer": 1,
+    "explanation": "Pengumuman menyebut buka mulai 4時.",
+    "passage": "【おしらせ】\nとしょかんは 四時から あいています。\nよろしく おねがいします。",
+    "id": "S4-029"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "日よう日",
+      "木よう日",
+      "火よう日",
+      "土よう日"
+    ],
+    "answer": 3,
+    "explanation": "Acara berlangsung 土よう日.",
+    "passage": "【イベント】\n土よう日に こうえんで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-030"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "牛乳",
+      "ケーキ",
+      "やさい",
+      "みず"
+    ],
+    "answer": 2,
+    "explanation": "Memo meminta membeli やさい.",
+    "passage": "【メモ】\nきょうは やさいを かって ください。\nほかの ものは いりません。",
+    "id": "S4-031"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "ホテル",
+      "しょくどう",
+      "スーパー",
+      "えき"
+    ],
+    "answer": 1,
+    "explanation": "Email menyebut lokasi pertemuan: しょくどう.",
+    "passage": "【メール】\nあしたは しょくどうで あいましょう。\n三時に きて ください。",
+    "id": "S4-032"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "8時",
+      "2時",
+      "9時",
+      "11時"
+    ],
+    "answer": 0,
+    "explanation": "Pengumuman menyebut buka mulai 8時.",
+    "passage": "【おしらせ】\nしょくどうは 八時から あいています。\nよろしく おねがいします。",
+    "id": "S4-033"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "月よう日",
+      "木よう日",
+      "水よう日",
+      "土よう日"
+    ],
+    "answer": 2,
+    "explanation": "Acara berlangsung 水よう日.",
+    "passage": "【イベント】\n水よう日に ホテルで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-034"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "牛乳",
+      "さかな",
+      "おちゃ",
+      "たまご"
+    ],
+    "answer": 0,
+    "explanation": "Memo meminta membeli 牛乳.",
+    "passage": "【メモ】\nきょうは 牛乳を かって ください。\nほかの ものは いりません。",
+    "id": "S4-035"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "コンビニ",
+      "としょかん",
+      "ゆうびんきょく",
+      "スーパー"
+    ],
+    "answer": 3,
+    "explanation": "Email menyebut lokasi pertemuan: スーパー.",
+    "passage": "【メール】\nあしたは スーパーで あいましょう。\n七時に きて ください。",
+    "id": "S4-036"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "1時",
+      "12時",
+      "6時",
+      "3時"
+    ],
+    "answer": 1,
+    "explanation": "Pengumuman menyebut buka mulai 12時.",
+    "passage": "【おしらせ】\nスーパーは 十二時から あいています。\nよろしく おねがいします。",
+    "id": "S4-037"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "水よう日",
+      "金よう日",
+      "日よう日",
+      "月よう日"
+    ],
+    "answer": 2,
+    "explanation": "Acara berlangsung 日よう日.",
+    "passage": "【イベント】\n日よう日に コンビニで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-038"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "やさい",
+      "パン",
+      "おちゃ",
+      "おにぎり"
+    ],
+    "answer": 2,
+    "explanation": "Memo meminta membeli おちゃ.",
+    "passage": "【メモ】\nきょうは おちゃを かって ください。\nほかの ものは いりません。",
+    "id": "S4-039"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "こうえん",
+      "しょくどう",
+      "くうこう",
+      "としょかん"
+    ],
+    "answer": 3,
+    "explanation": "Email menyebut lokasi pertemuan: としょかん.",
+    "passage": "【メール】\nあしたは としょかんで あいましょう。\n十一時に きて ください。",
+    "id": "S4-040"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "5時",
+      "7時",
+      "10時",
+      "4時"
+    ],
+    "answer": 3,
+    "explanation": "Pengumuman menyebut buka mulai 4時.",
+    "passage": "【おしらせ】\nとしょかんは 四時から あいています。\nよろしく おねがいします。",
+    "id": "S4-041"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "火よう日",
+      "木よう日",
+      "金よう日",
+      "日よう日"
+    ],
+    "answer": 1,
+    "explanation": "Acara berlangsung 木よう日.",
+    "passage": "【イベント】\n木よう日に こうえんで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-042"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "みず",
+      "牛乳",
+      "ケーキ",
+      "やさい"
+    ],
+    "answer": 3,
+    "explanation": "Memo meminta membeli やさい.",
+    "passage": "【メモ】\nきょうは やさいを かって ください。\nほかの ものは いりません。",
+    "id": "S4-043"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "スーパー",
+      "ホテル",
+      "えき",
+      "しょくどう"
+    ],
+    "answer": 3,
+    "explanation": "Email menyebut lokasi pertemuan: しょくどう.",
+    "passage": "【メール】\nあしたは しょくどうで あいましょう。\n三時に きて ください。",
+    "id": "S4-044"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "11時",
+      "9時",
+      "2時",
+      "8時"
+    ],
+    "answer": 3,
+    "explanation": "Pengumuman menyebut buka mulai 8時.",
+    "passage": "【おしらせ】\nしょくどうは 八時から あいています。\nよろしく おねがいします。",
+    "id": "S4-045"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "月よう日",
+      "木よう日",
+      "火よう日",
+      "土よう日"
+    ],
+    "answer": 0,
+    "explanation": "Acara berlangsung 月よう日.",
+    "passage": "【イベント】\n月よう日に ホテルで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-046"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "たまご",
+      "さかな",
+      "牛乳",
+      "おちゃ"
+    ],
+    "answer": 2,
+    "explanation": "Memo meminta membeli 牛乳.",
+    "passage": "【メモ】\nきょうは 牛乳を かって ください。\nほかの ものは いりません。",
+    "id": "S4-047"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "としょかん",
+      "ゆうびんきょく",
+      "コンビニ",
+      "スーパー"
+    ],
+    "answer": 3,
+    "explanation": "Email menyebut lokasi pertemuan: スーパー.",
+    "passage": "【メール】\nあしたは スーパーで あいましょう。\n七時に きて ください。",
+    "id": "S4-048"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "3時",
+      "1時",
+      "12時",
+      "6時"
+    ],
+    "answer": 2,
+    "explanation": "Pengumuman menyebut buka mulai 12時.",
+    "passage": "【おしらせ】\nスーパーは 十二時から あいています。\nよろしく おねがいします。",
+    "id": "S4-049"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "金よう日",
+      "土よう日",
+      "月よう日",
+      "水よう日"
+    ],
+    "answer": 0,
+    "explanation": "Acara berlangsung 金よう日.",
+    "passage": "【イベント】\n金よう日に コンビニで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-050"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "やさい",
+      "パン",
+      "おにぎり",
+      "おちゃ"
+    ],
+    "answer": 3,
+    "explanation": "Memo meminta membeli おちゃ.",
+    "passage": "【メモ】\nきょうは おちゃを かって ください。\nほかの ものは いりません。",
+    "id": "S4-051"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "くうこう",
+      "こうえん",
+      "しょくどう",
+      "としょかん"
+    ],
+    "answer": 3,
+    "explanation": "Email menyebut lokasi pertemuan: としょかん.",
+    "passage": "【メール】\nあしたは としょかんで あいましょう。\n十一時に きて ください。",
+    "id": "S4-052"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "4時",
+      "10時",
+      "7時",
+      "5時"
+    ],
+    "answer": 0,
+    "explanation": "Pengumuman menyebut buka mulai 4時.",
+    "passage": "【おしらせ】\nとしょかんは 四時から あいています。\nよろしく おねがいします。",
+    "id": "S4-053"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "火よう日",
+      "金よう日",
+      "日よう日",
+      "水よう日"
+    ],
+    "answer": 0,
+    "explanation": "Acara berlangsung 火よう日.",
+    "passage": "【イベント】\n火よう日に こうえんで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-054"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "牛乳",
+      "やさい",
+      "ケーキ",
+      "みず"
+    ],
+    "answer": 1,
+    "explanation": "Memo meminta membeli やさい.",
+    "passage": "【メモ】\nきょうは やさいを かって ください。\nほかの ものは いりません。",
+    "id": "S4-055"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "スーパー",
+      "ホテル",
+      "しょくどう",
+      "えき"
+    ],
+    "answer": 2,
+    "explanation": "Email menyebut lokasi pertemuan: しょくどう.",
+    "passage": "【メール】\nあしたは しょくどうで あいましょう。\n三時に きて ください。",
+    "id": "S4-056"
+  },
+  {
+    "section": 3,
+    "prompt": "何時から あいていますか。",
+    "options": [
+      "9時",
+      "2時",
+      "11時",
+      "8時"
+    ],
+    "answer": 3,
+    "explanation": "Pengumuman menyebut buka mulai 8時.",
+    "passage": "【おしらせ】\nしょくどうは 八時から あいています。\nよろしく おねがいします。",
+    "id": "S4-057"
+  },
+  {
+    "section": 3,
+    "prompt": "イベントは 何よう日ですか。",
+    "options": [
+      "木よう日",
+      "日よう日",
+      "火よう日",
+      "土よう日"
+    ],
+    "answer": 3,
+    "explanation": "Acara berlangsung 土よう日.",
+    "passage": "【イベント】\n土よう日に ホテルで イベントが あります。\nさんかは むりょうです。",
+    "id": "S4-058"
+  },
+  {
+    "section": 3,
+    "prompt": "何を かわなければ なりませんか。",
+    "options": [
+      "牛乳",
+      "たまご",
+      "おちゃ",
+      "さかな"
+    ],
+    "answer": 0,
+    "explanation": "Memo meminta membeli 牛乳.",
+    "passage": "【メモ】\nきょうは 牛乳を かって ください。\nほかの ものは いりません。",
+    "id": "S4-059"
+  },
+  {
+    "section": 3,
+    "prompt": "どこで あいますか。",
+    "options": [
+      "ゆうびんきょく",
+      "コンビニ",
+      "としょかん",
+      "スーパー"
+    ],
+    "answer": 3,
+    "explanation": "Email menyebut lokasi pertemuan: スーパー.",
+    "passage": "【メール】\nあしたは スーパーで あいましょう。\n七時に きて ください。",
+    "id": "S4-060"
+  }
+];

@@ -1,21 +1,33 @@
-# LatSol JFT — Simulasi JFT-Basic A2
+# LatSol JFT A2 — CBT Practice v2
 
-Website latihan ujian JFT-Basic A2 berbasis HTML/CSS/JavaScript murni. Tidak memakai Node, npm, Vite, atau plugin React. Siap deploy GitHub Pages.
+Website latihan independen JFT-Basic A2. **240 soal orisinal** dalam **6 paket × 40 soal** (10 soal per bagian). Dibuat dengan HTML/CSS/JavaScript murni; tidak perlu Node, Vite, React, npm, atau backend.
 
 ## Fitur
-- 48 soal orisinal: 12 huruf/kosakata, 12 percakapan/ungkapan, 12 listening, 12 reading.
-- Timer 60 menit; otomatis submit saat habis.
-- Navigasi dalam bagian; setelah pindah bagian tidak bisa kembali.
-- Listening: audio Japanese text-to-speech browser, maksimal dua pemutaran per soal, tidak bisa kembali ke soal sebelumnya.
-- Hasil per bagian, review jawaban, penyimpanan riwayat di browser, cetak hasil.
-- Skor **latihan** adalah persentase benar, **bukan** skor resmi JFT-Basic (10–250, dihitung dengan equating).
+- Empat bagian: Huruf & Kosakata, Percakapan & Ungkapan, Listening, Reading.
+- Timer 60 menit per paket; otomatis selesai saat waktu habis.
+- Navigasi soal dalam bagian; tidak bisa kembali ke bagian sebelumnya. Listening hanya maju, maksimal 2 kali audio per soal.
+- Listening via Web Speech API `speechSynthesis` dengan suara `ja-JP` dari sistem. **Memerlukan suara Jepang terinstal**. Bukan audio rekaman resmi, dan ketersediaannya berbeda menurut perangkat.
+- Hasil persentase, hasil per bagian, review jawaban + pembahasan, transkrip listening setelah ujian, cetak hasil.
+- Profil peserta lokal, riwayat per profil, ekspor JSON, hapus riwayat.
+- Progres ujian disimpan di `sessionStorage` untuk pemulihan setelah refresh dalam tab yang sama; timer tetap berjalan. Hasil dan profil disimpan di `localStorage`.
 
-## Cara publish
-1. Hapus seluruh file lama dari repositori `afrdsss54/latsolJFT` lalu upload **isi** folder ini ke root repo (termasuk `.github/workflows/deploy.yml`).
-2. Settings > Pages > Build and deployment > Source: **GitHub Actions**.
-3. Actions > Deploy JFT A2 Practice, tunggu hijau.
-4. Buka https://afrdsss54.github.io/latsolJFT/
+## Deploy ke repositori afrdsss54/latsolJFT
+1. **Ganti** semua file lama dengan file dari ZIP ini, termasuk folder tersembunyi `.github/workflows/deploy.yml`. Pastikan `index.html` ada di root repo.
+2. Settings → Pages → Build and deployment → Source: **GitHub Actions**.
+3. Commit ke branch `main`, lalu periksa Actions sampai hijau.
+4. Buka https://afrdsss54.github.io/latsolJFT/ (bila perlu hard refresh Ctrl+F5).
 
-Untuk tes lokal, cukup buka `index.html` di browser. Chrome/Edge dengan voice Jepang yang tersedia lebih baik untuk listening. Audio menggunakan speech synthesis perangkat, bukan rekaman asli.
+Tidak ada build step. Workflow mengunggah root repositori ke GitHub Pages.
 
-Materi tidak berafiliasi dengan The Japan Foundation. Rujukan format: https://www.jpf.go.jp/jft-basic/id/about/
+## Batasan penting
+- Profil bukan akun online yang aman dan tidak tersinkron antardevice. Untuk login sungguhan dan sinkronisasi, perlu backend (mis. Supabase/Firebase) dan konfigurasi kredensial terpisah.
+- Skor adalah **persentase latihan**, bukan skor resmi JFT-Basic (10–250). Target internal 80% **bukan** ambang kelulusan resmi.
+- Ini bukan replika persis atau afiliasi The Japan Foundation; soal dibuat khusus untuk latihan.
+- Sebagian pola soal memakai variasi situasi berulang; bank soal berjumlah 240, tetapi bukan 240 skenario yang sepenuhnya berbeda.
+- Soal listening memakai text-to-speech browser. Pada perangkat tanpa suara Jepang, pemutaran tidak tersedia.
+
+## Struktur
+`index.html`, `style.css`, `app.js`, `questions.js`, `questions.json` (salinan data untuk referensi), `.nojekyll`, `.github/workflows/deploy.yml`, `README.md`.
+
+## Pengembangan
+Edit `questions.json` sebagai sumber data, lalu perbarui `questions.js` menjadi `window.JFT_BANK = <isi JSON>;`. Urutan data harus per bagian (60 soal tiap bagian). Semua jawaban menggunakan indeks 0–3.
