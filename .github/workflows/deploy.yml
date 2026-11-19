@@ -1,4 +1,4 @@
-name: Deploy JFT A2 Practice
+name: Deploy LatSol JFT A2
 on:
   push:
     branches: [main]
