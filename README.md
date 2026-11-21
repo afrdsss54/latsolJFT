@@ -1,26 +1,21 @@
-# LatSol JFT A2 v3 — Simulasi CBT independen
+# LatSol JFT-Basic A2 — v4
 
-Website latihan JFT-Basic A2 mandiri berbasis HTML, CSS, dan JavaScript. **240 soal (6 paket × 40 soal)**, empat bagian (Moji/Goi, Kaiwa/Hyougen, Choukai, Dokkai), timer 60 menit, pengarahan sebelum tiap bagian, pembahasan dan transkrip setelah ujian, profil serta riwayat lokal.
+Website latihan CBT **independen**, bukan situs atau soal resmi Japan Foundation.
 
-## Pembaruan v3
-- Layar instruksi sebelum ujian dimulai dan sebelum tiap bagian; timer baru dimulai saat klik **Mulai ujian 60 menit**.
-- Penamaan Jepang setiap bagian dan aturan navigasi lebih jelas.
-- Antarmuka CBT yang lebih mudah dibaca di desktop/HP.
-- Listening: text-to-speech bahasa Jepang dari browser, **bukan rekaman suara resmi**. Perlu suara ja-JP tersedia di perangkat.
+## Isi
+- 6 paket × 40 soal (240 butir), 4 bagian: Moji/Goi, Kaiwa/Hyougen, Choukai, Dokkai.
+- Choukai: 15 skenario dialog/pengumuman yang didistribusikan dalam 60 butir, menggunakan suara Jepang text-to-speech browser (bukan audio rekaman).
+- Dokkai: 15 jenis teks fungsional (jadwal, pesan, pengumuman, menu, dll.) didistribusikan dalam 60 butir.
+- **Perhatian:** skenario dasar dapat berulang antarpaket. Ini belum 240 soal unik sepenuhnya.
+- Timer 60 menit, navigasi antarbagian terkunci, review jawaban, riwayat lokal, ekspor JSON.
+- Profil hanya disimpan pada browser, bukan akun online dan tidak tersinkron.
+- Skor adalah persentase latihan, bukan skor resmi JFT-Basic 10–250.
 
-## Instalasi ke GitHub Pages
-1. Ekstrak ZIP; upload **isi ZIP** ke root repositori `afrdsss54/latsolJFT`, mengganti file lama.
-2. Pastikan `.github/workflows/deploy.yml` ikut ter-upload.
-3. Settings → Pages → Source: GitHub Actions.
-4. Periksa Actions sampai hijau; kunjungi https://afrdsss54.github.io/latsolJFT/ dan hard refresh bila perlu.
+## Deploy ke GitHub Pages
+1. Unggah **isi** ZIP ke root repositori `afrdsss54/latsolJFT` (ganti file lama).
+2. Pastikan `.github/workflows/deploy.yml` ikut terunggah.
+3. Di Settings → Pages, pilih Source: **GitHub Actions**.
+4. Periksa tab Actions dan buka https://afrdsss54.github.io/latsolJFT/
 
-## Batasan
-- Ini **bukan** website, desain persis, soal, atau audio resmi The Japan Foundation.
-- Hasil berupa persentase latihan; **bukan** konversi skor resmi 10–250 dan bukan penetapan kelulusan resmi. Target internal 80% hanya untuk latihan.
-- Profil dan riwayat memakai localStorage browser; tidak ada login server, password, atau sinkronisasi antardevice.
-- Beberapa pola soal berulang dengan variasi. Bank soal belum setara bank soal resmi.
-- Sesi aktif tersimpan dalam sessionStorage tab; jangan menghapus data browser saat ujian.
-- Belum ada rekaman listening profesional, gambar situasional, atau validasi kesetaraan kesulitan resmi.
-
-## Struktur
-`index.html`, `style.css`, `app.js`, `questions.js`, `questions.json`, `.nojekyll`, `.github/workflows/deploy.yml`, `README.md`. Tanpa build tools.
+## Keterbatasan
+Suara Japanese perlu tersedia di OS/browser. Tidak ada file MP3. Pengujian interaksi manual di browser dan deployment GitHub belum dilakukan.
