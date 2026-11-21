@@ -2,3 +2,6 @@
 
 /* v3: section briefing and improved keyboard focus */
 .guide-layout{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(270px,1fr);gap:22px}.jp-sub{font-size:23px;font-weight:800;color:#245ac0;margin-top:25px}.guide-layout h1{font-size:clamp(29px,3.5vw,43px);line-height:1.2}.option:focus-visible,.navnum:focus-visible,.btn:focus-visible{outline:3px solid #ffb347;outline-offset:3px}.guide-layout .sectionline{font-size:14px;line-height:1.6}@media(max-width:850px){.guide-layout{grid-template-columns:1fr}}
+
+/* v5: visual context and improved reading comfort */
+.scene{display:flex;align-items:center;gap:15px;padding:14px 18px;margin:20px 0;border-radius:14px;background:linear-gradient(120deg,#eaf4ff,#f5fafc);border:1px solid #c8dfef;color:#17354b}.scene-emoji{font-size:42px;line-height:1.2}.scene span:last-child{display:flex;flex-direction:column;gap:4px}.scene small{font-size:12px;color:#536a78}.passage{white-space:pre-wrap;line-height:1.9;font-size:1.08rem;max-height:380px;overflow:auto}.option:focus-visible,.btn:focus-visible{outline:3px solid #f59e0b;outline-offset:2px}@media(max-width:650px){.scene-emoji{font-size:32px}.scene{padding:12px}}

@@ -1,21 +1,22 @@
-# LatSol JFT-Basic A2 — v4
+# LatSol JFT-Basic A2 — v5 (GitHub Pages)
 
-Website latihan CBT **independen**, bukan situs atau soal resmi Japan Foundation.
+Simulasi CBT **independen**, bukan situs/soal resmi Japan Foundation.
 
-## Isi
-- 6 paket × 40 soal (240 butir), 4 bagian: Moji/Goi, Kaiwa/Hyougen, Choukai, Dokkai.
-- Choukai: 15 skenario dialog/pengumuman yang didistribusikan dalam 60 butir, menggunakan suara Jepang text-to-speech browser (bukan audio rekaman).
-- Dokkai: 15 jenis teks fungsional (jadwal, pesan, pengumuman, menu, dll.) didistribusikan dalam 60 butir.
-- **Perhatian:** skenario dasar dapat berulang antarpaket. Ini belum 240 soal unik sepenuhnya.
-- Timer 60 menit, navigasi antarbagian terkunci, review jawaban, riwayat lokal, ekspor JSON.
-- Profil hanya disimpan pada browser, bukan akun online dan tidak tersinkron.
-- Skor adalah persentase latihan, bukan skor resmi JFT-Basic 10–250.
+## Fitur
+- 6 paket × 40 soal = 240 butir; empat bagian: Moji/Goi, Kaiwa/Hyougen, Choukai, Dokkai.
+- Timer 60 menit; perpindahan bagian terkunci; Listening tidak bisa mundur; maksimal 2 kali putar per soal.
+- Dialog Jepang dibacakan **berurutan per pembicara** dengan dua suara Jepang bila tersedia, atau variasi pitch bila hanya ada satu suara. Memerlukan dukungan `speechSynthesis` dan voice `ja-JP` dari perangkat/browser. **Tidak ada MP3 asli**; audio dapat berbeda antarsistem.
+- Kartu ilustrasi kategori situasi (emoji) pada listening dan reading. **Bukan gambar situasional detail atau gambar resmi**.
+- Pembahasan, transkrip setelah ujian, profil lokal, riwayat nilai, ekspor JSON, print, pemulihan sesi.
+- Tidak ada akun online/password/sinkronisasi; data lokal di browser.
+- **240 butir tidak seluruhnya unik secara konten**: 60 prompt kosakata unik, 60 prompt Kaiwa unik, 60 butir listening dari 15 dialog dasar, 60 butir Dokkai dari 15 bacaan dasar. Jangan menyamakan variasi dengan 240 situasi unik.
+- Persentase adalah skor latihan, bukan skala 10–250 resmi JFT-Basic.
 
-## Deploy ke GitHub Pages
-1. Unggah **isi** ZIP ke root repositori `afrdsss54/latsolJFT` (ganti file lama).
-2. Pastikan `.github/workflows/deploy.yml` ikut terunggah.
-3. Di Settings → Pages, pilih Source: **GitHub Actions**.
-4. Periksa tab Actions dan buka https://afrdsss54.github.io/latsolJFT/
+## Cara upload ke `afrdsss54/latsolJFT`
+1. Ekstrak ZIP dan upload **isi folder** ke root repositori.
+2. **Hapus file lama yang tidak digunakan** (misalnya `package.json`, `vite.config.js`, folder `src`) agar tidak bingung.
+3. Pastikan `.github/workflows/deploy.yml` ada. Di GitHub Settings → Pages pilih GitHub Actions.
+4. Pantau Actions dan akses https://afrdsss54.github.io/latsolJFT/ . Hard refresh `Ctrl+F5` jika perlu.
 
-## Keterbatasan
-Suara Japanese perlu tersedia di OS/browser. Tidak ada file MP3. Pengujian interaksi manual di browser dan deployment GitHub belum dilakukan.
+## Validasi
+Pemeriksaan sintaks JS dan bank soal dapat dijalankan lokal; belum diuji end-to-end di browser atau deploy ke akun pengguna.
