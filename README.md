@@ -1,22 +1,20 @@
-# LatSol JFT-Basic A2 — v5 (GitHub Pages)
+# LatSol JFT A2 — v6
 
-Simulasi CBT **independen**, bukan situs/soal resmi Japan Foundation.
+Website latihan CBT independen untuk GitHub Pages. **Bukan produk resmi JFT-Basic.**
 
 ## Fitur
-- 6 paket × 40 soal = 240 butir; empat bagian: Moji/Goi, Kaiwa/Hyougen, Choukai, Dokkai.
-- Timer 60 menit; perpindahan bagian terkunci; Listening tidak bisa mundur; maksimal 2 kali putar per soal.
-- Dialog Jepang dibacakan **berurutan per pembicara** dengan dua suara Jepang bila tersedia, atau variasi pitch bila hanya ada satu suara. Memerlukan dukungan `speechSynthesis` dan voice `ja-JP` dari perangkat/browser. **Tidak ada MP3 asli**; audio dapat berbeda antarsistem.
-- Kartu ilustrasi kategori situasi (emoji) pada listening dan reading. **Bukan gambar situasional detail atau gambar resmi**.
-- Pembahasan, transkrip setelah ujian, profil lokal, riwayat nilai, ekspor JSON, print, pemulihan sesi.
-- Tidak ada akun online/password/sinkronisasi; data lokal di browser.
-- **240 butir tidak seluruhnya unik secara konten**: 60 prompt kosakata unik, 60 prompt Kaiwa unik, 60 butir listening dari 15 dialog dasar, 60 butir Dokkai dari 15 bacaan dasar. Jangan menyamakan variasi dengan 240 situasi unik.
-- Persentase adalah skor latihan, bukan skala 10–250 resmi JFT-Basic.
+- 240 butir soal dalam 6 paket (40 per paket), 4 bagian: Moji/Goi, Kaiwa, Choukai, Dokkai.
+- Timer 60 menit, navigasi mengikuti batasan bagian, penilaian dan pembahasan.
+- Listening: text-to-speech Jepang melalui browser (perlu suara `ja-JP` terinstal). **Belum ada MP3 rekaman penutur asli.**
+- V6: kartu dokumen visual terstruktur untuk bacaan Dokkai, pintasan keyboard 1–4 dan panah, perbaikan cache aset.
+- Profil dan riwayat nilai tersimpan secara lokal (bukan akun cloud).
+- Beberapa pola dan konteks soal masih berulang; belum ada jaminan 240 skenario sepenuhnya berbeda.
 
-## Cara upload ke `afrdsss54/latsolJFT`
-1. Ekstrak ZIP dan upload **isi folder** ke root repositori.
-2. **Hapus file lama yang tidak digunakan** (misalnya `package.json`, `vite.config.js`, folder `src`) agar tidak bingung.
-3. Pastikan `.github/workflows/deploy.yml` ada. Di GitHub Settings → Pages pilih GitHub Actions.
-4. Pantau Actions dan akses https://afrdsss54.github.io/latsolJFT/ . Hard refresh `Ctrl+F5` jika perlu.
+## Publikasi
+Upload **isi folder** ke root repo `afrdsss54/latsolJFT`, termasuk `.github/workflows/deploy.yml`. Di GitHub Settings → Pages pilih GitHub Actions. Tidak perlu npm.
 
-## Validasi
-Pemeriksaan sintaks JS dan bank soal dapat dijalankan lokal; belum diuji end-to-end di browser atau deploy ke akun pengguna.
+## Pengujian
+Jalankan `node --check app.js` dan `node --check questions.js` untuk cek sintaks. Uji listening pada browser yang memiliki voice Jepang.
+
+## Catatan
+Skor persentase adalah skor latihan, bukan skor resmi JFT-Basic 10–250. Jangan menyalin soal resmi atau materi ujian berhak cipta.
