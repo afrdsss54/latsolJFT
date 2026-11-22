@@ -270,5 +270,1433 @@
     ],
     "answer": 0,
     "explanation": "～てもらえますか meminta bantuan."
+  },
+  {
+    "id": "kotoba-m4-01",
+    "category": "kotoba",
+    "title": "Salam dan sapaan",
+    "content": "おはようございます = selamat pagi; こんにちは = selamat siang/halo; こんばんは = selamat malam; おやすみなさい = selamat tidur",
+    "japanese": "朝、先生に「おはようございます」と言います。",
+    "translation": "Pagi hari saya menyapa guru dengan selamat pagi.",
+    "question": "Apa arti 「おはようございます」 pada materi ini?",
+    "options": [
+      "Setelah tengah hari",
+      "Selamat pagi",
+      "Pesanan",
+      "Hujan"
+    ],
+    "answer": 1,
+    "explanation": "「おはようございます」 berarti “Selamat pagi”. Perhatikan contoh kalimat dan konteks pada materi salam dan sapaan."
+  },
+  {
+    "id": "kotoba-m4-02",
+    "category": "kotoba",
+    "title": "Angka dan jumlah",
+    "content": "一つ（ひとつ）= satu buah; 二つ（ふたつ）= dua buah; 三つ（みっつ）= tiga buah; いくつ = berapa buah",
+    "japanese": "りんごを三つください。",
+    "translation": "Tolong beri saya tiga buah apel.",
+    "question": "Apa arti 「三つ」 pada materi ini?",
+    "options": [
+      "Tiga buah",
+      "Ibu saya",
+      "Pembayaran",
+      "Musim dingin"
+    ],
+    "answer": 0,
+    "explanation": "「三つ」 berarti “Tiga buah”. Perhatikan contoh kalimat dan konteks pada materi angka dan jumlah."
+  },
+  {
+    "id": "kotoba-m4-03",
+    "category": "kotoba",
+    "title": "Hari dan tanggal",
+    "content": "今日（きょう）= hari ini; 明日（あした）= besok; 昨日（きのう）= kemarin; 毎日（まいにち）= setiap hari",
+    "japanese": "明日は日曜日です。",
+    "translation": "Besok hari Minggu.",
+    "question": "Apa arti 「明日」 pada materi ini?",
+    "options": [
+      "Dapur",
+      "Kanan",
+      "Sepatu",
+      "Besok"
+    ],
+    "answer": 3,
+    "explanation": "「明日」 berarti “Besok”. Perhatikan contoh kalimat dan konteks pada materi hari dan tanggal."
+  },
+  {
+    "id": "kotoba-m4-04",
+    "category": "kotoba",
+    "title": "Jam dan waktu",
+    "content": "午前（ごぜん）= sebelum tengah hari; 午後（ごご）= setelah tengah hari; 半（はん）= setengah; 時間（じかん）= durasi jam",
+    "japanese": "午後三時半に会いましょう。",
+    "translation": "Mari bertemu pukul setengah empat sore.",
+    "question": "Apa arti 「午後」 pada materi ini?",
+    "options": [
+      "Sayuran",
+      "Kereta bawah tanah",
+      "Setelah tengah hari",
+      "Biru"
+    ],
+    "answer": 2,
+    "explanation": "「午後」 berarti “Setelah tengah hari”. Perhatikan contoh kalimat dan konteks pada materi jam dan waktu."
+  },
+  {
+    "id": "kotoba-m4-05",
+    "category": "kotoba",
+    "title": "Keluarga",
+    "content": "父（ちち）= ayah saya; 母（はは）= ibu saya; 兄（あに）= kakak laki-laki saya; 妹（いもうと）= adik perempuan saya",
+    "japanese": "母は料理が好きです。",
+    "translation": "Ibu saya suka memasak.",
+    "question": "Apa arti 「母」 pada materi ini?",
+    "options": [
+      "Pesanan",
+      "Ibu saya",
+      "Hujan",
+      "Panjang"
+    ],
+    "answer": 1,
+    "explanation": "「母」 berarti “Ibu saya”. Perhatikan contoh kalimat dan konteks pada materi keluarga."
+  },
+  {
+    "id": "kotoba-m4-06",
+    "category": "kotoba",
+    "title": "Rumah dan ruangan",
+    "content": "台所（だいどころ）= dapur; 玄関（げんかん）= pintu masuk rumah; 部屋（へや）= kamar; 窓（まど）= jendela",
+    "japanese": "台所で晩ご飯を作ります。",
+    "translation": "Saya membuat makan malam di dapur.",
+    "question": "Apa arti 「台所」 pada materi ini?",
+    "options": [
+      "Dapur",
+      "Pembayaran",
+      "Musim dingin",
+      "Pertanyaan"
+    ],
+    "answer": 0,
+    "explanation": "「台所」 berarti “Dapur”. Perhatikan contoh kalimat dan konteks pada materi rumah dan ruangan."
+  },
+  {
+    "id": "kotoba-m4-07",
+    "category": "kotoba",
+    "title": "Makanan sehari-hari",
+    "content": "朝ご飯（あさごはん）= sarapan; 昼ご飯（ひるごはん）= makan siang; 晩ご飯（ばんごはん）= makan malam; 野菜（やさい）= sayuran",
+    "japanese": "昼ご飯に野菜を食べます。",
+    "translation": "Saya makan sayuran saat makan siang.",
+    "question": "Apa arti 「野菜」 pada materi ini?",
+    "options": [
+      "Kanan",
+      "Sepatu",
+      "Dokumen",
+      "Sayuran"
+    ],
+    "answer": 3,
+    "explanation": "「野菜」 berarti “Sayuran”. Perhatikan contoh kalimat dan konteks pada materi makanan sehari-hari."
+  },
+  {
+    "id": "kotoba-m4-08",
+    "category": "kotoba",
+    "title": "Minuman dan kafe",
+    "content": "水（みず）= air; お茶（おちゃ）= teh; 牛乳（ぎゅうにゅう）= susu; 注文（ちゅうもん）= pesanan",
+    "japanese": "お茶を一つ注文します。",
+    "translation": "Saya memesan satu teh.",
+    "question": "Apa arti 「注文」 pada materi ini?",
+    "options": [
+      "Kereta bawah tanah",
+      "Biru",
+      "Pesanan",
+      "Menghubungi"
+    ],
+    "answer": 2,
+    "explanation": "「注文」 berarti “Pesanan”. Perhatikan contoh kalimat dan konteks pada materi minuman dan kafe."
+  },
+  {
+    "id": "kotoba-m4-09",
+    "category": "kotoba",
+    "title": "Restoran",
+    "content": "メニュー = menu; 店員（てんいん）= pelayan toko/restoran; 会計（かいけい）= pembayaran; 席（せき）= tempat duduk",
+    "japanese": "会計をお願いします。",
+    "translation": "Saya ingin membayar, tolong.",
+    "question": "Apa arti 「会計」 pada materi ini?",
+    "options": [
+      "Hujan",
+      "Pembayaran",
+      "Panjang",
+      "Jalan santai"
+    ],
+    "answer": 1,
+    "explanation": "「会計」 berarti “Pembayaran”. Perhatikan contoh kalimat dan konteks pada materi restoran."
+  },
+  {
+    "id": "kotoba-m4-10",
+    "category": "kotoba",
+    "title": "Arah dan lokasi",
+    "content": "右（みぎ）= kanan; 左（ひだり）= kiri; まっすぐ = lurus; 近く（ちかく）= dekat",
+    "japanese": "次の角を右に曲がってください。",
+    "translation": "Silakan belok kanan di sudut berikutnya.",
+    "question": "Apa arti 「右」 pada materi ini?",
+    "options": [
+      "Kanan",
+      "Musim dingin",
+      "Pertanyaan",
+      "Bangun"
+    ],
+    "answer": 0,
+    "explanation": "「右」 berarti “Kanan”. Perhatikan contoh kalimat dan konteks pada materi arah dan lokasi."
+  },
+  {
+    "id": "kotoba-m4-11",
+    "category": "kotoba",
+    "title": "Kendaraan",
+    "content": "自転車（じてんしゃ）= sepeda; バス = bus; 地下鉄（ちかてつ）= kereta bawah tanah; 飛行機（ひこうき）= pesawat",
+    "japanese": "地下鉄で学校へ行きます。",
+    "translation": "Saya pergi ke sekolah naik kereta bawah tanah.",
+    "question": "Apa arti 「地下鉄」 pada materi ini?",
+    "options": [
+      "Sepatu",
+      "Dokumen",
+      "Senang",
+      "Kereta bawah tanah"
+    ],
+    "answer": 3,
+    "explanation": "「地下鉄」 berarti “Kereta bawah tanah”. Perhatikan contoh kalimat dan konteks pada materi kendaraan."
+  },
+  {
+    "id": "kotoba-m4-12",
+    "category": "kotoba",
+    "title": "Cuaca",
+    "content": "晴れ（はれ）= cerah; 雨（あめ）= hujan; 雪（ゆき）= salju; 曇り（くもり）= berawan",
+    "japanese": "今日は雨です。",
+    "translation": "Hari ini hujan.",
+    "question": "Apa arti 「雨」 pada materi ini?",
+    "options": [
+      "Biru",
+      "Menghubungi",
+      "Hujan",
+      "Tenggorokan"
+    ],
+    "answer": 2,
+    "explanation": "「雨」 berarti “Hujan”. Perhatikan contoh kalimat dan konteks pada materi cuaca."
+  },
+  {
+    "id": "kotoba-m4-13",
+    "category": "kotoba",
+    "title": "Musim",
+    "content": "春（はる）= musim semi; 夏（なつ）= musim panas; 秋（あき）= musim gugur; 冬（ふゆ）= musim dingin",
+    "japanese": "冬はとても寒いです。",
+    "translation": "Musim dingin sangat dingin.",
+    "question": "Apa arti 「冬」 pada materi ini?",
+    "options": [
+      "Panjang",
+      "Musim dingin",
+      "Jalan santai",
+      "Perpustakaan"
+    ],
+    "answer": 1,
+    "explanation": "「冬」 berarti “Musim dingin”. Perhatikan contoh kalimat dan konteks pada materi musim."
+  },
+  {
+    "id": "kotoba-m4-14",
+    "category": "kotoba",
+    "title": "Pakaian",
+    "content": "服（ふく）= pakaian; 靴（くつ）= sepatu; 帽子（ぼうし）= topi; 上着（うわぎ）= jaket/luaran",
+    "japanese": "新しい靴を買いました。",
+    "translation": "Saya membeli sepatu baru.",
+    "question": "Apa arti 「靴」 pada materi ini?",
+    "options": [
+      "Sepatu",
+      "Pertanyaan",
+      "Bangun",
+      "Gempa bumi"
+    ],
+    "answer": 0,
+    "explanation": "「靴」 berarti “Sepatu”. Perhatikan contoh kalimat dan konteks pada materi pakaian."
+  },
+  {
+    "id": "kotoba-m4-15",
+    "category": "kotoba",
+    "title": "Warna",
+    "content": "赤（あか）= merah; 青（あお）= biru; 白（しろ）= putih; 黒（くろ）= hitam",
+    "japanese": "青いかばんが好きです。",
+    "translation": "Saya suka tas biru.",
+    "question": "Apa arti 「青」 pada materi ini?",
+    "options": [
+      "Dokumen",
+      "Senang",
+      "Pemilahan",
+      "Biru"
+    ],
+    "answer": 3,
+    "explanation": "「青」 berarti “Biru”. Perhatikan contoh kalimat dan konteks pada materi warna."
+  },
+  {
+    "id": "kotoba-m4-16",
+    "category": "kotoba",
+    "title": "Ukuran dan bentuk",
+    "content": "大きい（おおきい）= besar; 小さい（ちいさい）= kecil; 長い（ながい）= panjang; 短い（みじかい）= pendek",
+    "japanese": "この道は長いです。",
+    "translation": "Jalan ini panjang.",
+    "question": "Apa arti 「長い」 pada materi ini?",
+    "options": [
+      "Menghubungi",
+      "Tenggorokan",
+      "Panjang",
+      "Selamat pagi"
+    ],
+    "answer": 2,
+    "explanation": "「長い」 berarti “Panjang”. Perhatikan contoh kalimat dan konteks pada materi ukuran dan bentuk."
+  },
+  {
+    "id": "kotoba-m4-17",
+    "category": "kotoba",
+    "title": "Sekolah dan kelas",
+    "content": "教室（きょうしつ）= ruang kelas; 宿題（しゅくだい）= PR; 試験（しけん）= ujian; 質問（しつもん）= pertanyaan",
+    "japanese": "先生に質問があります。",
+    "translation": "Saya punya pertanyaan untuk guru.",
+    "question": "Apa arti 「質問」 pada materi ini?",
+    "options": [
+      "Jalan santai",
+      "Pertanyaan",
+      "Perpustakaan",
+      "Tiga buah"
+    ],
+    "answer": 1,
+    "explanation": "「質問」 berarti “Pertanyaan”. Perhatikan contoh kalimat dan konteks pada materi sekolah dan kelas."
+  },
+  {
+    "id": "kotoba-m4-18",
+    "category": "kotoba",
+    "title": "Peralatan kantor",
+    "content": "書類（しょるい）= dokumen; 印刷（いんさつ）= cetak; 机（つくえ）= meja; 椅子（いす）= kursi",
+    "japanese": "書類を印刷してください。",
+    "translation": "Tolong cetak dokumen.",
+    "question": "Apa arti 「書類」 pada materi ini?",
+    "options": [
+      "Dokumen",
+      "Bangun",
+      "Gempa bumi",
+      "Besok"
+    ],
+    "answer": 0,
+    "explanation": "「書類」 berarti “Dokumen”. Perhatikan contoh kalimat dan konteks pada materi peralatan kantor."
+  },
+  {
+    "id": "kotoba-m4-19",
+    "category": "kotoba",
+    "title": "Telepon dan pesan",
+    "content": "電話（でんわ）= telepon; 番号（ばんごう）= nomor; 連絡（れんらく）= kontak/menghubungi; 返事（へんじ）= balasan",
+    "japanese": "あとで電話で連絡します。",
+    "translation": "Nanti saya menghubungi lewat telepon.",
+    "question": "Apa arti 「連絡」 pada materi ini?",
+    "options": [
+      "Senang",
+      "Pemilahan",
+      "Setelah tengah hari",
+      "Menghubungi"
+    ],
+    "answer": 3,
+    "explanation": "「連絡」 berarti “Menghubungi”. Perhatikan contoh kalimat dan konteks pada materi telepon dan pesan."
+  },
+  {
+    "id": "kotoba-m4-20",
+    "category": "kotoba",
+    "title": "Hobi dan olahraga",
+    "content": "散歩（さんぽ）= jalan santai; 水泳（すいえい）= renang; 旅行（りょこう）= perjalanan; 写真（しゃしん）= foto",
+    "japanese": "週末は散歩します。",
+    "translation": "Akhir pekan saya berjalan santai.",
+    "question": "Apa arti 「散歩」 pada materi ini?",
+    "options": [
+      "Tenggorokan",
+      "Selamat pagi",
+      "Jalan santai",
+      "Ibu saya"
+    ],
+    "answer": 2,
+    "explanation": "「散歩」 berarti “Jalan santai”. Perhatikan contoh kalimat dan konteks pada materi hobi dan olahraga."
+  },
+  {
+    "id": "kotoba-m4-21",
+    "category": "kotoba",
+    "title": "Kegiatan harian",
+    "content": "起きます（おきます）= bangun; 寝ます（ねます）= tidur; 洗います（あらいます）= mencuci; 掃除します（そうじします）= membersihkan",
+    "japanese": "毎朝六時に起きます。",
+    "translation": "Saya bangun pukul enam setiap pagi.",
+    "question": "Apa arti 「起きます」 pada materi ini?",
+    "options": [
+      "Perpustakaan",
+      "Bangun",
+      "Tiga buah",
+      "Dapur"
+    ],
+    "answer": 1,
+    "explanation": "「起きます」 berarti “Bangun”. Perhatikan contoh kalimat dan konteks pada materi kegiatan harian."
+  },
+  {
+    "id": "kotoba-m4-22",
+    "category": "kotoba",
+    "title": "Perasaan",
+    "content": "うれしい = senang; 悲しい（かなしい）= sedih; 心配（しんぱい）= khawatir; 安心（あんしん）= lega",
+    "japanese": "友達が来て、うれしいです。",
+    "translation": "Saya senang karena teman datang.",
+    "question": "Apa arti 「うれしい」 pada materi ini?",
+    "options": [
+      "Senang",
+      "Gempa bumi",
+      "Besok",
+      "Sayuran"
+    ],
+    "answer": 0,
+    "explanation": "「うれしい」 berarti “Senang”. Perhatikan contoh kalimat dan konteks pada materi perasaan."
+  },
+  {
+    "id": "kotoba-m4-23",
+    "category": "kotoba",
+    "title": "Kondisi tubuh",
+    "content": "頭（あたま）= kepala; お腹（おなか）= perut; 喉（のど）= tenggorokan; せき = batuk",
+    "japanese": "喉が痛いです。",
+    "translation": "Tenggorokan saya sakit.",
+    "question": "Apa arti 「喉」 pada materi ini?",
+    "options": [
+      "Pemilahan",
+      "Setelah tengah hari",
+      "Pesanan",
+      "Tenggorokan"
+    ],
+    "answer": 3,
+    "explanation": "「喉」 berarti “Tenggorokan”. Perhatikan contoh kalimat dan konteks pada materi kondisi tubuh."
+  },
+  {
+    "id": "kotoba-m4-24",
+    "category": "kotoba",
+    "title": "Layanan publik",
+    "content": "郵便局（ゆうびんきょく）= kantor pos; 銀行（ぎんこう）= bank; 市役所（しやくしょ）= kantor pemerintah kota; 図書館（としょかん）= perpustakaan",
+    "japanese": "図書館で本を借ります。",
+    "translation": "Saya meminjam buku di perpustakaan.",
+    "question": "Apa arti 「図書館」 pada materi ini?",
+    "options": [
+      "Selamat pagi",
+      "Ibu saya",
+      "Perpustakaan",
+      "Pembayaran"
+    ],
+    "answer": 2,
+    "explanation": "「図書館」 berarti “Perpustakaan”. Perhatikan contoh kalimat dan konteks pada materi layanan publik."
+  },
+  {
+    "id": "kotoba-m4-25",
+    "category": "kotoba",
+    "title": "Bencana dan keselamatan",
+    "content": "地震（じしん）= gempa; 火事（かじ）= kebakaran; 避難（ひなん）= evakuasi; 非常口（ひじょうぐち）= pintu darurat",
+    "japanese": "地震のときは落ち着いてください。",
+    "translation": "Saat gempa, tetap tenang.",
+    "question": "Apa arti 「地震」 pada materi ini?",
+    "options": [
+      "Tiga buah",
+      "Gempa bumi",
+      "Dapur",
+      "Kanan"
+    ],
+    "answer": 1,
+    "explanation": "「地震」 berarti “Gempa bumi”. Perhatikan contoh kalimat dan konteks pada materi bencana dan keselamatan."
+  },
+  {
+    "id": "kotoba-m4-26",
+    "category": "kotoba",
+    "title": "Kebersihan dan sampah",
+    "content": "ごみ = sampah; 分別（ぶんべつ）= pemilahan; 燃えるごみ（もえるごみ）= sampah yang dapat dibakar; 捨てます（すてます）= membuang",
+    "japanese": "ごみを分別してください。",
+    "translation": "Tolong pilah sampah.",
+    "question": "Apa arti 「分別」 pada materi ini?",
+    "options": [
+      "Pemilahan",
+      "Besok",
+      "Sayuran",
+      "Kereta bawah tanah"
+    ],
+    "answer": 0,
+    "explanation": "「分別」 berarti “Pemilahan”. Perhatikan contoh kalimat dan konteks pada materi kebersihan dan sampah."
+  },
+  {
+    "id": "bunpou-m4-01",
+    "category": "bunpou",
+    "title": "～ています (sedang)",
+    "content": "Bentuk て + います menyatakan aktivitas yang sedang berlangsung; konteks juga dapat menyatakan keadaan hasil.",
+    "japanese": "今、本を読んでいます。",
+    "translation": "Sekarang saya sedang membaca buku.",
+    "question": "Apa arti 「読んでいます」 pada materi ini?",
+    "options": [
+      "Maukah menonton?",
+      "Sedang membaca",
+      "Sebaiknya tidur",
+      "Setelah selesai"
+    ],
+    "answer": 1,
+    "explanation": "「読んでいます」 berarti “Sedang membaca”. Perhatikan contoh kalimat dan konteks pada materi ～ています (sedang)."
+  },
+  {
+    "id": "bunpou-m4-02",
+    "category": "bunpou",
+    "title": "～たいです",
+    "content": "Bentuk ます tanpa ます + たいです menyatakan keinginan pembicara melakukan sesuatu.",
+    "japanese": "日本へ行きたいです。",
+    "translation": "Saya ingin pergi ke Jepang.",
+    "question": "Apa arti 「行きたいです」 pada materi ini?",
+    "options": [
+      "Ingin pergi",
+      "Pernah pergi",
+      "Karena",
+      "Meskipun turun (hujan)"
+    ],
+    "answer": 0,
+    "explanation": "「行きたいです」 berarti “Ingin pergi”. Perhatikan contoh kalimat dan konteks pada materi ～たいです."
+  },
+  {
+    "id": "bunpou-m4-03",
+    "category": "bunpou",
+    "title": "～ましょう",
+    "content": "Bentuk ます tanpa ます + ましょう digunakan untuk mengajak atau menawarkan melakukan bersama.",
+    "japanese": "一緒に昼ご飯を食べましょう。",
+    "translation": "Mari makan siang bersama.",
+    "question": "Apa arti 「食べましょう」 pada materi ini?",
+    "options": [
+      "Berniat belajar",
+      "Karena sibuk",
+      "Harus melakukan",
+      "Mari makan"
+    ],
+    "answer": 3,
+    "explanation": "「食べましょう」 berarti “Mari makan”. Perhatikan contoh kalimat dan konteks pada materi ～ましょう."
+  },
+  {
+    "id": "bunpou-m4-04",
+    "category": "bunpou",
+    "title": "～ませんか",
+    "content": "Bentuk ます tanpa ます + ませんか adalah ajakan sopan dalam bentuk pertanyaan.",
+    "japanese": "週末、映画を見ませんか。",
+    "translation": "Maukah menonton film akhir pekan ini?",
+    "question": "Apa arti 「見ませんか」 pada materi ini?",
+    "options": [
+      "Sambil mendengarkan",
+      "Sebelum tidur",
+      "Maukah menonton?",
+      "Tidak perlu datang"
+    ],
+    "answer": 2,
+    "explanation": "「見ませんか」 berarti “Maukah menonton?”. Perhatikan contoh kalimat dan konteks pada materi ～ませんか."
+  },
+  {
+    "id": "bunpou-m4-05",
+    "category": "bunpou",
+    "title": "～たことがあります",
+    "content": "Bentuk lampau biasa (た) + ことがあります menyatakan pengalaman pernah melakukan.",
+    "japanese": "京都へ行ったことがあります。",
+    "translation": "Saya pernah pergi ke Kyoto.",
+    "question": "Apa arti 「行ったことがあります」 pada materi ini?",
+    "options": [
+      "Sebaiknya tidur",
+      "Pernah pergi",
+      "Setelah selesai",
+      "Bisa berbicara"
+    ],
+    "answer": 1,
+    "explanation": "「行ったことがあります」 berarti “Pernah pergi”. Perhatikan contoh kalimat dan konteks pada materi ～たことがあります."
+  },
+  {
+    "id": "bunpou-m4-06",
+    "category": "bunpou",
+    "title": "～つもりです",
+    "content": "Bentuk kamus + つもりです menyatakan niat/rencana pribadi.",
+    "japanese": "来年、日本語を勉強するつもりです。",
+    "translation": "Tahun depan saya berniat belajar bahasa Jepang.",
+    "question": "Apa arti 「勉強するつもりです」 pada materi ini?",
+    "options": [
+      "Berniat belajar",
+      "Karena",
+      "Meskipun turun (hujan)",
+      "Sudah menjadi bisa membaca"
+    ],
+    "answer": 0,
+    "explanation": "「勉強するつもりです」 berarti “Berniat belajar”. Perhatikan contoh kalimat dan konteks pada materi ～つもりです."
+  },
+  {
+    "id": "bunpou-m4-07",
+    "category": "bunpou",
+    "title": "～ながら",
+    "content": "Bentuk ます tanpa ます + ながら menyatakan dua kegiatan dilakukan bersamaan oleh subjek yang sama.",
+    "japanese": "音楽を聞きながら勉強します。",
+    "translation": "Saya belajar sambil mendengarkan musik.",
+    "question": "Apa arti 「聞きながら」 pada materi ini?",
+    "options": [
+      "Karena sibuk",
+      "Harus melakukan",
+      "Saya pikir",
+      "Sambil mendengarkan"
+    ],
+    "answer": 3,
+    "explanation": "「聞きながら」 berarti “Sambil mendengarkan”. Perhatikan contoh kalimat dan konteks pada materi ～ながら."
+  },
+  {
+    "id": "bunpou-m4-08",
+    "category": "bunpou",
+    "title": "～ほうがいいです",
+    "content": "Bentuk た + ほうがいいです menyarankan tindakan; bentuk ない + ほうがいいです menyarankan tidak melakukan.",
+    "japanese": "早く寝たほうがいいです。",
+    "translation": "Sebaiknya tidur lebih awal.",
+    "question": "Apa arti 「寝たほうがいいです」 pada materi ini?",
+    "options": [
+      "Sebelum tidur",
+      "Tidak perlu datang",
+      "Sebaiknya tidur",
+      "Mengatakan bahwa"
+    ],
+    "answer": 2,
+    "explanation": "「寝たほうがいいです」 berarti “Sebaiknya tidur”. Perhatikan contoh kalimat dan konteks pada materi ～ほうがいいです."
+  },
+  {
+    "id": "bunpou-m4-09",
+    "category": "bunpou",
+    "title": "～ので",
+    "content": "Klausa + ので menyatakan alasan dengan nuansa lebih lembut; pada nomina dan kata sifat な gunakan なので.",
+    "japanese": "雨が降っているので、出かけません。",
+    "translation": "Karena sedang hujan, saya tidak pergi keluar.",
+    "question": "Apa arti 「ので」 pada materi ini?",
+    "options": [
+      "Setelah selesai",
+      "Karena",
+      "Bisa berbicara",
+      "Antara lain memasak"
+    ],
+    "answer": 1,
+    "explanation": "「ので」 berarti “Karena”. Perhatikan contoh kalimat dan konteks pada materi ～ので."
+  },
+  {
+    "id": "bunpou-m4-10",
+    "category": "bunpou",
+    "title": "～から (alasan)",
+    "content": "Klausa + から menyatakan alasan; berbeda dari から yang berarti titik awal.",
+    "japanese": "忙しいですから、今日は行けません。",
+    "translation": "Karena sibuk, hari ini saya tidak bisa pergi.",
+    "question": "Apa arti 「忙しいですから」 pada materi ini?",
+    "options": [
+      "Karena sibuk",
+      "Meskipun turun (hujan)",
+      "Sudah menjadi bisa membaca",
+      "Kelihatannya enak"
+    ],
+    "answer": 0,
+    "explanation": "「忙しいですから」 berarti “Karena sibuk”. Perhatikan contoh kalimat dan konteks pada materi ～から (alasan)."
+  },
+  {
+    "id": "bunpou-m4-11",
+    "category": "bunpou",
+    "title": "～まえに",
+    "content": "Kata kerja bentuk kamus + まえに berarti sebelum melakukan; nomina + のまえに.",
+    "japanese": "寝るまえに歯を磨きます。",
+    "translation": "Saya menyikat gigi sebelum tidur.",
+    "question": "Apa arti 「寝るまえに」 pada materi ini?",
+    "options": [
+      "Harus melakukan",
+      "Saya pikir",
+      "Sedang membaca",
+      "Sebelum tidur"
+    ],
+    "answer": 3,
+    "explanation": "「寝るまえに」 berarti “Sebelum tidur”. Perhatikan contoh kalimat dan konteks pada materi ～まえに."
+  },
+  {
+    "id": "bunpou-m4-12",
+    "category": "bunpou",
+    "title": "～あとで",
+    "content": "Kata kerja bentuk た + あとで berarti setelah melakukan; nomina + のあとで.",
+    "japanese": "仕事が終わったあとで買い物します。",
+    "translation": "Saya berbelanja setelah pekerjaan selesai.",
+    "question": "Apa arti 「終わったあとで」 pada materi ini?",
+    "options": [
+      "Tidak perlu datang",
+      "Mengatakan bahwa",
+      "Setelah selesai",
+      "Ingin pergi"
+    ],
+    "answer": 2,
+    "explanation": "「終わったあとで」 berarti “Setelah selesai”. Perhatikan contoh kalimat dan konteks pada materi ～あとで."
+  },
+  {
+    "id": "bunpou-m4-13",
+    "category": "bunpou",
+    "title": "～ても",
+    "content": "Bentuk て + も menyatakan meskipun/biarpun; konteks berbeda dari ～てもいい.",
+    "japanese": "雨が降っても行きます。",
+    "translation": "Meskipun hujan, saya tetap pergi.",
+    "question": "Apa arti 「降っても」 pada materi ini?",
+    "options": [
+      "Bisa berbicara",
+      "Meskipun turun (hujan)",
+      "Antara lain memasak",
+      "Mari makan"
+    ],
+    "answer": 1,
+    "explanation": "「降っても」 berarti “Meskipun turun (hujan)”. Perhatikan contoh kalimat dan konteks pada materi ～ても."
+  },
+  {
+    "id": "bunpou-m4-14",
+    "category": "bunpou",
+    "title": "～なければなりません",
+    "content": "Bentuk ない tanpa い + ければなりません menyatakan kewajiban.",
+    "japanese": "明日までに宿題をしなければなりません。",
+    "translation": "Saya harus mengerjakan PR sebelum besok.",
+    "question": "Apa arti 「しなければなりません」 pada materi ini?",
+    "options": [
+      "Harus melakukan",
+      "Sudah menjadi bisa membaca",
+      "Kelihatannya enak",
+      "Maukah menonton?"
+    ],
+    "answer": 0,
+    "explanation": "「しなければなりません」 berarti “Harus melakukan”. Perhatikan contoh kalimat dan konteks pada materi ～なければなりません."
+  },
+  {
+    "id": "bunpou-m4-15",
+    "category": "bunpou",
+    "title": "～なくてもいいです",
+    "content": "Bentuk ない tanpa い + くてもいいです berarti tidak perlu melakukan sesuatu.",
+    "japanese": "今日は来なくてもいいです。",
+    "translation": "Hari ini tidak perlu datang.",
+    "question": "Apa arti 「来なくてもいいです」 pada materi ini?",
+    "options": [
+      "Saya pikir",
+      "Sedang membaca",
+      "Pernah pergi",
+      "Tidak perlu datang"
+    ],
+    "answer": 3,
+    "explanation": "「来なくてもいいです」 berarti “Tidak perlu datang”. Perhatikan contoh kalimat dan konteks pada materi ～なくてもいいです."
+  },
+  {
+    "id": "bunpou-m4-16",
+    "category": "bunpou",
+    "title": "～ことができます",
+    "content": "Bentuk kamus + ことができます menyatakan kemampuan.",
+    "japanese": "日本語を少し話すことができます。",
+    "translation": "Saya bisa sedikit berbicara bahasa Jepang.",
+    "question": "Apa arti 「話すことができます」 pada materi ini?",
+    "options": [
+      "Mengatakan bahwa",
+      "Ingin pergi",
+      "Bisa berbicara",
+      "Berniat belajar"
+    ],
+    "answer": 2,
+    "explanation": "「話すことができます」 berarti “Bisa berbicara”. Perhatikan contoh kalimat dan konteks pada materi ～ことができます."
+  },
+  {
+    "id": "bunpou-m4-17",
+    "category": "bunpou",
+    "title": "～ようになります",
+    "content": "Bentuk kamus + ようになります menyatakan perubahan menjadi mampu atau terbiasa.",
+    "japanese": "漢字が読めるようになりました。",
+    "translation": "Saya sudah menjadi bisa membaca kanji.",
+    "question": "Apa arti 「読めるようになりました」 pada materi ini?",
+    "options": [
+      "Antara lain memasak",
+      "Sudah menjadi bisa membaca",
+      "Mari makan",
+      "Sambil mendengarkan"
+    ],
+    "answer": 1,
+    "explanation": "「読めるようになりました」 berarti “Sudah menjadi bisa membaca”. Perhatikan contoh kalimat dan konteks pada materi ～ようになります."
+  },
+  {
+    "id": "bunpou-m4-18",
+    "category": "bunpou",
+    "title": "～と思います",
+    "content": "Klausa bentuk biasa + と思います menyatakan pendapat/perkiraan pembicara.",
+    "japanese": "明日は晴れると思います。",
+    "translation": "Saya pikir besok akan cerah.",
+    "question": "Apa arti 「と思います」 pada materi ini?",
+    "options": [
+      "Saya pikir",
+      "Kelihatannya enak",
+      "Maukah menonton?",
+      "Sebaiknya tidur"
+    ],
+    "answer": 0,
+    "explanation": "「と思います」 berarti “Saya pikir”. Perhatikan contoh kalimat dan konteks pada materi ～と思います."
+  },
+  {
+    "id": "bunpou-m4-19",
+    "category": "bunpou",
+    "title": "～と言っていました",
+    "content": "Klausa kutipan + と言っていました melaporkan perkataan seseorang.",
+    "japanese": "田中さんは明日休むと言っていました。",
+    "translation": "Tanaka mengatakan bahwa besok ia libur.",
+    "question": "Apa arti 「と言っていました」 pada materi ini?",
+    "options": [
+      "Sedang membaca",
+      "Pernah pergi",
+      "Karena",
+      "Mengatakan bahwa"
+    ],
+    "answer": 3,
+    "explanation": "「と言っていました」 berarti “Mengatakan bahwa”. Perhatikan contoh kalimat dan konteks pada materi ～と言っていました."
+  },
+  {
+    "id": "bunpou-m4-20",
+    "category": "bunpou",
+    "title": "～たり～たりします",
+    "content": "Bentuk た + り diulang untuk menyebut contoh kegiatan yang tidak lengkap.",
+    "japanese": "日曜日は掃除したり、料理したりします。",
+    "translation": "Pada hari Minggu saya antara lain bersih-bersih dan memasak.",
+    "question": "Apa arti 「料理したり」 pada materi ini?",
+    "options": [
+      "Ingin pergi",
+      "Berniat belajar",
+      "Antara lain memasak",
+      "Karena sibuk"
+    ],
+    "answer": 2,
+    "explanation": "「料理したり」 berarti “Antara lain memasak”. Perhatikan contoh kalimat dan konteks pada materi ～たり～たりします."
+  },
+  {
+    "id": "bunpou-m4-21",
+    "category": "bunpou",
+    "title": "～そうです (tampaknya)",
+    "content": "Akar kata sifat い tanpa い + そうです menyatakan kesan visual; contoh おいしそうです.",
+    "japanese": "このケーキはおいしそうです。",
+    "translation": "Kue ini kelihatannya enak.",
+    "question": "Apa arti 「おいしそうです」 pada materi ini?",
+    "options": [
+      "Mari makan",
+      "Kelihatannya enak",
+      "Sambil mendengarkan",
+      "Sebelum tidur"
+    ],
+    "answer": 1,
+    "explanation": "「おいしそうです」 berarti “Kelihatannya enak”. Perhatikan contoh kalimat dan konteks pada materi ～そうです (tampaknya)."
+  },
+  {
+    "id": "kanji-m4-01",
+    "category": "kanji",
+    "title": "Kanji hari: 日・月",
+    "content": "日（ひ／にち）= matahari/hari; 月（つき／げつ）= bulan; 日曜日（にちようび）= Minggu; 月曜日（げつようび）= Senin",
+    "japanese": "月曜日に学校へ行きます。",
+    "translation": "Hari Senin saya pergi ke sekolah.",
+    "question": "Apa arti 「月曜日」 pada materi ini?",
+    "options": [
+      "Perempuan",
+      "Hari Senin",
+      "Kereta",
+      "Tempat penjualan"
+    ],
+    "answer": 1,
+    "explanation": "「月曜日」 berarti “Hari Senin”. Perhatikan contoh kalimat dan konteks pada materi kanji hari: 日・月."
+  },
+  {
+    "id": "kanji-m4-02",
+    "category": "kanji",
+    "title": "Kanji unsur: 火・水",
+    "content": "火（ひ／か）= api; 水（みず／すい）= air; 火曜日（かようび）= Selasa; 水曜日（すいようび）= Rabu",
+    "japanese": "水曜日は休みです。",
+    "translation": "Hari Rabu libur.",
+    "question": "Apa arti 「水曜日」 pada materi ini?",
+    "options": [
+      "Hari Rabu",
+      "Kecil",
+      "Depan stasiun",
+      "Datang"
+    ],
+    "answer": 0,
+    "explanation": "「水曜日」 berarti “Hari Rabu”. Perhatikan contoh kalimat dan konteks pada materi kanji unsur: 火・水."
+  },
+  {
+    "id": "kanji-m4-03",
+    "category": "kanji",
+    "title": "Kanji unsur: 木・金・土",
+    "content": "木（き／もく）= pohon; 金（かね／きん）= emas/uang; 土（つち／ど）= tanah; 金曜日（きんようび）= Jumat",
+    "japanese": "金曜日に会議があります。",
+    "translation": "Hari Jumat ada rapat.",
+    "question": "Apa arti 「金曜日」 pada materi ini?",
+    "options": [
+      "Sekolah",
+      "Sepuluh menit",
+      "Melihat",
+      "Hari Jumat"
+    ],
+    "answer": 3,
+    "explanation": "「金曜日」 berarti “Hari Jumat”. Perhatikan contoh kalimat dan konteks pada materi kanji unsur: 木・金・土."
+  },
+  {
+    "id": "kanji-m4-04",
+    "category": "kanji",
+    "title": "Kanji orang: 人・男・女",
+    "content": "人（ひと／じん）= orang; 男（おとこ／だん）= laki-laki; 女（おんな／じょ）= perempuan; 女の人（おんなのひと）= perempuan",
+    "japanese": "あの女の人は先生です。",
+    "translation": "Perempuan itu seorang guru.",
+    "question": "Apa arti 「女の人」 pada materi ini?",
+    "options": [
+      "Perusahaan",
+      "Minuman",
+      "Perempuan",
+      "Pintu keluar"
+    ],
+    "answer": 2,
+    "explanation": "「女の人」 berarti “Perempuan”. Perhatikan contoh kalimat dan konteks pada materi kanji orang: 人・男・女."
+  },
+  {
+    "id": "kanji-m4-05",
+    "category": "kanji",
+    "title": "Kanji ukuran: 大・小",
+    "content": "大（おお／だい）= besar; 小（ちい／しょう）= kecil; 大きい（おおきい）= besar; 小さい（ちいさい）= kecil",
+    "japanese": "小さいかばんを買いました。",
+    "translation": "Saya membeli tas kecil.",
+    "question": "Apa arti 「小さい」 pada materi ini?",
+    "options": [
+      "Kereta",
+      "Kecil",
+      "Tempat penjualan",
+      "Bawah"
+    ],
+    "answer": 1,
+    "explanation": "「小さい」 berarti “Kecil”. Perhatikan contoh kalimat dan konteks pada materi kanji ukuran: 大・小."
+  },
+  {
+    "id": "kanji-m4-06",
+    "category": "kanji",
+    "title": "Kanji sekolah: 学・校",
+    "content": "学（がく）= belajar; 校（こう）= sekolah; 学校（がっこう）= sekolah; 学生（がくせい）= pelajar",
+    "japanese": "学校は駅の近くです。",
+    "translation": "Sekolah dekat stasiun.",
+    "question": "Apa arti 「学校」 pada materi ini?",
+    "options": [
+      "Sekolah",
+      "Depan stasiun",
+      "Datang",
+      "Hari Senin"
+    ],
+    "answer": 0,
+    "explanation": "「学校」 berarti “Sekolah”. Perhatikan contoh kalimat dan konteks pada materi kanji sekolah: 学・校."
+  },
+  {
+    "id": "kanji-m4-07",
+    "category": "kanji",
+    "title": "Kanji pekerjaan: 会・社",
+    "content": "会（かい）= bertemu/pertemuan; 社（しゃ）= perusahaan; 会社（かいしゃ）= perusahaan; 社員（しゃいん）= pegawai",
+    "japanese": "会社で働いています。",
+    "translation": "Saya bekerja di perusahaan.",
+    "question": "Apa arti 「会社」 pada materi ini?",
+    "options": [
+      "Sepuluh menit",
+      "Melihat",
+      "Hari Rabu",
+      "Perusahaan"
+    ],
+    "answer": 3,
+    "explanation": "「会社」 berarti “Perusahaan”. Perhatikan contoh kalimat dan konteks pada materi kanji pekerjaan: 会・社."
+  },
+  {
+    "id": "kanji-m4-08",
+    "category": "kanji",
+    "title": "Kanji kereta: 電・車",
+    "content": "電（でん）= listrik; 車（くるま／しゃ）= kendaraan; 電車（でんしゃ）= kereta; 自転車（じてんしゃ）= sepeda",
+    "japanese": "電車で行きましょう。",
+    "translation": "Mari pergi naik kereta.",
+    "question": "Apa arti 「電車」 pada materi ini?",
+    "options": [
+      "Minuman",
+      "Pintu keluar",
+      "Kereta",
+      "Hari Jumat"
+    ],
+    "answer": 2,
+    "explanation": "「電車」 berarti “Kereta”. Perhatikan contoh kalimat dan konteks pada materi kanji kereta: 電・車."
+  },
+  {
+    "id": "kanji-m4-09",
+    "category": "kanji",
+    "title": "Kanji stasiun: 駅・道",
+    "content": "駅（えき）= stasiun; 道（みち／どう）= jalan; 駅前（えきまえ）= depan stasiun; 道路（どうろ）= jalan raya",
+    "japanese": "駅前で待っています。",
+    "translation": "Saya menunggu di depan stasiun.",
+    "question": "Apa arti 「駅前」 pada materi ini?",
+    "options": [
+      "Tempat penjualan",
+      "Depan stasiun",
+      "Bawah",
+      "Perempuan"
+    ],
+    "answer": 1,
+    "explanation": "「駅前」 berarti “Depan stasiun”. Perhatikan contoh kalimat dan konteks pada materi kanji stasiun: 駅・道."
+  },
+  {
+    "id": "kanji-m4-10",
+    "category": "kanji",
+    "title": "Kanji waktu: 時・分",
+    "content": "時（じ）= jam; 分（ふん／ぷん）= menit; 三時（さんじ）= jam tiga; 十分（じゅっぷん）= sepuluh menit",
+    "japanese": "あと十分待ってください。",
+    "translation": "Tolong tunggu sepuluh menit lagi.",
+    "question": "Apa arti 「十分（じゅっぷん）」 pada materi ini?",
+    "options": [
+      "Sepuluh menit",
+      "Datang",
+      "Hari Senin",
+      "Kecil"
+    ],
+    "answer": 0,
+    "explanation": "「十分（じゅっぷん）」 berarti “Sepuluh menit”. Perhatikan contoh kalimat dan konteks pada materi kanji waktu: 時・分."
+  },
+  {
+    "id": "kanji-m4-11",
+    "category": "kanji",
+    "title": "Kanji makan: 食・飲",
+    "content": "食（た／しょく）= makan; 飲（の／いん）= minum; 食べる（たべる）= makan; 飲み物（のみもの）= minuman",
+    "japanese": "冷たい飲み物をください。",
+    "translation": "Tolong beri minuman dingin.",
+    "question": "Apa arti 「飲み物」 pada materi ini?",
+    "options": [
+      "Melihat",
+      "Hari Rabu",
+      "Sekolah",
+      "Minuman"
+    ],
+    "answer": 3,
+    "explanation": "「飲み物」 berarti “Minuman”. Perhatikan contoh kalimat dan konteks pada materi kanji makan: 食・飲."
+  },
+  {
+    "id": "kanji-m4-12",
+    "category": "kanji",
+    "title": "Kanji membeli: 買・売",
+    "content": "買（か）= membeli; 売（う）= menjual; 買い物（かいもの）= belanja; 売り場（うりば）= tempat penjualan",
+    "japanese": "一階は食品売り場です。",
+    "translation": "Lantai satu adalah bagian penjualan makanan.",
+    "question": "Apa arti 「売り場」 pada materi ini?",
+    "options": [
+      "Pintu keluar",
+      "Hari Jumat",
+      "Tempat penjualan",
+      "Perusahaan"
+    ],
+    "answer": 2,
+    "explanation": "「売り場」 berarti “Tempat penjualan”. Perhatikan contoh kalimat dan konteks pada materi kanji membeli: 買・売."
+  },
+  {
+    "id": "kanji-m4-13",
+    "category": "kanji",
+    "title": "Kanji gerak: 行・来",
+    "content": "行（い／こう）= pergi; 来（く／らい）= datang; 行きます（いきます）= pergi; 来ます（きます）= datang",
+    "japanese": "友達が家に来ます。",
+    "translation": "Teman akan datang ke rumah.",
+    "question": "Apa arti 「来ます」 pada materi ini?",
+    "options": [
+      "Bawah",
+      "Datang",
+      "Perempuan",
+      "Kereta"
+    ],
+    "answer": 1,
+    "explanation": "「来ます」 berarti “Datang”. Perhatikan contoh kalimat dan konteks pada materi kanji gerak: 行・来."
+  },
+  {
+    "id": "kanji-m4-14",
+    "category": "kanji",
+    "title": "Kanji melihat: 見・聞",
+    "content": "見（み／けん）= melihat; 聞（き／ぶん）= mendengar/bertanya; 見ます（みます）= melihat; 聞きます（ききます）= mendengar",
+    "japanese": "毎日ニュースを見ます。",
+    "translation": "Saya menonton berita setiap hari.",
+    "question": "Apa arti 「見ます」 pada materi ini?",
+    "options": [
+      "Melihat",
+      "Hari Senin",
+      "Kecil",
+      "Depan stasiun"
+    ],
+    "answer": 0,
+    "explanation": "「見ます」 berarti “Melihat”. Perhatikan contoh kalimat dan konteks pada materi kanji melihat: 見・聞."
+  },
+  {
+    "id": "kanji-m4-15",
+    "category": "kanji",
+    "title": "Kanji masuk-keluar: 入・出",
+    "content": "入（はい／にゅう）= masuk; 出（で／しゅつ）= keluar; 入口（いりぐち）= pintu masuk; 出口（でぐち）= pintu keluar",
+    "japanese": "出口は右にあります。",
+    "translation": "Pintu keluar ada di kanan.",
+    "question": "Apa arti 「出口」 pada materi ini?",
+    "options": [
+      "Hari Rabu",
+      "Sekolah",
+      "Sepuluh menit",
+      "Pintu keluar"
+    ],
+    "answer": 3,
+    "explanation": "「出口」 berarti “Pintu keluar”. Perhatikan contoh kalimat dan konteks pada materi kanji masuk-keluar: 入・出."
+  },
+  {
+    "id": "kanji-m4-16",
+    "category": "kanji",
+    "title": "Kanji atas-bawah: 上・下",
+    "content": "上（うえ／じょう）= atas; 下（した／か）= bawah; 上着（うわぎ）= pakaian luar; 地下（ちか）= bawah tanah",
+    "japanese": "かばんは机の下にあります。",
+    "translation": "Tas berada di bawah meja.",
+    "question": "Apa arti 「下」 pada materi ini?",
+    "options": [
+      "Hari Jumat",
+      "Perusahaan",
+      "Bawah",
+      "Minuman"
+    ],
+    "answer": 2,
+    "explanation": "「下」 berarti “Bawah”. Perhatikan contoh kalimat dan konteks pada materi kanji atas-bawah: 上・下."
+  },
+  {
+    "id": "kaiwa-m4-01",
+    "category": "kaiwa",
+    "title": "Memperkenalkan diri",
+    "content": "Perkenalan sopan: はじめまして = salam kenal; ～と申します = nama saya (sopan); よろしくお願いします = mohon kerja samanya.",
+    "japanese": "はじめまして。リナと申します。よろしくお願いします。",
+    "translation": "Salam kenal. Nama saya Rina. Mohon kerja samanya.",
+    "question": "Apa makna ungkapan 「よろしくお願いします」?",
+    "options": [
+      "Berapa harganya?",
+      "Mohon kerja samanya",
+      "Silakan jalan lurus",
+      "Bolehkah saya libur?"
+    ],
+    "answer": 1,
+    "explanation": "「よろしくお願いします」 berarti “Mohon kerja samanya”. Perhatikan contoh kalimat dan konteks pada materi memperkenalkan diri."
+  },
+  {
+    "id": "kaiwa-m4-02",
+    "category": "kaiwa",
+    "title": "Menanyakan asal",
+    "content": "Pertanyaan asal: どちらから来ましたか = berasal dari mana? Jawaban: インドネシアから来ました.",
+    "japanese": "A：どちらから来ましたか。 B：インドネシアから来ました。",
+    "translation": "A: Anda berasal dari mana? B: Saya berasal dari Indonesia.",
+    "question": "Apa makna ungkapan 「どちらから来ましたか」?",
+    "options": [
+      "Anda berasal dari mana?",
+      "Ukuran besar",
+      "Apakah menuju Osaka?",
+      "Bisakah Anda membantu?"
+    ],
+    "answer": 0,
+    "explanation": "「どちらから来ましたか」 berarti “Anda berasal dari mana?”. Perhatikan contoh kalimat dan konteks pada materi menanyakan asal."
+  },
+  {
+    "id": "kaiwa-m4-03",
+    "category": "kaiwa",
+    "title": "Meminta pengulangan",
+    "content": "すみません、もう一度お願いします = maaf, tolong sekali lagi; ゆっくり話してください = tolong bicara perlahan.",
+    "japanese": "すみません、もう一度お願いします。",
+    "translation": "Maaf, tolong ulangi sekali lagi.",
+    "question": "Apa makna ungkapan 「もう一度お願いします」?",
+    "options": [
+      "Tolong beri satu yang ini",
+      "Jam berapa?",
+      "Apakah ini sudah benar?",
+      "Tolong ulangi sekali lagi"
+    ],
+    "answer": 3,
+    "explanation": "「もう一度お願いします」 berarti “Tolong ulangi sekali lagi”. Perhatikan contoh kalimat dan konteks pada materi meminta pengulangan."
+  },
+  {
+    "id": "kaiwa-m4-04",
+    "category": "kaiwa",
+    "title": "Menanyakan harga",
+    "content": "これはいくらですか = berapa harga ini? ～円です = harganya ... yen.",
+    "japanese": "A：これはいくらですか。 B：千円です。",
+    "translation": "A: Berapa harga ini? B: Seribu yen.",
+    "question": "Apa makna ungkapan 「いくらですか」?",
+    "options": [
+      "Apakah mengandung telur?",
+      "Saya akan sedikit terlambat",
+      "Berapa harganya?",
+      "Bagaimana kalau...?"
+    ],
+    "answer": 2,
+    "explanation": "「いくらですか」 berarti “Berapa harganya?”. Perhatikan contoh kalimat dan konteks pada materi menanyakan harga."
+  },
+  {
+    "id": "kaiwa-m4-05",
+    "category": "kaiwa",
+    "title": "Meminta ukuran lain",
+    "content": "もう少し大きいサイズはありますか = apakah ada ukuran sedikit lebih besar?",
+    "japanese": "もう少し大きいサイズはありますか。",
+    "translation": "Apakah ada ukuran sedikit lebih besar?",
+    "question": "Apa makna ungkapan 「大きいサイズ」?",
+    "options": [
+      "Silakan jalan lurus",
+      "Ukuran besar",
+      "Bolehkah saya libur?",
+      "Ingin mengubah"
+    ],
+    "answer": 1,
+    "explanation": "「大きいサイズ」 berarti “Ukuran besar”. Perhatikan contoh kalimat dan konteks pada materi meminta ukuran lain."
+  },
+  {
+    "id": "kaiwa-m4-06",
+    "category": "kaiwa",
+    "title": "Memesan makanan",
+    "content": "注文をお願いします = saya ingin memesan; これをください = saya mau yang ini.",
+    "japanese": "すみません。これを一つください。",
+    "translation": "Permisi, saya mau satu yang ini.",
+    "question": "Apa makna ungkapan 「これを一つください」?",
+    "options": [
+      "Tolong beri satu yang ini",
+      "Apakah menuju Osaka?",
+      "Bisakah Anda membantu?",
+      "Apakah baik-baik saja?"
+    ],
+    "answer": 0,
+    "explanation": "「これを一つください」 berarti “Tolong beri satu yang ini”. Perhatikan contoh kalimat dan konteks pada materi memesan makanan."
+  },
+  {
+    "id": "kaiwa-m4-07",
+    "category": "kaiwa",
+    "title": "Makanan yang tidak bisa dimakan",
+    "content": "～は食べられません = tidak bisa makan ...; ～が入っていますか = apakah mengandung ...?",
+    "japanese": "この料理に卵が入っていますか。",
+    "translation": "Apakah masakan ini mengandung telur?",
+    "question": "Apa makna ungkapan 「卵が入っていますか」?",
+    "options": [
+      "Jam berapa?",
+      "Apakah ini sudah benar?",
+      "Apakah ada obat?",
+      "Apakah mengandung telur?"
+    ],
+    "answer": 3,
+    "explanation": "「卵が入っていますか」 berarti “Apakah mengandung telur?”. Perhatikan contoh kalimat dan konteks pada materi makanan yang tidak bisa dimakan."
+  },
+  {
+    "id": "kaiwa-m4-08",
+    "category": "kaiwa",
+    "title": "Menanyakan jalan",
+    "content": "駅はどこですか = di mana stasiun? まっすぐ行ってください = silakan jalan lurus.",
+    "japanese": "A：駅はどこですか。 B：まっすぐ行ってください。",
+    "translation": "A: Di mana stasiun? B: Silakan jalan lurus.",
+    "question": "Apa makna ungkapan 「まっすぐ行ってください」?",
+    "options": [
+      "Saya akan sedikit terlambat",
+      "Bagaimana kalau...?",
+      "Silakan jalan lurus",
+      "Ingin mengirim"
+    ],
+    "answer": 2,
+    "explanation": "「まっすぐ行ってください」 berarti “Silakan jalan lurus”. Perhatikan contoh kalimat dan konteks pada materi menanyakan jalan."
+  },
+  {
+    "id": "kaiwa-m4-09",
+    "category": "kaiwa",
+    "title": "Naik kereta",
+    "content": "この電車は大阪へ行きますか = apakah kereta ini menuju Osaka?",
+    "japanese": "この電車は大阪へ行きますか。",
+    "translation": "Apakah kereta ini menuju Osaka?",
+    "question": "Apa makna ungkapan 「大阪へ行きますか」?",
+    "options": [
+      "Bolehkah saya libur?",
+      "Apakah menuju Osaka?",
+      "Ingin mengubah",
+      "Saya kehilangan dompet"
+    ],
+    "answer": 1,
+    "explanation": "「大阪へ行きますか」 berarti “Apakah menuju Osaka?”. Perhatikan contoh kalimat dan konteks pada materi naik kereta."
+  },
+  {
+    "id": "kaiwa-m4-10",
+    "category": "kaiwa",
+    "title": "Menanyakan jadwal",
+    "content": "次のバスは何時ですか = bus berikutnya jam berapa?",
+    "japanese": "A：次のバスは何時ですか。 B：九時半です。",
+    "translation": "A: Bus berikutnya jam berapa? B: Jam setengah sepuluh.",
+    "question": "Apa makna ungkapan 「何時ですか」?",
+    "options": [
+      "Jam berapa?",
+      "Bisakah Anda membantu?",
+      "Apakah baik-baik saja?",
+      "Tempat evakuasi"
+    ],
+    "answer": 0,
+    "explanation": "「何時ですか」 berarti “Jam berapa?”. Perhatikan contoh kalimat dan konteks pada materi menanyakan jadwal."
+  },
+  {
+    "id": "kaiwa-m4-11",
+    "category": "kaiwa",
+    "title": "Terlambat kerja",
+    "content": "遅れます = akan terlambat; 申し訳ありません = saya mohon maaf.",
+    "japanese": "電車が遅れているので、少し遅れます。",
+    "translation": "Karena kereta terlambat, saya akan sedikit terlambat.",
+    "question": "Apa makna ungkapan 「少し遅れます」?",
+    "options": [
+      "Apakah ini sudah benar?",
+      "Apakah ada obat?",
+      "Mohon kerja samanya",
+      "Saya akan sedikit terlambat"
+    ],
+    "answer": 3,
+    "explanation": "「少し遅れます」 berarti “Saya akan sedikit terlambat”. Perhatikan contoh kalimat dan konteks pada materi terlambat kerja."
+  },
+  {
+    "id": "kaiwa-m4-12",
+    "category": "kaiwa",
+    "title": "Meminta izin kerja",
+    "content": "明日、休んでもいいですか = bolehkah saya libur besok?",
+    "japanese": "すみません。明日、休んでもいいですか。",
+    "translation": "Permisi, bolehkah saya libur besok?",
+    "question": "Apa makna ungkapan 「休んでもいいですか」?",
+    "options": [
+      "Bagaimana kalau...?",
+      "Ingin mengirim",
+      "Bolehkah saya libur?",
+      "Anda berasal dari mana?"
+    ],
+    "answer": 2,
+    "explanation": "「休んでもいいですか」 berarti “Bolehkah saya libur?”. Perhatikan contoh kalimat dan konteks pada materi meminta izin kerja."
+  },
+  {
+    "id": "kaiwa-m4-13",
+    "category": "kaiwa",
+    "title": "Meminta bantuan",
+    "content": "手伝っていただけますか = bisakah Anda membantu saya? (sopan)",
+    "japanese": "すみません。この箱を運ぶのを手伝っていただけますか。",
+    "translation": "Permisi, bisakah Anda membantu saya membawa kotak ini?",
+    "question": "Apa makna ungkapan 「手伝っていただけますか」?",
+    "options": [
+      "Ingin mengubah",
+      "Bisakah Anda membantu?",
+      "Saya kehilangan dompet",
+      "Tolong ulangi sekali lagi"
+    ],
+    "answer": 1,
+    "explanation": "「手伝っていただけますか」 berarti “Bisakah Anda membantu?”. Perhatikan contoh kalimat dan konteks pada materi meminta bantuan."
+  },
+  {
+    "id": "kaiwa-m4-14",
+    "category": "kaiwa",
+    "title": "Mengonfirmasi instruksi",
+    "content": "これでいいですか = apakah seperti ini sudah benar?",
+    "japanese": "A：これでいいですか。 B：はい、大丈夫です。",
+    "translation": "A: Apakah seperti ini sudah benar? B: Ya, tidak masalah.",
+    "question": "Apa makna ungkapan 「これでいいですか」?",
+    "options": [
+      "Apakah ini sudah benar?",
+      "Apakah baik-baik saja?",
+      "Tempat evakuasi",
+      "Berapa harganya?"
+    ],
+    "answer": 0,
+    "explanation": "「これでいいですか」 berarti “Apakah ini sudah benar?”. Perhatikan contoh kalimat dan konteks pada materi mengonfirmasi instruksi."
+  },
+  {
+    "id": "kaiwa-m4-15",
+    "category": "kaiwa",
+    "title": "Membuat janji",
+    "content": "いつがいいですか = kapan waktu yang cocok? 来週の火曜日はどうですか = bagaimana Selasa depan?",
+    "japanese": "来週の火曜日はどうですか。",
+    "translation": "Bagaimana kalau Selasa minggu depan?",
+    "question": "Apa makna ungkapan 「どうですか」?",
+    "options": [
+      "Apakah ada obat?",
+      "Mohon kerja samanya",
+      "Ukuran besar",
+      "Bagaimana kalau...?"
+    ],
+    "answer": 3,
+    "explanation": "「どうですか」 berarti “Bagaimana kalau...?”. Perhatikan contoh kalimat dan konteks pada materi membuat janji."
+  },
+  {
+    "id": "kaiwa-m4-16",
+    "category": "kaiwa",
+    "title": "Mengubah jadwal",
+    "content": "予定を変更したいです = saya ingin mengubah jadwal.",
+    "japanese": "すみません。予約の時間を変更したいです。",
+    "translation": "Maaf, saya ingin mengubah waktu reservasi.",
+    "question": "Apa makna ungkapan 「変更したいです」?",
+    "options": [
+      "Ingin mengirim",
+      "Anda berasal dari mana?",
+      "Ingin mengubah",
+      "Tolong beri satu yang ini"
+    ],
+    "answer": 2,
+    "explanation": "「変更したいです」 berarti “Ingin mengubah”. Perhatikan contoh kalimat dan konteks pada materi mengubah jadwal."
+  },
+  {
+    "id": "kaiwa-m4-17",
+    "category": "kaiwa",
+    "title": "Menanyakan keadaan",
+    "content": "大丈夫ですか = apakah Anda baik-baik saja? お大事に = semoga lekas sembuh.",
+    "japanese": "A：大丈夫ですか。 B：少し頭が痛いです。",
+    "translation": "A: Anda baik-baik saja? B: Kepala saya sedikit sakit.",
+    "question": "Apa makna ungkapan 「大丈夫ですか」?",
+    "options": [
+      "Saya kehilangan dompet",
+      "Apakah baik-baik saja?",
+      "Tolong ulangi sekali lagi",
+      "Apakah mengandung telur?"
+    ],
+    "answer": 1,
+    "explanation": "「大丈夫ですか」 berarti “Apakah baik-baik saja?”. Perhatikan contoh kalimat dan konteks pada materi menanyakan keadaan."
+  },
+  {
+    "id": "kaiwa-m4-18",
+    "category": "kaiwa",
+    "title": "Di apotek",
+    "content": "頭が痛いです = kepala saya sakit; 薬はありますか = apakah ada obat?",
+    "japanese": "頭が痛いです。薬はありますか。",
+    "translation": "Kepala saya sakit. Apakah ada obat?",
+    "question": "Apa makna ungkapan 「薬はありますか」?",
+    "options": [
+      "Apakah ada obat?",
+      "Tempat evakuasi",
+      "Berapa harganya?",
+      "Silakan jalan lurus"
+    ],
+    "answer": 0,
+    "explanation": "「薬はありますか」 berarti “Apakah ada obat?”. Perhatikan contoh kalimat dan konteks pada materi di apotek."
+  },
+  {
+    "id": "kaiwa-m4-19",
+    "category": "kaiwa",
+    "title": "Di kantor pos",
+    "content": "この荷物を送りたいです = saya ingin mengirim paket ini.",
+    "japanese": "この荷物をインドネシアへ送りたいです。",
+    "translation": "Saya ingin mengirim paket ini ke Indonesia.",
+    "question": "Apa makna ungkapan 「送りたいです」?",
+    "options": [
+      "Mohon kerja samanya",
+      "Ukuran besar",
+      "Apakah menuju Osaka?",
+      "Ingin mengirim"
+    ],
+    "answer": 3,
+    "explanation": "「送りたいです」 berarti “Ingin mengirim”. Perhatikan contoh kalimat dan konteks pada materi di kantor pos."
+  },
+  {
+    "id": "kaiwa-m4-20",
+    "category": "kaiwa",
+    "title": "Mencari barang hilang",
+    "content": "財布をなくしました = saya kehilangan dompet.",
+    "japanese": "すみません。財布をなくしました。",
+    "translation": "Permisi, saya kehilangan dompet.",
+    "question": "Apa makna ungkapan 「財布をなくしました」?",
+    "options": [
+      "Anda berasal dari mana?",
+      "Tolong beri satu yang ini",
+      "Saya kehilangan dompet",
+      "Jam berapa?"
+    ],
+    "answer": 2,
+    "explanation": "「財布をなくしました」 berarti “Saya kehilangan dompet”. Perhatikan contoh kalimat dan konteks pada materi mencari barang hilang."
+  },
+  {
+    "id": "kaiwa-m4-21",
+    "category": "kaiwa",
+    "title": "Meminta informasi bencana",
+    "content": "避難場所はどこですか = di mana tempat evakuasi?",
+    "japanese": "すみません。避難場所はどこですか。",
+    "translation": "Permisi, di mana tempat evakuasi?",
+    "question": "Apa makna ungkapan 「避難場所」?",
+    "options": [
+      "Tolong ulangi sekali lagi",
+      "Tempat evakuasi",
+      "Apakah mengandung telur?",
+      "Saya akan sedikit terlambat"
+    ],
+    "answer": 1,
+    "explanation": "「避難場所」 berarti “Tempat evakuasi”. Perhatikan contoh kalimat dan konteks pada materi meminta informasi bencana."
   }
 ]

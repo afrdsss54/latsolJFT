@@ -1,25 +1,25 @@
-# LatSol JFT A2 v16 — M5 Learning Center
+# LatSol JFT A2 — Mega Upgrade v17–v20 (M7 Release Candidate)
 
-## Baru di M5
-- Learning Center **terpisah** dari Smart Learning dan CBT, dengan empat kategori: Kotoba, Bunpou, Kanji, Kaiwa.
-- 16 pelajaran awal yang ditulis untuk modul ini (4 per kategori), masing-masing dengan contoh Jepang, arti Indonesia, satu kuis empat pilihan, dan pembahasan.
-- Progres jawaban benar tersimpan per profil di `localStorage` (`latsoljft-center-v16-<profile>`). Jawaban salah dapat dicoba ulang.
-- TTS Jepang untuk contoh kalimat jika perangkat memiliki suara Jepang.
-- Perbaikan dashboard Smart Learning lama agar hasil 48 soal v16 memakai snapshot, bukan indeks 40 soal v15.
-- CBT M4 dan bank 500 entri dipertahankan. Tidak ada Supabase atau API berbayar.
+**Status: Release Candidate / menunggu QA perangkat dan review editorial.** Satu ZIP lengkap untuk deployment statis ke GitHub/Vercel. Tidak ada backend, login cloud, atau API AI berbayar.
 
-## Batasan
-- 16 materi awal adalah fondasi, **bukan kurikulum A2 lengkap**. Materi dan soal belum melalui review penutur/pengajar independen.
-- Bank 500 entri masih perlu audit editorial, terutama kesamaan pola soal.
-- TTS bergantung browser/perangkat, bukan audio rekaman.
-- Progres tersimpan lokal dan tidak disinkronkan antarperangkat.
-- Pengujian browser end-to-end belum dilakukan. Validasi sintaks dan struktur bukan pengganti QA perangkat.
+## Isi
+- CBT 48 soal / 60 menit, bank 500 soal, hasil dan riwayat lokal.
+- Adaptive Practice, Spaced Repetition, Study Planner 7/14/30 hari.
+- Japanese Learning Academy 100 modul: 30 Kotoba, 25 Bunpou, 20 Kanji, 25 Kaiwa.
+- Gamification: XP, level, streak, achievement; tampilan responsif.
+- Exam Pro: tren nilai, analisis per bagian, indikator kesiapan **internal**.
 
-## Deploy
-Ekspor cadangan riwayat dari versi sebelumnya. Upload seluruh isi ZIP ke root repo GitHub, commit `main`, tunggu Vercel deploy, lalu hard-refresh. `index.html` harus berada di root. Jika service worker menyajikan cache lama, lakukan reload/clear site cache dengan hati-hati (menghapus site data juga dapat menghapus riwayat lokal).
+## Instalasi
+1. **Backup riwayat lama** menggunakan tombol ekspor di website lama. Jangan hapus data browser.
+2. Ekstrak ZIP; unggah **isi folder**, bukan folder pembungkus, ke root repo GitHub.
+3. Pastikan Vercel project terhubung ke repo dan menggunakan konfigurasi static/Other tanpa build command; output directory root (`.`) bila diminta.
+4. Buka situs; uji dengan checklist `QA-M7.md` pada desktop dan HP. Jika ada bug, rollback ke commit sebelumnya.
 
-## Tes manual
-1. Buat/pilih profil → Learning Center → keempat kategori → buka materi → jawab kuis → periksa → kembali → progres tetap.
-2. Periksa TTS contoh dan pesan fallback tanpa suara Jepang.
-3. Masuk CBT, selesaikan sesi 48 soal, cek riwayat dan Smart Learning dashboard.
-4. Buka hasil lama v15 40 soal dan pastikan pembahasannya tetap sesuai.
+## Pengujian otomatis
+Jalankan `python validate_bank.py`, lalu `node tests/test_*.js` satu per satu; `node --check` untuk semua `.js`. Lihat `QA-M7.md` untuk laporan dan batasannya.
+
+## Penting
+- **Belum diverifikasi di browser/HP nyata** pada lingkungan ini. Headless Chromium tidak berhasil menghasilkan output DOM untuk inspeksi, sehingga tidak boleh diklaim lulus browser QA.
+- Review editorial independen untuk 500 soal dan 100 modul belum selesai. 84 modul baru memakai satu soal kuis per modul, dan beberapa distraktor masih sederhana.
+- TTS tergantung suara Jepang perangkat. Tidak ada audio MP3 offline. LocalStorage/IndexedDB tidak tersinkron lintas perangkat.
+- LatSol independen, tidak berafiliasi dengan The Japan Foundation. Hasil bukan nilai atau prediksi resmi JFT-Basic.
