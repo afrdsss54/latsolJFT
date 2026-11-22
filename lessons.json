@@ -1,0 +1,274 @@
+[
+  {
+    "id": "kotoba-1",
+    "category": "kotoba",
+    "title": "Transportasi",
+    "content": "駅（えき）= stasiun; 電車（でんしゃ）= kereta; 切符（きっぷ）= tiket; 乗ります（のります）= naik.",
+    "japanese": "駅で電車に乗ります。",
+    "translation": "Saya naik kereta di stasiun.",
+    "question": "「切符」の意味は？",
+    "options": [
+      "Tiket",
+      "Obat",
+      "Libur",
+      "Kantor"
+    ],
+    "answer": 0,
+    "explanation": "切符 adalah tiket."
+  },
+  {
+    "id": "kotoba-2",
+    "category": "kotoba",
+    "title": "Belanja",
+    "content": "値段（ねだん）= harga; 安い（やすい）= murah; 高い（たかい）= mahal; 買います（かいます）= membeli.",
+    "japanese": "このかばんは安いです。",
+    "translation": "Tas ini murah.",
+    "question": "「安い」の意味は？",
+    "options": [
+      "Mahal",
+      "Murah",
+      "Besar",
+      "Baru"
+    ],
+    "answer": 1,
+    "explanation": "安い berarti murah."
+  },
+  {
+    "id": "kotoba-3",
+    "category": "kotoba",
+    "title": "Kesehatan",
+    "content": "病院（びょういん）= rumah sakit; 薬（くすり）= obat; 熱（ねつ）= demam; 痛い（いたい）= sakit/nyeri.",
+    "japanese": "熱があるので、病院へ行きます。",
+    "translation": "Karena demam, saya pergi ke rumah sakit.",
+    "question": "「薬」は何ですか。",
+    "options": [
+      "Obat",
+      "Stasiun",
+      "Tiket",
+      "Sekolah"
+    ],
+    "answer": 0,
+    "explanation": "薬 berarti obat."
+  },
+  {
+    "id": "kotoba-4",
+    "category": "kotoba",
+    "title": "Pekerjaan",
+    "content": "会社（かいしゃ）= perusahaan; 会議（かいぎ）= rapat; 休み（やすみ）= libur; 仕事（しごと）= pekerjaan.",
+    "japanese": "午後、会社で会議があります。",
+    "translation": "Siang/sore ada rapat di perusahaan.",
+    "question": "「会議」の意味は？",
+    "options": [
+      "Rapat",
+      "Libur",
+      "Belanja",
+      "Kereta"
+    ],
+    "answer": 0,
+    "explanation": "会議 berarti rapat."
+  },
+  {
+    "id": "bunpou-5",
+    "category": "bunpou",
+    "title": "～てください",
+    "content": "Pola ～てください digunakan untuk meminta seseorang melakukan sesuatu secara sopan. Bentuk て + ください.",
+    "japanese": "ここに名前を書いてください。",
+    "translation": "Silakan tulis nama di sini.",
+    "question": "「座ってください」の意味は？",
+    "options": [
+      "Silakan duduk",
+      "Jangan duduk",
+      "Sudah duduk",
+      "Ingin duduk"
+    ],
+    "answer": 0,
+    "explanation": "～てください = silakan lakukan."
+  },
+  {
+    "id": "bunpou-6",
+    "category": "bunpou",
+    "title": "～てもいいですか",
+    "content": "Pola ～てもいいですか digunakan untuk meminta izin.",
+    "japanese": "ここで写真を撮ってもいいですか。",
+    "translation": "Bolehkah saya mengambil foto di sini?",
+    "question": "Kalimat untuk meminta izin memotret?",
+    "options": [
+      "写真を撮ってもいいですか。",
+      "写真を撮らないでください。",
+      "写真を撮りました。",
+      "写真を撮りません。"
+    ],
+    "answer": 0,
+    "explanation": "～てもいいですか = bolehkah ...?"
+  },
+  {
+    "id": "bunpou-7",
+    "category": "bunpou",
+    "title": "～なければなりません",
+    "content": "Pola ～なければなりません menunjukkan kewajiban atau keharusan.",
+    "japanese": "明日までに宿題をしなければなりません。",
+    "translation": "Saya harus mengerjakan PR sebelum besok.",
+    "question": "「行かなければなりません」の意味は？",
+    "options": [
+      "Harus pergi",
+      "Boleh pergi",
+      "Tidak pergi",
+      "Sudah pergi"
+    ],
+    "answer": 0,
+    "explanation": "～なければなりません = harus."
+  },
+  {
+    "id": "bunpou-8",
+    "category": "bunpou",
+    "title": "～たことがあります",
+    "content": "Pola ～たことがあります menyatakan pengalaman pernah melakukan sesuatu.",
+    "japanese": "京都へ行ったことがあります。",
+    "translation": "Saya pernah pergi ke Kyoto.",
+    "question": "「食べたことがあります」の意味は？",
+    "options": [
+      "Pernah makan",
+      "Sedang makan",
+      "Harus makan",
+      "Jangan makan"
+    ],
+    "answer": 0,
+    "explanation": "～たことがあります = pernah."
+  },
+  {
+    "id": "kanji-9",
+    "category": "kanji",
+    "title": "Waktu dan tanggal",
+    "content": "日（ひ／にち）= hari; 月（つき／げつ）= bulan; 年（とし／ねん）= tahun; 時（じ）= jam.",
+    "japanese": "三時に会いましょう。",
+    "translation": "Mari bertemu pukul tiga.",
+    "question": "「三時」のよみかたは？",
+    "options": [
+      "さんじ",
+      "みっか",
+      "さんにち",
+      "さんねん"
+    ],
+    "answer": 0,
+    "explanation": "三時 dibaca さんじ."
+  },
+  {
+    "id": "kanji-10",
+    "category": "kanji",
+    "title": "Tempat dan arah",
+    "content": "上（うえ）= atas; 下（した）= bawah; 中（なか）= dalam; 外（そと）= luar.",
+    "japanese": "かばんの中に本があります。",
+    "translation": "Ada buku di dalam tas.",
+    "question": "「外」のよみかたは？",
+    "options": [
+      "そと",
+      "なか",
+      "うえ",
+      "した"
+    ],
+    "answer": 0,
+    "explanation": "外 dibaca そと."
+  },
+  {
+    "id": "kanji-11",
+    "category": "kanji",
+    "title": "Aktivitas sehari-hari",
+    "content": "食（た）べる = makan; 飲（の）む = minum; 見（み）る = melihat; 聞（き）く = mendengar.",
+    "japanese": "毎朝、水を飲みます。",
+    "translation": "Setiap pagi saya minum air.",
+    "question": "「飲む」のよみかたは？",
+    "options": [
+      "のむ",
+      "たべる",
+      "みる",
+      "きく"
+    ],
+    "answer": 0,
+    "explanation": "飲む dibaca のむ."
+  },
+  {
+    "id": "kanji-12",
+    "category": "kanji",
+    "title": "Fasilitas umum",
+    "content": "駅（えき）= stasiun; 店（みせ）= toko; 病院（びょういん）= rumah sakit; 学校（がっこう）= sekolah.",
+    "japanese": "学校の近くに店があります。",
+    "translation": "Ada toko dekat sekolah.",
+    "question": "「学校」のよみかたは？",
+    "options": [
+      "がっこう",
+      "びょういん",
+      "えき",
+      "みせ"
+    ],
+    "answer": 0,
+    "explanation": "学校 dibaca がっこう."
+  },
+  {
+    "id": "kaiwa-13",
+    "category": "kaiwa",
+    "title": "Memesan makanan",
+    "content": "Saat memesan, gunakan ～をください. Untuk menanyakan rekomendasi, gunakan おすすめは何ですか。",
+    "japanese": "すみません。水を一つください。",
+    "translation": "Permisi, minta satu air minum.",
+    "question": "Kalimat untuk meminta air?",
+    "options": [
+      "水をください。",
+      "水はどこですか。",
+      "水を飲みました。",
+      "水がありません。"
+    ],
+    "answer": 0,
+    "explanation": "～をください adalah permintaan barang."
+  },
+  {
+    "id": "kaiwa-14",
+    "category": "kaiwa",
+    "title": "Menanyakan arah",
+    "content": "Gunakan ～はどこですか untuk menanyakan lokasi dan ～へどう行きますか untuk menanyakan cara pergi.",
+    "japanese": "駅へはどう行きますか。",
+    "translation": "Bagaimana cara pergi ke stasiun?",
+    "question": "Bagaimana menanyakan lokasi toilet?",
+    "options": [
+      "トイレはどこですか。",
+      "トイレに行きました。",
+      "トイレが好きです。",
+      "トイレを買います。"
+    ],
+    "answer": 0,
+    "explanation": "～はどこですか = di mana ...?"
+  },
+  {
+    "id": "kaiwa-15",
+    "category": "kaiwa",
+    "title": "Membuat janji",
+    "content": "Gunakan ～はどうですか untuk mengusulkan waktu atau pilihan. Jawaban いいですね menyatakan persetujuan.",
+    "japanese": "土曜日の午後はどうですか。",
+    "translation": "Bagaimana kalau Sabtu siang/sore?",
+    "question": "Jawaban setuju pada usulan?",
+    "options": [
+      "いいですね。",
+      "ちがいます。",
+      "わかりません。",
+      "まだです。"
+    ],
+    "answer": 0,
+    "explanation": "いいですね menunjukkan persetujuan."
+  },
+  {
+    "id": "kaiwa-16",
+    "category": "kaiwa",
+    "title": "Meminta bantuan",
+    "content": "Gunakan ～てもらえますか untuk meminta bantuan dengan sopan.",
+    "japanese": "この漢字を読んでもらえますか。",
+    "translation": "Bisakah Anda membacakan kanji ini untuk saya?",
+    "question": "Kalimat meminta bantuan membacakan?",
+    "options": [
+      "読んでもらえますか。",
+      "読まないでください。",
+      "読みました。",
+      "読めません。"
+    ],
+    "answer": 0,
+    "explanation": "～てもらえますか meminta bantuan."
+  }
+]
