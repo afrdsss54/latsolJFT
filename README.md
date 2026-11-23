@@ -30,3 +30,11 @@ See `S0-CURRICULUM-AUDIT.md` and `curriculum/`. This checkpoint does not activat
 
 ## S1 — Japanese Learning System Learning Path
 Open **Jalur Belajar F0–F5** on the CBT home screen. Choose Belajar dari Nol or Persiapan JFT-Basic A2, then browse mapped Academy modules. Choices are stored locally in a separate per-profile key. This checkpoint does not migrate or rewrite existing CBT/Academy progress. See `S1-QA-REPORT.md`.
+
+
+## S2 Interactive Lesson Engine
+Open Jalur Belajar > Bab interaktif S2. Three pilot lessons; see `S2-QA-REPORT.md`. No changes to CBT or legacy Academy progress.
+
+
+## S3 Mastery Lab
+Open **Jalur Belajar → Mastery Lab S3** for Kotoba/Kanji flashcards and Grammar Explorer. See `S3-QA-REPORT.md`.
