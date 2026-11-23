@@ -62,3 +62,11 @@ See `S4.4-QA-REPORT.md` and `S4.4-EDITORIAL-ISSUES.md`. Listening translations a
 
 ## S5 Speaking Learning Lab
 Buka Jalur Belajar → Speaking Lab. Tersedia 22 unit F0–F2, repeat-after-me, shadowing, roleplay, TTS, mikrofon opsional dan fallback manual. Progres S5 terpisah per profil. Lihat `S5-QA-REPORT.md`.
+
+
+## S6 — Adaptive Path Integration
+Jalur Belajar → Rencana Adaptif S6. Shows progress across Academy (100), seven-step (22), Listening, Speaking, Mastery due cards; ranks overdue reviews, Listening errors, incomplete units and Academy gaps. Offers five suggested sessions. Reads existing localStorage keys only. See `S6-QA-REPORT.md`.
+
+
+## S7.0 Curriculum Alignment Audit
+Lihat `S7.0-CURRICULUM-ALIGNMENT-AUDIT.md`, `S7.0-ROADMAP.md`, `curriculum/s70-alignment-matrix.json`, `curriculum/s70-reference-coverage.csv`. Audit-only: seluruh aplikasi dan key progres S6 tidak diubah. Referensi berstatus kandidat belum divalidasi per bab/Can-do.
