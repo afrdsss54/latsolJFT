@@ -7,7 +7,7 @@ assert(app.includes("if(Date.now()>=exam.deadline){finish(true);return}exam.answ
 assert(app.includes("if(Date.now()>=exam.deadline){finish(true);return}exam.index="),'Navigation click expiry guard');
 assert(app.includes("if(Date.now()>=exam.deadline){finish(true);return}let k="),'Keyboard expiry guard');
 assert(app.includes('latsoljft-invalid-session-backup'),'Invalid session backup');
-assert(/latsoljft-content-mega-m7-1/.test(sw),'M7 cache version');
+assert(/latsoljft-content-jls-s1-1/.test(sw),'S1 cache version');
 const bank=JSON.parse(fs.readFileSync(path.join(root,'questions.json'),'utf8'));
 assert.strictEqual(bank.length,500);assert.strictEqual(new Set(bank.map(q=>q.id)).size,500);
 console.log('PASS M0: expiry guards, recovery backup, cache version, bank count');

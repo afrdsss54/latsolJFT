@@ -23,3 +23,10 @@ Jalankan `python validate_bank.py`, lalu `node tests/test_*.js` satu per satu; `
 - Review editorial independen untuk 500 soal dan 100 modul belum selesai. 84 modul baru memakai satu soal kuis per modul, dan beberapa distraktor masih sederhana.
 - TTS tergantung suara Jepang perangkat. Tidak ada audio MP3 offline. LocalStorage/IndexedDB tidak tersinkron lintas perangkat.
 - LatSol independen, tidak berafiliasi dengan The Japan Foundation. Hasil bukan nilai atau prediksi resmi JFT-Basic.
+
+
+## S0 Japanese Learning System — Curriculum Mapping (data only)
+See `S0-CURRICULUM-AUDIT.md` and `curriculum/`. This checkpoint does not activate a new UI or modify CBT or existing user progress. Run `node tests/test_s0_curriculum.js`.
+
+## S1 — Japanese Learning System Learning Path
+Open **Jalur Belajar F0–F5** on the CBT home screen. Choose Belajar dari Nol or Persiapan JFT-Basic A2, then browse mapped Academy modules. Choices are stored locally in a separate per-profile key. This checkpoint does not migrate or rewrite existing CBT/Academy progress. See `S1-QA-REPORT.md`.

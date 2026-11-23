@@ -1,0 +1,221 @@
+{
+  "schemaVersion": "s0.1",
+  "stages": [
+    {
+      "id": "F0",
+      "title": "Foundation",
+      "scope": "Kana, bunyi, salam, angka, identitas dan ungkapan awal"
+    },
+    {
+      "id": "F1",
+      "title": "Basic Communication",
+      "scope": "Kalimat dasar, partikel, waktu, keluarga, rutinitas"
+    },
+    {
+      "id": "F2",
+      "title": "Daily Japanese",
+      "scope": "Bentuk kata kerja, permintaan, izin, pengalaman, kegiatan"
+    },
+    {
+      "id": "F3",
+      "title": "Practical Japanese",
+      "scope": "Belanja, transportasi, pekerjaan, layanan publik, kesehatan"
+    },
+    {
+      "id": "F4",
+      "title": "Communication Mastery",
+      "scope": "Percakapan situasional, informasi kompleks, pemahaman kontekstual"
+    },
+    {
+      "id": "F5",
+      "title": "JFT Readiness Bridge",
+      "scope": "Integrasi empat bagian, latihan terarah dan simulasi"
+    }
+  ],
+  "competencies": [
+    {
+      "id": "F0-KANA-H",
+      "stage": "F0",
+      "name": "Read hiragana",
+      "domain": "script-kana",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F0-KANA-K",
+      "stage": "F0",
+      "name": "Read katakana",
+      "domain": "script-kana",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F0-SOUNDS",
+      "stage": "F0",
+      "name": "Japanese sounds and mora",
+      "domain": "listening",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F0-GREET",
+      "stage": "F0",
+      "name": "Greetings and introductions",
+      "domain": "situational-communication",
+      "status": "partial-existing-coverage",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F1-PARTICLES",
+      "stage": "F1",
+      "name": "Core particles は・が・を・に・で・へ",
+      "domain": "grammar",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F1-PREDICATE",
+      "stage": "F1",
+      "name": "Basic です/ます sentences",
+      "domain": "grammar",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F1-TIME",
+      "stage": "F1",
+      "name": "Time and daily routines",
+      "domain": "vocabulary",
+      "status": "partial-existing-coverage",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F1-KANJI",
+      "stage": "F1",
+      "name": "Basic everyday kanji",
+      "domain": "script-kanji",
+      "status": "partial-existing-coverage",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F2-VERBFORMS",
+      "stage": "F2",
+      "name": "て・ない・た forms",
+      "domain": "grammar",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F2-REQUEST",
+      "stage": "F2",
+      "name": "Requests, permission, invitation",
+      "domain": "grammar",
+      "status": "partial-existing-coverage",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F2-LISTEN",
+      "stage": "F2",
+      "name": "Short everyday dialogues",
+      "domain": "listening",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F2-SPEAK",
+      "stage": "F2",
+      "name": "Short responsive speaking",
+      "domain": "speaking",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F3-SERVICE",
+      "stage": "F3",
+      "name": "Shopping, transport, healthcare and work",
+      "domain": "situational-communication",
+      "status": "partial-existing-coverage",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F3-READ",
+      "stage": "F3",
+      "name": "Practical notices and forms",
+      "domain": "reading",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F3-LISTEN",
+      "stage": "F3",
+      "name": "Practical spoken instructions",
+      "domain": "listening",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F3-SPEAK",
+      "stage": "F3",
+      "name": "Situational roleplay",
+      "domain": "speaking",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F4-READ",
+      "stage": "F4",
+      "name": "Longer connected everyday texts",
+      "domain": "reading",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F4-LISTEN",
+      "stage": "F4",
+      "name": "Multi-turn contextual listening",
+      "domain": "listening",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F4-SPEAK",
+      "stage": "F4",
+      "name": "Extended roleplay and shadowing",
+      "domain": "speaking",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F4-GRAMMAR",
+      "stage": "F4",
+      "name": "Integrated grammar in context",
+      "domain": "grammar",
+      "status": "partial-existing-coverage",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F5-DIAGNOSTIC",
+      "stage": "F5",
+      "name": "Four-section diagnostic",
+      "domain": "assessment",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F5-TARGET",
+      "stage": "F5",
+      "name": "Targeted remediation",
+      "domain": "assessment",
+      "status": "gap-requires-new-content",
+      "assessmentEvidenceRequired": true
+    },
+    {
+      "id": "F5-MOCK",
+      "stage": "F5",
+      "name": "Timed CBT and review",
+      "domain": "assessment",
+      "status": "partial-existing-coverage",
+      "assessmentEvidenceRequired": true
+    }
+  ]
+}

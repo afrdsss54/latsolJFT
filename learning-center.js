@@ -25,5 +25,5 @@ const reset=document.getElementById('center-reset');if(reset)reset.onclick=()=>{
 const cont=document.getElementById('academy-continue');if(cont)cont.onclick=()=>{const list=lessons.filter(l=>l.category===category),i=list.findIndex(l=>l.id===selected);if(i+1<list.length){selected=list[i+1].id;answer=null;checked=false}else{selected=null;filter='todo'}draw()};
 const speak=document.getElementById('center-speak');if(speak)speak.onclick=()=>{if(!('speechSynthesis'in window)){alert('TTS tidak tersedia.');return}const l=lessons.find(x=>x.id===selected),voice=speechSynthesis.getVoices().find(v=>v.lang.toLowerCase().startsWith('ja'));if(!voice){alert('Suara Jepang belum tersedia di perangkat ini.');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(l.japanese);u.lang='ja-JP';u.voice=voice;u.rate=.88;speechSynthesis.speak(u)};
 }
-window.JFT_CENTER={open(p){profile=p||'guest';category=null;selected=null;answer=null;checked=false;filter='all';draw()},lessons};
+window.JFT_CENTER={openLesson(p,id){profile=p||'guest';const lesson=lessons.find(l=>l.id===id);if(!lesson){this.open(p);return}category=lesson.category;selected=lesson.id;answer=null;checked=false;filter='all';draw()},open(p){profile=p||'guest';category=null;selected=null;answer=null;checked=false;filter='all';draw()},lessons};
 })();
