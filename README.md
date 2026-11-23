@@ -38,3 +38,27 @@ Open Jalur Belajar > Bab interaktif S2. Three pilot lessons; see `S2-QA-REPORT.m
 
 ## S3 Mastery Lab
 Open **Jalur Belajar → Mastery Lab S3** for Kotoba/Kanji flashcards and Grammar Explorer. See `S3-QA-REPORT.md`.
+
+
+## S4.0 Curriculum Reference Mapping
+This checkpoint adds planning-only curriculum files; see `S4.0-CURRICULUM-AUDIT.md` and `S4.0-TEST-RESULTS.md`. No runtime behavior, CBT bank or existing progress keys were modified. Reference mapping is provisional pending source verification.
+
+
+## S4.1 — Seven-Step Pilot
+From **Jalur Belajar**, choose **Belajar 7 Langkah S4.1**. Four original F0–F1 units implement goals, vocabulary, grammar, listening (browser TTS), active practice, speaking self-check and delayed mastery review. Progress is stored under `latsoljft-jls-s41-<profile>`; existing CBT and Academy storage keys remain unchanged. See `S4.1-QA-REPORT.md`.
+
+
+## S4.2 Expanded Japanese Content
+18 new original seven-step units (22 total), F0–F2 stage filtering, unchanged legacy CBT and progress keys. See S4.2-CONTENT-PLAN.md and S4.2-QA-REPORT.md.
+
+
+## S4.3 Listening Content Lab
+Buka Jalur Belajar → Listening Lab. 22 unit F0–F2, comprehension, dictation, Japanese TTS 0.75×–1.25× (hanya mode belajar), transkrip setelah menjawab, progres baru per profil. Lihat `S4.3-QA-REPORT.md`.
+
+
+## S4.4 Listening Quality Upgrade
+See `S4.4-QA-REPORT.md` and `S4.4-EDITORIAL-ISSUES.md`. Listening translations and review features are a development checkpoint. Existing CBT and S4.3 listening storage prefix remain unchanged.
+
+
+## S5 Speaking Learning Lab
+Buka Jalur Belajar → Speaking Lab. Tersedia 22 unit F0–F2, repeat-after-me, shadowing, roleplay, TTS, mikrofon opsional dan fallback manual. Progres S5 terpisah per profil. Lihat `S5-QA-REPORT.md`.

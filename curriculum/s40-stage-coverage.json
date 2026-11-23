@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "s4.0.1",
+  "stages": [
+    {
+      "stage": "F0",
+      "scope": "Kana, bunyi, salam, angka, identitas dan ungkapan awal",
+      "competencyIds": [
+        "F0-KANA-H",
+        "F0-KANA-K",
+        "F0-SOUNDS",
+        "F0-GREET"
+      ],
+      "legacyModules": 3,
+      "minnaReferenceSlots": 1,
+      "irodoriReferenceSlots": 18,
+      "gapPriority": "critical",
+      "notes": "Stage alignment is internal curriculum design, not official JFT/CEFR level equivalence"
+    },
+    {
+      "stage": "F1",
+      "scope": "Kalimat dasar, partikel, waktu, keluarga, rutinitas",
+      "competencyIds": [
+        "F1-PARTICLES",
+        "F1-PREDICATE",
+        "F1-TIME",
+        "F1-KANJI"
+      ],
+      "legacyModules": 19,
+      "minnaReferenceSlots": 11,
+      "irodoriReferenceSlots": 0,
+      "gapPriority": "high",
+      "notes": "Stage alignment is internal curriculum design, not official JFT/CEFR level equivalence"
+    },
+    {
+      "stage": "F2",
+      "scope": "Bentuk kata kerja, permintaan, izin, pengalaman, kegiatan",
+      "competencyIds": [
+        "F2-VERBFORMS",
+        "F2-REQUEST",
+        "F2-LISTEN",
+        "F2-SPEAK"
+      ],
+      "legacyModules": 21,
+      "minnaReferenceSlots": 13,
+      "irodoriReferenceSlots": 18,
+      "gapPriority": "medium",
+      "notes": "Stage alignment is internal curriculum design, not official JFT/CEFR level equivalence"
+    },
+    {
+      "stage": "F3",
+      "scope": "Belanja, transportasi, pekerjaan, layanan publik, kesehatan",
+      "competencyIds": [
+        "F3-SERVICE",
+        "F3-READ",
+        "F3-LISTEN",
+        "F3-SPEAK"
+      ],
+      "legacyModules": 46,
+      "minnaReferenceSlots": 13,
+      "irodoriReferenceSlots": 18,
+      "gapPriority": "medium",
+      "notes": "Stage alignment is internal curriculum design, not official JFT/CEFR level equivalence"
+    },
+    {
+      "stage": "F4",
+      "scope": "Percakapan situasional, informasi kompleks, pemahaman kontekstual",
+      "competencyIds": [
+        "F4-READ",
+        "F4-LISTEN",
+        "F4-SPEAK",
+        "F4-GRAMMAR"
+      ],
+      "legacyModules": 11,
+      "minnaReferenceSlots": 12,
+      "irodoriReferenceSlots": 0,
+      "gapPriority": "medium",
+      "notes": "Stage alignment is internal curriculum design, not official JFT/CEFR level equivalence"
+    },
+    {
+      "stage": "F5",
+      "scope": "Integrasi empat bagian, latihan terarah dan simulasi",
+      "competencyIds": [
+        "F5-DIAGNOSTIC",
+        "F5-TARGET",
+        "F5-MOCK"
+      ],
+      "legacyModules": 0,
+      "minnaReferenceSlots": 0,
+      "irodoriReferenceSlots": 0,
+      "gapPriority": "high",
+      "notes": "Stage alignment is internal curriculum design, not official JFT/CEFR level equivalence"
+    }
+  ]
+}
