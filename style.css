@@ -69,3 +69,5 @@
 
 /* S4.1 seven-step learning */
 .s41-steps{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}.s41-tab{border:1px solid #cbd5e1;border-radius:9px;background:#f8fafc;color:#1e293b;padding:9px 12px;cursor:pointer}.s41-tab.active{background:#dbeafe;border-color:#2563eb}.s41-tab:disabled{opacity:.4;cursor:not-allowed}.s41-word{display:flex;flex-wrap:wrap;align-items:center;gap:12px;padding:12px;border-bottom:1px solid #e2e8f0}.s41-word b{font-size:1.2em}.s41-question{padding:12px;margin:12px 0;border:1px solid #cbd5e1;border-radius:12px}.s41-option{display:block;padding:7px}.s41-input{padding:10px;border:1px solid #94a3b8;border-radius:8px;max-width:100%}.s41-feedback{padding:9px;background:#eff6ff;border-radius:8px}
+
+.kana-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(88px,1fr));gap:8px;margin:12px 0}.kana-grid button{white-space:normal;min-height:64px}.kana-grid strong{display:block;font-size:1.65rem}.kana-grid small{display:block;font-size:.8rem}

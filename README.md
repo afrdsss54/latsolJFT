@@ -70,3 +70,30 @@ Jalur Belajar → Rencana Adaptif S6. Shows progress across Academy (100), seven
 
 ## S7.0 Curriculum Alignment Audit
 Lihat `S7.0-CURRICULUM-ALIGNMENT-AUDIT.md`, `S7.0-ROADMAP.md`, `curriculum/s70-alignment-matrix.json`, `curriculum/s70-reference-coverage.csv`. Audit-only: seluruh aplikasi dan key progres S6 tidak diubah. Referensi berstatus kandidat belum divalidasi per bab/Can-do.
+
+
+## S7.1
+Read-only Curriculum Architecture dashboard: Jalur Belajar → Audit Kurikulum S7.1. See `S7.1-VERIFICATION-REPORT.md`, `S7.1-QA-REPORT.md`, `S7.1-ROADMAP.md`. Source mapping is not official equivalence.
+
+
+## S7.2 — Evidence-led Curriculum Verification
+Read `S7.2-CURRICULUM-VERIFICATION.md`, `S7.2-QA-REPORT.md` and CSVs in `curriculum/`. Activity-level verification is partial and explicitly labeled.
+
+
+## S7.3 Chapter-Based Learning
+Buka Jalur Belajar → Belajar per BAB S7.3. Ada 14 BAB internal LatSol F0–F5, mode urut dan adaptif, resume, progres turunan dari storage lama. Baca S7.3-CURRICULUM-MAPPING.md dan S7.3-QA-REPORT.md.
+
+## S7.4
+Topic-based chapter grouping and explicit gap notices; see S7.4-QA-REPORT.md.
+
+## S8.0
+BAB 01 → Kana Academy. See S8.0-QA-REPORT.md.
+
+## S8.1
+Jalur Belajar → Belajar per BAB → BAB 02–11 → Materi tambahan S8.1. Lihat S8.1-COVERAGE.md dan S8.1-QA-REPORT.md.
+
+## S8.2
+Six new F3–F5 units in BAB 12–14; see S8.2-COVERAGE.md and S8.2-QA-REPORT.md.
+
+## S8.3
+Open Jalur Belajar → Belajar per BAB → BAB 02–14 → Deep Learning S8.3. See S8.3-COVERAGE.md and S8.3-QA-REPORT.md.
