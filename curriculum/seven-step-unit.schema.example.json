@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "s4.0.1",
+  "unitId": "s4-unit-example",
+  "stage": "F1",
+  "pathways": [
+    "from-zero",
+    "jft-prep"
+  ],
+  "sourceRefs": [
+    {
+      "type": "minna",
+      "id": "minna-05",
+      "relationship": "topic-inspiration",
+      "verification": "provisional"
+    },
+    {
+      "type": "irodori",
+      "id": "irodori-starter-01",
+      "relationship": "book-level-context-only",
+      "verification": "unverified"
+    }
+  ],
+  "legacyModuleIds": [],
+  "prerequisiteUnitIds": [],
+  "canDo": "Mampu menjelaskan tujuan perjalanan dalam kalimat sederhana",
+  "editorialStatus": "draft-original",
+  "steps": [
+    {
+      "order": 1,
+      "id": "goal",
+      "title": "Tujuan dan konteks",
+      "requiredEvidence": "can-do goal, prerequisites, real-life use",
+      "contentStatus": "not-authored"
+    },
+    {
+      "order": 2,
+      "id": "kotoba",
+      "title": "Kotoba dan bunyi",
+      "requiredEvidence": "original vocabulary examples and retrieval practice",
+      "contentStatus": "not-authored"
+    },
+    {
+      "order": 3,
+      "id": "bunpou",
+      "title": "Bunpou dan pola",
+      "requiredEvidence": "explicit grammar, contrasting examples and error notes",
+      "contentStatus": "not-authored"
+    },
+    {
+      "order": 4,
+      "id": "listening",
+      "title": "Listening kontekstual",
+      "requiredEvidence": "original audio, gist then detail, transcript gated",
+      "contentStatus": "not-authored"
+    },
+    {
+      "order": 5,
+      "id": "active-practice",
+      "title": "Latihan aktif",
+      "requiredEvidence": "sentence ordering, cloze, dictation, feedback",
+      "contentStatus": "not-authored"
+    },
+    {
+      "order": 6,
+      "id": "speaking",
+      "title": "Speaking praktis",
+      "requiredEvidence": "shadowing, roleplay, optional speech recognition",
+      "contentStatus": "not-authored"
+    },
+    {
+      "order": 7,
+      "id": "mastery-review",
+      "title": "Tes dan review",
+      "requiredEvidence": "multiple evidence points and spaced review",
+      "contentStatus": "not-authored"
+    }
+  ],
+  "assessment": {
+    "singleQuestionGrantsMastery": false,
+    "minimumDistinctItems": 3,
+    "delayedReviewRequired": true
+  },
+  "copyright": {
+    "copyTextbookDialogues": false,
+    "copyTextbookExercises": false,
+    "originalContentOnly": true
+  }
+}

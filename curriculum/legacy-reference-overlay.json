@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": "s4.0.1",
+  "note": "Non-destructive overlay; candidate matches are heuristic, not verified book-to-module correspondence. No Irodori lesson IDs are guessed.",
+  "modules": [
+    {
+      "legacyId": "kotoba-1",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-2",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-3",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-4",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-5",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-6",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-7",
+      "stage": "F3",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-8",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-9",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [
+        "minna-04"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-10",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-11",
+      "stage": "F2",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-12",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-13",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-14",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-15",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-16",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-01",
+      "stage": "F0",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-02",
+      "stage": "F0",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-03",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [
+        "minna-04"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-04",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [
+        "minna-04"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-05",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-06",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-07",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [
+        "minna-04"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-08",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-09",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-10",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-11",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-12",
+      "stage": "F2",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-13",
+      "stage": "F2",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-14",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-15",
+      "stage": "F0",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-16",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [
+        "minna-03"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-17",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-18",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-19",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-20",
+      "stage": "F2",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-21",
+      "stage": "F1",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [
+        "minna-04"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-22",
+      "stage": "F2",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-23",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-24",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-25",
+      "stage": "F4",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kotoba-m4-26",
+      "stage": "F3",
+      "competencyDomain": "vocabulary",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-01",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-02",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-03",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-04",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-05",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-06",
+      "stage": "F3",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-07",
+      "stage": "F4",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-08",
+      "stage": "F3",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-09",
+      "stage": "F4",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-10",
+      "stage": "F3",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-11",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-12",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-13",
+      "stage": "F4",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-14",
+      "stage": "F3",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-15",
+      "stage": "F3",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-16",
+      "stage": "F2",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-17",
+      "stage": "F4",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-18",
+      "stage": "F4",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-19",
+      "stage": "F4",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-20",
+      "stage": "F4",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "bunpou-m4-21",
+      "stage": "F3",
+      "competencyDomain": "grammar",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-01",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [
+        "minna-04"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-02",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-03",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-04",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-05",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [
+        "minna-03"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-06",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-07",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-08",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-09",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-10",
+      "stage": "F1",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [
+        "minna-04"
+      ],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "candidate-if-keywords-match",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-11",
+      "stage": "F2",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-12",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-13",
+      "stage": "F2",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-14",
+      "stage": "F2",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-15",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kanji-m4-16",
+      "stage": "F3",
+      "competencyDomain": "script-kanji",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-01",
+      "stage": "F1",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-02",
+      "stage": "F1",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-03",
+      "stage": "F2",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-04",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-05",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-06",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-07",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-08",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-09",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-10",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-11",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-12",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-13",
+      "stage": "F2",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-14",
+      "stage": "F4",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-15",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-16",
+      "stage": "F4",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-17",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-18",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-19",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-20",
+      "stage": "F3",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    },
+    {
+      "legacyId": "kaiwa-m4-21",
+      "stage": "F4",
+      "competencyDomain": "situational-communication",
+      "candidateMinnaRefs": [],
+      "candidateIrodoriRefs": [],
+      "referenceLinkStatus": "needs-manual-editorial-mapping",
+      "preserveLegacyId": true,
+      "editorialStatus": "unreviewed"
+    }
+  ]
+}

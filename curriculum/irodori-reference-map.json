@@ -1,0 +1,1014 @@
+{
+  "schemaVersion": "s4.0.1",
+  "disclaimer": "54 numbered slots for curriculum planning only; lesson titles, per-lesson outcomes and topics deliberately left blank until verified against the official Irodori contents. Book-level themes are design hints, not claimed lesson contents.",
+  "lessons": [
+    {
+      "id": "irodori-starter-01",
+      "book": "Irodori Starter",
+      "lessonNumber": 1,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-02",
+      "book": "Irodori Starter",
+      "lessonNumber": 2,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-03",
+      "book": "Irodori Starter",
+      "lessonNumber": 3,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-04",
+      "book": "Irodori Starter",
+      "lessonNumber": 4,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-05",
+      "book": "Irodori Starter",
+      "lessonNumber": 5,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-06",
+      "book": "Irodori Starter",
+      "lessonNumber": 6,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-07",
+      "book": "Irodori Starter",
+      "lessonNumber": 7,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-08",
+      "book": "Irodori Starter",
+      "lessonNumber": 8,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-09",
+      "book": "Irodori Starter",
+      "lessonNumber": 9,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-10",
+      "book": "Irodori Starter",
+      "lessonNumber": 10,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-11",
+      "book": "Irodori Starter",
+      "lessonNumber": 11,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-12",
+      "book": "Irodori Starter",
+      "lessonNumber": 12,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-13",
+      "book": "Irodori Starter",
+      "lessonNumber": 13,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-14",
+      "book": "Irodori Starter",
+      "lessonNumber": 14,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-15",
+      "book": "Irodori Starter",
+      "lessonNumber": 15,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-16",
+      "book": "Irodori Starter",
+      "lessonNumber": 16,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-17",
+      "book": "Irodori Starter",
+      "lessonNumber": 17,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-starter-18",
+      "book": "Irodori Starter",
+      "lessonNumber": 18,
+      "suggestedStage": "F0",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "greetings",
+        "introductions",
+        "numbers",
+        "daily-life",
+        "basic-interactions"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-01",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 1,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-02",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 2,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-03",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 3,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-04",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 4,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-05",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 5,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-06",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 6,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-07",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 7,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-08",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 8,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-09",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 9,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-10",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 10,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-11",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 11,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-12",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 12,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-13",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 13,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-14",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 14,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-15",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 15,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-16",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 16,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-17",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 17,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-1-18",
+      "book": "Irodori Elementary 1",
+      "lessonNumber": 18,
+      "suggestedStage": "F2",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "shopping",
+        "transport",
+        "food",
+        "workplace",
+        "community"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-01",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 1,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-02",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 2,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-03",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 3,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-04",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 4,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-05",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 5,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-06",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 6,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-07",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 7,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-08",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 8,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-09",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 9,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-10",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 10,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-11",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 11,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-12",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 12,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-13",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 13,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-14",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 14,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-15",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 15,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-16",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 16,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-17",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 17,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    },
+    {
+      "id": "irodori-elementary-2-18",
+      "book": "Irodori Elementary 2",
+      "lessonNumber": 18,
+      "suggestedStage": "F3",
+      "lessonTitle": null,
+      "topicKeywords": [],
+      "bookLevelThemeHints": [
+        "daily-life",
+        "workplace",
+        "services",
+        "community",
+        "requests",
+        "information"
+      ],
+      "mappingStatus": "lesson-content-not-yet-verified",
+      "verifiedAgainstOfficialSource": false,
+      "requiresOfficialTOC": true
+    }
+  ]
+}
