@@ -973,5 +973,269 @@
       ]
     },
     "source": "original-latsol-unit"
+  },
+  {
+    "id": "s82-speak-plain",
+    "unitId": "s82-plain",
+    "listeningId": "s82-listen-plain",
+    "stage": "F3",
+    "title": "Bentuk biasa dan pendapat",
+    "canDo": "Menyampaikan pendapat tentang jadwal kerja.",
+    "repeat": {
+      "japanese": "あしたは いそがしいと おもいます。",
+      "romaji": "Ashita wa isogashii to omoimasu.",
+      "meaning": "Saya pikir besok sibuk."
+    },
+    "shadowing": {
+      "japanese": [
+        "あしたは いそがしいですか。",
+        "はい、かいぎが おおいと おもいます。"
+      ],
+      "translation": [
+        "Apakah besok sibuk?",
+        "Ya, saya pikir banyak rapat."
+      ]
+    },
+    "roleplay": {
+      "context": "Menyampaikan pendapat tentang jadwal kerja.",
+      "turns": [
+        {
+          "speaker": "A",
+          "japanese": "あしたは いそがしいですか。",
+          "indonesian": "Apakah besok sibuk?"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、かいぎが おおいと おもいます。",
+          "indonesian": "Ya, saya pikir banyak rapat."
+        }
+      ],
+      "prompt": "Jawab giliran A dengan kalimat sendiri.",
+      "reflection": [
+        "Saya mencoba tanpa membaca.",
+        "Saya menjawab sesuai konteks."
+      ]
+    },
+    "source": "original-latsol-unit"
+  },
+  {
+    "id": "s82-speak-reason",
+    "unitId": "s82-reason",
+    "listeningId": "s82-listen-reason",
+    "stage": "F3",
+    "title": "Alasan dan penjelasan",
+    "canDo": "Menjelaskan keterlambatan dengan sopan.",
+    "repeat": {
+      "japanese": "でんしゃが おくれたので、ちこくしました。",
+      "romaji": "Densha ga okureta node, chikoku shimashita.",
+      "meaning": "Saya terlambat karena kereta terlambat."
+    },
+    "shadowing": {
+      "japanese": [
+        "どうして おくれたんですか。",
+        "でんしゃが おくれたので、すみません。"
+      ],
+      "translation": [
+        "Mengapa terlambat?",
+        "Karena kereta terlambat, maaf."
+      ]
+    },
+    "roleplay": {
+      "context": "Menjelaskan keterlambatan dengan sopan.",
+      "turns": [
+        {
+          "speaker": "A",
+          "japanese": "どうして おくれたんですか。",
+          "indonesian": "Mengapa terlambat?"
+        },
+        {
+          "speaker": "B",
+          "japanese": "でんしゃが おくれたので、すみません。",
+          "indonesian": "Karena kereta terlambat, maaf."
+        }
+      ],
+      "prompt": "Jawab giliran A dengan kalimat sendiri.",
+      "reflection": [
+        "Saya mencoba tanpa membaca.",
+        "Saya menjawab sesuai konteks."
+      ]
+    },
+    "source": "original-latsol-unit"
+  },
+  {
+    "id": "s82-speak-condition",
+    "unitId": "s82-condition",
+    "listeningId": "s82-listen-condition",
+    "stage": "F4",
+    "title": "Kondisi dan petunjuk kerja",
+    "canDo": "Memahami instruksi jika terjadi masalah.",
+    "repeat": {
+      "japanese": "きかいが とまったら、れんらくしてください。",
+      "romaji": "Kikai ga tomattara, renraku shite kudasai.",
+      "meaning": "Jika mesin berhenti, hubungi petugas."
+    },
+    "shadowing": {
+      "japanese": [
+        "きかいが とまったら、どうしますか。",
+        "たんとうの ひとに れんらくしてください。"
+      ],
+      "translation": [
+        "Jika mesin berhenti, apa yang harus dilakukan?",
+        "Hubungi penanggung jawab."
+      ]
+    },
+    "roleplay": {
+      "context": "Memahami instruksi jika terjadi masalah.",
+      "turns": [
+        {
+          "speaker": "A",
+          "japanese": "きかいが とまったら、どうしますか。",
+          "indonesian": "Jika mesin berhenti, apa yang harus dilakukan?"
+        },
+        {
+          "speaker": "B",
+          "japanese": "たんとうの ひとに れんらくしてください。",
+          "indonesian": "Hubungi penanggung jawab."
+        }
+      ],
+      "prompt": "Jawab giliran A dengan kalimat sendiri.",
+      "reflection": [
+        "Saya mencoba tanpa membaca.",
+        "Saya menjawab sesuai konteks."
+      ]
+    },
+    "source": "original-latsol-unit"
+  },
+  {
+    "id": "s82-speak-advice",
+    "unitId": "s82-advice",
+    "listeningId": "s82-listen-advice",
+    "stage": "F4",
+    "title": "Saran dan kesehatan",
+    "canDo": "Memberi saran sederhana saat teman kurang sehat.",
+    "repeat": {
+      "japanese": "きょうは はやく ねたほうが いいですよ。",
+      "romaji": "Kyou wa hayaku neta hou ga ii desu yo.",
+      "meaning": "Sebaiknya tidur lebih awal hari ini."
+    },
+    "shadowing": {
+      "japanese": [
+        "きのうから ねつが あります。",
+        "きょうは やすんだほうが いいですよ。"
+      ],
+      "translation": [
+        "Saya demam sejak kemarin.",
+        "Sebaiknya beristirahat hari ini."
+      ]
+    },
+    "roleplay": {
+      "context": "Memberi saran sederhana saat teman kurang sehat.",
+      "turns": [
+        {
+          "speaker": "A",
+          "japanese": "きのうから ねつが あります。",
+          "indonesian": "Saya demam sejak kemarin."
+        },
+        {
+          "speaker": "B",
+          "japanese": "きょうは やすんだほうが いいですよ。",
+          "indonesian": "Sebaiknya beristirahat hari ini."
+        }
+      ],
+      "prompt": "Jawab giliran A dengan kalimat sendiri.",
+      "reflection": [
+        "Saya mencoba tanpa membaca.",
+        "Saya menjawab sesuai konteks."
+      ]
+    },
+    "source": "original-latsol-unit"
+  },
+  {
+    "id": "s82-speak-plan",
+    "unitId": "s82-plan",
+    "listeningId": "s82-listen-plan",
+    "stage": "F5",
+    "title": "Rencana dan perubahan jadwal",
+    "canDo": "Menyampaikan rencana dan perubahan jadwal.",
+    "repeat": {
+      "japanese": "らいしゅう ひっこす つもりです。",
+      "romaji": "Raishuu hikkosu tsumori desu.",
+      "meaning": "Saya berniat pindah minggu depan."
+    },
+    "shadowing": {
+      "japanese": [
+        "いつ ひっこす つもりですか。",
+        "らいしゅうの どようびです。"
+      ],
+      "translation": [
+        "Kapan berniat pindah?",
+        "Sabtu minggu depan."
+      ]
+    },
+    "roleplay": {
+      "context": "Menyampaikan rencana dan perubahan jadwal.",
+      "turns": [
+        {
+          "speaker": "A",
+          "japanese": "いつ ひっこす つもりですか。",
+          "indonesian": "Kapan berniat pindah?"
+        },
+        {
+          "speaker": "B",
+          "japanese": "らいしゅうの どようびです。",
+          "indonesian": "Sabtu minggu depan."
+        }
+      ],
+      "prompt": "Jawab giliran A dengan kalimat sendiri.",
+      "reflection": [
+        "Saya mencoba tanpa membaca.",
+        "Saya menjawab sesuai konteks."
+      ]
+    },
+    "source": "original-latsol-unit"
+  },
+  {
+    "id": "s82-speak-notice",
+    "unitId": "s82-notice",
+    "listeningId": "s82-listen-notice",
+    "stage": "F5",
+    "title": "Memahami pengumuman dan aturan",
+    "canDo": "Memahami pengumuman fasilitas dan kewajiban.",
+    "repeat": {
+      "japanese": "うけつけで なまえを かかなければ なりません。",
+      "romaji": "Uketsuke de namae o kakanakereba narimasen.",
+      "meaning": "Harus menulis nama di resepsionis."
+    },
+    "shadowing": {
+      "japanese": [
+        "ここで なにを しますか。",
+        "うけつけで なまえを かいてください。"
+      ],
+      "translation": [
+        "Apa yang dilakukan di sini?",
+        "Silakan tulis nama di resepsionis."
+      ]
+    },
+    "roleplay": {
+      "context": "Memahami pengumuman fasilitas dan kewajiban.",
+      "turns": [
+        {
+          "speaker": "A",
+          "japanese": "ここで なにを しますか。",
+          "indonesian": "Apa yang dilakukan di sini?"
+        },
+        {
+          "speaker": "B",
+          "japanese": "うけつけで なまえを かいてください。",
+          "indonesian": "Silakan tulis nama di resepsionis."
+        }
+      ],
+      "prompt": "Jawab giliran A dengan kalimat sendiri.",
+      "reflection": [
+        "Saya mencoba tanpa membaca.",
+        "Saya menjawab sesuai konteks."
+      ]
+    },
+    "source": "original-latsol-unit"
   }
 ]

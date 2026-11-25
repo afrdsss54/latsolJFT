@@ -2231,5 +2231,707 @@
       "speaking",
       "mastery-review"
     ]
+  },
+  {
+    "id": "s82-plain",
+    "stage": "F3",
+    "title": "Bentuk biasa dan pendapat",
+    "canDo": "Menyampaikan pendapat tentang jadwal kerja.",
+    "vocab": [
+      [
+        "予定（よてい）",
+        "yotei",
+        "jadwal"
+      ],
+      [
+        "意見（いけん）",
+        "iken",
+        "pendapat"
+      ],
+      [
+        "忙しい（いそがしい）",
+        "isogashii",
+        "sibuk"
+      ],
+      [
+        "会議（かいぎ）",
+        "kaigi",
+        "rapat"
+      ],
+      [
+        "思う（おもう）",
+        "omou",
+        "berpikir"
+      ]
+    ],
+    "grammar": {
+      "pattern": "普通形 + とおもいます",
+      "explanation": "Kata kerja: いきます→いく、いきません→いかない、いきました→いった、いきませんでした→いかなかった. Nomina dan kata sifat な afirmatif kini memakai だ sebelum と.",
+      "example": "あしたは いそがしいと おもいます。",
+      "romaji": "Ashita wa isogashii to omoimasu.",
+      "meaning": "Saya pikir besok sibuk.",
+      "commonMistake": "Jangan memakai いそがしいだ sebelum と."
+    },
+    "dialogue": [
+      "あしたは いそがしいですか。",
+      "はい、かいぎが おおいと おもいます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Mengapa besok mungkin sibuk?",
+      "options": [
+        "Banyak rapat",
+        "Libur",
+        "Tidak ada pekerjaan"
+      ],
+      "answer": 0,
+      "explanation": "Ya, saya pikir banyak rapat."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 予定 (よてい)?",
+        "options": [
+          "pendapat",
+          "jadwal",
+          "sibuk"
+        ],
+        "answer": 1,
+        "explanation": "jadwal"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: あしたは いそがしいと おもいます。",
+        "options": [
+          "Saya pikir besok sibuk.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Saya pikir besok sibuk."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 明日は会議が三つあります。午後は忙しいと思います。 — Berapa rapat besok?",
+        "options": [
+          "Tiga",
+          "Dua",
+          "Satu"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Tiga"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk いそがしい",
+        "answers": [
+          "isogashii"
+        ],
+        "explanation": "isogashii"
+      }
+    ],
+    "roleplay": "Menyampaikan pendapat tentang jadwal kerja. Gunakan pola 普通形 + とおもいます dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s42-f2-22"
+    ]
+  },
+  {
+    "id": "s82-reason",
+    "stage": "F3",
+    "title": "Alasan dan penjelasan",
+    "canDo": "Menjelaskan keterlambatan dengan sopan.",
+    "vocab": [
+      [
+        "遅れる（おくれる）",
+        "okureru",
+        "terlambat"
+      ],
+      [
+        "遅刻（ちこく）",
+        "chikoku",
+        "datang terlambat"
+      ],
+      [
+        "連絡（れんらく）",
+        "renraku",
+        "menghubungi"
+      ],
+      [
+        "理由（りゆう）",
+        "riyuu",
+        "alasan"
+      ],
+      [
+        "電車（でんしゃ）",
+        "densha",
+        "kereta"
+      ]
+    ],
+    "grammar": {
+      "pattern": "普通形 + ので",
+      "explanation": "ので menyampaikan alasan dengan nada relatif halus. Nomina dan kata sifat な memakai な sebelum ので. から juga menyatakan alasan.",
+      "example": "でんしゃが おくれたので、ちこくしました。",
+      "romaji": "Densha ga okureta node, chikoku shimashita.",
+      "meaning": "Saya terlambat karena kereta terlambat.",
+      "commonMistake": "Bukan しずかだので, melainkan しずかなので."
+    },
+    "dialogue": [
+      "どうして おくれたんですか。",
+      "でんしゃが おくれたので、すみません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa penyebab keterlambatan?",
+      "options": [
+        "Kereta terlambat",
+        "Salah alamat",
+        "Bangun kesiangan"
+      ],
+      "answer": 0,
+      "explanation": "Karena kereta terlambat, maaf."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 遅れる (おくれる)?",
+        "options": [
+          "datang terlambat",
+          "terlambat",
+          "menghubungi"
+        ],
+        "answer": 1,
+        "explanation": "terlambat"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: でんしゃが おくれたので、ちこくしました。",
+        "options": [
+          "Saya terlambat karena kereta terlambat.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Saya terlambat karena kereta terlambat."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 電車が遅れています。会社に九時半に着きます。 — Kapan tiba di kantor?",
+        "options": [
+          "09.30",
+          "09.00",
+          "10.30"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: 09.30"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk れんらく",
+        "answers": [
+          "renraku"
+        ],
+        "explanation": "renraku"
+      }
+    ],
+    "roleplay": "Menjelaskan keterlambatan dengan sopan. Gunakan pola 普通形 + ので dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-plain"
+    ]
+  },
+  {
+    "id": "s82-condition",
+    "stage": "F4",
+    "title": "Kondisi dan petunjuk kerja",
+    "canDo": "Memahami instruksi jika terjadi masalah.",
+    "vocab": [
+      [
+        "機械（きかい）",
+        "kikai",
+        "mesin"
+      ],
+      [
+        "止まる（とまる）",
+        "tomaru",
+        "berhenti"
+      ],
+      [
+        "担当（たんとう）",
+        "tantou",
+        "penanggung jawab"
+      ],
+      [
+        "確認（かくにん）",
+        "kakunin",
+        "memeriksa"
+      ],
+      [
+        "故障（こしょう）",
+        "koshou",
+        "kerusakan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vた + ら",
+      "explanation": "たら menyatakan kondisi; bentuk negatif ない→なかったら. Setelah kondisi terpenuhi, lakukan tindakan berikut.",
+      "example": "きかいが とまったら、れんらくしてください。",
+      "romaji": "Kikai ga tomattara, renraku shite kudasai.",
+      "meaning": "Jika mesin berhenti, hubungi petugas.",
+      "commonMistake": "Bukan とまるたら; gunakan とまったら."
+    },
+    "dialogue": [
+      "きかいが とまったら、どうしますか。",
+      "たんとうの ひとに れんらくしてください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Siapa yang harus dihubungi?",
+      "options": [
+        "Penanggung jawab",
+        "Pelanggan",
+        "Teman sekolah"
+      ],
+      "answer": 0,
+      "explanation": "Hubungi penanggung jawab."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 機械 (きかい)?",
+        "options": [
+          "berhenti",
+          "mesin",
+          "penanggung jawab"
+        ],
+        "answer": 1,
+        "explanation": "mesin"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: きかいが とまったら、れんらくしてください。",
+        "options": [
+          "Jika mesin berhenti, hubungi petugas.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Jika mesin berhenti, hubungi petugas."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 機械が止まったら、担当者に連絡してください。自分で直さないでください。 — Apa yang tidak boleh dilakukan?",
+        "options": [
+          "Memperbaiki sendiri",
+          "Menghubungi petugas",
+          "Melapor"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Memperbaiki sendiri"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk たんとう",
+        "answers": [
+          "tantou"
+        ],
+        "explanation": "tantou"
+      }
+    ],
+    "roleplay": "Memahami instruksi jika terjadi masalah. Gunakan pola Vた + ら dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-reason"
+    ]
+  },
+  {
+    "id": "s82-advice",
+    "stage": "F4",
+    "title": "Saran dan kesehatan",
+    "canDo": "Memberi saran sederhana saat teman kurang sehat.",
+    "vocab": [
+      [
+        "熱（ねつ）",
+        "netsu",
+        "demam"
+      ],
+      [
+        "休む（やすむ）",
+        "yasumu",
+        "beristirahat"
+      ],
+      [
+        "病院（びょういん）",
+        "byouin",
+        "rumah sakit"
+      ],
+      [
+        "無理（むり）",
+        "muri",
+        "memaksakan diri"
+      ],
+      [
+        "薬（くすり）",
+        "kusuri",
+        "obat"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vた + ほうがいい / Vない + ほうがいい",
+      "explanation": "Bentuk た memberi saran melakukan sesuatu; bentuk ない menyarankan menghindarinya. Gunakan dengan sopan.",
+      "example": "きょうは はやく ねたほうが いいですよ。",
+      "romaji": "Kyou wa hayaku neta hou ga ii desu yo.",
+      "meaning": "Sebaiknya tidur lebih awal hari ini.",
+      "commonMistake": "Untuk saran negatif gunakan むりをしないほうがいい."
+    },
+    "dialogue": [
+      "きのうから ねつが あります。",
+      "きょうは やすんだほうが いいですよ。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa saran yang diberikan?",
+      "options": [
+        "Beristirahat",
+        "Bekerja lembur",
+        "Berolahraga"
+      ],
+      "answer": 0,
+      "explanation": "Sebaiknya beristirahat hari ini."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 熱 (ねつ)?",
+        "options": [
+          "beristirahat",
+          "demam",
+          "rumah sakit"
+        ],
+        "answer": 1,
+        "explanation": "demam"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: きょうは はやく ねたほうが いいですよ。",
+        "options": [
+          "Sebaiknya tidur lebih awal hari ini.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Sebaiknya tidur lebih awal hari ini."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 今日は熱があるので、仕事を休みます。午後、病院に行きます。 — Apa rencana sore hari?",
+        "options": [
+          "Pergi ke rumah sakit",
+          "Pergi bekerja",
+          "Berbelanja"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Pergi ke rumah sakit"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk びょういん",
+        "answers": [
+          "byouin"
+        ],
+        "explanation": "byouin"
+      }
+    ],
+    "roleplay": "Memberi saran sederhana saat teman kurang sehat. Gunakan pola Vた + ほうがいい / Vない + ほうがいい dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-condition"
+    ]
+  },
+  {
+    "id": "s82-plan",
+    "stage": "F5",
+    "title": "Rencana dan perubahan jadwal",
+    "canDo": "Menyampaikan rencana dan perubahan jadwal.",
+    "vocab": [
+      [
+        "引っ越す（ひっこす）",
+        "hikkosu",
+        "pindah rumah"
+      ],
+      [
+        "予約（よやく）",
+        "yoyaku",
+        "reservasi"
+      ],
+      [
+        "変更（へんこう）",
+        "henkou",
+        "perubahan"
+      ],
+      [
+        "来週（らいしゅう）",
+        "raishuu",
+        "minggu depan"
+      ],
+      [
+        "都合（つごう）",
+        "tsugou",
+        "ketersediaan waktu"
+      ]
+    ],
+    "grammar": {
+      "pattern": "V辞書形 / Vない + つもりです",
+      "explanation": "つもり menyatakan niat pribadi. 予定です menyatakan jadwal atau rencana yang sudah diatur.",
+      "example": "らいしゅう ひっこす つもりです。",
+      "romaji": "Raishuu hikkosu tsumori desu.",
+      "meaning": "Saya berniat pindah minggu depan.",
+      "commonMistake": "Bukan ひっこしますつもり; gunakan bentuk kamus."
+    },
+    "dialogue": [
+      "いつ ひっこす つもりですか。",
+      "らいしゅうの どようびです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kapan rencana pindah?",
+      "options": [
+        "Sabtu minggu depan",
+        "Minggu ini",
+        "Senin depan"
+      ],
+      "answer": 0,
+      "explanation": "Sabtu minggu depan."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 引っ越す (ひっこす)?",
+        "options": [
+          "reservasi",
+          "pindah rumah",
+          "perubahan"
+        ],
+        "answer": 1,
+        "explanation": "pindah rumah"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: らいしゅう ひっこす つもりです。",
+        "options": [
+          "Saya berniat pindah minggu depan.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Saya berniat pindah minggu depan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 予約を土曜日から日曜日に変更しました。時間は午前十時です。 — Kapan jadwal baru?",
+        "options": [
+          "Minggu pukul 10",
+          "Sabtu pukul 10",
+          "Minggu pukul 12"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Minggu pukul 10"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk へんこう",
+        "answers": [
+          "henkou"
+        ],
+        "explanation": "henkou"
+      }
+    ],
+    "roleplay": "Menyampaikan rencana dan perubahan jadwal. Gunakan pola V辞書形 / Vない + つもりです dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-advice"
+    ]
+  },
+  {
+    "id": "s82-notice",
+    "stage": "F5",
+    "title": "Memahami pengumuman dan aturan",
+    "canDo": "Memahami pengumuman fasilitas dan kewajiban.",
+    "vocab": [
+      [
+        "受付（うけつけ）",
+        "uketsuke",
+        "resepsionis"
+      ],
+      [
+        "入口（いりぐち）",
+        "iriguchi",
+        "pintu masuk"
+      ],
+      [
+        "利用（りよう）",
+        "riyou",
+        "penggunaan"
+      ],
+      [
+        "記入（きにゅう）",
+        "kinyuu",
+        "mengisi formulir"
+      ],
+      [
+        "禁止（きんし）",
+        "kinshi",
+        "larangan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vない + なければなりません",
+      "explanation": "Ubah ない menjadi なければなりません untuk kewajiban. Vなくてもいい menyatakan tidak wajib.",
+      "example": "うけつけで なまえを かかなければ なりません。",
+      "romaji": "Uketsuke de namae o kakanakereba narimasen.",
+      "meaning": "Harus menulis nama di resepsionis.",
+      "commonMistake": "Bukan かくなければ; bentuknya かかなければ."
+    },
+    "dialogue": [
+      "ここで なにを しますか。",
+      "うけつけで なまえを かいてください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang harus ditulis?",
+      "options": [
+        "Nama",
+        "Alamat kantor",
+        "Nomor kereta"
+      ],
+      "answer": 0,
+      "explanation": "Silakan tulis nama di resepsionis."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 受付 (うけつけ)?",
+        "options": [
+          "pintu masuk",
+          "resepsionis",
+          "penggunaan"
+        ],
+        "answer": 1,
+        "explanation": "resepsionis"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: うけつけで なまえを かかなければ なりません。",
+        "options": [
+          "Harus menulis nama di resepsionis.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Harus menulis nama di resepsionis."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 利用時間は九時から五時までです。入口で名前を記入してください。 — Kapan fasilitas tutup?",
+        "options": [
+          "Pukul lima sore",
+          "Pukul sembilan",
+          "Pukul tujuh"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Pukul lima sore"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk りよう",
+        "answers": [
+          "riyou"
+        ],
+        "explanation": "riyou"
+      }
+    ],
+    "roleplay": "Memahami pengumuman fasilitas dan kewajiban. Gunakan pola Vない + なければなりません dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-plan"
+    ]
   }
 ]

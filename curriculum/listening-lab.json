@@ -1587,5 +1587,407 @@
         "explanation": "Kalimat terakhir: でんしゃは バスより はやいです。 — Kereta lebih cepat daripada bus."
       }
     ]
+  },
+  {
+    "id": "s82-listen-plain",
+    "unitId": "s82-plain",
+    "stage": "F3",
+    "title": "Bentuk biasa dan pendapat",
+    "context": "Menyampaikan pendapat tentang jadwal kerja.",
+    "dialogue": [
+      "あしたは いそがしいですか。",
+      "はい、かいぎが おおいと おもいます。"
+    ],
+    "translationHint": "Ya, saya pikir banyak rapat.",
+    "comprehension": {
+      "prompt": "Mengapa besok mungkin sibuk?",
+      "options": [
+        "Banyak rapat",
+        "Libur",
+        "Tidak ada pekerjaan"
+      ],
+      "answer": 0,
+      "explanation": "Ya, saya pikir banyak rapat."
+    },
+    "dictation": {
+      "target": "はい、かいぎが おおいと おもいます。",
+      "alternatives": [],
+      "explanation": "Ya, saya pikir banyak rapat."
+    },
+    "source": "LatSol original S8.2",
+    "reviewStatus": "internal-review-pending-native-check",
+    "dialogueLines": [
+      {
+        "japanese": "あしたは いそがしいですか。",
+        "indonesian": "Apakah besok sibuk?"
+      },
+      {
+        "japanese": "はい、かいぎが おおいと おもいます。",
+        "indonesian": "Ya, saya pikir banyak rapat."
+      }
+    ],
+    "difficulty": "lanjutan internal",
+    "reviewNotes": [
+      "Dengarkan kata kunci."
+    ],
+    "detailExplanation": "Ya, saya pikir banyak rapat.",
+    "comprehensionVariants": [
+      {
+        "type": "main",
+        "prompt": "Mengapa besok mungkin sibuk?",
+        "options": [
+          "Banyak rapat",
+          "Libur",
+          "Tidak ada pekerjaan"
+        ],
+        "answer": 0,
+        "explanation": "Ya, saya pikir banyak rapat."
+      },
+      {
+        "type": "detail",
+        "prompt": "Apa arti kalimat pertama?",
+        "options": [
+          "Apakah besok sibuk?",
+          "Ya, saya pikir banyak rapat."
+        ],
+        "answer": 0,
+        "explanation": "Apakah besok sibuk?"
+      }
+    ]
+  },
+  {
+    "id": "s82-listen-reason",
+    "unitId": "s82-reason",
+    "stage": "F3",
+    "title": "Alasan dan penjelasan",
+    "context": "Menjelaskan keterlambatan dengan sopan.",
+    "dialogue": [
+      "どうして おくれたんですか。",
+      "でんしゃが おくれたので、すみません。"
+    ],
+    "translationHint": "Karena kereta terlambat, maaf.",
+    "comprehension": {
+      "prompt": "Apa penyebab keterlambatan?",
+      "options": [
+        "Kereta terlambat",
+        "Salah alamat",
+        "Bangun kesiangan"
+      ],
+      "answer": 0,
+      "explanation": "Karena kereta terlambat, maaf."
+    },
+    "dictation": {
+      "target": "でんしゃが おくれたので、すみません。",
+      "alternatives": [],
+      "explanation": "Karena kereta terlambat, maaf."
+    },
+    "source": "LatSol original S8.2",
+    "reviewStatus": "internal-review-pending-native-check",
+    "dialogueLines": [
+      {
+        "japanese": "どうして おくれたんですか。",
+        "indonesian": "Mengapa terlambat?"
+      },
+      {
+        "japanese": "でんしゃが おくれたので、すみません。",
+        "indonesian": "Karena kereta terlambat, maaf."
+      }
+    ],
+    "difficulty": "lanjutan internal",
+    "reviewNotes": [
+      "Dengarkan kata kunci."
+    ],
+    "detailExplanation": "Karena kereta terlambat, maaf.",
+    "comprehensionVariants": [
+      {
+        "type": "main",
+        "prompt": "Apa penyebab keterlambatan?",
+        "options": [
+          "Kereta terlambat",
+          "Salah alamat",
+          "Bangun kesiangan"
+        ],
+        "answer": 0,
+        "explanation": "Karena kereta terlambat, maaf."
+      },
+      {
+        "type": "detail",
+        "prompt": "Apa arti kalimat pertama?",
+        "options": [
+          "Mengapa terlambat?",
+          "Karena kereta terlambat, maaf."
+        ],
+        "answer": 0,
+        "explanation": "Mengapa terlambat?"
+      }
+    ]
+  },
+  {
+    "id": "s82-listen-condition",
+    "unitId": "s82-condition",
+    "stage": "F4",
+    "title": "Kondisi dan petunjuk kerja",
+    "context": "Memahami instruksi jika terjadi masalah.",
+    "dialogue": [
+      "きかいが とまったら、どうしますか。",
+      "たんとうの ひとに れんらくしてください。"
+    ],
+    "translationHint": "Hubungi penanggung jawab.",
+    "comprehension": {
+      "prompt": "Siapa yang harus dihubungi?",
+      "options": [
+        "Penanggung jawab",
+        "Pelanggan",
+        "Teman sekolah"
+      ],
+      "answer": 0,
+      "explanation": "Hubungi penanggung jawab."
+    },
+    "dictation": {
+      "target": "たんとうの ひとに れんらくしてください。",
+      "alternatives": [],
+      "explanation": "Hubungi penanggung jawab."
+    },
+    "source": "LatSol original S8.2",
+    "reviewStatus": "internal-review-pending-native-check",
+    "dialogueLines": [
+      {
+        "japanese": "きかいが とまったら、どうしますか。",
+        "indonesian": "Jika mesin berhenti, apa yang harus dilakukan?"
+      },
+      {
+        "japanese": "たんとうの ひとに れんらくしてください。",
+        "indonesian": "Hubungi penanggung jawab."
+      }
+    ],
+    "difficulty": "lanjutan internal",
+    "reviewNotes": [
+      "Dengarkan kata kunci."
+    ],
+    "detailExplanation": "Hubungi penanggung jawab.",
+    "comprehensionVariants": [
+      {
+        "type": "main",
+        "prompt": "Siapa yang harus dihubungi?",
+        "options": [
+          "Penanggung jawab",
+          "Pelanggan",
+          "Teman sekolah"
+        ],
+        "answer": 0,
+        "explanation": "Hubungi penanggung jawab."
+      },
+      {
+        "type": "detail",
+        "prompt": "Apa arti kalimat pertama?",
+        "options": [
+          "Jika mesin berhenti, apa yang harus dilakukan?",
+          "Hubungi penanggung jawab."
+        ],
+        "answer": 0,
+        "explanation": "Jika mesin berhenti, apa yang harus dilakukan?"
+      }
+    ]
+  },
+  {
+    "id": "s82-listen-advice",
+    "unitId": "s82-advice",
+    "stage": "F4",
+    "title": "Saran dan kesehatan",
+    "context": "Memberi saran sederhana saat teman kurang sehat.",
+    "dialogue": [
+      "きのうから ねつが あります。",
+      "きょうは やすんだほうが いいですよ。"
+    ],
+    "translationHint": "Sebaiknya beristirahat hari ini.",
+    "comprehension": {
+      "prompt": "Apa saran yang diberikan?",
+      "options": [
+        "Beristirahat",
+        "Bekerja lembur",
+        "Berolahraga"
+      ],
+      "answer": 0,
+      "explanation": "Sebaiknya beristirahat hari ini."
+    },
+    "dictation": {
+      "target": "きょうは やすんだほうが いいですよ。",
+      "alternatives": [],
+      "explanation": "Sebaiknya beristirahat hari ini."
+    },
+    "source": "LatSol original S8.2",
+    "reviewStatus": "internal-review-pending-native-check",
+    "dialogueLines": [
+      {
+        "japanese": "きのうから ねつが あります。",
+        "indonesian": "Saya demam sejak kemarin."
+      },
+      {
+        "japanese": "きょうは やすんだほうが いいですよ。",
+        "indonesian": "Sebaiknya beristirahat hari ini."
+      }
+    ],
+    "difficulty": "lanjutan internal",
+    "reviewNotes": [
+      "Dengarkan kata kunci."
+    ],
+    "detailExplanation": "Sebaiknya beristirahat hari ini.",
+    "comprehensionVariants": [
+      {
+        "type": "main",
+        "prompt": "Apa saran yang diberikan?",
+        "options": [
+          "Beristirahat",
+          "Bekerja lembur",
+          "Berolahraga"
+        ],
+        "answer": 0,
+        "explanation": "Sebaiknya beristirahat hari ini."
+      },
+      {
+        "type": "detail",
+        "prompt": "Apa arti kalimat pertama?",
+        "options": [
+          "Saya demam sejak kemarin.",
+          "Sebaiknya beristirahat hari ini."
+        ],
+        "answer": 0,
+        "explanation": "Saya demam sejak kemarin."
+      }
+    ]
+  },
+  {
+    "id": "s82-listen-plan",
+    "unitId": "s82-plan",
+    "stage": "F5",
+    "title": "Rencana dan perubahan jadwal",
+    "context": "Menyampaikan rencana dan perubahan jadwal.",
+    "dialogue": [
+      "いつ ひっこす つもりですか。",
+      "らいしゅうの どようびです。"
+    ],
+    "translationHint": "Sabtu minggu depan.",
+    "comprehension": {
+      "prompt": "Kapan rencana pindah?",
+      "options": [
+        "Sabtu minggu depan",
+        "Minggu ini",
+        "Senin depan"
+      ],
+      "answer": 0,
+      "explanation": "Sabtu minggu depan."
+    },
+    "dictation": {
+      "target": "らいしゅうの どようびです。",
+      "alternatives": [],
+      "explanation": "Sabtu minggu depan."
+    },
+    "source": "LatSol original S8.2",
+    "reviewStatus": "internal-review-pending-native-check",
+    "dialogueLines": [
+      {
+        "japanese": "いつ ひっこす つもりですか。",
+        "indonesian": "Kapan berniat pindah?"
+      },
+      {
+        "japanese": "らいしゅうの どようびです。",
+        "indonesian": "Sabtu minggu depan."
+      }
+    ],
+    "difficulty": "lanjutan internal",
+    "reviewNotes": [
+      "Dengarkan kata kunci."
+    ],
+    "detailExplanation": "Sabtu minggu depan.",
+    "comprehensionVariants": [
+      {
+        "type": "main",
+        "prompt": "Kapan rencana pindah?",
+        "options": [
+          "Sabtu minggu depan",
+          "Minggu ini",
+          "Senin depan"
+        ],
+        "answer": 0,
+        "explanation": "Sabtu minggu depan."
+      },
+      {
+        "type": "detail",
+        "prompt": "Apa arti kalimat pertama?",
+        "options": [
+          "Kapan berniat pindah?",
+          "Sabtu minggu depan."
+        ],
+        "answer": 0,
+        "explanation": "Kapan berniat pindah?"
+      }
+    ]
+  },
+  {
+    "id": "s82-listen-notice",
+    "unitId": "s82-notice",
+    "stage": "F5",
+    "title": "Memahami pengumuman dan aturan",
+    "context": "Memahami pengumuman fasilitas dan kewajiban.",
+    "dialogue": [
+      "ここで なにを しますか。",
+      "うけつけで なまえを かいてください。"
+    ],
+    "translationHint": "Silakan tulis nama di resepsionis.",
+    "comprehension": {
+      "prompt": "Apa yang harus ditulis?",
+      "options": [
+        "Nama",
+        "Alamat kantor",
+        "Nomor kereta"
+      ],
+      "answer": 0,
+      "explanation": "Silakan tulis nama di resepsionis."
+    },
+    "dictation": {
+      "target": "うけつけで なまえを かいてください。",
+      "alternatives": [],
+      "explanation": "Silakan tulis nama di resepsionis."
+    },
+    "source": "LatSol original S8.2",
+    "reviewStatus": "internal-review-pending-native-check",
+    "dialogueLines": [
+      {
+        "japanese": "ここで なにを しますか。",
+        "indonesian": "Apa yang dilakukan di sini?"
+      },
+      {
+        "japanese": "うけつけで なまえを かいてください。",
+        "indonesian": "Silakan tulis nama di resepsionis."
+      }
+    ],
+    "difficulty": "lanjutan internal",
+    "reviewNotes": [
+      "Dengarkan kata kunci."
+    ],
+    "detailExplanation": "Silakan tulis nama di resepsionis.",
+    "comprehensionVariants": [
+      {
+        "type": "main",
+        "prompt": "Apa yang harus ditulis?",
+        "options": [
+          "Nama",
+          "Alamat kantor",
+          "Nomor kereta"
+        ],
+        "answer": 0,
+        "explanation": "Silakan tulis nama di resepsionis."
+      },
+      {
+        "type": "detail",
+        "prompt": "Apa arti kalimat pertama?",
+        "options": [
+          "Apa yang dilakukan di sini?",
+          "Silakan tulis nama di resepsionis."
+        ],
+        "answer": 0,
+        "explanation": "Apa yang dilakukan di sini?"
+      }
+    ]
   }
 ]
