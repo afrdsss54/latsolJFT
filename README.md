@@ -163,3 +163,7 @@ Open any BAB → Immersive Japanese Lab, or Adaptive Path 3.0 → Immersive Japa
 
 ## S9.6 Curriculum Alignment
 Open Jalur Belajar → Audit Kurikulum S9.6. New evidence ledger, candidate chapter mapping, inventory and gap analyzer distinguish verified reference facts from provisional thematic links. No official equivalence, new mastery score, mandatory prerequisite change or CBT scoring change. See S9.6-FINAL-QA-REPORT.md, S9.6-EVIDENCE-GAP.csv and S9.6-INVENTORY.csv. Browser acceptance remains pending.
+
+## S9.6.1 — Unified UI/UX
+
+Dashboard baru tersedia melalui Jalur Belajar. Sidebar dikelompokkan, dan navigasi bawah tampil pada layar kecil di halaman belajar yang aman. Lab bahasa, latihan, dan PR/ujian memiliki hub tersendiri. Tidak ada perubahan engine CBT atau format progres. Lihat `S9.6.1-FINAL-QA-REPORT.md` untuk hasil regresi dan checklist deployment; browser E2E belum lulus.
