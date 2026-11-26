@@ -1,0 +1,2881 @@
+﻿source,id,chapters,title,status
+Seven-Step,s41-f0-greetings,2,Salam dan perkenalan diri,pemetaan internal
+Seven-Step,s41-f0-numbers,3,Angka 1–5 dan harga sederhana,pemetaan internal
+Seven-Step,s41-f1-daily,6,Rutinitas: を dan ます,pemetaan internal
+Seven-Step,s41-f1-location,5,Pergi ke tempat: に いきます,pemetaan internal
+Seven-Step,s42-f0-05,1,Hiragana vokal あいうえお,pemetaan internal
+Seven-Step,s42-f0-06,1,Hiragana baris K dan S,pemetaan internal
+Seven-Step,s42-f0-07,1,Katakana vokal アイウエオ,pemetaan internal
+Seven-Step,s42-f0-08,3,Angka dan harga dasar,pemetaan internal
+Seven-Step,s42-f0-09,2,Waktu dan salam harian,pemetaan internal
+Seven-Step,s42-f1-10,4,Memperkenalkan pekerjaan,pemetaan internal
+Seven-Step,s42-f1-11,4,Menunjuk benda これ・それ・あれ,pemetaan internal
+Seven-Step,s42-f1-12,5,Tempat ここ・そこ・あそこ,pemetaan internal
+Seven-Step,s42-f1-13,6,Waktu aktivitas dan ます,pemetaan internal
+Seven-Step,s42-f1-14,5,Pergi ke tempat dengan に,pemetaan internal
+Seven-Step,s42-f1-15,7,Belanja dan partikel を,pemetaan internal
+Seven-Step,s42-f1-16,7,Transportasi dengan で,pemetaan internal
+Seven-Step,s42-f1-17,8,Kata sifat い dan な,pemetaan internal
+Seven-Step,s42-f2-18,9,Permintaan dengan ～てください,pemetaan internal
+Seven-Step,s42-f2-19,9,Izin dengan ～てもいいですか,pemetaan internal
+Seven-Step,s42-f2-20,10,Larangan dengan ～てはいけません,pemetaan internal
+Seven-Step,s42-f2-21,11,Pengalaman dengan ～たことがあります,pemetaan internal
+Seven-Step,s42-f2-22,11,Membandingkan dengan ～より,pemetaan internal
+Seven-Step,s82-plain,12,Bentuk biasa dan pendapat,pemetaan internal
+Seven-Step,s82-reason,12,Alasan dan penjelasan,pemetaan internal
+Seven-Step,s82-condition,13,Kondisi dan petunjuk kerja,pemetaan internal
+Seven-Step,s82-advice,13,Saran dan kesehatan,pemetaan internal
+Seven-Step,s82-plan,14,Rencana dan perubahan jadwal,pemetaan internal
+Seven-Step,s82-notice,14,Memahami pengumuman dan aturan,pemetaan internal
+Seven-Step,s92m1-dakuten,1,Membedakan dakuten dan handakuten,pemetaan internal
+Seven-Step,s92m1-youon,1,Bunyi gabungan kecil ゃ・ゅ・ょ,pemetaan internal
+Seven-Step,s92m1-sokuon-long,1,Konsonan rangkap dan vokal panjang,pemetaan internal
+Seven-Step,s92m1-origin,2,Asal negara dengan から,pemetaan internal
+Seven-Step,s92m1-negative,2,Identitas negatif dengan じゃありません,pemetaan internal
+Seven-Step,s92m1-yesno,2,Pertanyaan identitas dengan か,pemetaan internal
+Seven-Step,s92m1-affiliation,2,Afiliasi dengan の dan も,pemetaan internal
+Seven-Step,s92m1-tens,3,Angka puluhan dan ratusan,pemetaan internal
+Seven-Step,s92m1-counters,3,Menghitung benda dengan ～つ,pemetaan internal
+Seven-Step,s92m1-phone,3,Nomor telepon dan pembacaan digit,pemetaan internal
+Seven-Step,s92m1-clock,3,Jam dan menit dasar,pemetaan internal
+Seven-Step,s92m2-kono,4,Memilih benda dengan この・その・あの,pemetaan internal
+Seven-Step,s92m2-owner,4,Kepemilikan dengan だれの,pemetaan internal
+Seven-Step,s92m2-purpose,4,Jenis benda dengan なんの,pemetaan internal
+Seven-Step,s92m2-choice,4,Memilih satu benda dengan どれ・どの,pemetaan internal
+Seven-Step,s92m2-aru,5,Keberadaan benda dengan あります,pemetaan internal
+Seven-Step,s92m2-iru,5,Keberadaan orang dengan います,pemetaan internal
+Seven-Step,s92m2-position,5,Posisi relatif dengan うえ・した・となり,pemetaan internal
+Seven-Step,s92m2-action-de,5,Lokasi aktivitas dengan で,pemetaan internal
+Seven-Step,s92m2-time-ni,6,Waktu tertentu dengan に,pemetaan internal
+Seven-Step,s92m2-hours,6,Rentang waktu から・まで,pemetaan internal
+Seven-Step,s92m2-negative,6,Bentuk sopan negatif ません,pemetaan internal
+Seven-Step,s92m2-past,6,Bentuk sopan lampau ました,pemetaan internal
+Seven-Step,s92m2-past-negative,6,Bentuk sopan lampau negatif ませんでした,pemetaan internal
+Seven-Step,s92m2-invite,6,Ajakan dengan ませんか・ましょう,pemetaan internal
+Seven-Step,s92m3-size,7,Memilih ukuran pakaian,pemetaan internal
+Seven-Step,s92m3-quantity,7,Memesan jumlah barang,pemetaan internal
+Seven-Step,s92m3-try-on,7,Mencoba pakaian dan sepatu,pemetaan internal
+Seven-Step,s92m3-destination,7,Tujuan dengan へ dan に,pemetaan internal
+Seven-Step,s92m3-transfer,7,"Naik, turun dan pindah kendaraan",pemetaan internal
+Seven-Step,s92m3-duration,7,Durasi perjalanan dan tarif,pemetaan internal
+Seven-Step,s92m3-i-negative,8,Negatif kata sifat い,pemetaan internal
+Seven-Step,s92m3-i-past,8,Lampau kata sifat い,pemetaan internal
+Seven-Step,s92m3-i-past-negative,8,Lampau negatif kata sifat い,pemetaan internal
+Seven-Step,s92m3-na-forms,8,Empat bentuk predikat kata sifat な,pemetaan internal
+Seven-Step,s92m3-adjective-noun,8,Menerangkan benda dengan kata sifat,pemetaan internal
+Seven-Step,s92m3-adjective-connect,8,Menggabungkan sifat dan menyatakan derajat,pemetaan internal
+Seven-Step,s92m3-te-tt,9,Bentuk て kelompok 1: う・つ・る,pemetaan internal
+Seven-Step,s92m3-te-nde,9,Bentuk て kelompok 1: む・ぶ・ぬ,pemetaan internal
+Seven-Step,s92m3-te-iku,9,Bentuk て kelompok 1: く・ぐ dan 行く,pemetaan internal
+Seven-Step,s92m3-te-other,9,"Bentuk て: す, kelompok 2, dan tidak beraturan",pemetaan internal
+Seven-Step,s92m3-request-polite,9,Permintaan positif dan negatif,pemetaan internal
+Seven-Step,s92m3-permission,9,Meminta dan memberi izin,pemetaan internal
+Seven-Step,s92m4-nai-godan-a,10,Bentuk ない kelompok 1: う・つ・る,pemetaan internal
+Seven-Step,s92m4-nai-godan-b,10,Bentuk ない kelompok 1: む・ぶ・ぬ・く・ぐ・す,pemetaan internal
+Seven-Step,s92m4-nai-other,10,Bentuk ない kelompok 2 dan tidak beraturan,pemetaan internal
+Seven-Step,s92m4-negative-request,10,Permintaan untuk tidak melakukan,pemetaan internal
+Seven-Step,s92m4-obligation,10,Kewajiban dengan なければなりません,pemetaan internal
+Seven-Step,s92m4-no-obligation,10,Tidak wajib dengan なくてもいいです,pemetaan internal
+Seven-Step,s92m4-rules-deadline,10,Aturan dan batas waktu,pemetaan internal
+Seven-Step,s92m4-ta-godan-a,11,Bentuk た kelompok 1: う・つ・る,pemetaan internal
+Seven-Step,s92m4-ta-godan-b,11,Bentuk た kelompok 1: む・ぶ・ぬ・く・ぐ・す,pemetaan internal
+Seven-Step,s92m4-ta-other,11,Bentuk た kelompok 2 dan tidak beraturan,pemetaan internal
+Seven-Step,s92m4-experience-negative,11,Pengalaman pernah dan belum pernah,pemetaan internal
+Seven-Step,s92m4-comparison-choice,11,Membandingkan dua pilihan dan superlatif,pemetaan internal
+Seven-Step,s92m4-dictionary-godan,12,Bentuk kamus kelompok 1 dari ます,pemetaan internal
+Seven-Step,s92m4-dictionary-other,12,Bentuk kamus kelompok 2 dan tidak beraturan,pemetaan internal
+Seven-Step,s92m4-plain-negative-past,12,Bentuk biasa negatif lampau,pemetaan internal
+Seven-Step,s92m4-plain-noun-adj,12,Bentuk biasa kata benda dan kata sifat,pemetaan internal
+Seven-Step,s92m4-opinion-contrast,12,Pendapat dan perkiraan dengan と思います,pemetaan internal
+Seven-Step,s92m4-reason-kara-node,12,Alasan dengan から dan ので,pemetaan internal
+Seven-Step,s92m5-potential-godan,13,Bentuk potensial: kata kerja kelompok 1,pemetaan internal
+Seven-Step,s92m5-potential-ichidan,13,Bentuk potensial: kelompok 2 dan tidak beraturan,pemetaan internal
+Seven-Step,s92m5-tara-trouble,13,Kondisi たら: tindakan saat terjadi masalah,pemetaan internal
+Seven-Step,s92m5-temo-concession,13,Kondisi ても: meskipun,pemetaan internal
+Seven-Step,s92m5-advice-safety,13,Saran keselamatan dengan ほうがいい,pemetaan internal
+Seven-Step,s92m5-change-ability,13,Perubahan kemampuan dengan ようになる,pemetaan internal
+Seven-Step,s92m5-intention-negative,14,Niat pribadi: つもり positif dan negatif,pemetaan internal
+Seven-Step,s92m5-schedule-yotei,14,Jadwal dan perubahan dengan よてい,pemetaan internal
+Seven-Step,s92m5-public-notice,14,Dokkai pengumuman fasilitas dan jam layanan,pemetaan internal
+Seven-Step,s92m5-work-report,14,Melaporkan pekerjaan dengan てあります dan ておきます,pemetaan internal
+Seven-Step,s92m5-community-help,14,Simulasi A2: meminta bantuan dan menindaklanjuti,pemetaan internal
+Academy,kotoba-1,7,Transportasi,pemetaan internal
+Academy,kotoba-2,7,Belanja,pemetaan internal
+Academy,kotoba-3,13,Kesehatan,pemetaan internal
+Academy,kotoba-4,4,Pekerjaan,pemetaan internal
+Academy,bunpou-5,9,～てください,pemetaan internal
+Academy,bunpou-6,9,～てもいいですか,pemetaan internal
+Academy,bunpou-7,10,～なければなりません,pemetaan internal
+Academy,bunpou-8,11,～たことがあります,pemetaan internal
+Academy,kanji-9,6,Waktu dan tanggal,pemetaan internal
+Academy,kanji-10,5,Tempat dan arah,pemetaan internal
+Academy,kanji-11,6,Aktivitas sehari-hari,pemetaan internal
+Academy,kanji-12,5,Fasilitas umum,pemetaan internal
+Academy,kaiwa-13,7,Memesan makanan,pemetaan internal
+Academy,kaiwa-14,5,Menanyakan arah,pemetaan internal
+Academy,kaiwa-15,12,Membuat janji,pemetaan internal
+Academy,kaiwa-16,9,Meminta bantuan,pemetaan internal
+Academy,kotoba-m4-01,2,Salam dan sapaan,pemetaan internal
+Academy,kotoba-m4-02,3,Angka dan jumlah,pemetaan internal
+Academy,kotoba-m4-03,6,Hari dan tanggal,pemetaan internal
+Academy,kotoba-m4-04,6,Jam dan waktu,pemetaan internal
+Academy,kotoba-m4-05,2,Keluarga,pemetaan internal
+Academy,kotoba-m4-06,5,Rumah dan ruangan,pemetaan internal
+Academy,kotoba-m4-07,7,Makanan sehari-hari,pemetaan internal
+Academy,kotoba-m4-08,7,Minuman dan kafe,pemetaan internal
+Academy,kotoba-m4-09,7,Restoran,pemetaan internal
+Academy,kotoba-m4-10,5,Arah dan lokasi,pemetaan internal
+Academy,kotoba-m4-11,7,Kendaraan,pemetaan internal
+Academy,kotoba-m4-12,8,Cuaca,pemetaan internal
+Academy,kotoba-m4-13,8,Musim,pemetaan internal
+Academy,kotoba-m4-14,7,Pakaian,pemetaan internal
+Academy,kotoba-m4-15,8,Warna,pemetaan internal
+Academy,kotoba-m4-16,8,Ukuran dan bentuk,pemetaan internal
+Academy,kotoba-m4-17,4,Sekolah dan kelas,pemetaan internal
+Academy,kotoba-m4-18,4,Peralatan kantor,pemetaan internal
+Academy,kotoba-m4-19,12,Telepon dan pesan,pemetaan internal
+Academy,kotoba-m4-20,11,Hobi dan olahraga,pemetaan internal
+Academy,kotoba-m4-21,6,Kegiatan harian,pemetaan internal
+Academy,kotoba-m4-22,8,Perasaan,pemetaan internal
+Academy,kotoba-m4-23,13,Kondisi tubuh,pemetaan internal
+Academy,kotoba-m4-24,13,Layanan publik,pemetaan internal
+Academy,kotoba-m4-25,13,Bencana dan keselamatan,pemetaan internal
+Academy,kotoba-m4-26,13,Kebersihan dan sampah,pemetaan internal
+Academy,bunpou-m4-01,6,～ています (sedang),pemetaan internal
+Academy,bunpou-m4-02,12,～たいです,pemetaan internal
+Academy,bunpou-m4-03,12,～ましょう,pemetaan internal
+Academy,bunpou-m4-04,12,～ませんか,pemetaan internal
+Academy,bunpou-m4-05,11,～たことがあります,pemetaan internal
+Academy,bunpou-m4-06,12,～つもりです,pemetaan internal
+Academy,bunpou-m4-07,12,～ながら,pemetaan internal
+Academy,bunpou-m4-08,13,～ほうがいいです,pemetaan internal
+Academy,bunpou-m4-09,12,～ので,pemetaan internal
+Academy,bunpou-m4-10,12,～から (alasan),pemetaan internal
+Academy,bunpou-m4-11,6,～まえに,pemetaan internal
+Academy,bunpou-m4-12,6,～あとで,pemetaan internal
+Academy,bunpou-m4-13,13,～ても,pemetaan internal
+Academy,bunpou-m4-14,10,～なければなりません,pemetaan internal
+Academy,bunpou-m4-15,10,～なくてもいいです,pemetaan internal
+Academy,bunpou-m4-16,12,～ことができます,pemetaan internal
+Academy,bunpou-m4-17,13,～ようになります,pemetaan internal
+Academy,bunpou-m4-18,13,～と思います,pemetaan internal
+Academy,bunpou-m4-19,13,～と言っていました,pemetaan internal
+Academy,bunpou-m4-20,11,～たり～たりします,pemetaan internal
+Academy,bunpou-m4-21,13,～そうです (tampaknya),pemetaan internal
+Academy,kanji-m4-01,6,Kanji hari: 日・月,pemetaan internal
+Academy,kanji-m4-02,14,Kanji unsur: 火・水,pemetaan internal
+Academy,kanji-m4-03,14,Kanji unsur: 木・金・土,pemetaan internal
+Academy,kanji-m4-04,2,Kanji orang: 人・男・女,pemetaan internal
+Academy,kanji-m4-05,8,Kanji ukuran: 大・小,pemetaan internal
+Academy,kanji-m4-06,4,Kanji sekolah: 学・校,pemetaan internal
+Academy,kanji-m4-07,4,Kanji pekerjaan: 会・社,pemetaan internal
+Academy,kanji-m4-08,7,Kanji kereta: 電・車,pemetaan internal
+Academy,kanji-m4-09,7,Kanji stasiun: 駅・道,pemetaan internal
+Academy,kanji-m4-10,6,Kanji waktu: 時・分,pemetaan internal
+Academy,kanji-m4-11,7,Kanji makan: 食・飲,pemetaan internal
+Academy,kanji-m4-12,7,Kanji membeli: 買・売,pemetaan internal
+Academy,kanji-m4-13,5,Kanji gerak: 行・来,pemetaan internal
+Academy,kanji-m4-14,14,Kanji melihat: 見・聞,pemetaan internal
+Academy,kanji-m4-15,5,Kanji masuk-keluar: 入・出,pemetaan internal
+Academy,kanji-m4-16,5,Kanji atas-bawah: 上・下,pemetaan internal
+Academy,kaiwa-m4-01,2,Memperkenalkan diri,pemetaan internal
+Academy,kaiwa-m4-02,2,Menanyakan asal,pemetaan internal
+Academy,kaiwa-m4-03,9,Meminta pengulangan,pemetaan internal
+Academy,kaiwa-m4-04,3,Menanyakan harga,pemetaan internal
+Academy,kaiwa-m4-05,7,Meminta ukuran lain,pemetaan internal
+Academy,kaiwa-m4-06,7,Memesan makanan,pemetaan internal
+Academy,kaiwa-m4-07,13,Makanan yang tidak bisa dimakan,pemetaan internal
+Academy,kaiwa-m4-08,5,Menanyakan jalan,pemetaan internal
+Academy,kaiwa-m4-09,7,Naik kereta,pemetaan internal
+Academy,kaiwa-m4-10,7,Menanyakan jadwal,pemetaan internal
+Academy,kaiwa-m4-11,12,Terlambat kerja,pemetaan internal
+Academy,kaiwa-m4-12,9,Meminta izin kerja,pemetaan internal
+Academy,kaiwa-m4-13,9,Meminta bantuan,pemetaan internal
+Academy,kaiwa-m4-14,12,Mengonfirmasi instruksi,pemetaan internal
+Academy,kaiwa-m4-15,12,Membuat janji,pemetaan internal
+Academy,kaiwa-m4-16,12,Mengubah jadwal,pemetaan internal
+Academy,kaiwa-m4-17,13,Menanyakan keadaan,pemetaan internal
+Academy,kaiwa-m4-18,13,Di apotek,pemetaan internal
+Academy,kaiwa-m4-19,13,Di kantor pos,pemetaan internal
+Academy,kaiwa-m4-20,13,Mencari barang hilang,pemetaan internal
+Academy,kaiwa-m4-21,13,Meminta informasi bencana,pemetaan internal
+Listening,s43-s41-f0-greetings,2,Salam dan perkenalan diri,pemetaan internal
+Listening,s43-s41-f0-numbers,3,Angka 1–5 dan harga sederhana,pemetaan internal
+Listening,s43-s41-f1-daily,6,Rutinitas: を dan ます,pemetaan internal
+Listening,s43-s41-f1-location,5,Pergi ke tempat: に いきます,pemetaan internal
+Listening,s43-s42-f0-05,1,Hiragana vokal あいうえお,pemetaan internal
+Listening,s43-s42-f0-06,1,Hiragana baris K dan S,pemetaan internal
+Listening,s43-s42-f0-07,1,Katakana vokal アイウエオ,pemetaan internal
+Listening,s43-s42-f0-08,3,Angka dan harga dasar,pemetaan internal
+Listening,s43-s42-f0-09,2,Waktu dan salam harian,pemetaan internal
+Listening,s43-s42-f1-10,4,Memperkenalkan pekerjaan,pemetaan internal
+Listening,s43-s42-f1-11,4,Menunjuk benda これ・それ・あれ,pemetaan internal
+Listening,s43-s42-f1-12,5,Tempat ここ・そこ・あそこ,pemetaan internal
+Listening,s43-s42-f1-13,6,Waktu aktivitas dan ます,pemetaan internal
+Listening,s43-s42-f1-14,5,Pergi ke tempat dengan に,pemetaan internal
+Listening,s43-s42-f1-15,7,Belanja dan partikel を,pemetaan internal
+Listening,s43-s42-f1-16,7,Transportasi dengan で,pemetaan internal
+Listening,s43-s42-f1-17,8,Kata sifat い dan な,pemetaan internal
+Listening,s43-s42-f2-18,9,Permintaan dengan ～てください,pemetaan internal
+Listening,s43-s42-f2-19,9,Izin dengan ～てもいいですか,pemetaan internal
+Listening,s43-s42-f2-20,10,Larangan dengan ～てはいけません,pemetaan internal
+Listening,s43-s42-f2-21,11,Pengalaman dengan ～たことがあります,pemetaan internal
+Listening,s43-s42-f2-22,11,Membandingkan dengan ～より,pemetaan internal
+Listening,s82-listen-plain,12,Bentuk biasa dan pendapat,pemetaan internal
+Listening,s82-listen-reason,12,Alasan dan penjelasan,pemetaan internal
+Listening,s82-listen-condition,13,Kondisi dan petunjuk kerja,pemetaan internal
+Listening,s82-listen-advice,13,Saran dan kesehatan,pemetaan internal
+Listening,s82-listen-plan,14,Rencana dan perubahan jadwal,pemetaan internal
+Listening,s82-listen-notice,14,Memahami pengumuman dan aturan,pemetaan internal
+Listening,s43-s92m1-dakuten,1,Membedakan dakuten dan handakuten,pemetaan internal
+Listening,s43-s92m1-youon,1,Bunyi gabungan kecil ゃ・ゅ・ょ,pemetaan internal
+Listening,s43-s92m1-sokuon-long,1,Konsonan rangkap dan vokal panjang,pemetaan internal
+Listening,s43-s92m1-origin,2,Asal negara dengan から,pemetaan internal
+Listening,s43-s92m1-negative,2,Identitas negatif dengan じゃありません,pemetaan internal
+Listening,s43-s92m1-yesno,2,Pertanyaan identitas dengan か,pemetaan internal
+Listening,s43-s92m1-affiliation,2,Afiliasi dengan の dan も,pemetaan internal
+Listening,s43-s92m1-tens,3,Angka puluhan dan ratusan,pemetaan internal
+Listening,s43-s92m1-counters,3,Menghitung benda dengan ～つ,pemetaan internal
+Listening,s43-s92m1-phone,3,Nomor telepon dan pembacaan digit,pemetaan internal
+Listening,s43-s92m1-clock,3,Jam dan menit dasar,pemetaan internal
+Listening,s43-s92m2-kono,4,Memilih benda dengan この・その・あの,pemetaan internal
+Listening,s43-s92m2-owner,4,Kepemilikan dengan だれの,pemetaan internal
+Listening,s43-s92m2-purpose,4,Jenis benda dengan なんの,pemetaan internal
+Listening,s43-s92m2-choice,4,Memilih satu benda dengan どれ・どの,pemetaan internal
+Listening,s43-s92m2-aru,5,Keberadaan benda dengan あります,pemetaan internal
+Listening,s43-s92m2-iru,5,Keberadaan orang dengan います,pemetaan internal
+Listening,s43-s92m2-position,5,Posisi relatif dengan うえ・した・となり,pemetaan internal
+Listening,s43-s92m2-action-de,5,Lokasi aktivitas dengan で,pemetaan internal
+Listening,s43-s92m2-time-ni,6,Waktu tertentu dengan に,pemetaan internal
+Listening,s43-s92m2-hours,6,Rentang waktu から・まで,pemetaan internal
+Listening,s43-s92m2-negative,6,Bentuk sopan negatif ません,pemetaan internal
+Listening,s43-s92m2-past,6,Bentuk sopan lampau ました,pemetaan internal
+Listening,s43-s92m2-past-negative,6,Bentuk sopan lampau negatif ませんでした,pemetaan internal
+Listening,s43-s92m2-invite,6,Ajakan dengan ませんか・ましょう,pemetaan internal
+Listening,s43-s92m3-size,7,Memilih ukuran pakaian,pemetaan internal
+Listening,s43-s92m3-quantity,7,Memesan jumlah barang,pemetaan internal
+Listening,s43-s92m3-try-on,7,Mencoba pakaian dan sepatu,pemetaan internal
+Listening,s43-s92m3-destination,7,Tujuan dengan へ dan に,pemetaan internal
+Listening,s43-s92m3-transfer,7,"Naik, turun dan pindah kendaraan",pemetaan internal
+Listening,s43-s92m3-duration,7,Durasi perjalanan dan tarif,pemetaan internal
+Listening,s43-s92m3-i-negative,8,Negatif kata sifat い,pemetaan internal
+Listening,s43-s92m3-i-past,8,Lampau kata sifat い,pemetaan internal
+Listening,s43-s92m3-i-past-negative,8,Lampau negatif kata sifat い,pemetaan internal
+Listening,s43-s92m3-na-forms,8,Empat bentuk predikat kata sifat な,pemetaan internal
+Listening,s43-s92m3-adjective-noun,8,Menerangkan benda dengan kata sifat,pemetaan internal
+Listening,s43-s92m3-adjective-connect,8,Menggabungkan sifat dan menyatakan derajat,pemetaan internal
+Listening,s43-s92m3-te-tt,9,Bentuk て kelompok 1: う・つ・る,pemetaan internal
+Listening,s43-s92m3-te-nde,9,Bentuk て kelompok 1: む・ぶ・ぬ,pemetaan internal
+Listening,s43-s92m3-te-iku,9,Bentuk て kelompok 1: く・ぐ dan 行く,pemetaan internal
+Listening,s43-s92m3-te-other,9,"Bentuk て: す, kelompok 2, dan tidak beraturan",pemetaan internal
+Listening,s43-s92m3-request-polite,9,Permintaan positif dan negatif,pemetaan internal
+Listening,s43-s92m3-permission,9,Meminta dan memberi izin,pemetaan internal
+Listening,s43-s92m4-nai-godan-a,10,Bentuk ない kelompok 1: う・つ・る,pemetaan internal
+Listening,s43-s92m4-nai-godan-b,10,Bentuk ない kelompok 1: む・ぶ・ぬ・く・ぐ・す,pemetaan internal
+Listening,s43-s92m4-nai-other,10,Bentuk ない kelompok 2 dan tidak beraturan,pemetaan internal
+Listening,s43-s92m4-negative-request,10,Permintaan untuk tidak melakukan,pemetaan internal
+Listening,s43-s92m4-obligation,10,Kewajiban dengan なければなりません,pemetaan internal
+Listening,s43-s92m4-no-obligation,10,Tidak wajib dengan なくてもいいです,pemetaan internal
+Listening,s43-s92m4-rules-deadline,10,Aturan dan batas waktu,pemetaan internal
+Listening,s43-s92m4-ta-godan-a,11,Bentuk た kelompok 1: う・つ・る,pemetaan internal
+Listening,s43-s92m4-ta-godan-b,11,Bentuk た kelompok 1: む・ぶ・ぬ・く・ぐ・す,pemetaan internal
+Listening,s43-s92m4-ta-other,11,Bentuk た kelompok 2 dan tidak beraturan,pemetaan internal
+Listening,s43-s92m4-experience-negative,11,Pengalaman pernah dan belum pernah,pemetaan internal
+Listening,s43-s92m4-comparison-choice,11,Membandingkan dua pilihan dan superlatif,pemetaan internal
+Listening,s43-s92m4-dictionary-godan,12,Bentuk kamus kelompok 1 dari ます,pemetaan internal
+Listening,s43-s92m4-dictionary-other,12,Bentuk kamus kelompok 2 dan tidak beraturan,pemetaan internal
+Listening,s43-s92m4-plain-negative-past,12,Bentuk biasa negatif lampau,pemetaan internal
+Listening,s43-s92m4-plain-noun-adj,12,Bentuk biasa kata benda dan kata sifat,pemetaan internal
+Listening,s43-s92m4-opinion-contrast,12,Pendapat dan perkiraan dengan と思います,pemetaan internal
+Listening,s43-s92m4-reason-kara-node,12,Alasan dengan から dan ので,pemetaan internal
+Listening,s43-s92m5-potential-godan,13,Bentuk potensial: kata kerja kelompok 1,pemetaan internal
+Listening,s43-s92m5-potential-ichidan,13,Bentuk potensial: kelompok 2 dan tidak beraturan,pemetaan internal
+Listening,s43-s92m5-tara-trouble,13,Kondisi たら: tindakan saat terjadi masalah,pemetaan internal
+Listening,s43-s92m5-temo-concession,13,Kondisi ても: meskipun,pemetaan internal
+Listening,s43-s92m5-advice-safety,13,Saran keselamatan dengan ほうがいい,pemetaan internal
+Listening,s43-s92m5-change-ability,13,Perubahan kemampuan dengan ようになる,pemetaan internal
+Listening,s43-s92m5-intention-negative,14,Niat pribadi: つもり positif dan negatif,pemetaan internal
+Listening,s43-s92m5-schedule-yotei,14,Jadwal dan perubahan dengan よてい,pemetaan internal
+Listening,s43-s92m5-public-notice,14,Dokkai pengumuman fasilitas dan jam layanan,pemetaan internal
+Listening,s43-s92m5-work-report,14,Melaporkan pekerjaan dengan てあります dan ておきます,pemetaan internal
+Listening,s43-s92m5-community-help,14,Simulasi A2: meminta bantuan dan menindaklanjuti,pemetaan internal
+Speaking,s5-s41-f0-greetings,2,Salam dan perkenalan diri,pemetaan internal
+Speaking,s5-s41-f0-numbers,3,Angka 1–5 dan harga sederhana,pemetaan internal
+Speaking,s5-s41-f1-daily,6,Rutinitas: を dan ます,pemetaan internal
+Speaking,s5-s41-f1-location,5,Pergi ke tempat: に いきます,pemetaan internal
+Speaking,s5-s42-f0-05,1,Hiragana vokal あいうえお,pemetaan internal
+Speaking,s5-s42-f0-06,1,Hiragana baris K dan S,pemetaan internal
+Speaking,s5-s42-f0-07,1,Katakana vokal アイウエオ,pemetaan internal
+Speaking,s5-s42-f0-08,3,Angka dan harga dasar,pemetaan internal
+Speaking,s5-s42-f0-09,2,Waktu dan salam harian,pemetaan internal
+Speaking,s5-s42-f1-10,4,Memperkenalkan pekerjaan,pemetaan internal
+Speaking,s5-s42-f1-11,4,Menunjuk benda これ・それ・あれ,pemetaan internal
+Speaking,s5-s42-f1-12,5,Tempat ここ・そこ・あそこ,pemetaan internal
+Speaking,s5-s42-f1-13,6,Waktu aktivitas dan ます,pemetaan internal
+Speaking,s5-s42-f1-14,5,Pergi ke tempat dengan に,pemetaan internal
+Speaking,s5-s42-f1-15,7,Belanja dan partikel を,pemetaan internal
+Speaking,s5-s42-f1-16,7,Transportasi dengan で,pemetaan internal
+Speaking,s5-s42-f1-17,8,Kata sifat い dan な,pemetaan internal
+Speaking,s5-s42-f2-18,9,Permintaan dengan ～てください,pemetaan internal
+Speaking,s5-s42-f2-19,9,Izin dengan ～てもいいですか,pemetaan internal
+Speaking,s5-s42-f2-20,10,Larangan dengan ～てはいけません,pemetaan internal
+Speaking,s5-s42-f2-21,11,Pengalaman dengan ～たことがあります,pemetaan internal
+Speaking,s5-s42-f2-22,11,Membandingkan dengan ～より,pemetaan internal
+Speaking,s82-speak-plain,12,Bentuk biasa dan pendapat,pemetaan internal
+Speaking,s82-speak-reason,12,Alasan dan penjelasan,pemetaan internal
+Speaking,s82-speak-condition,13,Kondisi dan petunjuk kerja,pemetaan internal
+Speaking,s82-speak-advice,13,Saran dan kesehatan,pemetaan internal
+Speaking,s82-speak-plan,14,Rencana dan perubahan jadwal,pemetaan internal
+Speaking,s82-speak-notice,14,Memahami pengumuman dan aturan,pemetaan internal
+Speaking,s5-s92m1-dakuten,1,Membedakan dakuten dan handakuten,pemetaan internal
+Speaking,s5-s92m1-youon,1,Bunyi gabungan kecil ゃ・ゅ・ょ,pemetaan internal
+Speaking,s5-s92m1-sokuon-long,1,Konsonan rangkap dan vokal panjang,pemetaan internal
+Speaking,s5-s92m1-origin,2,Asal negara dengan から,pemetaan internal
+Speaking,s5-s92m1-negative,2,Identitas negatif dengan じゃありません,pemetaan internal
+Speaking,s5-s92m1-yesno,2,Pertanyaan identitas dengan か,pemetaan internal
+Speaking,s5-s92m1-affiliation,2,Afiliasi dengan の dan も,pemetaan internal
+Speaking,s5-s92m1-tens,3,Angka puluhan dan ratusan,pemetaan internal
+Speaking,s5-s92m1-counters,3,Menghitung benda dengan ～つ,pemetaan internal
+Speaking,s5-s92m1-phone,3,Nomor telepon dan pembacaan digit,pemetaan internal
+Speaking,s5-s92m1-clock,3,Jam dan menit dasar,pemetaan internal
+Speaking,s5-s92m2-kono,4,Memilih benda dengan この・その・あの,pemetaan internal
+Speaking,s5-s92m2-owner,4,Kepemilikan dengan だれの,pemetaan internal
+Speaking,s5-s92m2-purpose,4,Jenis benda dengan なんの,pemetaan internal
+Speaking,s5-s92m2-choice,4,Memilih satu benda dengan どれ・どの,pemetaan internal
+Speaking,s5-s92m2-aru,5,Keberadaan benda dengan あります,pemetaan internal
+Speaking,s5-s92m2-iru,5,Keberadaan orang dengan います,pemetaan internal
+Speaking,s5-s92m2-position,5,Posisi relatif dengan うえ・した・となり,pemetaan internal
+Speaking,s5-s92m2-action-de,5,Lokasi aktivitas dengan で,pemetaan internal
+Speaking,s5-s92m2-time-ni,6,Waktu tertentu dengan に,pemetaan internal
+Speaking,s5-s92m2-hours,6,Rentang waktu から・まで,pemetaan internal
+Speaking,s5-s92m2-negative,6,Bentuk sopan negatif ません,pemetaan internal
+Speaking,s5-s92m2-past,6,Bentuk sopan lampau ました,pemetaan internal
+Speaking,s5-s92m2-past-negative,6,Bentuk sopan lampau negatif ませんでした,pemetaan internal
+Speaking,s5-s92m2-invite,6,Ajakan dengan ませんか・ましょう,pemetaan internal
+Speaking,s5-s92m3-size,7,Memilih ukuran pakaian,pemetaan internal
+Speaking,s5-s92m3-quantity,7,Memesan jumlah barang,pemetaan internal
+Speaking,s5-s92m3-try-on,7,Mencoba pakaian dan sepatu,pemetaan internal
+Speaking,s5-s92m3-destination,7,Tujuan dengan へ dan に,pemetaan internal
+Speaking,s5-s92m3-transfer,7,"Naik, turun dan pindah kendaraan",pemetaan internal
+Speaking,s5-s92m3-duration,7,Durasi perjalanan dan tarif,pemetaan internal
+Speaking,s5-s92m3-i-negative,8,Negatif kata sifat い,pemetaan internal
+Speaking,s5-s92m3-i-past,8,Lampau kata sifat い,pemetaan internal
+Speaking,s5-s92m3-i-past-negative,8,Lampau negatif kata sifat い,pemetaan internal
+Speaking,s5-s92m3-na-forms,8,Empat bentuk predikat kata sifat な,pemetaan internal
+Speaking,s5-s92m3-adjective-noun,8,Menerangkan benda dengan kata sifat,pemetaan internal
+Speaking,s5-s92m3-adjective-connect,8,Menggabungkan sifat dan menyatakan derajat,pemetaan internal
+Speaking,s5-s92m3-te-tt,9,Bentuk て kelompok 1: う・つ・る,pemetaan internal
+Speaking,s5-s92m3-te-nde,9,Bentuk て kelompok 1: む・ぶ・ぬ,pemetaan internal
+Speaking,s5-s92m3-te-iku,9,Bentuk て kelompok 1: く・ぐ dan 行く,pemetaan internal
+Speaking,s5-s92m3-te-other,9,"Bentuk て: す, kelompok 2, dan tidak beraturan",pemetaan internal
+Speaking,s5-s92m3-request-polite,9,Permintaan positif dan negatif,pemetaan internal
+Speaking,s5-s92m3-permission,9,Meminta dan memberi izin,pemetaan internal
+Speaking,s5-s92m4-nai-godan-a,10,Bentuk ない kelompok 1: う・つ・る,pemetaan internal
+Speaking,s5-s92m4-nai-godan-b,10,Bentuk ない kelompok 1: む・ぶ・ぬ・く・ぐ・す,pemetaan internal
+Speaking,s5-s92m4-nai-other,10,Bentuk ない kelompok 2 dan tidak beraturan,pemetaan internal
+Speaking,s5-s92m4-negative-request,10,Permintaan untuk tidak melakukan,pemetaan internal
+Speaking,s5-s92m4-obligation,10,Kewajiban dengan なければなりません,pemetaan internal
+Speaking,s5-s92m4-no-obligation,10,Tidak wajib dengan なくてもいいです,pemetaan internal
+Speaking,s5-s92m4-rules-deadline,10,Aturan dan batas waktu,pemetaan internal
+Speaking,s5-s92m4-ta-godan-a,11,Bentuk た kelompok 1: う・つ・る,pemetaan internal
+Speaking,s5-s92m4-ta-godan-b,11,Bentuk た kelompok 1: む・ぶ・ぬ・く・ぐ・す,pemetaan internal
+Speaking,s5-s92m4-ta-other,11,Bentuk た kelompok 2 dan tidak beraturan,pemetaan internal
+Speaking,s5-s92m4-experience-negative,11,Pengalaman pernah dan belum pernah,pemetaan internal
+Speaking,s5-s92m4-comparison-choice,11,Membandingkan dua pilihan dan superlatif,pemetaan internal
+Speaking,s5-s92m4-dictionary-godan,12,Bentuk kamus kelompok 1 dari ます,pemetaan internal
+Speaking,s5-s92m4-dictionary-other,12,Bentuk kamus kelompok 2 dan tidak beraturan,pemetaan internal
+Speaking,s5-s92m4-plain-negative-past,12,Bentuk biasa negatif lampau,pemetaan internal
+Speaking,s5-s92m4-plain-noun-adj,12,Bentuk biasa kata benda dan kata sifat,pemetaan internal
+Speaking,s5-s92m4-opinion-contrast,12,Pendapat dan perkiraan dengan と思います,pemetaan internal
+Speaking,s5-s92m4-reason-kara-node,12,Alasan dengan から dan ので,pemetaan internal
+Speaking,s5-s92m5-potential-godan,13,Bentuk potensial: kata kerja kelompok 1,pemetaan internal
+Speaking,s5-s92m5-potential-ichidan,13,Bentuk potensial: kelompok 2 dan tidak beraturan,pemetaan internal
+Speaking,s5-s92m5-tara-trouble,13,Kondisi たら: tindakan saat terjadi masalah,pemetaan internal
+Speaking,s5-s92m5-temo-concession,13,Kondisi ても: meskipun,pemetaan internal
+Speaking,s5-s92m5-advice-safety,13,Saran keselamatan dengan ほうがいい,pemetaan internal
+Speaking,s5-s92m5-change-ability,13,Perubahan kemampuan dengan ようになる,pemetaan internal
+Speaking,s5-s92m5-intention-negative,14,Niat pribadi: つもり positif dan negatif,pemetaan internal
+Speaking,s5-s92m5-schedule-yotei,14,Jadwal dan perubahan dengan よてい,pemetaan internal
+Speaking,s5-s92m5-public-notice,14,Dokkai pengumuman fasilitas dan jam layanan,pemetaan internal
+Speaking,s5-s92m5-work-report,14,Melaporkan pekerjaan dengan てあります dan ておきます,pemetaan internal
+Speaking,s5-s92m5-community-help,14,Simulasi A2: meminta bantuan dan menindaklanjuti,pemetaan internal
+Kotoba M6,v-f3495755a7e2a2e5ece7,2,こんにちは,pemetaan internal
+Kotoba M6,v-267a3c4e42223a8434d4,2,はじめまして,pemetaan internal
+Kotoba M6,v-180ff09712a77dbfe00f,2,よろしく おねがいします,pemetaan internal
+Kotoba M6,v-d525a143154973f4114b,3,いち,pemetaan internal
+Kotoba M6,v-6583b3b9c1d95c7c3ca3,3,に,pemetaan internal
+Kotoba M6,v-e3f302b03811f28cab9c,3,さん,pemetaan internal
+Kotoba M6,v-d35febe73f4e5522879f,3,よん,pemetaan internal
+Kotoba M6,v-7fb3ea9438692d09aa2a,3,ご,pemetaan internal
+Kotoba M6,v-76974b250ade7cb6b3af,6 | 7 | 13 | 14,水,pemetaan internal
+Kotoba M6,v-c82e3b5bdfd706cbd634,6,飲みます,pemetaan internal
+Kotoba M6,v-96d2274d418d7c6e902c,6,ご飯,pemetaan internal
+Kotoba M6,v-72865088e5b420a4e8a3,6 | 5,食べます,pemetaan internal
+Kotoba M6,v-23107dbf6cf1ab7ee345,5 | 1 | 4,学校,pemetaan internal
+Kotoba M6,v-8dd77afd38c0dbb1a3f9,5 | 7,駅,pemetaan internal
+Kotoba M6,v-6c8c22c6ebc26dde9983,5 | 6,行きます,pemetaan internal
+Kotoba M6,v-9861bc09d5a003f08383,5 | 6,明日,pemetaan internal
+Kotoba M6,v-b6be4d73fa04be211450,1,あ,pemetaan internal
+Kotoba M6,v-c77f837d9f4d7ec84db4,1,い,pemetaan internal
+Kotoba M6,v-c7c1f7a79a6b09c01087,1,う,pemetaan internal
+Kotoba M6,v-7b9f814aa3604dc9270a,1,え,pemetaan internal
+Kotoba M6,v-db7378fc2f709366bac6,1,お,pemetaan internal
+Kotoba M6,v-f2d1ec3e8e6b1e5aa248,1,か,pemetaan internal
+Kotoba M6,v-d5141496782bf48ec66a,1,き,pemetaan internal
+Kotoba M6,v-1fb612b982add9e87a7a,1,く,pemetaan internal
+Kotoba M6,v-2dab77d18643698b153f,1,し,pemetaan internal
+Kotoba M6,v-baf8b49d4e2d77ee467b,1,す,pemetaan internal
+Kotoba M6,v-d186ac306e76ffb19678,1,ア,pemetaan internal
+Kotoba M6,v-5c94e378261fc1b4d435,1,イ,pemetaan internal
+Kotoba M6,v-251f5cd6773d27a7b8da,1,ウ,pemetaan internal
+Kotoba M6,v-b4960a6d6b36f4f6a17a,1,エ,pemetaan internal
+Kotoba M6,v-8e91e8a57bee81ff93f9,1,オ,pemetaan internal
+Kotoba M6,v-00e017b60748d11cfed3,3,百,pemetaan internal
+Kotoba M6,v-c3f428e5a7a648893d32,3,円,pemetaan internal
+Kotoba M6,v-b4d8d0ffa06739a66be2,2,おはようございます,pemetaan internal
+Kotoba M6,v-95d7632afc4e6f1ef5e2,2,こんにちは,pemetaan internal
+Kotoba M6,v-a1dd0178ecc49fa9839a,2,こんばんは,pemetaan internal
+Kotoba M6,v-f98d3e23bb67f9b74236,2,おやすみなさい,pemetaan internal
+Kotoba M6,v-20d15859a77e6f5fbf90,2,ありがとう,pemetaan internal
+Kotoba M6,v-044d5cfabdc90dd5efe5,4,学生,pemetaan internal
+Kotoba M6,v-44c6e97fe2bd2eaa5844,4,先生,pemetaan internal
+Kotoba M6,v-74a9746bddd28b3aa8e8,4,会社員,pemetaan internal
+Kotoba M6,v-8d37d37a50ac92995a6d,4 | 6,仕事,pemetaan internal
+Kotoba M6,v-e415f60c28e3353185b6,4,私,pemetaan internal
+Kotoba M6,v-2300200fce40566fa9a8,4,これ,pemetaan internal
+Kotoba M6,v-79d2231a36f10b47ef85,4,それ,pemetaan internal
+Kotoba M6,v-9afa19035386235256f0,4,あれ,pemetaan internal
+Kotoba M6,v-27d76642b87697690ed8,4,本,pemetaan internal
+Kotoba M6,v-c45200a6de2727e4e00a,4,鞄,pemetaan internal
+Kotoba M6,v-a57df3d4ff97857db2be,5 | 10,ここ,pemetaan internal
+Kotoba M6,v-fb9c441a9406d9c6cd7c,5,そこ,pemetaan internal
+Kotoba M6,v-b87f67ccda3f84e6ce3a,5,あそこ,pemetaan internal
+Kotoba M6,v-96998b33d49e672c05eb,5,トイレ,pemetaan internal
+Kotoba M6,v-aa398a09d93b29cf9045,6 | 12,起きます,pemetaan internal
+Kotoba M6,v-856f3868549bec9fe2c8,6 | 12,寝ます,pemetaan internal
+Kotoba M6,v-81b6455390b49471401f,6,働きます,pemetaan internal
+Kotoba M6,v-8386a80217045f601593,6 | 5,勉強します,pemetaan internal
+Kotoba M6,v-9c86ade9b3b5e554a3de,6,毎日,pemetaan internal
+Kotoba M6,v-350925c60b253328b38a,5,来ます,pemetaan internal
+Kotoba M6,v-357ac2ab5a22a679b02f,5 | 6,帰ります,pemetaan internal
+Kotoba M6,v-8fd65fea0ccb9d991f9a,7 | 6 | 12,買います,pemetaan internal
+Kotoba M6,v-3536f25fb489bf60a2c8,7 | 5,店,pemetaan internal
+Kotoba M6,v-afac0480fd0a8eca1e8c,7 | 1,パン,pemetaan internal
+Kotoba M6,v-2e8c8a7e05261361438e,7,野菜,pemetaan internal
+Kotoba M6,v-a3fd0e790b06e0e298e0,7 | 11 | 12,電車,pemetaan internal
+Kotoba M6,v-3efe65c97d5d1074437c,7,バス,pemetaan internal
+Kotoba M6,v-dcefbe66c6a290bbb8fb,7,自転車,pemetaan internal
+Kotoba M6,v-de2a002d164451e903ad,7,あるいて,pemetaan internal
+Kotoba M6,v-e61fc73246023893023d,8 | 7,大きい,pemetaan internal
+Kotoba M6,v-5330a7fe95891cc8cb87,8 | 7,小さい,pemetaan internal
+Kotoba M6,v-800972dd87b7c35355b0,8 | 12,静か,pemetaan internal
+Kotoba M6,v-0f43bc1080c0ac33fa3c,8,きれい,pemetaan internal
+Kotoba M6,v-288fad7f30732481d033,8,町,pemetaan internal
+Kotoba M6,v-30efa7c66db29cb30988,9,まって,pemetaan internal
+Kotoba M6,v-69178f1ad7332e202ece,9,みて,pemetaan internal
+Kotoba M6,v-5e92cfb80ad38ec62565,9,きいて,pemetaan internal
+Kotoba M6,v-feacb940c944e487c344,9,すわって,pemetaan internal
+Kotoba M6,v-a39cf17ef2dd6f47eef1,9,ください,pemetaan internal
+Kotoba M6,v-b6cbb14cf7d5b3c9f91a,9,はいって,pemetaan internal
+Kotoba M6,v-a5d6901b0f4f9a34ee7e,9,つかって,pemetaan internal
+Kotoba M6,v-d9e384b537027c45a41c,9,とって,pemetaan internal
+Kotoba M6,v-3722bdfac48d1932526d,9 | 1 | 11,写真,pemetaan internal
+Kotoba M6,v-6dbdc2e4e4a325bd24f2,9,いい,pemetaan internal
+Kotoba M6,v-f4c04b3fa6828e0b13fd,10,煙草,pemetaan internal
+Kotoba M6,v-3010241955ddff44a30f,10,吸います,pemetaan internal
+Kotoba M6,v-2e097bf0c898dca51210,10,だめ,pemetaan internal
+Kotoba M6,v-8c52af19a45a295e197e,10 | 14,禁止,pemetaan internal
+Kotoba M6,v-77ab315c948bab2cf356,11,いった,pemetaan internal
+Kotoba M6,v-20b5eb7c47e6ca1711f7,11,たべた,pemetaan internal
+Kotoba M6,v-aca5dc3fc216261b00fc,11,みた,pemetaan internal
+Kotoba M6,v-61a74a6de7fc20d20422,11,日本,pemetaan internal
+Kotoba M6,v-24e1afdd3c6a9d6918f8,11 | 1 | 14,旅行,pemetaan internal
+Kotoba M6,v-40d65a9f60d5b452b00d,11,早い,pemetaan internal
+Kotoba M6,v-a8b3b31662e410daa0ea,11,遅い,pemetaan internal
+Kotoba M6,v-fa8c3623c8f4a6a52c81,11 | 8 | 7,安い,pemetaan internal
+Kotoba M6,v-6b88dfafa04f5235b894,11 | 12 | 7,高い,pemetaan internal
+Kotoba M6,v-f21355767ddc250ecc8d,12 | 14,予定,pemetaan internal
+Kotoba M6,v-1b8b9a8c4f7d8bd20442,12,意見,pemetaan internal
+Kotoba M6,v-e1528d9b313c0a8be602,12 | 8,忙しい,pemetaan internal
+Kotoba M6,v-5beec097118d7582e138,12 | 14 | 4,会議,pemetaan internal
+Kotoba M6,v-96a5c969b9314aac6aad,12,思う,pemetaan internal
+Kotoba M6,v-d40d245f04eaa17e94f2,12,遅れる,pemetaan internal
+Kotoba M6,v-5aed53171655007d0d26,12,遅刻,pemetaan internal
+Kotoba M6,v-4cba9eae3bfc9041a67c,12,連絡,pemetaan internal
+Kotoba M6,v-bffb456cad40a69136d2,12,理由,pemetaan internal
+Kotoba M6,v-db8f9f0a4dc0739e77b2,13,機械,pemetaan internal
+Kotoba M6,v-fc91a66b8f97fabdd378,13,止まる,pemetaan internal
+Kotoba M6,v-06d79bc586952cddbcaf,13,担当,pemetaan internal
+Kotoba M6,v-64106cf7b7f339df9961,13,確認,pemetaan internal
+Kotoba M6,v-1bb4f715a40a8a0831f1,13,故障,pemetaan internal
+Kotoba M6,v-9840c76689eafbdd88c5,13,熱,pemetaan internal
+Kotoba M6,v-817e1b0ac7f6ae1b61eb,13,休む,pemetaan internal
+Kotoba M6,v-eda04bd12e9ca2f2f54e,13 | 5,病院,pemetaan internal
+Kotoba M6,v-ba5d0c5711a109b781c0,13,無理,pemetaan internal
+Kotoba M6,v-c27ccb1f06f76011e022,13,薬,pemetaan internal
+Kotoba M6,v-bb3ceb51e36eea3574dc,14,引っ越す,pemetaan internal
+Kotoba M6,v-4782ead6513f213c7ae9,14,予約,pemetaan internal
+Kotoba M6,v-8b9fde13f8197f6a211c,14,変更,pemetaan internal
+Kotoba M6,v-3b775ea216ee05b93c01,14,来週,pemetaan internal
+Kotoba M6,v-de3106444a9158dff6ac,14,都合,pemetaan internal
+Kotoba M6,v-471f9e149d48fb08a8fa,14 | 13,受付,pemetaan internal
+Kotoba M6,v-a7659f1cffdb8f53830d,14 | 5,入口,pemetaan internal
+Kotoba M6,v-9fd7dfb6e6fc8555a838,14,利用,pemetaan internal
+Kotoba M6,v-cf86faf52857ab09e6cc,14,記入,pemetaan internal
+Kotoba M6,v-772ef2a4ee70ee6a8a6b,1 | 4,鍵,pemetaan internal
+Kotoba M6,v-ee428a4565a694112e1d,1,柿,pemetaan internal
+Kotoba M6,v-9977509c51d98552014c,1,豚,pemetaan internal
+Kotoba M6,v-30582a3f36a5c3c31ecb,1,花,pemetaan internal
+Kotoba M6,v-64259c3d36e50cbfb3c0,1,客,pemetaan internal
+Kotoba M6,v-60b1119cf639533a0936,1 | 6,今日,pemetaan internal
+Kotoba M6,v-bb3615cfa1141b73fe1b,1 | 7,お茶,pemetaan internal
+Kotoba M6,v-a1f0d6923b1991021355,1,切手,pemetaan internal
+Kotoba M6,v-7c49d10d1c7b6f3e6f46,1,きて,pemetaan internal
+Kotoba M6,v-03981adc1ad5273912ca,1,コーヒー,pemetaan internal
+Kotoba M6,v-ce3440d1b43de62eb9c3,1,カード,pemetaan internal
+Kotoba M6,v-4b323b19715738f7f8c7,2,インドネシア,pemetaan internal
+Kotoba M6,v-1a3248f5bb89b80c885a,2,タイ,pemetaan internal
+Kotoba M6,v-928163748455293d9122,2,ベトナム,pemetaan internal
+Kotoba M6,v-0750550f7eb0272be482,2,どちら,pemetaan internal
+Kotoba M6,v-ad0ec01aa86d2ef89b7f,2,きました,pemetaan internal
+Kotoba M6,v-4e5c56e7e98fe4899917,2,医者,pemetaan internal
+Kotoba M6,v-4b8f46956ad6c557bf65,2,エンジニア,pemetaan internal
+Kotoba M6,v-46f00812a9be39de8525,2,店員,pemetaan internal
+Kotoba M6,v-c75524bec4acd0a26710,2,いいえ,pemetaan internal
+Kotoba M6,v-6e6b2b8fe7bc9563322d,2,じゃありません,pemetaan internal
+Kotoba M6,v-57fb52a96c634c3405cb,2,はい,pemetaan internal
+Kotoba M6,v-21378bd23caa49dd064a,2,そうです,pemetaan internal
+Kotoba M6,v-e63c66b58504542f33c2,2,違います,pemetaan internal
+Kotoba M6,v-d58d213014d303ec7d68,2,看護師,pemetaan internal
+Kotoba M6,v-d87d7bbb8b0638ecd8e0,2,留学生,pemetaan internal
+Kotoba M6,v-8e58fc5fc5651f7e5f76,2,大学,pemetaan internal
+Kotoba M6,v-6430fb5908cceea8e45e,2 | 4,会社,pemetaan internal
+Kotoba M6,v-649593677327b355e1a0,2 | 4,社員,pemetaan internal
+Kotoba M6,v-2123ae13a55f5564f444,2 | 4,友達,pemetaan internal
+Kotoba M6,v-fa87731140e3f6bb9237,2,学生,pemetaan internal
+Kotoba M6,v-1cabf62ec839f5798aa7,3,六十,pemetaan internal
+Kotoba M6,v-a7e1fd42e8ad64b1d55a,3,八十,pemetaan internal
+Kotoba M6,v-d8bccd1f7e86e0f61fe7,3,三百,pemetaan internal
+Kotoba M6,v-7cd6e40d3b557eac44f3,3,六百,pemetaan internal
+Kotoba M6,v-273dd0c6f69a2c50ca94,3,八百,pemetaan internal
+Kotoba M6,v-7c10e3187c3d7f7dff47,3 | 7,一つ,pemetaan internal
+Kotoba M6,v-7731851cfb915a6428ae,3 | 7,二つ,pemetaan internal
+Kotoba M6,v-e5fa08ece5bff5702075,3 | 7,三つ,pemetaan internal
+Kotoba M6,v-1d345ee7bc2a68cf2aa4,3,四つ,pemetaan internal
+Kotoba M6,v-fbc4035fcf678f0c7ba6,3,五つ,pemetaan internal
+Kotoba M6,v-477e629b21683f27ac60,3,ゼロ,pemetaan internal
+Kotoba M6,v-182ed79a83e5f334a020,3,なな,pemetaan internal
+Kotoba M6,v-9db7ccdac22b73b908c1,3,はち,pemetaan internal
+Kotoba M6,v-1e2ab825459e3ebd95a7,3,きゅう,pemetaan internal
+Kotoba M6,v-aad2b15bd1861ede6a43,3,電話番号,pemetaan internal
+Kotoba M6,v-af908c8997f5819feaf7,3,四時,pemetaan internal
+Kotoba M6,v-cec9fbc4b8b1b3bddd7e,3,七時,pemetaan internal
+Kotoba M6,v-584208306572caa32f61,3,九時,pemetaan internal
+Kotoba M6,v-38c840c7368d6008ee5d,3,五分,pemetaan internal
+Kotoba M6,v-2e466f902301001011c8,3,半,pemetaan internal
+Kotoba M6,v-6b7b3742de80bdfe4981,4,この,pemetaan internal
+Kotoba M6,v-0f6fb91e56e8ae9e826c,4,その,pemetaan internal
+Kotoba M6,v-140cc2977731726c2a4e,4,あの,pemetaan internal
+Kotoba M6,v-9afc9dbfbc820256441b,4,ノート,pemetaan internal
+Kotoba M6,v-3e3a246ab8338cb3bb8b,4,ファイル,pemetaan internal
+Kotoba M6,v-832391a5ea109845409e,4,誰,pemetaan internal
+Kotoba M6,v-5d7a0efb6ec70f746a0e,4 | 7,帽子,pemetaan internal
+Kotoba M6,v-798fa7c3671212bd01f8,4,辞書,pemetaan internal
+Kotoba M6,v-0f1381bc1cfeb4d44961,4,料理,pemetaan internal
+Kotoba M6,v-d3e43ea62ed4fe035486,4,日本語,pemetaan internal
+Kotoba M6,v-93a48fc95fdc0a5180ad,4,雑誌,pemetaan internal
+Kotoba M6,v-ce3082c436dba6013767,4,資料,pemetaan internal
+Kotoba M6,v-b94f5dabc787a86795d1,4,どれ,pemetaan internal
+Kotoba M6,v-9d19d3e156a3c329e117,4,どの,pemetaan internal
+Kotoba M6,v-fe625b08ef2efc932db7,4,ペン,pemetaan internal
+Kotoba M6,v-76120fdaeae2a1ff20c0,4 | 7,色,pemetaan internal
+Kotoba M6,v-840347806bcd190249f2,4,白い,pemetaan internal
+Kotoba M6,v-a6809eacf1aacfdf9864,5,自動販売機,pemetaan internal
+Kotoba M6,v-51916489c11072f6bc45,5 | 4,椅子,pemetaan internal
+Kotoba M6,v-e176dcb2f37f7349fc64,5,公園,pemetaan internal
+Kotoba M6,v-b12d9f206a90dca01074,5,ちかく,pemetaan internal
+Kotoba M6,v-a10bd2b568149ad27201,5,コンビニ,pemetaan internal
+Kotoba M6,v-50441245fcea9fc18430,5,受付,pemetaan internal
+Kotoba M6,v-9e3ea4945eec6ef226d1,5,事務所,pemetaan internal
+Kotoba M6,v-1e586b7bad89b27a9606,5,お客さん,pemetaan internal
+Kotoba M6,v-11420082e865f410d9e1,5,猫,pemetaan internal
+Kotoba M6,v-dde80e41a5b280a5cbf1,5,だれも,pemetaan internal
+Kotoba M6,v-7bfd9d3e0e23476f77cf,5,上,pemetaan internal
+Kotoba M6,v-5fdb344fefe22b649fbe,5,した,pemetaan internal
+Kotoba M6,v-c385708d08a209315f36,5,隣,pemetaan internal
+Kotoba M6,v-070bb719b2fce513e4ac,5,中,pemetaan internal
+Kotoba M6,v-f961a22b0071af3e7e9c,5,箱,pemetaan internal
+Kotoba M6,v-16188496fa5680901f88,5,食堂,pemetaan internal
+Kotoba M6,v-b87c675314d5f120c9e7,5 | 13,図書館,pemetaan internal
+Kotoba M6,v-93fb3783123464108bee,5 | 12,読みます,pemetaan internal
+Kotoba M6,v-141851e9ccb164bb2196,6,朝,pemetaan internal
+Kotoba M6,v-96edd9e05845a531ee17,6,毎晩,pemetaan internal
+Kotoba M6,v-d10cafff488ead40d2d5,6,始まります,pemetaan internal
+Kotoba M6,v-5b8f619780958c16881f,6,終わります,pemetaan internal
+Kotoba M6,v-f71245533846e5c4ca31,6,営業,pemetaan internal
+Kotoba M6,v-98e18125f205a1fd5792,6,午前,pemetaan internal
+Kotoba M6,v-2a21848eeb9ee6bf756b,6,午後,pemetaan internal
+Kotoba M6,v-0794df6560e2643f384e,6,使います,pemetaan internal
+Kotoba M6,v-8567d1962952e2911e1c,6,見ます,pemetaan internal
+Kotoba M6,v-1ab829dcda304f39f761,6,週末,pemetaan internal
+Kotoba M6,v-1e108e0b24d3e9bc4fea,6,お酒,pemetaan internal
+Kotoba M6,v-1663e077858294219125,6 | 12,書きます,pemetaan internal
+Kotoba M6,v-451c9da0a6f8feeba6ff,6,聞きます,pemetaan internal
+Kotoba M6,v-abe97fe984ea3e802459,6 | 8 | 12,昨日,pemetaan internal
+Kotoba M6,v-55b8f7d9c6982f134614,6,今朝,pemetaan internal
+Kotoba M6,v-d04590aefd53f696ff47,6,会います,pemetaan internal
+Kotoba M6,v-62449e6c48119bf9935c,6,先週,pemetaan internal
+Kotoba M6,v-882eec7f0ebbc7d211e3,6,休み,pemetaan internal
+Kotoba M6,v-d3cb2744aec685f7e7b3,6,一緒に,pemetaan internal
+Kotoba M6,v-195c82fe4d32eafd0d01,6 | 12 | 7,昼ご飯,pemetaan internal
+Kotoba M6,v-684dd9f7c3a869eae973,6,散歩します,pemetaan internal
+Kotoba M6,v-6ecabc7a02e6cced48d9,6,いいですね,pemetaan internal
+Kotoba M6,v-1674b54761443deef1db,6,ちょっと,pemetaan internal
+Kotoba M6,v-f50f2220be8a491486cf,7,サイズ,pemetaan internal
+Kotoba M6,v-db8fd4b2fc51f2c7ae81,7,シャツ,pemetaan internal
+Kotoba M6,v-616e53738c8753565ac8,7,枚,pemetaan internal
+Kotoba M6,v-18bbca98246e46c3c0c7,7,レシート,pemetaan internal
+Kotoba M6,v-a79ce6c52f6c4020b0fc,7,試着,pemetaan internal
+Kotoba M6,v-42571eef1bd37e4a623a,7,靴,pemetaan internal
+Kotoba M6,v-3ba1b5d05f06b3de13eb,7,履きます,pemetaan internal
+Kotoba M6,v-a87820a49c1ee0d15b54,7,着ます,pemetaan internal
+Kotoba M6,v-13d29bdfff4ef6d546a3,7,鏡,pemetaan internal
+Kotoba M6,v-9c99f348a49e4425867f,7,空港,pemetaan internal
+Kotoba M6,v-d59e2c881fdf769a2a92,7,行き,pemetaan internal
+Kotoba M6,v-9cd0c22a014944c585ff,7,乗り場,pemetaan internal
+Kotoba M6,v-b38a74c7a4f5ad374d28,7,バス停,pemetaan internal
+Kotoba M6,v-2d85e19b37319328b87e,7,乗ります,pemetaan internal
+Kotoba M6,v-48c88030574b2998a528,7,降ります,pemetaan internal
+Kotoba M6,v-b6daaeea75279902ae73,7,乗り換えます,pemetaan internal
+Kotoba M6,v-1e936f3dd3bff838a304,7,地下鉄,pemetaan internal
+Kotoba M6,v-9109c4c9fb7afb75e77b,7,次,pemetaan internal
+Kotoba M6,v-53b3a523de91d49f0a42,7,どのくらい,pemetaan internal
+Kotoba M6,v-8df331861f8ff96267ba,7 | 6,分,pemetaan internal
+Kotoba M6,v-0a0f9663745e8f2d28a4,7,かかります,pemetaan internal
+Kotoba M6,v-9b8bea6c7f97689d34fc,7,運賃,pemetaan internal
+Kotoba M6,v-385065191958beaa7806,7,約,pemetaan internal
+Kotoba M6,v-4c4bd7a1d431e7c11b79,8,高い,pemetaan internal
+Kotoba M6,v-89df9dd00d2e78fc7849,8 | 11,重い,pemetaan internal
+Kotoba M6,v-227cff86301c3e2d7c2a,8 | 11,軽い,pemetaan internal
+Kotoba M6,v-63aeab07f94f47193e07,8 | 12,いい,pemetaan internal
+Kotoba M6,v-77b02062fa277dddb7fb,8,暑い,pemetaan internal
+Kotoba M6,v-99ac9af44bb9c54c75b3,8,寒い,pemetaan internal
+Kotoba M6,v-f219ba89a0ae587eafdb,8,楽しい,pemetaan internal
+Kotoba M6,v-501807907cd6437624c5,8,おいしい,pemetaan internal
+Kotoba M6,v-5810db596b6470fb3572,8 | 12,難しい,pemetaan internal
+Kotoba M6,v-9a1045b618ab01dc66b8,8,優しい,pemetaan internal
+Kotoba M6,v-457120cedb8b5703d1b4,8,新しい,pemetaan internal
+Kotoba M6,v-13d6792019318a865818,8,古い,pemetaan internal
+Kotoba M6,v-1533c35f8cace2292179,8 | 12,便利,pemetaan internal
+Kotoba M6,v-eb9d3ca3fbf9717cf243,8,元気,pemetaan internal
+Kotoba M6,v-6ae0afc50572980efaad,8,にぎやか,pemetaan internal
+Kotoba M6,v-44e46d6df621d21ace5f,8,暇,pemetaan internal
+Kotoba M6,v-79b2200c4a7cc07006a2,8,きれい,pemetaan internal
+Kotoba M6,v-d776d9fbea323bf0c04d,8,親切,pemetaan internal
+Kotoba M6,v-53a58b68afc3d5b00342,8,有名,pemetaan internal
+Kotoba M6,v-d0ed01bc79aedadfed3b,8,素敵,pemetaan internal
+Kotoba M6,v-d795501fc1f35dc5b0b3,8,広い,pemetaan internal
+Kotoba M6,v-17693a208093906d3583,8,狭い,pemetaan internal
+Kotoba M6,v-4551114dbeb95a579db5,8,明るい,pemetaan internal
+Kotoba M6,v-ee22cf95e268df572443,8,おしゃれ,pemetaan internal
+Kotoba M6,v-15600e7d383075b5fbfa,8,とても,pemetaan internal
+Kotoba M6,v-bc71bd9d5a183d0985aa,8,あまり,pemetaan internal
+Kotoba M6,v-163e1b67ad16f4c565dd,8,少し,pemetaan internal
+Kotoba M6,v-c7a8b45c809f9fd4a8e3,9 | 10 | 11 | 14,買う,pemetaan internal
+Kotoba M6,v-f5e398c9592980485706,9 | 10 | 11,待つ,pemetaan internal
+Kotoba M6,v-c4be8d1ca1778a713081,9 | 10,取る,pemetaan internal
+Kotoba M6,v-eb4c79f254106dc363d0,9,持つ,pemetaan internal
+Kotoba M6,v-7c18ffd76df92dd76f18,9 | 10 | 13,使う,pemetaan internal
+Kotoba M6,v-b409843f6849fd659290,9 | 10 | 11 | 13,読む,pemetaan internal
+Kotoba M6,v-0b4ab8381a1aeffd3256,9 | 6,飲む,pemetaan internal
+Kotoba M6,v-985b341cc0fd59e6ce29,9 | 10 | 11,遊ぶ,pemetaan internal
+Kotoba M6,v-b4a6e80b6367d1f5f8f8,9,選ぶ,pemetaan internal
+Kotoba M6,v-9d1fe0156004882f2c40,9,死ぬ,pemetaan internal
+Kotoba M6,v-85b3ef08f8324282ff9e,9 | 10 | 11,書く,pemetaan internal
+Kotoba M6,v-73a5f9458b527f404a04,9,聞く,pemetaan internal
+Kotoba M6,v-ee103e0c91fc6954313e,9 | 10 | 11 | 13,泳ぐ,pemetaan internal
+Kotoba M6,v-c387c7126bd55b11aaa6,9,急ぐ,pemetaan internal
+Kotoba M6,v-16b10a14111e8676d136,9 | 11 | 12,行く,pemetaan internal
+Kotoba M6,v-5624165d85df98885022,9 | 10 | 13,話す,pemetaan internal
+Kotoba M6,v-b284cd99b11876ad3060,9,見せる,pemetaan internal
+Kotoba M6,v-b950affd163d5187df1b,9 | 10,開ける,pemetaan internal
+Kotoba M6,v-7f5ab57ea2cf935decb7,9 | 10 | 11 | 13,する,pemetaan internal
+Kotoba M6,v-c9e1830dbf6d59fd64b1,9 | 10 | 11 | 13,来る,pemetaan internal
+Kotoba M6,v-18e4c53cda97234f1ad6,9 | 10 | 13,触る,pemetaan internal
+Kotoba M6,v-e421623d1b89d169c9ec,9,押す,pemetaan internal
+Kotoba M6,v-8708cc80f2e547594df7,9 | 10,入る,pemetaan internal
+Kotoba M6,v-590bd1c8f2d5a19a711d,9,消す,pemetaan internal
+Kotoba M6,v-12314ef71978ed72ab98,9,禁煙,pemetaan internal
+Kotoba M6,v-b923ac62d024cba4dc18,9,座る,pemetaan internal
+Kotoba M6,v-b8616d4917fc813f26d6,9,借りる,pemetaan internal
+Kotoba M6,v-93078fc2065c62586b85,9,大丈夫,pemetaan internal
+Kotoba M6,v-8f93cf1df4fe9955a535,9,ちょっと,pemetaan internal
+Kotoba M6,v-a36fcfc83f746508a280,10,帰る,pemetaan internal
+Kotoba M6,v-fa2107fd24399cd399f0,10 | 11 | 12 | 13 | 6 | 7,食べる,pemetaan internal
+Kotoba M6,v-96c17327332a6006ff88,10 | 13 | 6,見る,pemetaan internal
+Kotoba M6,v-e7d2b9565350bab947a8,10 | 11,起きる,pemetaan internal
+Kotoba M6,v-e10f80651b3d8b44d755,10,忘れる,pemetaan internal
+Kotoba M6,v-100ebdba7fbeb0db8168,10,部屋,pemetaan internal
+Kotoba M6,v-2755caf1338191d1ded4,10,出す,pemetaan internal
+Kotoba M6,v-fc12ad5547dd1b3aebe2,10 | 4,書類,pemetaan internal
+Kotoba M6,v-777e73e0c91e311b394c,10 | 14,金曜日,pemetaan internal
+Kotoba M6,v-c09188e733c57a749813,10,払う,pemetaan internal
+Kotoba M6,v-98b15c773f90227d6409,10,持って行く,pemetaan internal
+Kotoba M6,v-d204f18292588d3b9df4,10 | 6,日曜日,pemetaan internal
+Kotoba M6,v-39671ed7e19459dd458e,10,会社,pemetaan internal
+Kotoba M6,v-09a886fb0e6fed057ef3,10,持って来る,pemetaan internal
+Kotoba M6,v-e173e42c9ea42171303c,10,着る,pemetaan internal
+Kotoba M6,v-d8e8a656840e94b76b35,10,必要,pemetaan internal
+Kotoba M6,v-1e492f830a95fd3a3e8a,10,出る,pemetaan internal
+Kotoba M6,v-d1d6c8c5b2e4e99f19b3,10,時間,pemetaan internal
+Kotoba M6,v-d45663552740e9e905da,10,守る,pemetaan internal
+Kotoba M6,v-7d08abb187a2e5d2f7d5,10 | 13,ごみ,pemetaan internal
+Kotoba M6,v-1449d3c3a4a483143250,11 | 13,作る,pemetaan internal
+Kotoba M6,v-a1d21cfad51f6c699990,11,売る,pemetaan internal
+Kotoba M6,v-0f124947455a93ac6ed1,11,お弁当,pemetaan internal
+Kotoba M6,v-0982f82383a7e3cd407a,11,見る,pemetaan internal
+Kotoba M6,v-06ce4f6c61f0bafbd8e6,11,乗る,pemetaan internal
+Kotoba M6,v-06fbb4757ec6e52285a6,11,新幹線,pemetaan internal
+Kotoba M6,v-cfc4789ca3063660e06e,11,旅行する,pemetaan internal
+Kotoba M6,v-b6240186bd2b5e5e43e1,11,まだ,pemetaan internal
+Kotoba M6,v-7629a6f322c39bbadb77,11,どちら,pemetaan internal
+Kotoba M6,v-a23b0c666c08b2ce1c68,11,一番,pemetaan internal
+Kotoba M6,v-7b789bff33d077b7c6b1,12,話します,pemetaan internal
+Kotoba M6,v-f9f9051d1f938458e1e1,12,待ちます,pemetaan internal
+Kotoba M6,v-aa377fb5547f2485407e,12 | 14,見ます,pemetaan internal
+Kotoba M6,v-6066e77a1a354acb07c4,12,します,pemetaan internal
+Kotoba M6,v-749639e0fe83e46d12e9,12,来ます,pemetaan internal
+Kotoba M6,v-77a46d00be79f84dfb02,12,ホテル,pemetaan internal
+Kotoba M6,v-0af2e72dd430a74cf70a,12,アプリ,pemetaan internal
+Kotoba M6,v-d37b760fc32e97a7a4b3,12,大丈夫,pemetaan internal
+Kotoba M6,v-fc6ac868f2de27e41ba1,12 | 4,休み,pemetaan internal
+Kotoba M6,v-e4ad060b447d670555de,12,ゆっくり,pemetaan internal
+Kotoba M6,v-0624c6a64e8e700e37a4,13,相談,pemetaan internal
+Kotoba M6,v-1c516e3a05dffd85b424,13,漏れる,pemetaan internal
+Kotoba M6,v-cae3f2634c6731bc8f72,13,止める,pemetaan internal
+Kotoba M6,v-6b5e881d16dc95ca5ef6,13,管理人,pemetaan internal
+Kotoba M6,v-806573ec1ee64f2865a0,13,連絡する,pemetaan internal
+Kotoba M6,v-c16c343cf35d4f64901a,13 | 8,雨,pemetaan internal
+Kotoba M6,v-05fff7f7336127949e59,13,降る,pemetaan internal
+Kotoba M6,v-0cd1acae88ce2a467a6e,13,続ける,pemetaan internal
+Kotoba M6,v-6716482f809aefa38560,13,近い,pemetaan internal
+Kotoba M6,v-43317e35c94b18ba66cb,13,無理,pemetaan internal
+Kotoba M6,v-133fdc9f043b9ca48976,13,危ない,pemetaan internal
+Kotoba M6,v-69e5d3182a310d0068a2,13,手袋,pemetaan internal
+Kotoba M6,v-33c109e145e0e4ec610a,13,聞く,pemetaan internal
+Kotoba M6,v-11398392e3751e428b50,13,先に,pemetaan internal
+Kotoba M6,v-f2d90af2bf6eb1b5d122,13,一人で,pemetaan internal
+Kotoba M6,v-e0b91acfad4275a2cac4,13,料理,pemetaan internal
+Kotoba M6,v-59a9698911512d31e64f,13,習う,pemetaan internal
+Kotoba M6,v-379f59868d8b0cede793,13,練習,pemetaan internal
+Kotoba M6,v-6bfe19e0490e2dba0e05,14,貯金する,pemetaan internal
+Kotoba M6,v-b61f2560c0f215346bce,14,今度,pemetaan internal
+Kotoba M6,v-edc99a27b0db161b81b0,14,予算,pemetaan internal
+Kotoba M6,v-d60e5d2a16137a3e44fd,14,出張,pemetaan internal
+Kotoba M6,v-9d9b955978589f6c3afc,14,確認する,pemetaan internal
+Kotoba M6,v-19c4c88e0a5462c40d5b,14,点検,pemetaan internal
+Kotoba M6,v-660e95a79999bf8daf32,14,中止,pemetaan internal
+Kotoba M6,v-7938fbba2a03768e4fbc,14,別,pemetaan internal
+Kotoba M6,v-a3e0a835694ff9c40de3,14,資料,pemetaan internal
+Kotoba M6,v-2ea2c328c5d14f898d4b,14,準備,pemetaan internal
+Kotoba M6,v-f3797ea1984df1f0d24c,14,並べる,pemetaan internal
+Kotoba M6,v-93a19970cd85d361b2c5,14,置く,pemetaan internal
+Kotoba M6,v-dcac47459a3d6291bd34,14,引き継ぎ,pemetaan internal
+Kotoba M6,v-2fb47c1a17cc1a757e37,14,申請,pemetaan internal
+Kotoba M6,v-f05652242b52f907584d,14,用紙,pemetaan internal
+Kotoba M6,v-2f9ad8cda9d86aa12124,14,記入する,pemetaan internal
+Kotoba M6,v-12bd1a75af7e18467c6b,14,必要,pemetaan internal
+Kotoba M6,v-76e1adad38528443bc23,14,窓口,pemetaan internal
+Kotoba M6,v-54806cd9e0502611d9b3,7,切符,pemetaan internal
+Kotoba M6,v-23abf43462555a39d6ba,7,乗ります,pemetaan internal
+Kotoba M6,v-6bf5411229c4399c9401,7,値段,pemetaan internal
+Kotoba M6,v-18961e4ffe573e364903,13,痛い,pemetaan internal
+Kotoba M6,v-3c485dc51ae33a16e3cd,6,日,pemetaan internal
+Kotoba M6,v-5116da1de06d97b682f7,6,月,pemetaan internal
+Kotoba M6,v-3d3c6c85bace6d1d7a48,6,年,pemetaan internal
+Kotoba M6,v-f704e9d0ab81547efc1b,6,時,pemetaan internal
+Kotoba M6,v-fd8cf8c438e58572c01a,5,下,pemetaan internal
+Kotoba M6,v-67a0471e0905e8b03ce7,5,外,pemetaan internal
+Kotoba M6,v-b33ecb3fdb4c28db2378,6,聞く,pemetaan internal
+Kotoba M6,v-c8bf62012a5a3c28269b,2,おはようございます,pemetaan internal
+Kotoba M6,v-8f5e16487da8a135f8f5,2,こんにちは,pemetaan internal
+Kotoba M6,v-80215e3f75835d0f745a,2,こんばんは,pemetaan internal
+Kotoba M6,v-d2d50eee2ec08d6009d8,3,いくつ,pemetaan internal
+Kotoba M6,v-1bb868681050acd009ff,6,午前,pemetaan internal
+Kotoba M6,v-fd5c76b86fb54e4148a1,6,午後,pemetaan internal
+Kotoba M6,v-de1cf6797199ccec1797,6,半,pemetaan internal
+Kotoba M6,v-d9e44745d7a0e654486e,6,時間,pemetaan internal
+Kotoba M6,v-fa8ba7e63e1ceca26068,2,父,pemetaan internal
+Kotoba M6,v-f5bbb7c826ab3dde53e0,2,母,pemetaan internal
+Kotoba M6,v-cf49047150658cee1362,2,兄,pemetaan internal
+Kotoba M6,v-50f7c4880fd5133ee7b9,2,妹,pemetaan internal
+Kotoba M6,v-a51b4134bda9f751195d,5,台所,pemetaan internal
+Kotoba M6,v-16e5b1674b2689cf95db,5,玄関,pemetaan internal
+Kotoba M6,v-c710b311ce1d4f00519c,5,部屋,pemetaan internal
+Kotoba M6,v-f9b51e1a26d10b407a86,5,窓,pemetaan internal
+Kotoba M6,v-fefcd60fc96fffb75891,7,朝ご飯,pemetaan internal
+Kotoba M6,v-4514613fd5f02f4e6ef0,7,晩ご飯,pemetaan internal
+Kotoba M6,v-73157c074ae0f060d4b5,7,野菜,pemetaan internal
+Kotoba M6,v-de785fcca710e562a5e2,7,牛乳,pemetaan internal
+Kotoba M6,v-7e81b6dfe668891512af,7,注文,pemetaan internal
+Kotoba M6,v-cb8fffd434540061eaeb,7,メニュー,pemetaan internal
+Kotoba M6,v-19f662421be9801f44d1,7,店員,pemetaan internal
+Kotoba M6,v-6c8f187726299ab533af,7,会計,pemetaan internal
+Kotoba M6,v-9725307425459467ebd1,7,席,pemetaan internal
+Kotoba M6,v-bcf4a2eda1e312a456b2,5,右,pemetaan internal
+Kotoba M6,v-a0e014d7db6636553cfe,5,左,pemetaan internal
+Kotoba M6,v-4e1a934ca1a62bc1e852,5,まっすぐ,pemetaan internal
+Kotoba M6,v-f7f704abe661285cc9ea,5,近く,pemetaan internal
+Kotoba M6,v-c7d288e29946e33f0b29,7,飛行機,pemetaan internal
+Kotoba M6,v-00bba9094448088f2f30,8,晴れ,pemetaan internal
+Kotoba M6,v-6cbeaee9bd2c65390330,8,雪,pemetaan internal
+Kotoba M6,v-74b0802d6960ac28b6c9,8,曇り,pemetaan internal
+Kotoba M6,v-83b116318ee3e2bc158f,8,春,pemetaan internal
+Kotoba M6,v-759c12af98a10b391bb8,8,夏,pemetaan internal
+Kotoba M6,v-9d565ebad87512865a61,8,秋,pemetaan internal
+Kotoba M6,v-a88ab43de979821af636,8,冬,pemetaan internal
+Kotoba M6,v-bfcd8af3fa9a2c3997d9,7,服,pemetaan internal
+Kotoba M6,v-7ff9c2573c2f006c5a2e,7,上着,pemetaan internal
+Kotoba M6,v-d9b003e8c7f7cc3e5ffb,8,赤,pemetaan internal
+Kotoba M6,v-2aa6b0b91175839e1eeb,8,青,pemetaan internal
+Kotoba M6,v-dcdb70412da44e3766d2,8,白,pemetaan internal
+Kotoba M6,v-c38c0db05ad179b19635,8,黒,pemetaan internal
+Kotoba M6,v-3c57f66cb095da2f90e1,8,長い,pemetaan internal
+Kotoba M6,v-a518537c110136be9dbd,8,短い,pemetaan internal
+Kotoba M6,v-2b3280fdf77a8cb6ec78,4,教室,pemetaan internal
+Kotoba M6,v-bf823b41b213f9680688,4,宿題,pemetaan internal
+Kotoba M6,v-cd315f678a20e7920416,4,試験,pemetaan internal
+Kotoba M6,v-67c39ca7c3f0eb316e3b,4,質問,pemetaan internal
+Kotoba M6,v-5d6e91ddea50fdf3abd1,4,印刷,pemetaan internal
+Kotoba M6,v-501fb48188f0c4c17ba0,4,机,pemetaan internal
+Kotoba M6,v-69d1cf58fb9dabdbab5d,12,電話,pemetaan internal
+Kotoba M6,v-f5a8d16401bab9171779,12,番号,pemetaan internal
+Kotoba M6,v-241398220a4c95c51cb4,12,連絡,pemetaan internal
+Kotoba M6,v-71ba459b0797664d637c,12,返事,pemetaan internal
+Kotoba M6,v-600533d4c60f43abc2b3,11,散歩,pemetaan internal
+Kotoba M6,v-da391d43df040b8b542d,11,水泳,pemetaan internal
+Kotoba M6,v-fb4aac2f1f9f9b8fd067,6,洗います,pemetaan internal
+Kotoba M6,v-66d42ffa786f1cd0179a,6,掃除します,pemetaan internal
+Kotoba M6,v-bf9f6ff9fe96aed445cb,8,うれしい,pemetaan internal
+Kotoba M6,v-a5856ffbf01f7cd7e9ea,8,悲しい,pemetaan internal
+Kotoba M6,v-182dc20facb23aab383d,8,心配,pemetaan internal
+Kotoba M6,v-64ef45bdf24dff777159,8,安心,pemetaan internal
+Kotoba M6,v-8b5423565f49ff2fe935,13,頭,pemetaan internal
+Kotoba M6,v-579f5f53aae9ff3db3c8,13,お腹,pemetaan internal
+Kotoba M6,v-3984a1b8dffaae02abac,13,喉,pemetaan internal
+Kotoba M6,v-757c2d3c213ea9a78159,13,せき,pemetaan internal
+Kotoba M6,v-c79d9e60fd3684cf2195,13,郵便局,pemetaan internal
+Kotoba M6,v-fee3fd53c5b9b175ec7e,13,銀行,pemetaan internal
+Kotoba M6,v-480e1ceb9090ad996520,13,市役所,pemetaan internal
+Kotoba M6,v-1c628fd3e37725ad1575,13,地震,pemetaan internal
+Kotoba M6,v-867c3a3191f75e856f59,13,火事,pemetaan internal
+Kotoba M6,v-1e835c116dcc623cec67,13,避難,pemetaan internal
+Kotoba M6,v-6663580f11448bcf7637,13,非常口,pemetaan internal
+Kotoba M6,v-c151bbe77a85a8be2cb0,13,分別,pemetaan internal
+Kotoba M6,v-cab5f74b0352911749b1,13,燃えるごみ,pemetaan internal
+Kotoba M6,v-9f67b6ddb70875116a42,13,捨てます,pemetaan internal
+Kotoba M6,v-063c3fbec2cd2f927869,6,日,pemetaan internal
+Kotoba M6,v-514ee85ebb3f30754bc4,6,月曜日,pemetaan internal
+Kotoba M6,v-4cff1ee13998964c2202,14,火,pemetaan internal
+Kotoba M6,v-e06b1d17b753ff8d6d2e,14,火曜日,pemetaan internal
+Kotoba M6,v-47047359468ecdced3a3,14,水曜日,pemetaan internal
+Kotoba M6,v-1f93ce5b8a3499062ae8,14,木,pemetaan internal
+Kotoba M6,v-59be4875ef18956c2fa8,14,金,pemetaan internal
+Kotoba M6,v-bb1ecbb2fa4f9b9b2153,14,土,pemetaan internal
+Kotoba M6,v-417bb8fd162d6d06ea46,2,人,pemetaan internal
+Kotoba M6,v-c58c0b6e03d162f86e74,2,男,pemetaan internal
+Kotoba M6,v-4cfd2a03859199930a5d,2,女,pemetaan internal
+Kotoba M6,v-8fce32f4e13ad4903225,2,女の人,pemetaan internal
+Kotoba M6,v-8f5452a29f20b7aeb3f8,8,大,pemetaan internal
+Kotoba M6,v-6cd39cf13eb541c372b0,8,小,pemetaan internal
+Kotoba M6,v-e60944bf6b82d46a140c,4,学,pemetaan internal
+Kotoba M6,v-1876cbf6734f88f7efe2,4,校,pemetaan internal
+Kotoba M6,v-e8c91534f5f0ea219e77,4,会,pemetaan internal
+Kotoba M6,v-8197ffce144909305a3d,4,社,pemetaan internal
+Kotoba M6,v-481fc355ffc90d89b5eb,7,電,pemetaan internal
+Kotoba M6,v-c960daa55ae24e2e2f60,7,車,pemetaan internal
+Kotoba M6,v-2b3580aaebfd2438e93e,7,道,pemetaan internal
+Kotoba M6,v-ed931a2c8f5ba1d72bc4,7,駅前,pemetaan internal
+Kotoba M6,v-d50d67b99edffbf6675b,7,道路,pemetaan internal
+Kotoba M6,v-00485485a3c12e0eb9a6,6,三時,pemetaan internal
+Kotoba M6,v-7cc23aeeff6add543879,6,十分,pemetaan internal
+Kotoba M6,v-45c5534d832235a753f1,7,食,pemetaan internal
+Kotoba M6,v-b944205f9a5f481e1a66,7,飲,pemetaan internal
+Kotoba M6,v-06aec84877348eb7b119,7,飲み物,pemetaan internal
+Kotoba M6,v-ed7c3eb383d03930bd96,7,買,pemetaan internal
+Kotoba M6,v-23b2d6a69f938fcc2113,7,売,pemetaan internal
+Kotoba M6,v-592495626a023e3051bc,7,買い物,pemetaan internal
+Kotoba M6,v-b3fdde617d4061a706fc,7,売り場,pemetaan internal
+Kotoba M6,v-1f3a49e6e852f0a3f8dd,5,行,pemetaan internal
+Kotoba M6,v-1d79aee5114d03f6d45b,5,来,pemetaan internal
+Kotoba M6,v-de487122e522e8732b1d,14,見,pemetaan internal
+Kotoba M6,v-83ade404eec105c271f1,14,聞,pemetaan internal
+Kotoba M6,v-b4040fbafe403ad69e2c,14,聞きます,pemetaan internal
+Kotoba M6,v-d82fb5cc3582e30166fd,5,入,pemetaan internal
+Kotoba M6,v-ebc30f767e95e03483d2,5,出,pemetaan internal
+Kotoba M6,v-b9ced436349911ffe301,5,出口,pemetaan internal
+Kotoba M6,v-8836fb42677df78a196b,5,上着,pemetaan internal
+Kotoba M6,v-2a096e6f7e07a3349fc4,5,地下,pemetaan internal
+Kotoba M6,v-991db06f9794811eebe8,2,～と申します,pemetaan internal
+Kotoba M6,v-85346c1323d8e204d2c4,2,よろしくお願いします,pemetaan internal
+Kotoba M6,v-fca0ce0f830778835779,2,どちらから来ましたか,pemetaan internal
+Kotoba M6,v-08c20f8c8230462597e6,9,すみません、もう一度お願いします,pemetaan internal
+Kotoba M6,v-97ef6d4686daa92a86c3,9,ゆっくり話してください,pemetaan internal
+Kotoba M6,v-0847534e3349f99a446e,3,これはいくらですか,pemetaan internal
+Kotoba M6,v-4662133959354680e5c7,7,もう少し大きいサイズはありますか,pemetaan internal
+Kotoba M6,v-6f082baca6a986580d77,7,注文をお願いします,pemetaan internal
+Kotoba M6,v-9dbcbd0aac3d6ad9e9bb,7,これをください,pemetaan internal
+Kotoba M6,v-eb433f29d26abb7110ce,13,～は食べられません,pemetaan internal
+Kotoba M6,v-ca1ef3c9660b34c34d4f,13,～が入っていますか,pemetaan internal
+Kotoba M6,v-0a4393c165970de7740b,5,駅はどこですか,pemetaan internal
+Kotoba M6,v-1945f067b1e2b3c58399,7,この電車は大阪へ行きますか,pemetaan internal
+Kotoba M6,v-430afd17ea20a6df32f2,7,次のバスは何時ですか,pemetaan internal
+Kotoba M6,v-1d954e2212d2fdbfab2c,12,遅れます,pemetaan internal
+Kotoba M6,v-1c123e79bd6f2c820e58,12,申し訳ありません,pemetaan internal
+Kotoba M6,v-1f57e3c5f2ef18211757,9,明日、休んでもいいですか,pemetaan internal
+Kotoba M6,v-2d1b8b2440c10948c168,9,手伝っていただけますか,pemetaan internal
+Kotoba M6,v-3d33168952568652dec2,12,これでいいですか,pemetaan internal
+Kotoba M6,v-7f9f0deff1e5d9ee9f20,12,いつがいいですか,pemetaan internal
+Kotoba M6,v-c6a147711e96f9344653,12,予定を変更したいです,pemetaan internal
+Kotoba M6,v-2be839f9440af1724e32,13,大丈夫ですか,pemetaan internal
+Kotoba M6,v-9e34e9adb7b376828fba,13,頭が痛いです,pemetaan internal
+Kotoba M6,v-2429d7eca5abbbe40f5d,13,薬はありますか,pemetaan internal
+Kotoba M6,v-a3924a664ba58866c1bf,13,この荷物を送りたいです,pemetaan internal
+Kotoba M6,v-7659803907cfedfc5a5e,13,財布をなくしました,pemetaan internal
+Kotoba M6,v-78f7a90ab891aeb68c3d,13,避難場所はどこですか,pemetaan internal
+Kanji M6,k-65e5,1 | 4 | 5 | 6 | 8 | 9 | 10 | 11 | 12 | 14,日,pemetaan internal
+Kanji M6,k-6708,6,月,pemetaan internal
+Kanji M6,k-5e74,6,年,pemetaan internal
+Kanji M6,k-6642,3 | 6 | 7 | 10,時,pemetaan internal
+Kanji M6,k-4e0a,5 | 7,上,pemetaan internal
+Kanji M6,k-4e0b,5 | 7,下,pemetaan internal
+Kanji M6,k-4e2d,5 | 14,中,pemetaan internal
+Kanji M6,k-5916,5,外,pemetaan internal
+Kanji M6,k-98df,5 | 6 | 7 | 10 | 11 | 12 | 13,食,pemetaan internal
+Kanji M6,k-98f2,6 | 7 | 9,飲,pemetaan internal
+Kanji M6,k-898b,6 | 9 | 10 | 11 | 12 | 13 | 14,見,pemetaan internal
+Kanji M6,k-805e,6 | 9 | 13 | 14,聞,pemetaan internal
+Kanji M6,k-99c5,5 | 7,駅,pemetaan internal
+Kanji M6,k-5e97,2 | 5 | 7,店,pemetaan internal
+Kanji M6,k-75c5,5 | 13,病,pemetaan internal
+Kanji M6,k-9662,5 | 13,院,pemetaan internal
+Kanji M6,k-5b66,1 | 2 | 4 | 5,学,pemetaan internal
+Kanji M6,k-6821,1 | 4 | 5,校,pemetaan internal
+Kanji M6,k-706b,13 | 14,火,pemetaan internal
+Kanji M6,k-6c34,6 | 7 | 11 | 13 | 14,水,pemetaan internal
+Kanji M6,k-6728,14,木,pemetaan internal
+Kanji M6,k-91d1,10 | 14,金,pemetaan internal
+Kanji M6,k-571f,14,土,pemetaan internal
+Kanji M6,k-4eba,2 | 13,人,pemetaan internal
+Kanji M6,k-7537,2,男,pemetaan internal
+Kanji M6,k-5973,2,女,pemetaan internal
+Kanji M6,k-5927,2 | 7 | 8 | 9 | 12 | 13,大,pemetaan internal
+Kanji M6,k-5c0f,7 | 8,小,pemetaan internal
+Kanji M6,k-4f1a,2 | 4 | 6 | 7 | 10 | 12 | 14,会,pemetaan internal
+Kanji M6,k-793e,2 | 4 | 10,社,pemetaan internal
+Kanji M6,k-96fb,3 | 7 | 11 | 12,電,pemetaan internal
+Kanji M6,k-8eca,7 | 11 | 12,車,pemetaan internal
+Kanji M6,k-9053,7,道,pemetaan internal
+Kanji M6,k-5206,3 | 6 | 7 | 13,分,pemetaan internal
+Kanji M6,k-8cb7,6 | 7 | 9 | 10 | 11 | 12 | 14,買,pemetaan internal
+Kanji M6,k-58f2,5 | 7 | 11,売,pemetaan internal
+Kanji M6,k-884c,1 | 5 | 6 | 7 | 9 | 10 | 11 | 12 | 13 | 14,行,pemetaan internal
+Kanji M6,k-6765,2 | 5 | 9 | 10 | 11 | 12 | 13 | 14,来,pemetaan internal
+Kanji M6,k-5165,5 | 9 | 10 | 13 | 14,入,pemetaan internal
+Kanji M6,k-51fa,5 | 10 | 14,出,pemetaan internal
+Skills M7,s92m7-bab01,1,Membaca memo kana,pemetaan internal
+Skills M7,s92m7-bab02,2,Label nama dan perkenalan,pemetaan internal
+Skills M7,s92m7-bab03,3,Harga dan jam toko,pemetaan internal
+Skills M7,s92m7-bab04,4,Barang tertinggal,pemetaan internal
+Skills M7,s92m7-bab05,5,Petunjuk fasilitas,pemetaan internal
+Skills M7,s92m7-bab06,6,Pesan perubahan jadwal,pemetaan internal
+Skills M7,s92m7-bab07,7,Rute dan belanja,pemetaan internal
+Skills M7,s92m7-bab08,8,Ulasan tempat,pemetaan internal
+Skills M7,s92m7-bab09,9,Aturan ruang bersama,pemetaan internal
+Skills M7,s92m7-bab10,10,Aturan sebelum bekerja,pemetaan internal
+Skills M7,s92m7-bab11,11,Rencana perjalanan,pemetaan internal
+Skills M7,s92m7-bab12,12,Pesan acara,pemetaan internal
+Skills M7,s92m7-bab13,13,Menghadapi masalah,pemetaan internal
+Skills M7,s92m7-bab14,14,Pengumuman dan administrasi,pemetaan internal
+Interactive S9.3,s930-order-intro,2,Memperkenalkan asal,pemetaan internal
+Interactive S9.3,s930-order-time,6,Jadwal kerja,pemetaan internal
+Interactive S9.3,s930-order-reason,12,Alasan pulang,pemetaan internal
+Interactive S9.3,s930-particle-place,5,Tempat kegiatan,pemetaan internal
+Interactive S9.3,s930-particle-vehicle,7,Naik kendaraan,pemetaan internal
+Interactive S9.3,s930-particle-direction,7,Arah perjalanan,pemetaan internal
+Interactive S9.3,s930-conj-te,9,Bentuk て pengecualian,pemetaan internal
+Interactive S9.3,s930-conj-nai,10,Bentuk ない kelompok 1,pemetaan internal
+Interactive S9.3,s930-conj-potential,13,Bentuk potensial,pemetaan internal
+Interactive S9.3,s930-typing-kana,1,Mengetik katakana,pemetaan internal
+Interactive S9.3,s930-typing-price,3,Mengetik harga,pemetaan internal
+Interactive S9.3,s930-typing-ta,11,Mengetik pengalaman,pemetaan internal
+Interactive S9.3,s930-translation-adj,8,Terjemahan Jepang–Indonesia,pemetaan internal
+Interactive S9.3,s930-translation-rule,10,Terjemahan Indonesia–Jepang,pemetaan internal
+Interactive S9.3,s930-translation-plan,14,Terjemahan rencana,pemetaan internal
+Interactive S9.3,s930-m1-01-01,1,Pratinjau membaca kana 1,pemetaan internal
+Interactive S9.3,s930-m4-01-01,1,Pratinjau membaca kana 1,pemetaan internal
+Interactive S9.3,s930-m5-01-01,1,Pratinjau membaca kana 1,pemetaan internal
+Interactive S9.3,s930-m1-01-02,1,Pratinjau membaca kana 2,pemetaan internal
+Interactive S9.3,s930-m4-01-02,1,Pratinjau membaca kana 2,pemetaan internal
+Interactive S9.3,s930-m5-01-02,1,Pratinjau membaca kana 2,pemetaan internal
+Interactive S9.3,s930-m1-01-03,1,Pratinjau membaca kana 3,pemetaan internal
+Interactive S9.3,s930-m1-01-04,1,Pratinjau membaca kana 4,pemetaan internal
+Interactive S9.3,s930-m1-01-05,1,Pratinjau membaca kana 5,pemetaan internal
+Interactive S9.3,s930-m1-01-06,1,Pratinjau membaca kana 6,pemetaan internal
+Interactive S9.3,s930-m1-01-07,1,Pratinjau membaca kana 7,pemetaan internal
+Interactive S9.3,s930-m1-02-01,2,Asal daerah 1,pemetaan internal
+Interactive S9.3,s930-m4-02-01,2,Asal daerah 1,pemetaan internal
+Interactive S9.3,s930-m5-02-01,2,Asal daerah 1,pemetaan internal
+Interactive S9.3,s930-m1-02-02,2,Asal daerah 2,pemetaan internal
+Interactive S9.3,s930-m4-02-02,2,Asal daerah 2,pemetaan internal
+Interactive S9.3,s930-m5-02-02,2,Asal daerah 2,pemetaan internal
+Interactive S9.3,s930-m1-02-03,2,Asal daerah 3,pemetaan internal
+Interactive S9.3,s930-m1-02-04,2,Asal daerah 4,pemetaan internal
+Interactive S9.3,s930-m1-02-05,2,Asal daerah 5,pemetaan internal
+Interactive S9.3,s930-m1-02-06,2,Asal daerah 6,pemetaan internal
+Interactive S9.3,s930-m1-02-07,2,Asal daerah 7,pemetaan internal
+Interactive S9.3,s930-m1-03-01,3,Harga barang 1,pemetaan internal
+Interactive S9.3,s930-m4-03-01,3,Harga barang 1,pemetaan internal
+Interactive S9.3,s930-m5-03-01,3,Harga barang 1,pemetaan internal
+Interactive S9.3,s930-m1-03-02,3,Harga barang 2,pemetaan internal
+Interactive S9.3,s930-m4-03-02,3,Harga barang 2,pemetaan internal
+Interactive S9.3,s930-m5-03-02,3,Harga barang 2,pemetaan internal
+Interactive S9.3,s930-m1-03-03,3,Harga barang 3,pemetaan internal
+Interactive S9.3,s930-m1-03-04,3,Harga barang 4,pemetaan internal
+Interactive S9.3,s930-m1-03-05,3,Harga barang 5,pemetaan internal
+Interactive S9.3,s930-m1-03-06,3,Harga barang 6,pemetaan internal
+Interactive S9.3,s930-m1-03-07,3,Harga barang 7,pemetaan internal
+Interactive S9.3,s930-m1-04-01,4,Kepemilikan 1,pemetaan internal
+Interactive S9.3,s930-m4-04-01,4,Kepemilikan 1,pemetaan internal
+Interactive S9.3,s930-m5-04-01,4,Kepemilikan 1,pemetaan internal
+Interactive S9.3,s930-m1-04-02,4,Kepemilikan 2,pemetaan internal
+Interactive S9.3,s930-m4-04-02,4,Kepemilikan 2,pemetaan internal
+Interactive S9.3,s930-m5-04-02,4,Kepemilikan 2,pemetaan internal
+Interactive S9.3,s930-m1-04-03,4,Kepemilikan 3,pemetaan internal
+Interactive S9.3,s930-m1-04-04,4,Kepemilikan 4,pemetaan internal
+Interactive S9.3,s930-m1-04-05,4,Kepemilikan 5,pemetaan internal
+Interactive S9.3,s930-m1-04-06,4,Kepemilikan 6,pemetaan internal
+Interactive S9.3,s930-m1-04-07,4,Kepemilikan 7,pemetaan internal
+Interactive S9.3,s930-m1-05-01,5,Lokasi benda 1,pemetaan internal
+Interactive S9.3,s930-m4-05-01,5,Lokasi benda 1,pemetaan internal
+Interactive S9.3,s930-m5-05-01,5,Lokasi benda 1,pemetaan internal
+Interactive S9.3,s930-m1-05-02,5,Lokasi benda 2,pemetaan internal
+Interactive S9.3,s930-m4-05-02,5,Lokasi benda 2,pemetaan internal
+Interactive S9.3,s930-m5-05-02,5,Lokasi benda 2,pemetaan internal
+Interactive S9.3,s930-m1-05-03,5,Lokasi benda 3,pemetaan internal
+Interactive S9.3,s930-m1-05-04,5,Lokasi benda 4,pemetaan internal
+Interactive S9.3,s930-m1-05-05,5,Lokasi benda 5,pemetaan internal
+Interactive S9.3,s930-m1-05-06,5,Lokasi benda 6,pemetaan internal
+Interactive S9.3,s930-m1-05-07,5,Lokasi benda 7,pemetaan internal
+Interactive S9.3,s930-m1-06-01,6,Kegiatan rutin 1,pemetaan internal
+Interactive S9.3,s930-m4-06-01,6,Kegiatan rutin 1,pemetaan internal
+Interactive S9.3,s930-m5-06-01,6,Kegiatan rutin 1,pemetaan internal
+Interactive S9.3,s930-m1-06-02,6,Kegiatan rutin 2,pemetaan internal
+Interactive S9.3,s930-m4-06-02,6,Kegiatan rutin 2,pemetaan internal
+Interactive S9.3,s930-m5-06-02,6,Kegiatan rutin 2,pemetaan internal
+Interactive S9.3,s930-m1-06-03,6,Kegiatan rutin 3,pemetaan internal
+Interactive S9.3,s930-m1-06-04,6,Kegiatan rutin 4,pemetaan internal
+Interactive S9.3,s930-m1-06-05,6,Kegiatan rutin 5,pemetaan internal
+Interactive S9.3,s930-m1-06-06,6,Kegiatan rutin 6,pemetaan internal
+Interactive S9.3,s930-m1-06-07,6,Kegiatan rutin 7,pemetaan internal
+Interactive S9.3,s930-m1-07-01,7,Sarana perjalanan 1,pemetaan internal
+Interactive S9.3,s930-m4-07-01,7,Sarana perjalanan 1,pemetaan internal
+Interactive S9.3,s930-m5-07-01,7,Sarana perjalanan 1,pemetaan internal
+Interactive S9.3,s930-m1-07-02,7,Sarana perjalanan 2,pemetaan internal
+Interactive S9.3,s930-m4-07-02,7,Sarana perjalanan 2,pemetaan internal
+Interactive S9.3,s930-m5-07-02,7,Sarana perjalanan 2,pemetaan internal
+Interactive S9.3,s930-m1-07-03,7,Sarana perjalanan 3,pemetaan internal
+Interactive S9.3,s930-m1-07-04,7,Sarana perjalanan 4,pemetaan internal
+Interactive S9.3,s930-m1-07-05,7,Sarana perjalanan 5,pemetaan internal
+Interactive S9.3,s930-m1-07-06,7,Sarana perjalanan 6,pemetaan internal
+Interactive S9.3,s930-m1-07-07,7,Sarana perjalanan 7,pemetaan internal
+Interactive S9.3,s930-m1-08-01,8,Deskripsi benda 1,pemetaan internal
+Interactive S9.3,s930-m4-08-01,8,Deskripsi benda 1,pemetaan internal
+Interactive S9.3,s930-m5-08-01,8,Deskripsi benda 1,pemetaan internal
+Interactive S9.3,s930-m1-08-02,8,Deskripsi benda 2,pemetaan internal
+Interactive S9.3,s930-m4-08-02,8,Deskripsi benda 2,pemetaan internal
+Interactive S9.3,s930-m5-08-02,8,Deskripsi benda 2,pemetaan internal
+Interactive S9.3,s930-m1-08-03,8,Deskripsi benda 3,pemetaan internal
+Interactive S9.3,s930-m1-08-04,8,Deskripsi benda 4,pemetaan internal
+Interactive S9.3,s930-m1-08-05,8,Deskripsi benda 5,pemetaan internal
+Interactive S9.3,s930-m1-08-06,8,Deskripsi benda 6,pemetaan internal
+Interactive S9.3,s930-m1-08-07,8,Deskripsi benda 7,pemetaan internal
+Interactive S9.3,s930-m1-09-01,9,Permintaan sopan 1,pemetaan internal
+Interactive S9.3,s930-m4-09-01,9,Permintaan sopan 1,pemetaan internal
+Interactive S9.3,s930-m5-09-01,9,Permintaan sopan 1,pemetaan internal
+Interactive S9.3,s930-m1-09-02,9,Permintaan sopan 2,pemetaan internal
+Interactive S9.3,s930-m4-09-02,9,Permintaan sopan 2,pemetaan internal
+Interactive S9.3,s930-m5-09-02,9,Permintaan sopan 2,pemetaan internal
+Interactive S9.3,s930-m1-09-03,9,Permintaan sopan 3,pemetaan internal
+Interactive S9.3,s930-m1-09-04,9,Permintaan sopan 4,pemetaan internal
+Interactive S9.3,s930-m1-09-05,9,Permintaan sopan 5,pemetaan internal
+Interactive S9.3,s930-m1-09-06,9,Permintaan sopan 6,pemetaan internal
+Interactive S9.3,s930-m1-09-07,9,Permintaan sopan 7,pemetaan internal
+Interactive S9.3,s930-m1-10-01,10,Larangan 1,pemetaan internal
+Interactive S9.3,s930-m4-10-01,10,Larangan 1,pemetaan internal
+Interactive S9.3,s930-m5-10-01,10,Larangan 1,pemetaan internal
+Interactive S9.3,s930-m1-10-02,10,Larangan 2,pemetaan internal
+Interactive S9.3,s930-m4-10-02,10,Larangan 2,pemetaan internal
+Interactive S9.3,s930-m5-10-02,10,Larangan 2,pemetaan internal
+Interactive S9.3,s930-m1-10-03,10,Larangan 3,pemetaan internal
+Interactive S9.3,s930-m1-10-04,10,Larangan 4,pemetaan internal
+Interactive S9.3,s930-m1-10-05,10,Larangan 5,pemetaan internal
+Interactive S9.3,s930-m1-10-06,10,Larangan 6,pemetaan internal
+Interactive S9.3,s930-m1-10-07,10,Larangan 7,pemetaan internal
+Interactive S9.3,s930-m1-11-01,11,Pengalaman 1,pemetaan internal
+Interactive S9.3,s930-m4-11-01,11,Pengalaman 1,pemetaan internal
+Interactive S9.3,s930-m5-11-01,11,Pengalaman 1,pemetaan internal
+Interactive S9.3,s930-m1-11-02,11,Pengalaman 2,pemetaan internal
+Interactive S9.3,s930-m4-11-02,11,Pengalaman 2,pemetaan internal
+Interactive S9.3,s930-m5-11-02,11,Pengalaman 2,pemetaan internal
+Interactive S9.3,s930-m1-11-03,11,Pengalaman 3,pemetaan internal
+Interactive S9.3,s930-m1-11-04,11,Pengalaman 4,pemetaan internal
+Interactive S9.3,s930-m1-11-05,11,Pengalaman 5,pemetaan internal
+Interactive S9.3,s930-m1-11-06,11,Pengalaman 6,pemetaan internal
+Interactive S9.3,s930-m1-11-07,11,Pengalaman 7,pemetaan internal
+Interactive S9.3,s930-m1-12-01,12,Alasan praktis 1,pemetaan internal
+Interactive S9.3,s930-m4-12-01,12,Alasan praktis 1,pemetaan internal
+Interactive S9.3,s930-m5-12-01,12,Alasan praktis 1,pemetaan internal
+Interactive S9.3,s930-m1-12-02,12,Alasan praktis 2,pemetaan internal
+Interactive S9.3,s930-m4-12-02,12,Alasan praktis 2,pemetaan internal
+Interactive S9.3,s930-m5-12-02,12,Alasan praktis 2,pemetaan internal
+Interactive S9.3,s930-m1-12-03,12,Alasan praktis 3,pemetaan internal
+Interactive S9.3,s930-m1-12-04,12,Alasan praktis 4,pemetaan internal
+Interactive S9.3,s930-m1-12-05,12,Alasan praktis 5,pemetaan internal
+Interactive S9.3,s930-m1-12-06,12,Alasan praktis 6,pemetaan internal
+Interactive S9.3,s930-m1-12-07,12,Alasan praktis 7,pemetaan internal
+Interactive S9.3,s930-m1-13-01,13,Kondisi dan respons 1,pemetaan internal
+Interactive S9.3,s930-m4-13-01,13,Kondisi dan respons 1,pemetaan internal
+Interactive S9.3,s930-m5-13-01,13,Kondisi dan respons 1,pemetaan internal
+Interactive S9.3,s930-m1-13-02,13,Kondisi dan respons 2,pemetaan internal
+Interactive S9.3,s930-m4-13-02,13,Kondisi dan respons 2,pemetaan internal
+Interactive S9.3,s930-m5-13-02,13,Kondisi dan respons 2,pemetaan internal
+Interactive S9.3,s930-m1-13-03,13,Kondisi dan respons 3,pemetaan internal
+Interactive S9.3,s930-m1-13-04,13,Kondisi dan respons 4,pemetaan internal
+Interactive S9.3,s930-m1-13-05,13,Kondisi dan respons 5,pemetaan internal
+Interactive S9.3,s930-m1-13-06,13,Kondisi dan respons 6,pemetaan internal
+Interactive S9.3,s930-m1-13-07,13,Kondisi dan respons 7,pemetaan internal
+Interactive S9.3,s930-m1-14-01,14,Rencana sehari-hari 1,pemetaan internal
+Interactive S9.3,s930-m4-14-01,14,Rencana sehari-hari 1,pemetaan internal
+Interactive S9.3,s930-m5-14-01,14,Rencana sehari-hari 1,pemetaan internal
+Interactive S9.3,s930-m1-14-02,14,Rencana sehari-hari 2,pemetaan internal
+Interactive S9.3,s930-m4-14-02,14,Rencana sehari-hari 2,pemetaan internal
+Interactive S9.3,s930-m5-14-02,14,Rencana sehari-hari 2,pemetaan internal
+Interactive S9.3,s930-m1-14-03,14,Rencana sehari-hari 3,pemetaan internal
+Interactive S9.3,s930-m1-14-04,14,Rencana sehari-hari 4,pemetaan internal
+Interactive S9.3,s930-m1-14-05,14,Rencana sehari-hari 5,pemetaan internal
+Interactive S9.3,s930-m1-14-06,14,Rencana sehari-hari 6,pemetaan internal
+Interactive S9.3,s930-m1-14-07,14,Rencana sehari-hari 7,pemetaan internal
+Interactive S9.3,s930-m2-01,2,Partikel dalam konteks 1,pemetaan internal
+Interactive S9.3,s930-m2-02,2,Partikel dalam konteks 2,pemetaan internal
+Interactive S9.3,s930-m2-03,3,Partikel dalam konteks 3,pemetaan internal
+Interactive S9.3,s930-m2-04,3,Partikel dalam konteks 4,pemetaan internal
+Interactive S9.3,s930-m2-05,4,Partikel dalam konteks 5,pemetaan internal
+Interactive S9.3,s930-m2-06,4,Partikel dalam konteks 6,pemetaan internal
+Interactive S9.3,s930-m2-07,5,Partikel dalam konteks 7,pemetaan internal
+Interactive S9.3,s930-m2-08,5,Partikel dalam konteks 8,pemetaan internal
+Interactive S9.3,s930-m2-09,6,Partikel dalam konteks 9,pemetaan internal
+Interactive S9.3,s930-m2-10,6,Partikel dalam konteks 10,pemetaan internal
+Interactive S9.3,s930-m2-11,7,Partikel dalam konteks 11,pemetaan internal
+Interactive S9.3,s930-m2-12,7,Partikel dalam konteks 12,pemetaan internal
+Interactive S9.3,s930-m2-13,8,Partikel dalam konteks 13,pemetaan internal
+Interactive S9.3,s930-m2-14,8,Partikel dalam konteks 14,pemetaan internal
+Interactive S9.3,s930-m2-15,9,Partikel dalam konteks 15,pemetaan internal
+Interactive S9.3,s930-m2-16,9,Partikel dalam konteks 16,pemetaan internal
+Interactive S9.3,s930-m2-17,10,Partikel dalam konteks 17,pemetaan internal
+Interactive S9.3,s930-m2-18,10,Partikel dalam konteks 18,pemetaan internal
+Interactive S9.3,s930-m2-19,11,Partikel dalam konteks 19,pemetaan internal
+Interactive S9.3,s930-m2-20,11,Partikel dalam konteks 20,pemetaan internal
+Interactive S9.3,s930-m2-21,12,Partikel dalam konteks 21,pemetaan internal
+Interactive S9.3,s930-m2-22,12,Partikel dalam konteks 22,pemetaan internal
+Interactive S9.3,s930-m2-23,13,Partikel dalam konteks 23,pemetaan internal
+Interactive S9.3,s930-m2-24,13,Partikel dalam konteks 24,pemetaan internal
+Interactive S9.3,s930-m2-25,14,Partikel dalam konteks 25,pemetaan internal
+Interactive S9.3,s930-m2-26,14,Partikel dalam konteks 26,pemetaan internal
+Interactive S9.3,s930-m3-01,9,て · 書く,pemetaan internal
+Interactive S9.3,s930-m3-02,9,て · 泳ぐ,pemetaan internal
+Interactive S9.3,s930-m3-03,9,て · 待つ,pemetaan internal
+Interactive S9.3,s930-m3-04,9,て · 遊ぶ,pemetaan internal
+Interactive S9.3,s930-m3-05,9,て · 話す,pemetaan internal
+Interactive S9.3,s930-m3-06,9,て · 見る,pemetaan internal
+Interactive S9.3,s930-m3-07,9,て · 来る,pemetaan internal
+Interactive S9.3,s930-m3-08,10,ない · 飲む,pemetaan internal
+Interactive S9.3,s930-m3-09,10,ない · 入る,pemetaan internal
+Interactive S9.3,s930-m3-10,10,ない · 起きる,pemetaan internal
+Interactive S9.3,s930-m3-11,10,ない · する,pemetaan internal
+Interactive S9.3,s930-m3-12,10,ない · ある,pemetaan internal
+Interactive S9.3,s930-m3-13,11,た · 呼ぶ,pemetaan internal
+Interactive S9.3,s930-m3-14,11,た · 待つ,pemetaan internal
+Interactive S9.3,s930-m3-15,11,た · 行く,pemetaan internal
+Interactive S9.3,s930-m3-16,11,た · 食べる,pemetaan internal
+Interactive S9.3,s930-m3-17,11,た · する,pemetaan internal
+Interactive S9.3,s930-m3-18,12,kamus · 買います,pemetaan internal
+Interactive S9.3,s930-m3-19,12,kamus · 書きます,pemetaan internal
+Interactive S9.3,s930-m3-20,12,kamus · 食べます,pemetaan internal
+Interactive S9.3,s930-m3-21,12,kamus · 来ます,pemetaan internal
+Interactive S9.3,s930-m3-22,12,kamus · 勉強します,pemetaan internal
+Interactive S9.3,s930-m3-23,13,potensial · 話す,pemetaan internal
+Interactive S9.3,s930-m3-24,13,potensial · 泳ぐ,pemetaan internal
+Interactive S9.3,s930-m3-25,13,potensial · 食べる,pemetaan internal
+Interactive S9.3,s930-m3-26,13,potensial · する,pemetaan internal
+Interactive S9.3,s930-m3-27,13,potensial · 来る,pemetaan internal
+Interactive S9.3,s930-m3-28,8,negatif biasa · 高い,pemetaan internal
+Interactive S9.3,s930-m3-29,8,lampau biasa · 安い,pemetaan internal
+Interactive S9.3,s930-m3-30,8,negatif biasa · 良い,pemetaan internal
+Interactive S9.3,s930-m3-31,8,lampau negatif biasa · 面白い,pemetaan internal
+Interactive S9.3,s930-m3-32,8,negatif predikat biasa · 静か,pemetaan internal
+Interactive S9.3,s930-m3-33,8,lampau predikat biasa · 元気,pemetaan internal
+Interactive S9.3,s930-m5-id-1,2,Jepang → Indonesia,pemetaan internal
+Interactive S9.3,s930-m5-id-2,3,Jepang → Indonesia,pemetaan internal
+Interactive S9.3,s930-m5-id-3,5,Jepang → Indonesia,pemetaan internal
+Interactive S9.3,s930-m5-id-4,6,Jepang → Indonesia,pemetaan internal
+Interactive S9.3,s930-m5-id-5,9,Jepang → Indonesia,pemetaan internal
+Interactive S9.3,s930-m5-id-6,13,Jepang → Indonesia,pemetaan internal
+Interactive S9.3,s930-m6-02,2,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-03,3,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-04,4,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-05,5,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-06,6,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-07,7,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-08,8,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-09,9,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-10,10,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-11,11,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-12,12,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-13,13,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m6-14,14,Respons situasional,pemetaan internal
+Interactive S9.3,s930-m4-dict-01-03,1,Dictation · Pratinjau membaca kana 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-02-03,2,Dictation · Asal daerah 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-03-03,3,Dictation · Harga barang 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-04-03,4,Dictation · Kepemilikan 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-05-03,5,Dictation · Lokasi benda 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-06-03,6,Dictation · Kegiatan rutin 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-07-03,7,Dictation · Sarana perjalanan 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-08-03,8,Dictation · Deskripsi benda 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-09-03,9,Dictation · Permintaan sopan 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-10-03,10,Dictation · Larangan 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-11-03,11,Dictation · Pengalaman 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-12-03,12,Dictation · Alasan praktis 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-13-03,13,Dictation · Kondisi dan respons 3,pemetaan internal
+Interactive S9.3,s930-m4-dict-14-03,14,Dictation · Rencana sehari-hari 3,pemetaan internal
+Interactive S9.3,s930-m6-branch-start,7,Kafe · pilih minuman,pemetaan internal
+Interactive S9.3,s930-m6-branch-coffee,7,Kafe · kopi,pemetaan internal
+Interactive S9.3,s930-m6-branch-tea,7,Kafe · teh,pemetaan internal
+Exam S9.4,s94-b02-e01,2,Apa arti 受付（うけつけ）?,pemetaan internal
+Exam S9.4,s94-b02-e02,2,Apa arti 名札（なふだ）?,pemetaan internal
+Exam S9.4,s94-b02-e03,2,Apa arti 住所（じゅうしょ）?,pemetaan internal
+Exam S9.4,s94-b02-e04,2,Apa arti 名字（みょうじ）?,pemetaan internal
+Exam S9.4,s94-b02-e05,2,Apa arti 出身（しゅっしん）?,pemetaan internal
+Exam S9.4,s94-b02-e06,2,Apa arti 同級生（どうきゅうせい）?,pemetaan internal
+Exam S9.4,s94-b02-e07,2,Apa arti 先輩（せんぱい）?,pemetaan internal
+Exam S9.4,s94-b02-e08,2,Apa arti 後輩（こうはい）?,pemetaan internal
+Exam S9.4,s94-b02-e09,2,Apa arti 初対面（しょたいめん）?,pemetaan internal
+Exam S9.4,s94-b02-e10,2,Apa arti 連絡先（れんらくさき）?,pemetaan internal
+Exam S9.4,s94-b02-p01,2,Apa arti 国籍（こくせき）?,pemetaan internal
+Exam S9.4,s94-b02-p02,2,Apa arti 通訳（つうやく）?,pemetaan internal
+Exam S9.4,s94-b02-p03,2,Apa arti 知り合い（しりあい）?,pemetaan internal
+Exam S9.4,s94-b02-p04,2,Apa arti 紹介（しょうかい）?,pemetaan internal
+Exam S9.4,s94-b02-e11,2,わたし___ りょうです。,pemetaan internal
+Exam S9.4,s94-b02-e12,2,A：おしごとは？ B：かんごし___。,pemetaan internal
+Exam S9.4,s94-b02-e13,2,A：せんせいですか。B：いいえ、せんせい___。,pemetaan internal
+Exam S9.4,s94-b02-e14,2,A：おなまえは なんです___。B：ゆきです。,pemetaan internal
+Exam S9.4,s94-b02-e15,2,A：このかたは？ B：やまださん___。,pemetaan internal
+Exam S9.4,s94-b02-e16,2,わたしは ベトナム___ きました。,pemetaan internal
+Exam S9.4,s94-b02-e17,2,たなかさんは がくせいです。わたし___ がくせいです。,pemetaan internal
+Exam S9.4,s94-b02-e18,2,こちらは わたし___ せんぱいです。,pemetaan internal
+Exam S9.4,s94-b02-e19,2,A：おくには ___ ですか。B：タイです。,pemetaan internal
+Exam S9.4,s94-b02-e20,2,A：どうぞ よろしく。B：___。,pemetaan internal
+Exam S9.4,s94-b02-e21,2,Lengkapi dengan bentuk sopan lampau dari がくせいです：きょねんは がくせい___。,pemetaan internal
+Exam S9.4,s94-b02-e22,2,Tulis partikel topik: わたし___ エンジニアです。,pemetaan internal
+Exam S9.4,s94-b02-p05,2,A：おはようございます。B：___。,pemetaan internal
+Exam S9.4,s94-b02-p06,2,さとうさんは かいしゃいん___。,pemetaan internal
+Exam S9.4,s94-b02-p07,2,A：あのかたは だれですか。B：___。,pemetaan internal
+Exam S9.4,s94-b02-p08,2,A：にほんじんですか。B：いいえ、___。,pemetaan internal
+Exam S9.4,s94-b02-e23,2,Siapa nama tamu?,pemetaan internal
+Exam S9.4,s94-b02-e24,2,Dari mana tamu berasal?,pemetaan internal
+Exam S9.4,s94-b02-e25,2,Nama keluarga orang tersebut?,pemetaan internal
+Exam S9.4,s94-b02-e26,2,Pekerjaannya?,pemetaan internal
+Exam S9.4,s94-b02-e27,2,Siapa senior Aki?,pemetaan internal
+Exam S9.4,s94-b02-e28,2,Apa yang diucapkan Mai?,pemetaan internal
+Exam S9.4,s94-b02-e29,2,Siapa yang berasal dari Korea?,pemetaan internal
+Exam S9.4,s94-b02-e30,2,Kewarganegaraan Sora?,pemetaan internal
+Exam S9.4,s94-b02-p09,2,Asal Luka?,pemetaan internal
+Exam S9.4,s94-b02-p10,2,Pekerjaan Luka?,pemetaan internal
+Exam S9.4,s94-b02-p11,2,Siapa yang diperkenalkan?,pemetaan internal
+Exam S9.4,s94-b02-p12,2,Ucapan Ali untuk apa?,pemetaan internal
+Exam S9.4,s94-b03-e01,3,Apa arti 小銭（こぜに）?,pemetaan internal
+Exam S9.4,s94-b03-e02,3,Apa arti 紙幣（しへい）?,pemetaan internal
+Exam S9.4,s94-b03-e03,3,Apa arti 半額（はんがく）?,pemetaan internal
+Exam S9.4,s94-b03-e04,3,Apa arti 税込み（ぜいこみ）?,pemetaan internal
+Exam S9.4,s94-b03-e05,3,Apa arti 合計（ごうけい）?,pemetaan internal
+Exam S9.4,s94-b03-e06,3,Apa arti 割引（わりびき）?,pemetaan internal
+Exam S9.4,s94-b03-e07,3,Apa arti 枚（まい）?,pemetaan internal
+Exam S9.4,s94-b03-e08,3,Apa arti 本（ほん）?,pemetaan internal
+Exam S9.4,s94-b03-e09,3,Apa arti 個（こ）?,pemetaan internal
+Exam S9.4,s94-b03-e10,3,Apa arti 杯（はい）?,pemetaan internal
+Exam S9.4,s94-b03-p01,3,Apa arti 現金（げんきん）?,pemetaan internal
+Exam S9.4,s94-b03-p02,3,Apa arti 値段（ねだん）?,pemetaan internal
+Exam S9.4,s94-b03-p03,3,Apa arti 釣り銭（つりせん）?,pemetaan internal
+Exam S9.4,s94-b03-p04,3,Apa arti 数量（すうりょう）?,pemetaan internal
+Exam S9.4,s94-b03-e11,3,600えんと 200えん。ぜんぶで ___ えんです。,pemetaan internal
+Exam S9.4,s94-b03-e12,3,きっぷを さん___ ください。,pemetaan internal
+Exam S9.4,s94-b03-e13,3,えんぴつを に___ かいました。,pemetaan internal
+Exam S9.4,s94-b03-e14,3,コーヒーを いっ___ おねがいします。,pemetaan internal
+Exam S9.4,s94-b03-e15,3,A：これは ___ ですか。B：980えんです。,pemetaan internal
+Exam S9.4,s94-b03-e16,3,りんごを みっ___ ください。,pemetaan internal
+Exam S9.4,s94-b03-e17,3,A：いま なんじですか。B：7:30です。,pemetaan internal
+Exam S9.4,s94-b03-e18,3,1000えんの ほんが はんがくです。___ えんです。,pemetaan internal
+Exam S9.4,s94-b03-e19,3,A：なんにんですか。B：2にんです。,pemetaan internal
+Exam S9.4,s94-b03-e20,3,A：みかんは いくつですか。B：___。,pemetaan internal
+Exam S9.4,s94-b03-e21,3,Tulis bacaan hiragana 300 (angka saja).,pemetaan internal
+Exam S9.4,s94-b03-e22,3,Tulis bacaan hiragana 8 buku (八冊).,pemetaan internal
+Exam S9.4,s94-b03-p05,3,250えんの パンを ふたつ。ぜんぶで ___ えんです。,pemetaan internal
+Exam S9.4,s94-b03-p06,3,しゃしんを ご___ とりました。,pemetaan internal
+Exam S9.4,s94-b03-p07,3,A：いくつ ありますか。B：___。,pemetaan internal
+Exam S9.4,s94-b03-p08,3,A：なんじですか。B：4:00です。,pemetaan internal
+Exam S9.4,s94-b03-e23,3,Harga teh?,pemetaan internal
+Exam S9.4,s94-b03-e24,3,Harga kopi dan sandwich bersama?,pemetaan internal
+Exam S9.4,s94-b03-e25,3,Berapa notebook?,pemetaan internal
+Exam S9.4,s94-b03-e26,3,Uang kembalian?,pemetaan internal
+Exam S9.4,s94-b03-e27,3,Harga tiket anak hari ini?,pemetaan internal
+Exam S9.4,s94-b03-e28,3,Harga satu dewasa dan satu anak hari ini?,pemetaan internal
+Exam S9.4,s94-b03-e29,3,Tanggal reservasi?,pemetaan internal
+Exam S9.4,s94-b03-e30,3,Jam reservasi?,pemetaan internal
+Exam S9.4,s94-b03-p09,3,Harga jus?,pemetaan internal
+Exam S9.4,s94-b03-p10,3,Total satu roti dan jus?,pemetaan internal
+Exam S9.4,s94-b03-p11,3,Jumlah pena?,pemetaan internal
+Exam S9.4,s94-b03-p12,3,Jumlah notebook?,pemetaan internal
+Exam S9.4,s94-b04-e01,4,Apa arti 文房具（ぶんぼうぐ）?,pemetaan internal
+Exam S9.4,s94-b04-e02,4,Apa arti 鍵（かぎ）?,pemetaan internal
+Exam S9.4,s94-b04-e03,4,Apa arti 腕時計（うでどけい）?,pemetaan internal
+Exam S9.4,s94-b04-e04,4,Apa arti 辞書（じしょ）?,pemetaan internal
+Exam S9.4,s94-b04-e05,4,Apa arti 領収書（りょうしゅうしょ）?,pemetaan internal
+Exam S9.4,s94-b04-e06,4,Apa arti 名刺（めいし）?,pemetaan internal
+Exam S9.4,s94-b04-e07,4,Apa arti 制服（せいふく）?,pemetaan internal
+Exam S9.4,s94-b04-e08,4,Apa arti 社員証（しゃいんしょう）?,pemetaan internal
+Exam S9.4,s94-b04-e09,4,Apa arti 工具（こうぐ）?,pemetaan internal
+Exam S9.4,s94-b04-e10,4,Apa arti 事務員（じむいん）?,pemetaan internal
+Exam S9.4,s94-b04-p01,4,Apa arti 書類（しょるい）?,pemetaan internal
+Exam S9.4,s94-b04-p02,4,Apa arti 財布（さいふ）?,pemetaan internal
+Exam S9.4,s94-b04-p03,4,Apa arti 傘（かさ）?,pemetaan internal
+Exam S9.4,s94-b04-p04,4,Apa arti 鏡（かがみ）?,pemetaan internal
+Exam S9.4,s94-b04-e11,4,わたしが てに もっている ほんは ___ ほんです。,pemetaan internal
+Exam S9.4,s94-b04-e12,4,A：あなたの てに ある かさは だれのですか。 B：___ かさは わたしのです。,pemetaan internal
+Exam S9.4,s94-b04-e13,4,A：ふたりから とおい ところに ある くるまは？ B：___ くるまですか。,pemetaan internal
+Exam S9.4,s94-b04-e14,4,これは えいご___ じしょです。,pemetaan internal
+Exam S9.4,s94-b04-e15,4,A：この かばんは ___ ですか。B：きむらさんのです。,pemetaan internal
+Exam S9.4,s94-b04-e16,4,A：これは ペンですか、えんぴつですか。B：___。,pemetaan internal
+Exam S9.4,s94-b04-e17,4,A：あなたの ノートは どれですか。B：___ です。（手に持っているもの）,pemetaan internal
+Exam S9.4,s94-b04-e18,4,A：___ かぎが たなかさんのですか。B：あかい かぎです。,pemetaan internal
+Exam S9.4,s94-b04-e19,4,これは カメラ___。でんしじしょです。,pemetaan internal
+Exam S9.4,s94-b04-e20,4,A：なんの ほんですか。B：___。,pemetaan internal
+Exam S9.4,s94-b04-e21,4,Tulis kata tunjuk mandiri untuk benda jauh dari kedua pembicara (hiragana).,pemetaan internal
+Exam S9.4,s94-b04-e22,4,Lengkapi: この かさは わたし___ です。（partikel kepemilikan）,pemetaan internal
+Exam S9.4,s94-b04-p05,4,A：これは なんですか。B：___。,pemetaan internal
+Exam S9.4,s94-b04-p06,4,A：その くつは だれのですか。B：___。,pemetaan internal
+Exam S9.4,s94-b04-p07,4,これは わたし___ しゃいんしょうです。,pemetaan internal
+Exam S9.4,s94-b04-p08,4,A：どれが あなたのですか。B：___。（benda di tangan saya）,pemetaan internal
+Exam S9.4,s94-b04-e23,4,Warna tas?,pemetaan internal
+Exam S9.4,s94-b04-e24,4,Di mana tas disimpan?,pemetaan internal
+Exam S9.4,s94-b04-e25,4,Milik siapa seragam di A?,pemetaan internal
+Exam S9.4,s94-b04-e26,4,Apa di loker B?,pemetaan internal
+Exam S9.4,s94-b04-e27,4,Pekerjaan Yamada?,pemetaan internal
+Exam S9.4,s94-b04-e28,4,Nomor telepon pada kartu?,pemetaan internal
+Exam S9.4,s94-b04-e29,4,Pena biru milik siapa?,pemetaan internal
+Exam S9.4,s94-b04-e30,4,Pena yang dekat A milik siapa?,pemetaan internal
+Exam S9.4,s94-b04-p09,4,Warna payung pelanggan?,pemetaan internal
+Exam S9.4,s94-b04-p10,4,Siapa pemilik payung hitam?,pemetaan internal
+Exam S9.4,s94-b04-p11,4,Benda yang tertinggal?,pemetaan internal
+Exam S9.4,s94-b04-p12,4,Apa di dalamnya?,pemetaan internal
+Exam S9.4,s94-b05-e01,5,Apa arti 交差点（こうさてん）?,pemetaan internal
+Exam S9.4,s94-b05-e02,5,Apa arti 歩道（ほどう）?,pemetaan internal
+Exam S9.4,s94-b05-e03,5,Apa arti 階段（かいだん）?,pemetaan internal
+Exam S9.4,s94-b05-e04,5,Apa arti 地下（ちか）?,pemetaan internal
+Exam S9.4,s94-b05-e05,5,Apa arti 正面（しょうめん）?,pemetaan internal
+Exam S9.4,s94-b05-e06,5,Apa arti 裏（うら）?,pemetaan internal
+Exam S9.4,s94-b05-e07,5,Apa arti 隅（すみ）?,pemetaan internal
+Exam S9.4,s94-b05-e08,5,Apa arti 薬局（やっきょく）?,pemetaan internal
+Exam S9.4,s94-b05-e09,5,Apa arti 駐車場（ちゅうしゃじょう）?,pemetaan internal
+Exam S9.4,s94-b05-e10,5,Apa arti 案内所（あんないじょ）?,pemetaan internal
+Exam S9.4,s94-b05-p01,5,Apa arti 信号（しんごう）?,pemetaan internal
+Exam S9.4,s94-b05-p02,5,Apa arti 橋（はし）?,pemetaan internal
+Exam S9.4,s94-b05-p03,5,Apa arti 向こう（むこう）?,pemetaan internal
+Exam S9.4,s94-b05-p04,5,Apa arti 売り場（うりば）?,pemetaan internal
+Exam S9.4,s94-b05-e11,5,つくえの した___ かばんが あります。,pemetaan internal
+Exam S9.4,s94-b05-e12,5,こうえんに こどもが ___。,pemetaan internal
+Exam S9.4,s94-b05-e13,5,へやに テレビが ___。,pemetaan internal
+Exam S9.4,s94-b05-e14,5,ぎんこうは ゆうびんきょくの ___ です。（di samping）,pemetaan internal
+Exam S9.4,s94-b05-e15,5,A：トイレは ___ ですか。B：2かいです。,pemetaan internal
+Exam S9.4,s94-b05-e16,5,としょかん___ べんきょうします。,pemetaan internal
+Exam S9.4,s94-b05-e17,5,たな___ うえに かぎが あります。,pemetaan internal
+Exam S9.4,s94-b05-e18,5,きょうしつに せんせいが ___。（tidak ada）,pemetaan internal
+Exam S9.4,s94-b05-e19,5,A：この みちを まっすぐ いってください。つぎの かどを ___。（belok kiri）,pemetaan internal
+Exam S9.4,s94-b05-e20,5,びょういんは えき___ ちかくに あります。,pemetaan internal
+Exam S9.4,s94-b05-e21,5,Tulis hiragana untuk kanan.,pemetaan internal
+Exam S9.4,s94-b05-e22,5,Lengkapi dengan verba sopan untuk keberadaan benda: はこの なかに えんぴつが ___。,pemetaan internal
+Exam S9.4,s94-b05-p05,5,にわに ねこが ___。,pemetaan internal
+Exam S9.4,s94-b05-p06,5,レストラン___ ごはんを たべます。,pemetaan internal
+Exam S9.4,s94-b05-p07,5,A：ATMは どこですか。B：___。,pemetaan internal
+Exam S9.4,s94-b05-p08,5,ほんは たなの ___ に あります。（di dalam）,pemetaan internal
+Exam S9.4,s94-b05-e23,5,Kantin di lantai?,pemetaan internal
+Exam S9.4,s94-b05-e24,5,Toilet di lantai?,pemetaan internal
+Exam S9.4,s94-b05-e25,5,Belok ke mana?,pemetaan internal
+Exam S9.4,s94-b05-e26,5,Tujuannya?,pemetaan internal
+Exam S9.4,s94-b05-e27,5,Buku ada di mana?,pemetaan internal
+Exam S9.4,s94-b05-e28,5,Kucing ada di mana?,pemetaan internal
+Exam S9.4,s94-b05-e29,5,Parkir mobil di mana?,pemetaan internal
+Exam S9.4,s94-b05-e30,5,Parkir sepeda di mana?,pemetaan internal
+Exam S9.4,s94-b05-p09,5,Di sebelah stasiun?,pemetaan internal
+Exam S9.4,s94-b05-p10,5,Halte berada di mana?,pemetaan internal
+Exam S9.4,s94-b05-p11,5,Toko buku di mana?,pemetaan internal
+Exam S9.4,s94-b05-p12,5,Bagian makanan di mana?,pemetaan internal
+Exam S9.4,s94-b06-e01,6,Apa arti 目覚まし（めざまし）?,pemetaan internal
+Exam S9.4,s94-b06-e02,6,Apa arti 通勤（つうきん）?,pemetaan internal
+Exam S9.4,s94-b06-e03,6,Apa arti 休憩（きゅうけい）?,pemetaan internal
+Exam S9.4,s94-b06-e04,6,Apa arti 残業（ざんぎょう）?,pemetaan internal
+Exam S9.4,s94-b06-e05,6,Apa arti 休日（きゅうじつ）?,pemetaan internal
+Exam S9.4,s94-b06-e06,6,Apa arti 平日（へいじつ）?,pemetaan internal
+Exam S9.4,s94-b06-e07,6,Apa arti 朝食（ちょうしょく）?,pemetaan internal
+Exam S9.4,s94-b06-e08,6,Apa arti 昼休み（ひるやすみ）?,pemetaan internal
+Exam S9.4,s94-b06-e09,6,Apa arti 帰宅（きたく）?,pemetaan internal
+Exam S9.4,s94-b06-e10,6,Apa arti 夜勤（やきん）?,pemetaan internal
+Exam S9.4,s94-b06-p01,6,Apa arti 早起き（はやおき）?,pemetaan internal
+Exam S9.4,s94-b06-p02,6,Apa arti 予定表（よていひょう）?,pemetaan internal
+Exam S9.4,s94-b06-p03,6,Apa arti 開始（かいし）?,pemetaan internal
+Exam S9.4,s94-b06-p04,6,Apa arti 終了（しゅうりょう）?,pemetaan internal
+Exam S9.4,s94-b06-e11,6,まいあさ 6じ___ おきます。,pemetaan internal
+Exam S9.4,s94-b06-e12,6,まいにち 9じから 5じ___ はたらきます。,pemetaan internal
+Exam S9.4,s94-b06-e13,6,きのう しごとを ___。（positif lampau）,pemetaan internal
+Exam S9.4,s94-b06-e14,6,きのう テレビを ___。（negatif lampau）,pemetaan internal
+Exam S9.4,s94-b06-e15,6,あしたは やすみです。はたらき___。（negatif）,pemetaan internal
+Exam S9.4,s94-b06-e16,6,ひるごはん___ たべます。,pemetaan internal
+Exam S9.4,s94-b06-e17,6,A：いっしょに さんぽしませんか。B：いいですね。___。,pemetaan internal
+Exam S9.4,s94-b06-e18,6,A：___ ねますか。B：11じです。,pemetaan internal
+Exam S9.4,s94-b06-e19,6,A：どようびに なにを しましたか。B：___。,pemetaan internal
+Exam S9.4,s94-b06-e20,6,あさ 7じ___ 8じまで べんきょうします。,pemetaan internal
+Exam S9.4,s94-b06-e21,6,Ubah おきます ke bentuk sopan negatif lampau (kana).,pemetaan internal
+Exam S9.4,s94-b06-e22,6,Ubah ねます ke bentuk sopan positif lampau.,pemetaan internal
+Exam S9.4,s94-b06-p05,6,"きのう てがみを ___。（menulis, lampau）",pemetaan internal
+Exam S9.4,s94-b06-p06,6,ごご 1じ___ かいぎが あります。,pemetaan internal
+Exam S9.4,s94-b06-p07,6,A：いっしょに ひるごはんを たべませんか。B：___。,pemetaan internal
+Exam S9.4,s94-b06-p08,6,にちようびは しごとを ___。（tidak bekerja）,pemetaan internal
+Exam S9.4,s94-b06-e23,6,Jam mulai kerja?,pemetaan internal
+Exam S9.4,s94-b06-e24,6,Durasi istirahat siang?,pemetaan internal
+Exam S9.4,s94-b06-e25,6,Jam sarapan?,pemetaan internal
+Exam S9.4,s94-b06-e26,6,Jam keluar rumah?,pemetaan internal
+Exam S9.4,s94-b06-e27,6,Shift malam hari apa?,pemetaan internal
+Exam S9.4,s94-b06-e28,6,Hari libur?,pemetaan internal
+Exam S9.4,s94-b06-e29,6,Janji final jam berapa?,pemetaan internal
+Exam S9.4,s94-b06-e30,6,Tempat bertemu?,pemetaan internal
+Exam S9.4,s94-b06-p09,6,Jam rapat selesai?,pemetaan internal
+Exam S9.4,s94-b06-p10,6,Jam makan siang?,pemetaan internal
+Exam S9.4,s94-b06-p11,6,Jam bangun biasa?,pemetaan internal
+Exam S9.4,s94-b06-p12,6,Jam bangun kemarin?,pemetaan internal
+Exam S9.4,s94-b07-e01,7,Apa arti 試着室（しちゃくしつ）?,pemetaan internal
+Exam S9.4,s94-b07-e02,7,Apa arti 返品（へんぴん）?,pemetaan internal
+Exam S9.4,s94-b07-e03,7,Apa arti 在庫（ざいこ）?,pemetaan internal
+Exam S9.4,s94-b07-e04,7,Apa arti 運賃（うんちん）?,pemetaan internal
+Exam S9.4,s94-b07-e05,7,Apa arti 改札口（かいさつぐち）?,pemetaan internal
+Exam S9.4,s94-b07-e06,7,Apa arti 各駅停車（かくえきていしゃ）?,pemetaan internal
+Exam S9.4,s94-b07-e07,7,Apa arti 急行（きゅうこう）?,pemetaan internal
+Exam S9.4,s94-b07-e08,7,Apa arti 乗り場（のりば）?,pemetaan internal
+Exam S9.4,s94-b07-e09,7,Apa arti 往復（おうふく）?,pemetaan internal
+Exam S9.4,s94-b07-e10,7,Apa arti 片道（かたみち）?,pemetaan internal
+Exam S9.4,s94-b07-p01,7,Apa arti 交換（こうかん）?,pemetaan internal
+Exam S9.4,s94-b07-p02,7,Apa arti 定期券（ていきけん）?,pemetaan internal
+Exam S9.4,s94-b07-p03,7,Apa arti 終電（しゅうでん）?,pemetaan internal
+Exam S9.4,s94-b07-p04,7,Apa arti 発車（はっしゃ）?,pemetaan internal
+Exam S9.4,s94-b07-e11,7,バス___ のります。,pemetaan internal
+Exam S9.4,s94-b07-e12,7,つぎの えきで でんしゃ___ おります。,pemetaan internal
+Exam S9.4,s94-b07-e13,7,しんじゅくで でんしゃを ___。,pemetaan internal
+Exam S9.4,s94-b07-e14,7,A：この シャツを きてみても いいですか。B：___。,pemetaan internal
+Exam S9.4,s94-b07-e15,7,A：もうすこし おおきい サイズは ありますか。B：___。,pemetaan internal
+Exam S9.4,s94-b07-e16,7,A：えきまで どうやって いきますか。B：バス___ いきます。,pemetaan internal
+Exam S9.4,s94-b07-e17,7,A：ここから えきまで ___ かかりますか。B：20ぷんです。,pemetaan internal
+Exam S9.4,s94-b07-e18,7,A：かたみちですか、おうふくですか。B：かえりの きっぷも ください。___ で。,pemetaan internal
+Exam S9.4,s94-b07-e19,7,A：この くつは ちいさいです。もうすこし ___ くつは ありますか。,pemetaan internal
+Exam S9.4,s94-b07-e20,7,A：おつりは 200えんです。B：___。,pemetaan internal
+Exam S9.4,s94-b07-e21,7,Lengkapi partikel kendaraan yang dinaiki: タクシー___ のります。,pemetaan internal
+Exam S9.4,s94-b07-e22,7,Tulis hiragana bentuk ます dari のりかえる.,pemetaan internal
+Exam S9.4,s94-b07-p05,7,ひこうき___ おおさかへ いきます。,pemetaan internal
+Exam S9.4,s94-b07-p06,7,A：この ズボンを ___ ても いいですか。B：はい、どうぞ。,pemetaan internal
+Exam S9.4,s94-b07-p07,7,A：バスは なんじに でますか。B：___。,pemetaan internal
+Exam S9.4,s94-b07-p08,7,A：この Tシャツは いくらですか。B：___。,pemetaan internal
+Exam S9.4,s94-b07-e23,7,Jam keberangkatan ekspres?,pemetaan internal
+Exam S9.4,s94-b07-e24,7,Jam tiba ekspres?,pemetaan internal
+Exam S9.4,s94-b07-e25,7,Ruang ganti di mana?,pemetaan internal
+Exam S9.4,s94-b07-e26,7,Syarat retur?,pemetaan internal
+Exam S9.4,s94-b07-e27,7,Tarif pulang pergi dewasa?,pemetaan internal
+Exam S9.4,s94-b07-e28,7,Tarif satu arah anak SD?,pemetaan internal
+Exam S9.4,s94-b07-e29,7,Turun di mana?,pemetaan internal
+Exam S9.4,s94-b07-e30,7,Naik dari peron berapa?,pemetaan internal
+Exam S9.4,s94-b07-p09,7,Ukuran yang habis?,pemetaan internal
+Exam S9.4,s94-b07-p10,7,Ukuran terbesar yang ada?,pemetaan internal
+Exam S9.4,s94-b07-p11,7,Jam berangkat?,pemetaan internal
+Exam S9.4,s94-b07-p12,7,Jam tiba jika tepat waktu?,pemetaan internal
+Exam S9.4,s94-b08-e01,8,Apa arti 涼しい（すずしい）?,pemetaan internal
+Exam S9.4,s94-b08-e02,8,Apa arti 蒸し暑い（むしあつい）?,pemetaan internal
+Exam S9.4,s94-b08-e03,8,Apa arti 眩しい（まぶしい）?,pemetaan internal
+Exam S9.4,s94-b08-e04,8,Apa arti 眠い（ねむい）?,pemetaan internal
+Exam S9.4,s94-b08-e05,8,Apa arti 細い（ほそい）?,pemetaan internal
+Exam S9.4,s94-b08-e06,8,Apa arti 太い（ふとい）?,pemetaan internal
+Exam S9.4,s94-b08-e07,8,Apa arti 丁寧（ていねい）?,pemetaan internal
+Exam S9.4,s94-b08-e08,8,Apa arti 親切（しんせつ）?,pemetaan internal
+Exam S9.4,s94-b08-e09,8,Apa arti 複雑（ふくざつ）?,pemetaan internal
+Exam S9.4,s94-b08-e10,8,Apa arti 丈夫（じょうぶ）?,pemetaan internal
+Exam S9.4,s94-b08-p01,8,Apa arti 明るい（あかるい）?,pemetaan internal
+Exam S9.4,s94-b08-p02,8,Apa arti 暗い（くらい）?,pemetaan internal
+Exam S9.4,s94-b08-p03,8,Apa arti 快適（かいてき）?,pemetaan internal
+Exam S9.4,s94-b08-p04,8,Apa arti 不便（ふべん）?,pemetaan internal
+Exam S9.4,s94-b08-e11,8,この へやは さむ___ です。（negatif）,pemetaan internal
+Exam S9.4,s94-b08-e12,8,きのうは あつ___ です。（lampau positif）,pemetaan internal
+Exam S9.4,s94-b08-e13,8,きのうの しけんは むずかし___ です。（negatif lampau）,pemetaan internal
+Exam S9.4,s94-b08-e14,8,この まちは しずか___。（sopan negatif）,pemetaan internal
+Exam S9.4,s94-b08-e15,8,むかし この みちは にぎやか___。（sopan lampau）,pemetaan internal
+Exam S9.4,s94-b08-e16,8,これは ___ へやです。（bersih）,pemetaan internal
+Exam S9.4,s94-b08-e17,8,___ かばんを かいました。（ringan）,pemetaan internal
+Exam S9.4,s94-b08-e18,8,この ほんは おもしろ___、やさしいです。,pemetaan internal
+Exam S9.4,s94-b08-e19,8,この みせは べんり___、やすいです。,pemetaan internal
+Exam S9.4,s94-b08-e20,8,A：きょうの てんきは どうですか。B：___ です。（baik）,pemetaan internal
+Exam S9.4,s94-b08-e21,8,Ubah いい menjadi negatif biasa (kana).,pemetaan internal
+Exam S9.4,s94-b08-e22,8,Ubah たかい menjadi lampau biasa.,pemetaan internal
+Exam S9.4,s94-b08-p05,8,この みちは せま___ です。（negatif）,pemetaan internal
+Exam S9.4,s94-b08-p06,8,きのうは げんき___。（sopan lampau）,pemetaan internal
+Exam S9.4,s94-b08-p07,8,この いすは ___、かるいです。（kokoh dan ringan）,pemetaan internal
+Exam S9.4,s94-b08-p08,8,___ くるまです。（baru）,pemetaan internal
+Exam S9.4,s94-b08-e23,8,Hotel dekat stasiun?,pemetaan internal
+Exam S9.4,s94-b08-e24,8,Hotel dengan kamar luas?,pemetaan internal
+Exam S9.4,s94-b08-e25,8,Cuaca kemarin?,pemetaan internal
+Exam S9.4,s94-b08-e26,8,Kondisi hari ini?,pemetaan internal
+Exam S9.4,s94-b08-e27,8,Kelebihan tas?,pemetaan internal
+Exam S9.4,s94-b08-e28,8,Kekurangannya?,pemetaan internal
+Exam S9.4,s94-b08-e29,8,Bagaimana petugas?,pemetaan internal
+Exam S9.4,s94-b08-e30,8,Bagaimana suasana tempat?,pemetaan internal
+Exam S9.4,s94-b08-p09,8,Ukuran taman?,pemetaan internal
+Exam S9.4,s94-b08-p10,8,Kondisi malam?,pemetaan internal
+Exam S9.4,s94-b08-p11,8,Kondisi kamar?,pemetaan internal
+Exam S9.4,s94-b08-p12,8,Kasur bagaimana?,pemetaan internal
+Exam S9.4,s94-b09-e01,9,Apa arti 借りる（かりる）?,pemetaan internal
+Exam S9.4,s94-b09-e02,9,Apa arti 貸す（かす）?,pemetaan internal
+Exam S9.4,s94-b09-e03,9,Apa arti 届ける（とどける）?,pemetaan internal
+Exam S9.4,s94-b09-e04,9,Apa arti 運ぶ（はこぶ）?,pemetaan internal
+Exam S9.4,s94-b09-e05,9,Apa arti 直す（なおす）?,pemetaan internal
+Exam S9.4,s94-b09-e06,9,Apa arti 閉める（しめる）?,pemetaan internal
+Exam S9.4,s94-b09-e07,9,Apa arti 開ける（あける）?,pemetaan internal
+Exam S9.4,s94-b09-e08,9,Apa arti 消す（けす）?,pemetaan internal
+Exam S9.4,s94-b09-e09,9,Apa arti 付ける（つける）?,pemetaan internal
+Exam S9.4,s94-b09-e10,9,Apa arti 待つ（まつ）?,pemetaan internal
+Exam S9.4,s94-b09-p01,9,Apa arti 拾う（ひろう）?,pemetaan internal
+Exam S9.4,s94-b09-p02,9,Apa arti 戻す（もどす）?,pemetaan internal
+Exam S9.4,s94-b09-p03,9,Apa arti 押す（おす）?,pemetaan internal
+Exam S9.4,s94-b09-p04,9,Apa arti 並ぶ（ならぶ）?,pemetaan internal
+Exam S9.4,s94-b09-e11,9,ここに なまえを かい___ ください。,pemetaan internal
+Exam S9.4,s94-b09-e12,9,ちょっと まっ___ ください。,pemetaan internal
+Exam S9.4,s94-b09-e13,9,この ペンを つかっても ___ ですか。,pemetaan internal
+Exam S9.4,s94-b09-e14,9,A：まどを あけても いいですか。B：はい、___。,pemetaan internal
+Exam S9.4,s94-b09-e15,9,かばんを ここに おいて ___。（permintaan）,pemetaan internal
+Exam S9.4,s94-b09-e16,9,A：すみません、しゃしんを とって ください。B：___。,pemetaan internal
+Exam S9.4,s94-b09-e17,9,A：ここで でんわを しても いいですか。B：すみません、ここでは ちょっと…。,pemetaan internal
+Exam S9.4,s94-b09-e18,9,おおきな こえで はなさ___ ください。,pemetaan internal
+Exam S9.4,s94-b09-e19,9,Ubah およぐ menjadi bentuk て.,pemetaan internal
+Exam S9.4,s94-b09-e20,9,Ubah もつ menjadi bentuk て.,pemetaan internal
+Exam S9.4,s94-b09-e21,9,Ubah はなす menjadi bentuk て.,pemetaan internal
+Exam S9.4,s94-b09-e22,9,Ubah くる menjadi bentuk て.,pemetaan internal
+Exam S9.4,s94-b09-p05,9,この ボタンを おし___ ください。,pemetaan internal
+Exam S9.4,s94-b09-p06,9,A：ここに すわっても いいですか。B：はい、___。,pemetaan internal
+Exam S9.4,s94-b09-p07,9,ここで たばこを すわ___ ください。,pemetaan internal
+Exam S9.4,s94-b09-p08,9,でんきを けし___ ください。,pemetaan internal
+Exam S9.4,s94-b09-e23,9,Apa saat meminjam?,pemetaan internal
+Exam S9.4,s94-b09-e24,9,Apa saat mengembalikan?,pemetaan internal
+Exam S9.4,s94-b09-e25,9,Bolehkah duduk di sini?,pemetaan internal
+Exam S9.4,s94-b09-e26,9,Apa yang diminta B?,pemetaan internal
+Exam S9.4,s94-b09-e27,9,Apa yang harus ditutup?,pemetaan internal
+Exam S9.4,s94-b09-e28,9,Apa yang tidak boleh dimatikan?,pemetaan internal
+Exam S9.4,s94-b09-e29,9,Berapa orang dianjurkan membawa kotak?,pemetaan internal
+Exam S9.4,s94-b09-e30,9,Mengapa?,pemetaan internal
+Exam S9.4,s94-b09-p09,9,Apa yang dibuka?,pemetaan internal
+Exam S9.4,s94-b09-p10,9,Apa yang dinyalakan?,pemetaan internal
+Exam S9.4,s94-b09-p11,9,Apa wajib ditulis?,pemetaan internal
+Exam S9.4,s94-b09-p12,9,Apa yang tidak wajib?,pemetaan internal
+Exam S9.4,s94-b10-e01,10,Apa arti 禁止（きんし）?,pemetaan internal
+Exam S9.4,s94-b10-e02,10,Apa arti 義務（ぎむ）?,pemetaan internal
+Exam S9.4,s94-b10-e03,10,Apa arti 締切（しめきり）?,pemetaan internal
+Exam S9.4,s94-b10-e04,10,Apa arti 提出（ていしゅつ）?,pemetaan internal
+Exam S9.4,s94-b10-e05,10,Apa arti 許可（きょか）?,pemetaan internal
+Exam S9.4,s94-b10-e06,10,Apa arti 規則（きそく）?,pemetaan internal
+Exam S9.4,s94-b10-e07,10,Apa arti 立入禁止（たちいりきんし）?,pemetaan internal
+Exam S9.4,s94-b10-e08,10,Apa arti 禁煙（きんえん）?,pemetaan internal
+Exam S9.4,s94-b10-e09,10,Apa arti 着用（ちゃくよう）?,pemetaan internal
+Exam S9.4,s94-b10-e10,10,Apa arti 保護具（ほごぐ）?,pemetaan internal
+Exam S9.4,s94-b10-p01,10,Apa arti 注意（ちゅうい）?,pemetaan internal
+Exam S9.4,s94-b10-p02,10,Apa arti 安全（あんぜん）?,pemetaan internal
+Exam S9.4,s94-b10-p03,10,Apa arti 期限（きげん）?,pemetaan internal
+Exam S9.4,s94-b10-p04,10,Apa arti 登録（とうろく）?,pemetaan internal
+Exam S9.4,s94-b10-e11,10,ここで しゃしんを とっては ___。,pemetaan internal
+Exam S9.4,s94-b10-e12,10,あしたまでに しょるいを ださなければ ___。,pemetaan internal
+Exam S9.4,s94-b10-e13,10,きょうは やすみです。しごとに いかなくても ___。,pemetaan internal
+Exam S9.4,s94-b10-e14,10,A：ここは きんえんです。B：では、たばこを ___。,pemetaan internal
+Exam S9.4,s94-b10-e15,10,くすりを のむ まえに せつめいを ___ ください。,pemetaan internal
+Exam S9.4,s94-b10-e16,10,A：あしたまでに ださなければ なりませんか。B：いいえ、らいしゅうでも いいです。,pemetaan internal
+Exam S9.4,s94-b10-e17,10,たちいりきんしです。ここに ___ ください。,pemetaan internal
+Exam S9.4,s94-b10-e18,10,しごとちゅうは ヘルメットを かぶらなければ なりません。,pemetaan internal
+Exam S9.4,s94-b10-e19,10,Ubah かう menjadi bentuk ない.,pemetaan internal
+Exam S9.4,s94-b10-e20,10,Ubah ある menjadi negatif biasa.,pemetaan internal
+Exam S9.4,s94-b10-e21,10,Ubah する menjadi bentuk ない.,pemetaan internal
+Exam S9.4,s94-b10-e22,10,Ubah くる menjadi bentuk ない.,pemetaan internal
+Exam S9.4,s94-b10-p05,10,Ubah かく ke bentuk ない: ___。,pemetaan internal
+Exam S9.4,s94-b10-p06,10,Ubah たべる ke bentuk ない: ___。,pemetaan internal
+Exam S9.4,s94-b10-p07,10,しごとばでは きけんな ものに さわっては ___。,pemetaan internal
+Exam S9.4,s94-b10-p08,10,あしたは べんとうを もってこなくても いいです。,pemetaan internal
+Exam S9.4,s94-b10-e23,10,Perlengkapan wajib?,pemetaan internal
+Exam S9.4,s94-b10-e24,10,Apa yang dilarang?,pemetaan internal
+Exam S9.4,s94-b10-e25,10,Tenggat?,pemetaan internal
+Exam S9.4,s94-b10-e26,10,Cara yang diizinkan?,pemetaan internal
+Exam S9.4,s94-b10-e27,10,Bolehkah merokok di dalam?,pemetaan internal
+Exam S9.4,s94-b10-e28,10,Di mana boleh merokok?,pemetaan internal
+Exam S9.4,s94-b10-e29,10,Apakah wajib datang besok?,pemetaan internal
+Exam S9.4,s94-b10-e30,10,PR diserahkan kapan?,pemetaan internal
+Exam S9.4,s94-b10-p09,10,Apa yang dilarang?,pemetaan internal
+Exam S9.4,s94-b10-p10,10,Sebelum masuk?,pemetaan internal
+Exam S9.4,s94-b10-p11,10,Batas pendaftaran?,pemetaan internal
+Exam S9.4,s94-b10-p12,10,Apakah foto diperlukan?,pemetaan internal
+Exam S9.4,s94-b11-e01,11,Apa arti 経験（けいけん）?,pemetaan internal
+Exam S9.4,s94-b11-e02,11,Apa arti 観光（かんこう）?,pemetaan internal
+Exam S9.4,s94-b11-e03,11,Apa arti 登山（とざん）?,pemetaan internal
+Exam S9.4,s94-b11-e04,11,Apa arti 温泉（おんせん）?,pemetaan internal
+Exam S9.4,s94-b11-e05,11,Apa arti 景色（けしき）?,pemetaan internal
+Exam S9.4,s94-b11-e06,11,Apa arti 人気（にんき）?,pemetaan internal
+Exam S9.4,s94-b11-e07,11,Apa arti 比較（ひかく）?,pemetaan internal
+Exam S9.4,s94-b11-e08,11,Apa arti 季節（きせつ）?,pemetaan internal
+Exam S9.4,s94-b11-e09,11,Apa arti 距離（きょり）?,pemetaan internal
+Exam S9.4,s94-b11-e10,11,Apa arti 初めて（はじめて）?,pemetaan internal
+Exam S9.4,s94-b11-p01,11,Apa arti 旅行（りょこう）?,pemetaan internal
+Exam S9.4,s94-b11-p02,11,Apa arti 博物館（はくぶつかん）?,pemetaan internal
+Exam S9.4,s94-b11-p03,11,Apa arti 思い出（おもいで）?,pemetaan internal
+Exam S9.4,s94-b11-p04,11,Apa arti 最高（さいこう）?,pemetaan internal
+Exam S9.4,s94-b11-e11,11,ふじさんに のぼった ことが ___。,pemetaan internal
+Exam S9.4,s94-b11-e12,11,A：おきなわへ いった ことが ありますか。B：いいえ、___。,pemetaan internal
+Exam S9.4,s94-b11-e13,11,でんしゃは バス___ はやいです。,pemetaan internal
+Exam S9.4,s94-b11-e14,11,A：コーヒーと おちゃと どちらが すきですか。B：おちゃ___ すきです。,pemetaan internal
+Exam S9.4,s94-b11-e15,11,くだものの なかで なにが ___ すきですか。,pemetaan internal
+Exam S9.4,s94-b11-e16,11,やすみの ひは ほんを よん___、さんぽしたり します。,pemetaan internal
+Exam S9.4,s94-b11-e17,11,A：きょうとに いった ことが ありますか。B：はい、きょねん いきました。,pemetaan internal
+Exam S9.4,s94-b11-e18,11,この みせは あの みせより やすいです。,pemetaan internal
+Exam S9.4,s94-b11-e19,11,Ubah いく menjadi bentuk た.,pemetaan internal
+Exam S9.4,s94-b11-e20,11,Ubah よむ menjadi bentuk た.,pemetaan internal
+Exam S9.4,s94-b11-e21,11,Ubah かく menjadi bentuk た.,pemetaan internal
+Exam S9.4,s94-b11-e22,11,Ubah する menjadi bentuk た.,pemetaan internal
+Exam S9.4,s94-b11-p05,11,Ubah あそぶ ke bentuk た.,pemetaan internal
+Exam S9.4,s94-b11-p06,11,A：すしを たべた ことが ありますか。B：はい、___。,pemetaan internal
+Exam S9.4,s94-b11-p07,11,ねこ___ いぬの ほうが おおきいです。,pemetaan internal
+Exam S9.4,s94-b11-p08,11,やさいの なかで にんじんが ___ すきです。,pemetaan internal
+Exam S9.4,s94-b11-e23,11,Hotel lebih murah?,pemetaan internal
+Exam S9.4,s94-b11-e24,11,Hotel lebih dekat?,pemetaan internal
+Exam S9.4,s94-b11-e25,11,Pernah pergi ke mana?,pemetaan internal
+Exam S9.4,s94-b11-e26,11,Tujuan tahun ini?,pemetaan internal
+Exam S9.4,s94-b11-e27,11,Musim favorit?,pemetaan internal
+Exam S9.4,s94-b11-e28,11,Alasannya?,pemetaan internal
+Exam S9.4,s94-b11-e29,11,Kegiatan akhir pekan?,pemetaan internal
+Exam S9.4,s94-b11-e30,11,Apakah pergi ke gunung?,pemetaan internal
+Exam S9.4,s94-b11-p09,11,Transportasi lebih cepat?,pemetaan internal
+Exam S9.4,s94-b11-p10,11,Transportasi lebih murah?,pemetaan internal
+Exam S9.4,s94-b11-p11,11,Pengalaman yang pernah?,pemetaan internal
+Exam S9.4,s94-b11-p12,11,Pengalaman yang belum?,pemetaan internal
+Exam S9.4,s94-b12-e01,12,Apa arti 意見（いけん）?,pemetaan internal
+Exam S9.4,s94-b12-e02,12,Apa arti 理由（りゆう）?,pemetaan internal
+Exam S9.4,s94-b12-e03,12,Apa arti 賛成（さんせい）?,pemetaan internal
+Exam S9.4,s94-b12-e04,12,Apa arti 反対（はんたい）?,pemetaan internal
+Exam S9.4,s94-b12-e05,12,Apa arti 変更（へんこう）?,pemetaan internal
+Exam S9.4,s94-b12-e06,12,Apa arti 連絡（れんらく）?,pemetaan internal
+Exam S9.4,s94-b12-e07,12,Apa arti 相談（そうだん）?,pemetaan internal
+Exam S9.4,s94-b12-e08,12,Apa arti 都合（つごう）?,pemetaan internal
+Exam S9.4,s94-b12-e09,12,Apa arti 必要（ひつよう）?,pemetaan internal
+Exam S9.4,s94-b12-e10,12,Apa arti 中止（ちゅうし）?,pemetaan internal
+Exam S9.4,s94-b12-p01,12,Apa arti 延期（えんき）?,pemetaan internal
+Exam S9.4,s94-b12-p02,12,Apa arti 確認（かくにん）?,pemetaan internal
+Exam S9.4,s94-b12-p03,12,Apa arti 提案（ていあん）?,pemetaan internal
+Exam S9.4,s94-b12-p04,12,Apa arti 事情（じじょう）?,pemetaan internal
+Exam S9.4,s94-b12-e11,12,あしたは あめが ふる___ おもいます。,pemetaan internal
+Exam S9.4,s94-b12-e12,12,この しごとは たいせつ___ と おもいます。,pemetaan internal
+Exam S9.4,s94-b12-e13,12,あしたは やすみ___ と おもいます。,pemetaan internal
+Exam S9.4,s94-b12-e14,12,じかんが ない___、タクシーで いきます。,pemetaan internal
+Exam S9.4,s94-b12-e15,12,きょうは しごとが いそがしい___、いけません。,pemetaan internal
+Exam S9.4,s94-b12-e16,12,A：あした いく？ B：ううん、___。（bentuk biasa negatif）,pemetaan internal
+Exam S9.4,s94-b12-e17,12,A：その えいが、みた？ B：うん、___。,pemetaan internal
+Exam S9.4,s94-b12-e18,12,"きのうは しごとが ___ と おもいます。（tidak sibuk, lampau biasa）",pemetaan internal
+Exam S9.4,s94-b12-e19,12,Ubah かきます menjadi bentuk kamus.,pemetaan internal
+Exam S9.4,s94-b12-e20,12,Ubah みます menjadi bentuk kamus.,pemetaan internal
+Exam S9.4,s94-b12-e21,12,Ubah たべない menjadi bentuk negatif lampau biasa.,pemetaan internal
+Exam S9.4,s94-b12-e22,12,Ubah しません menjadi negatif biasa nonlampau.,pemetaan internal
+Exam S9.4,s94-b12-p05,12,この ほうほうは べんり___ と おもいます。,pemetaan internal
+Exam S9.4,s94-b12-p06,12,でんしゃが おくれた___、ちこくしました。,pemetaan internal
+Exam S9.4,s94-b12-p07,12,A：きのう ねた？ B：ううん、あまり ___。,pemetaan internal
+Exam S9.4,s94-b12-p08,12,Ubah よみます menjadi bentuk kamus.,pemetaan internal
+Exam S9.4,s94-b12-e23,12,Usulan apa?,pemetaan internal
+Exam S9.4,s94-b12-e24,12,Alasannya?,pemetaan internal
+Exam S9.4,s94-b12-e25,12,Jam baru rapat?,pemetaan internal
+Exam S9.4,s94-b12-e26,12,Ruangan?,pemetaan internal
+Exam S9.4,s94-b12-e27,12,Sikap B terhadap rencana?,pemetaan internal
+Exam S9.4,s94-b12-e28,12,Kekhawatiran B?,pemetaan internal
+Exam S9.4,s94-b12-e29,12,Mengapa absen?,pemetaan internal
+Exam S9.4,s94-b12-e30,12,Kondisi sekarang?,pemetaan internal
+Exam S9.4,s94-b12-p09,12,Mengapa terlambat?,pemetaan internal
+Exam S9.4,s94-b12-p10,12,Perkiraan keterlambatan?,pemetaan internal
+Exam S9.4,s94-b12-p11,12,Jam yang bisa bagi B?,pemetaan internal
+Exam S9.4,s94-b12-p12,12,Jam yang tidak cocok?,pemetaan internal
+Exam S9.4,s94-b13-e01,13,Apa arti 故障（こしょう）?,pemetaan internal
+Exam S9.4,s94-b13-e02,13,Apa arti 修理（しゅうり）?,pemetaan internal
+Exam S9.4,s94-b13-e03,13,Apa arti 症状（しょうじょう）?,pemetaan internal
+Exam S9.4,s94-b13-e04,13,Apa arti 診察（しんさつ）?,pemetaan internal
+Exam S9.4,s94-b13-e05,13,Apa arti 救急（きゅうきゅう）?,pemetaan internal
+Exam S9.4,s94-b13-e06,13,Apa arti 紛失（ふんしつ）?,pemetaan internal
+Exam S9.4,s94-b13-e07,13,Apa arti 届出（とどけで）?,pemetaan internal
+Exam S9.4,s94-b13-e08,13,Apa arti 解決（かいけつ）?,pemetaan internal
+Exam S9.4,s94-b13-e09,13,Apa arti 相談窓口（そうだんまどぐち）?,pemetaan internal
+Exam S9.4,s94-b13-e10,13,Apa arti 体調（たいちょう）?,pemetaan internal
+Exam S9.4,s94-b13-p01,13,Apa arti 手順（てじゅん）?,pemetaan internal
+Exam S9.4,s94-b13-p02,13,Apa arti 充電（じゅうでん）?,pemetaan internal
+Exam S9.4,s94-b13-p03,13,Apa arti 回復（かいふく）?,pemetaan internal
+Exam S9.4,s94-b13-p04,13,Apa arti 故障中（こしょうちゅう）?,pemetaan internal
+Exam S9.4,s94-b13-e11,13,にほんごが すこし ___。（mampu berbicara）,pemetaan internal
+Exam S9.4,s94-b13-e12,13,A：この へやで Wi-Fiが つかえますか。B：はい、___。,pemetaan internal
+Exam S9.4,s94-b13-e13,13,じかんが あっ___、てつだってください。,pemetaan internal
+Exam S9.4,s94-b13-e14,13,あめが ふっ___、しごとに いきます。（meskipun）,pemetaan internal
+Exam S9.4,s94-b13-e15,13,ねつが あるなら、むりを しない ___ いいです。,pemetaan internal
+Exam S9.4,s94-b13-e16,13,つかれたら、すこし やすん___ ほうが いいです。,pemetaan internal
+Exam S9.4,s94-b13-e17,13,まいにち れんしゅうして、にほんごが よめる ___ なりました。,pemetaan internal
+Exam S9.4,s94-b13-e18,13,くるまが こしょうしたら、___。,pemetaan internal
+Exam S9.4,s94-b13-e19,13,Ubah よむ menjadi bentuk potensial biasa.,pemetaan internal
+Exam S9.4,s94-b13-e20,13,Ubah みる menjadi potensial baku (bukan bentuk pendek percakapan).,pemetaan internal
+Exam S9.4,s94-b13-e21,13,Ubah する menjadi bentuk potensial biasa.,pemetaan internal
+Exam S9.4,s94-b13-e22,13,Ubah くる menjadi bentuk potensial baku biasa.,pemetaan internal
+Exam S9.4,s94-b13-p05,13,Ubah およぐ menjadi potensial.,pemetaan internal
+Exam S9.4,s94-b13-p06,13,こまっ___、うけつけに そうだんしてください。,pemetaan internal
+Exam S9.4,s94-b13-p07,13,さむく___、まいにち さんぽします。（meskipun）,pemetaan internal
+Exam S9.4,s94-b13-p08,13,あたまが いたいです。やすんだ ___ いいです。,pemetaan internal
+Exam S9.4,s94-b13-e23,13,Masalah utama?,pemetaan internal
+Exam S9.4,s94-b13-e24,13,Apa yang akan dilakukan?,pemetaan internal
+Exam S9.4,s94-b13-e25,13,Langkah pertama saat demam?,pemetaan internal
+Exam S9.4,s94-b13-e26,13,Kapan datang?,pemetaan internal
+Exam S9.4,s94-b13-e27,13,Barang yang hilang?,pemetaan internal
+Exam S9.4,s94-b13-e28,13,Ke mana melapor?,pemetaan internal
+Exam S9.4,s94-b13-e29,13,Kemampuan yang berubah?,pemetaan internal
+Exam S9.4,s94-b13-e30,13,Apa yang masih sulit?,pemetaan internal
+Exam S9.4,s94-b13-p09,13,Peralatan rusak?,pemetaan internal
+Exam S9.4,s94-b13-p10,13,Siapa dihubungi?,pemetaan internal
+Exam S9.4,s94-b13-p11,13,Saran B?,pemetaan internal
+Exam S9.4,s94-b13-p12,13,Kondisi A?,pemetaan internal
+Exam S9.4,s94-b14-e01,14,Apa arti 予定（よてい）?,pemetaan internal
+Exam S9.4,s94-b14-e02,14,Apa arti 手続き（てつづき）?,pemetaan internal
+Exam S9.4,s94-b14-e03,14,Apa arti 申請（しんせい）?,pemetaan internal
+Exam S9.4,s94-b14-e04,14,Apa arti 証明書（しょうめいしょ）?,pemetaan internal
+Exam S9.4,s94-b14-e05,14,Apa arti 休館（きゅうかん）?,pemetaan internal
+Exam S9.4,s94-b14-e06,14,Apa arti 点検（てんけん）?,pemetaan internal
+Exam S9.4,s94-b14-e07,14,Apa arti 引継ぎ（ひきつぎ）?,pemetaan internal
+Exam S9.4,s94-b14-e08,14,Apa arti 報告（ほうこく）?,pemetaan internal
+Exam S9.4,s94-b14-e09,14,Apa arti 準備（じゅんび）?,pemetaan internal
+Exam S9.4,s94-b14-e10,14,Apa arti 窓口（まどぐち）?,pemetaan internal
+Exam S9.4,s94-b14-p01,14,Apa arti 案内（あんない）?,pemetaan internal
+Exam S9.4,s94-b14-p02,14,Apa arti 受付時間（うけつけじかん）?,pemetaan internal
+Exam S9.4,s94-b14-p03,14,Apa arti 持ち物（もちもの）?,pemetaan internal
+Exam S9.4,s94-b14-p04,14,Apa arti 担当者（たんとうしゃ）?,pemetaan internal
+Exam S9.4,s94-b14-e11,14,らいねん にほんで はたらく ___ です。（niat）,pemetaan internal
+Exam S9.4,s94-b14-e12,14,あしたは でかけない ___ です。（niat negatif）,pemetaan internal
+Exam S9.4,s94-b14-e13,14,かいぎは 3じに はじまる ___ です。（jadwal）,pemetaan internal
+Exam S9.4,s94-b14-e14,14,らいしゅうの かいぎの ___ を かくにんします。,pemetaan internal
+Exam S9.4,s94-b14-e15,14,しりょうは もう コピーして ___。（hasil tindakan sengaja masih ada）,pemetaan internal
+Exam S9.4,s94-b14-e16,14,あしたの ために、いま しりょうを じゅんびして ___。（persiapan）,pemetaan internal
+Exam S9.4,s94-b14-e17,14,A：てつづきは どこで できますか。B：___。,pemetaan internal
+Exam S9.4,s94-b14-e18,14,A：あしたの てんけんは なんじからですか。B：___。,pemetaan internal
+Exam S9.4,s94-b14-e19,14,かいぎが おわっ___、ほうこくしょを だします。,pemetaan internal
+Exam S9.4,s94-b14-e20,14,A：しんせいしょは もう かきましたか。B：はい、___。,pemetaan internal
+Exam S9.4,s94-b14-e21,14,Lengkapi dengan bentuk kamus dari いきます：らいしゅう いっしょに ___ よていです。,pemetaan internal
+Exam S9.4,s94-b14-e22,14,Tulis bentuk negatif biasa dari もっていく.,pemetaan internal
+Exam S9.4,s94-b14-p05,14,らいげつ ひっこす ___ です。（niat）,pemetaan internal
+Exam S9.4,s94-b14-p06,14,あしたの じゅんびを して ___。,pemetaan internal
+Exam S9.4,s94-b14-p07,14,A：しょるいは どこに ありますか。B：___。,pemetaan internal
+Exam S9.4,s94-b14-p08,14,あしたの しごとの じかんを ___ してください。,pemetaan internal
+Exam S9.4,s94-b14-e23,14,Tanggal penutupan?,pemetaan internal
+Exam S9.4,s94-b14-e24,14,Kapan normal kembali?,pemetaan internal
+Exam S9.4,s94-b14-e25,14,Dokumen yang diperlukan?,pemetaan internal
+Exam S9.4,s94-b14-e26,14,Jam tutup penerimaan?,pemetaan internal
+Exam S9.4,s94-b14-e27,14,Peralatan ada di mana?,pemetaan internal
+Exam S9.4,s94-b14-e28,14,Jadwal besok?,pemetaan internal
+Exam S9.4,s94-b14-e29,14,Hari baru pelatihan?,pemetaan internal
+Exam S9.4,s94-b14-e30,14,Tempat?,pemetaan internal
+Exam S9.4,s94-b14-p09,14,Loket penyerahan?,pemetaan internal
+Exam S9.4,s94-b14-p10,14,Batas waktu?,pemetaan internal
+Exam S9.4,s94-b14-p11,14,Apa sudah siap?,pemetaan internal
+Exam S9.4,s94-b14-p12,14,Apa disiapkan besok pagi?,pemetaan internal
+Immersive S9.5,s95-daily,5,Tempat tinggal — jadwal sampah,pemetaan internal
+Immersive S9.5,s95-shop,7,Belanja — ukuran dan pembayaran,pemetaan internal
+Immersive S9.5,s95-food,9,Restoran — pesanan dan bahan makanan,pemetaan internal
+Immersive S9.5,s95-train,7,Transportasi — kereta dan arah,pemetaan internal
+Immersive S9.5,s95-work,12,Tempat kerja — laporan dan jadwal,pemetaan internal
+Immersive S9.5,s95-clinic,13,Klinik — menjelaskan keluhan,pemetaan internal
+Immersive S9.5,s95-admin,14,Administrasi — mengurus dokumen,pemetaan internal
+Immersive S9.5,s95-emergency,13,Darurat — meminta pertolongan,pemetaan internal
+Expansion S8.1,bab-2,2,Identitas dan asal,pemetaan internal
+Expansion S8.1,bab-3,3,Harga dan jumlah,pemetaan internal
+Expansion S8.1,bab-4,4,Kepemilikan benda,pemetaan internal
+Expansion S8.1,bab-5,5,Lokasi dan keberadaan,pemetaan internal
+Expansion S8.1,bab-6,6,Rutinitas sopan,pemetaan internal
+Expansion S8.1,bab-7,7,Transportasi dan tujuan,pemetaan internal
+Expansion S8.1,bab-8,8,Deskripsi dan negasi,pemetaan internal
+Expansion S8.1,bab-9,9,Permintaan dan izin,pemetaan internal
+Expansion S8.1,bab-10,10,Larangan dan kewajiban,pemetaan internal
+Expansion S8.1,bab-11,11,Pengalaman dan perbandingan,pemetaan internal
+Deep S8.3,bab-2,2,,pemetaan internal
+Deep S8.3,bab-3,3,,pemetaan internal
+Deep S8.3,bab-4,4,,pemetaan internal
+Deep S8.3,bab-5,5,,pemetaan internal
+Deep S8.3,bab-6,6,,pemetaan internal
+Deep S8.3,bab-7,7,,pemetaan internal
+Deep S8.3,bab-8,8,,pemetaan internal
+Deep S8.3,bab-9,9,,pemetaan internal
+Deep S8.3,bab-10,10,,pemetaan internal
+Deep S8.3,bab-11,11,,pemetaan internal
+Deep S8.3,bab-12,12,,pemetaan internal
+Deep S8.3,bab-13,13,,pemetaan internal
+Deep S8.3,bab-14,14,,pemetaan internal
+Complete S8.4.2,bab-2,2,,pemetaan internal
+Complete S8.4.2,bab-3,3,,pemetaan internal
+Complete S8.4.2,bab-4,4,,pemetaan internal
+Complete S8.4.2,bab-5,5,,pemetaan internal
+Complete S8.4.2,bab-6,6,,pemetaan internal
+Complete S8.4.2,bab-7,7,,pemetaan internal
+Complete S8.4.2,bab-8,8,,pemetaan internal
+Complete S8.4.2,bab-9,9,,pemetaan internal
+Complete S8.4.2,bab-10,10,,pemetaan internal
+Complete S8.4.2,bab-11,11,,pemetaan internal
+Complete S8.4.2,bab-12,12,,pemetaan internal
+Complete S8.4.2,bab-13,13,,pemetaan internal
+Complete S8.4.2,bab-14,14,,pemetaan internal
+Exam S8.4.3,b2-1,2,Bunpou,pemetaan internal
+Exam S8.4.3,b2-2,2,Bunpou,pemetaan internal
+Exam S8.4.3,b2-3,2,Dokkai,pemetaan internal
+Exam S8.4.3,b2-4,2,Kotoba,pemetaan internal
+Exam S8.4.3,b2-5,2,Konjugasi,pemetaan internal
+Exam S8.4.3,b2-6,2,Konjugasi,pemetaan internal
+Exam S8.4.3,b2-7,2,Kanji,pemetaan internal
+Exam S8.4.3,b2-8,2,Kanji,pemetaan internal
+Exam S8.4.3,b2-9,2,Dokkai,pemetaan internal
+Exam S8.4.3,b3-1,3,Bunpou,pemetaan internal
+Exam S8.4.3,b3-2,3,Bunpou,pemetaan internal
+Exam S8.4.3,b3-3,3,Dokkai,pemetaan internal
+Exam S8.4.3,b3-4,3,Kotoba,pemetaan internal
+Exam S8.4.3,b3-5,3,Konjugasi,pemetaan internal
+Exam S8.4.3,b3-6,3,Konjugasi,pemetaan internal
+Exam S8.4.3,b3-7,3,Kanji,pemetaan internal
+Exam S8.4.3,b3-8,3,Kanji,pemetaan internal
+Exam S8.4.3,b3-9,3,Dokkai,pemetaan internal
+Exam S8.4.3,b4-1,4,Bunpou,pemetaan internal
+Exam S8.4.3,b4-2,4,Bunpou,pemetaan internal
+Exam S8.4.3,b4-3,4,Dokkai,pemetaan internal
+Exam S8.4.3,b4-4,4,Kotoba,pemetaan internal
+Exam S8.4.3,b4-5,4,Konjugasi,pemetaan internal
+Exam S8.4.3,b4-6,4,Konjugasi,pemetaan internal
+Exam S8.4.3,b4-7,4,Kanji,pemetaan internal
+Exam S8.4.3,b4-8,4,Kanji,pemetaan internal
+Exam S8.4.3,b4-9,4,Dokkai,pemetaan internal
+Exam S8.4.3,b5-1,5,Bunpou,pemetaan internal
+Exam S8.4.3,b5-2,5,Bunpou,pemetaan internal
+Exam S8.4.3,b5-3,5,Dokkai,pemetaan internal
+Exam S8.4.3,b5-4,5,Kotoba,pemetaan internal
+Exam S8.4.3,b5-5,5,Konjugasi,pemetaan internal
+Exam S8.4.3,b5-6,5,Konjugasi,pemetaan internal
+Exam S8.4.3,b5-7,5,Kanji,pemetaan internal
+Exam S8.4.3,b5-8,5,Kanji,pemetaan internal
+Exam S8.4.3,b5-9,5,Dokkai,pemetaan internal
+Exam S8.4.3,b6-1,6,Bunpou,pemetaan internal
+Exam S8.4.3,b6-2,6,Bunpou,pemetaan internal
+Exam S8.4.3,b6-3,6,Dokkai,pemetaan internal
+Exam S8.4.3,b6-4,6,Kotoba,pemetaan internal
+Exam S8.4.3,b6-5,6,Konjugasi,pemetaan internal
+Exam S8.4.3,b6-6,6,Konjugasi,pemetaan internal
+Exam S8.4.3,b6-7,6,Kanji,pemetaan internal
+Exam S8.4.3,b6-8,6,Kanji,pemetaan internal
+Exam S8.4.3,b6-9,6,Dokkai,pemetaan internal
+Exam S8.4.3,b7-1,7,Bunpou,pemetaan internal
+Exam S8.4.3,b7-2,7,Bunpou,pemetaan internal
+Exam S8.4.3,b7-3,7,Dokkai,pemetaan internal
+Exam S8.4.3,b7-4,7,Kotoba,pemetaan internal
+Exam S8.4.3,b7-5,7,Konjugasi,pemetaan internal
+Exam S8.4.3,b7-6,7,Konjugasi,pemetaan internal
+Exam S8.4.3,b7-7,7,Kanji,pemetaan internal
+Exam S8.4.3,b7-8,7,Kanji,pemetaan internal
+Exam S8.4.3,b7-9,7,Dokkai,pemetaan internal
+Exam S8.4.3,b8-1,8,Bunpou,pemetaan internal
+Exam S8.4.3,b8-2,8,Bunpou,pemetaan internal
+Exam S8.4.3,b8-3,8,Dokkai,pemetaan internal
+Exam S8.4.3,b8-4,8,Kotoba,pemetaan internal
+Exam S8.4.3,b8-5,8,Konjugasi,pemetaan internal
+Exam S8.4.3,b8-6,8,Konjugasi,pemetaan internal
+Exam S8.4.3,b8-7,8,Kanji,pemetaan internal
+Exam S8.4.3,b8-8,8,Kanji,pemetaan internal
+Exam S8.4.3,b8-9,8,Dokkai,pemetaan internal
+Exam S8.4.3,b9-1,9,Bunpou,pemetaan internal
+Exam S8.4.3,b9-2,9,Bunpou,pemetaan internal
+Exam S8.4.3,b9-3,9,Dokkai,pemetaan internal
+Exam S8.4.3,b9-4,9,Kotoba,pemetaan internal
+Exam S8.4.3,b9-5,9,Konjugasi,pemetaan internal
+Exam S8.4.3,b9-6,9,Konjugasi,pemetaan internal
+Exam S8.4.3,b9-7,9,Kanji,pemetaan internal
+Exam S8.4.3,b9-8,9,Kanji,pemetaan internal
+Exam S8.4.3,b9-9,9,Dokkai,pemetaan internal
+Exam S8.4.3,b10-1,10,Bunpou,pemetaan internal
+Exam S8.4.3,b10-2,10,Bunpou,pemetaan internal
+Exam S8.4.3,b10-3,10,Dokkai,pemetaan internal
+Exam S8.4.3,b10-4,10,Kotoba,pemetaan internal
+Exam S8.4.3,b10-5,10,Konjugasi,pemetaan internal
+Exam S8.4.3,b10-6,10,Konjugasi,pemetaan internal
+Exam S8.4.3,b10-7,10,Kanji,pemetaan internal
+Exam S8.4.3,b10-8,10,Kanji,pemetaan internal
+Exam S8.4.3,b10-9,10,Dokkai,pemetaan internal
+Exam S8.4.3,b11-1,11,Bunpou,pemetaan internal
+Exam S8.4.3,b11-2,11,Bunpou,pemetaan internal
+Exam S8.4.3,b11-3,11,Dokkai,pemetaan internal
+Exam S8.4.3,b11-4,11,Kotoba,pemetaan internal
+Exam S8.4.3,b11-5,11,Konjugasi,pemetaan internal
+Exam S8.4.3,b11-6,11,Konjugasi,pemetaan internal
+Exam S8.4.3,b11-7,11,Kanji,pemetaan internal
+Exam S8.4.3,b11-8,11,Kanji,pemetaan internal
+Exam S8.4.3,b11-9,11,Dokkai,pemetaan internal
+Exam S8.4.3,b12-1,12,Bunpou,pemetaan internal
+Exam S8.4.3,b12-2,12,Bunpou,pemetaan internal
+Exam S8.4.3,b12-3,12,Dokkai,pemetaan internal
+Exam S8.4.3,b12-4,12,Kotoba,pemetaan internal
+Exam S8.4.3,b12-5,12,Konjugasi,pemetaan internal
+Exam S8.4.3,b12-6,12,Konjugasi,pemetaan internal
+Exam S8.4.3,b12-7,12,Kanji,pemetaan internal
+Exam S8.4.3,b12-8,12,Kanji,pemetaan internal
+Exam S8.4.3,b12-9,12,Dokkai,pemetaan internal
+Exam S8.4.3,b13-1,13,Bunpou,pemetaan internal
+Exam S8.4.3,b13-2,13,Bunpou,pemetaan internal
+Exam S8.4.3,b13-3,13,Dokkai,pemetaan internal
+Exam S8.4.3,b13-4,13,Kotoba,pemetaan internal
+Exam S8.4.3,b13-5,13,Konjugasi,pemetaan internal
+Exam S8.4.3,b13-6,13,Konjugasi,pemetaan internal
+Exam S8.4.3,b13-7,13,Kanji,pemetaan internal
+Exam S8.4.3,b13-8,13,Kanji,pemetaan internal
+Exam S8.4.3,b13-9,13,Dokkai,pemetaan internal
+Exam S8.4.3,b14-1,14,Bunpou,pemetaan internal
+Exam S8.4.3,b14-2,14,Bunpou,pemetaan internal
+Exam S8.4.3,b14-3,14,Dokkai,pemetaan internal
+Exam S8.4.3,b14-4,14,Kotoba,pemetaan internal
+Exam S8.4.3,b14-5,14,Konjugasi,pemetaan internal
+Exam S8.4.3,b14-6,14,Konjugasi,pemetaan internal
+Exam S8.4.3,b14-7,14,Kanji,pemetaan internal
+Exam S8.4.3,b14-8,14,Kanji,pemetaan internal
+Exam S8.4.3,b14-9,14,Dokkai,pemetaan internal
+Interactive S2,f0-kana-a,,Hiragana あ・い・う・え・お,BAB belum dipetakan
+Interactive S2,f0-greeting,,Salam dan perkenalan,BAB belum dipetakan
+Interactive S2,f1-particles,,Partikel は dan を,BAB belum dipetakan
+CBT JFT,S1-001,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-002,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-003,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-004,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-005,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-006,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-007,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-008,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-009,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-010,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-011,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-012,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-013,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-014,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-015,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-016,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-017,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-018,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-019,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-020,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-021,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-022,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-023,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-024,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-025,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-026,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-027,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-028,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-029,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-030,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-031,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-032,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-033,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-034,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-035,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-036,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-037,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-038,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-039,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-040,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-041,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-042,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-043,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-044,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-045,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-046,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-047,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-048,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-049,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-050,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-051,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-052,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-053,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-054,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-055,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-056,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-057,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-058,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-059,,Bagian 1,BAB belum dipetakan
+CBT JFT,S1-060,,Bagian 1,BAB belum dipetakan
+CBT JFT,S2-001,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-002,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-003,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-004,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-005,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-006,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-007,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-008,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-009,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-010,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-011,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-012,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-013,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-014,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-015,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-016,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-017,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-018,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-019,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-020,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-021,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-022,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-023,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-024,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-025,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-026,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-027,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-028,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-029,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-030,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-031,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-032,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-033,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-034,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-035,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-036,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-037,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-038,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-039,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-040,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-041,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-042,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-043,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-044,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-045,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-046,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-047,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-048,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-049,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-050,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-051,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-052,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-053,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-054,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-055,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-056,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-057,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-058,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-059,,Bagian 2,BAB belum dipetakan
+CBT JFT,S2-060,,Bagian 2,BAB belum dipetakan
+CBT JFT,S3-001,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-002,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-003,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-004,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-005,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-006,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-007,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-008,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-009,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-010,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-011,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-012,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-013,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-014,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-015,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-016,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-017,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-018,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-019,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-020,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-021,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-022,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-023,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-024,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-025,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-026,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-027,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-028,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-029,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-030,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-031,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-032,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-033,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-034,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-035,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-036,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-037,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-038,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-039,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-040,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-041,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-042,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-043,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-044,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-045,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-046,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-047,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-048,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-049,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-050,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-051,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-052,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-053,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-054,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-055,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-056,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-057,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-058,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-059,,Bagian 3,BAB belum dipetakan
+CBT JFT,S3-060,,Bagian 3,BAB belum dipetakan
+CBT JFT,S4-001,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-002,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-003,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-004,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-005,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-006,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-007,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-008,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-009,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-010,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-011,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-012,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-013,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-014,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-015,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-016,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-017,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-018,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-019,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-020,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-021,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-022,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-023,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-024,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-025,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-026,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-027,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-028,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-029,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-030,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-031,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-032,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-033,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-034,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-035,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-036,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-037,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-038,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-039,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-040,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-041,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-042,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-043,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-044,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-045,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-046,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-047,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-048,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-049,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-050,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-051,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-052,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-053,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-054,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-055,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-056,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-057,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-058,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-059,,Bagian 4,BAB belum dipetakan
+CBT JFT,S4-060,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-1-001,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-002,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-003,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-004,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-005,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-006,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-007,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-008,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-009,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-010,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-011,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-012,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-013,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-014,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-015,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-016,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-017,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-018,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-019,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-020,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-021,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-022,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-023,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-024,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-025,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-026,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-027,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-028,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-029,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-030,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-031,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-032,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-033,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-034,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-035,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-036,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-037,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-038,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-039,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-040,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-041,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-042,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-043,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-044,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-045,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-046,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-047,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-048,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-049,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-050,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-051,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-052,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-053,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-054,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-055,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-056,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-057,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-058,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-059,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-060,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-061,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-062,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-063,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-064,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-1-065,,Bagian 1,BAB belum dipetakan
+CBT JFT,M3-2-001,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-002,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-003,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-004,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-005,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-006,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-007,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-008,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-009,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-010,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-011,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-012,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-013,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-014,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-015,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-016,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-017,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-018,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-019,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-020,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-021,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-022,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-023,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-024,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-025,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-026,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-027,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-028,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-029,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-030,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-031,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-032,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-033,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-034,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-035,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-036,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-037,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-038,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-039,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-040,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-041,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-042,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-043,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-044,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-045,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-046,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-047,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-048,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-049,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-050,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-051,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-052,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-053,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-054,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-055,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-056,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-057,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-058,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-059,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-060,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-061,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-062,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-063,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-064,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-2-065,,Bagian 2,BAB belum dipetakan
+CBT JFT,M3-3-001,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-002,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-003,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-004,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-005,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-006,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-007,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-008,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-009,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-010,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-011,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-012,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-013,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-014,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-015,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-016,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-017,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-018,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-019,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-020,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-021,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-022,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-023,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-024,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-025,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-026,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-027,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-028,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-029,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-030,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-031,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-032,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-033,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-034,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-035,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-036,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-037,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-038,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-039,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-040,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-041,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-042,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-043,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-044,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-045,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-046,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-047,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-048,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-049,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-050,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-051,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-052,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-053,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-054,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-055,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-056,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-057,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-058,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-059,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-060,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-061,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-062,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-063,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-064,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-3-065,,Bagian 3,BAB belum dipetakan
+CBT JFT,M3-4-001,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-002,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-003,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-004,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-005,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-006,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-007,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-008,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-009,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-010,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-011,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-012,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-013,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-014,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-015,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-016,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-017,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-018,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-019,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-020,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-021,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-022,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-023,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-024,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-025,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-026,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-027,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-028,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-029,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-030,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-031,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-032,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-033,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-034,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-035,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-036,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-037,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-038,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-039,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-040,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-041,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-042,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-043,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-044,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-045,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-046,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-047,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-048,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-049,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-050,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-051,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-052,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-053,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-054,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-055,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-056,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-057,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-058,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-059,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-060,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-061,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-062,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-063,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-064,,Bagian 4,BAB belum dipetakan
+CBT JFT,M3-4-065,,Bagian 4,BAB belum dipetakan
+Kana Academy,あ,1,あ,pemetaan internal
+Kana Academy,い,1,い,pemetaan internal
+Kana Academy,う,1,う,pemetaan internal
+Kana Academy,え,1,え,pemetaan internal
+Kana Academy,お,1,お,pemetaan internal
+Kana Academy,か,1,か,pemetaan internal
+Kana Academy,き,1,き,pemetaan internal
+Kana Academy,く,1,く,pemetaan internal
+Kana Academy,け,1,け,pemetaan internal
+Kana Academy,こ,1,こ,pemetaan internal
+Kana Academy,さ,1,さ,pemetaan internal
+Kana Academy,し,1,し,pemetaan internal
+Kana Academy,す,1,す,pemetaan internal
+Kana Academy,せ,1,せ,pemetaan internal
+Kana Academy,そ,1,そ,pemetaan internal
+Kana Academy,た,1,た,pemetaan internal
+Kana Academy,ち,1,ち,pemetaan internal
+Kana Academy,つ,1,つ,pemetaan internal
+Kana Academy,て,1,て,pemetaan internal
+Kana Academy,と,1,と,pemetaan internal
+Kana Academy,な,1,な,pemetaan internal
+Kana Academy,に,1,に,pemetaan internal
+Kana Academy,ぬ,1,ぬ,pemetaan internal
+Kana Academy,ね,1,ね,pemetaan internal
+Kana Academy,の,1,の,pemetaan internal
+Kana Academy,は,1,は,pemetaan internal
+Kana Academy,ひ,1,ひ,pemetaan internal
+Kana Academy,ふ,1,ふ,pemetaan internal
+Kana Academy,へ,1,へ,pemetaan internal
+Kana Academy,ほ,1,ほ,pemetaan internal
+Kana Academy,ま,1,ま,pemetaan internal
+Kana Academy,み,1,み,pemetaan internal
+Kana Academy,む,1,む,pemetaan internal
+Kana Academy,め,1,め,pemetaan internal
+Kana Academy,も,1,も,pemetaan internal
+Kana Academy,や,1,や,pemetaan internal
+Kana Academy,ゆ,1,ゆ,pemetaan internal
+Kana Academy,よ,1,よ,pemetaan internal
+Kana Academy,ら,1,ら,pemetaan internal
+Kana Academy,り,1,り,pemetaan internal
+Kana Academy,る,1,る,pemetaan internal
+Kana Academy,れ,1,れ,pemetaan internal
+Kana Academy,ろ,1,ろ,pemetaan internal
+Kana Academy,わ,1,わ,pemetaan internal
+Kana Academy,を,1,を,pemetaan internal
+Kana Academy,ん,1,ん,pemetaan internal
+Kana Academy,が,1,が,pemetaan internal
+Kana Academy,ぎ,1,ぎ,pemetaan internal
+Kana Academy,ぐ,1,ぐ,pemetaan internal
+Kana Academy,げ,1,げ,pemetaan internal
+Kana Academy,ご,1,ご,pemetaan internal
+Kana Academy,ざ,1,ざ,pemetaan internal
+Kana Academy,じ,1,じ,pemetaan internal
+Kana Academy,ず,1,ず,pemetaan internal
+Kana Academy,ぜ,1,ぜ,pemetaan internal
+Kana Academy,ぞ,1,ぞ,pemetaan internal
+Kana Academy,だ,1,だ,pemetaan internal
+Kana Academy,ぢ,1,ぢ,pemetaan internal
+Kana Academy,づ,1,づ,pemetaan internal
+Kana Academy,で,1,で,pemetaan internal
+Kana Academy,ど,1,ど,pemetaan internal
+Kana Academy,ば,1,ば,pemetaan internal
+Kana Academy,び,1,び,pemetaan internal
+Kana Academy,ぶ,1,ぶ,pemetaan internal
+Kana Academy,べ,1,べ,pemetaan internal
+Kana Academy,ぼ,1,ぼ,pemetaan internal
+Kana Academy,ぱ,1,ぱ,pemetaan internal
+Kana Academy,ぴ,1,ぴ,pemetaan internal
+Kana Academy,ぷ,1,ぷ,pemetaan internal
+Kana Academy,ぺ,1,ぺ,pemetaan internal
+Kana Academy,ぽ,1,ぽ,pemetaan internal
+Kana Academy,きゃ,1,きゃ,pemetaan internal
+Kana Academy,きゅ,1,きゅ,pemetaan internal
+Kana Academy,きょ,1,きょ,pemetaan internal
+Kana Academy,ぎゃ,1,ぎゃ,pemetaan internal
+Kana Academy,ぎゅ,1,ぎゅ,pemetaan internal
+Kana Academy,ぎょ,1,ぎょ,pemetaan internal
+Kana Academy,しゃ,1,しゃ,pemetaan internal
+Kana Academy,しゅ,1,しゅ,pemetaan internal
+Kana Academy,しょ,1,しょ,pemetaan internal
+Kana Academy,じゃ,1,じゃ,pemetaan internal
+Kana Academy,じゅ,1,じゅ,pemetaan internal
+Kana Academy,じょ,1,じょ,pemetaan internal
+Kana Academy,ちゃ,1,ちゃ,pemetaan internal
+Kana Academy,ちゅ,1,ちゅ,pemetaan internal
+Kana Academy,ちょ,1,ちょ,pemetaan internal
+Kana Academy,にゃ,1,にゃ,pemetaan internal
+Kana Academy,にゅ,1,にゅ,pemetaan internal
+Kana Academy,にょ,1,にょ,pemetaan internal
+Kana Academy,ひゃ,1,ひゃ,pemetaan internal
+Kana Academy,ひゅ,1,ひゅ,pemetaan internal
+Kana Academy,ひょ,1,ひょ,pemetaan internal
+Kana Academy,びゃ,1,びゃ,pemetaan internal
+Kana Academy,びゅ,1,びゅ,pemetaan internal
+Kana Academy,びょ,1,びょ,pemetaan internal
+Kana Academy,ぴゃ,1,ぴゃ,pemetaan internal
+Kana Academy,ぴゅ,1,ぴゅ,pemetaan internal
+Kana Academy,ぴょ,1,ぴょ,pemetaan internal
+Kana Academy,みゃ,1,みゃ,pemetaan internal
+Kana Academy,みゅ,1,みゅ,pemetaan internal
+Kana Academy,みょ,1,みょ,pemetaan internal
+Kana Academy,りゃ,1,りゃ,pemetaan internal
+Kana Academy,りゅ,1,りゅ,pemetaan internal
+Kana Academy,りょ,1,りょ,pemetaan internal
+Kana Academy,ア,1,ア,pemetaan internal
+Kana Academy,イ,1,イ,pemetaan internal
+Kana Academy,ウ,1,ウ,pemetaan internal
+Kana Academy,エ,1,エ,pemetaan internal
+Kana Academy,オ,1,オ,pemetaan internal
+Kana Academy,カ,1,カ,pemetaan internal
+Kana Academy,キ,1,キ,pemetaan internal
+Kana Academy,ク,1,ク,pemetaan internal
+Kana Academy,ケ,1,ケ,pemetaan internal
+Kana Academy,コ,1,コ,pemetaan internal
+Kana Academy,サ,1,サ,pemetaan internal
+Kana Academy,シ,1,シ,pemetaan internal
+Kana Academy,ス,1,ス,pemetaan internal
+Kana Academy,セ,1,セ,pemetaan internal
+Kana Academy,ソ,1,ソ,pemetaan internal
+Kana Academy,タ,1,タ,pemetaan internal
+Kana Academy,チ,1,チ,pemetaan internal
+Kana Academy,ツ,1,ツ,pemetaan internal
+Kana Academy,テ,1,テ,pemetaan internal
+Kana Academy,ト,1,ト,pemetaan internal
+Kana Academy,ナ,1,ナ,pemetaan internal
+Kana Academy,ニ,1,ニ,pemetaan internal
+Kana Academy,ヌ,1,ヌ,pemetaan internal
+Kana Academy,ネ,1,ネ,pemetaan internal
+Kana Academy,ノ,1,ノ,pemetaan internal
+Kana Academy,ハ,1,ハ,pemetaan internal
+Kana Academy,ヒ,1,ヒ,pemetaan internal
+Kana Academy,フ,1,フ,pemetaan internal
+Kana Academy,ヘ,1,ヘ,pemetaan internal
+Kana Academy,ホ,1,ホ,pemetaan internal
+Kana Academy,マ,1,マ,pemetaan internal
+Kana Academy,ミ,1,ミ,pemetaan internal
+Kana Academy,ム,1,ム,pemetaan internal
+Kana Academy,メ,1,メ,pemetaan internal
+Kana Academy,モ,1,モ,pemetaan internal
+Kana Academy,ヤ,1,ヤ,pemetaan internal
+Kana Academy,ユ,1,ユ,pemetaan internal
+Kana Academy,ヨ,1,ヨ,pemetaan internal
+Kana Academy,ラ,1,ラ,pemetaan internal
+Kana Academy,リ,1,リ,pemetaan internal
+Kana Academy,ル,1,ル,pemetaan internal
+Kana Academy,レ,1,レ,pemetaan internal
+Kana Academy,ロ,1,ロ,pemetaan internal
+Kana Academy,ワ,1,ワ,pemetaan internal
+Kana Academy,ヲ,1,ヲ,pemetaan internal
+Kana Academy,ン,1,ン,pemetaan internal
+Kana Academy,ガ,1,ガ,pemetaan internal
+Kana Academy,ギ,1,ギ,pemetaan internal
+Kana Academy,グ,1,グ,pemetaan internal
+Kana Academy,ゲ,1,ゲ,pemetaan internal
+Kana Academy,ゴ,1,ゴ,pemetaan internal
+Kana Academy,ザ,1,ザ,pemetaan internal
+Kana Academy,ジ,1,ジ,pemetaan internal
+Kana Academy,ズ,1,ズ,pemetaan internal
+Kana Academy,ゼ,1,ゼ,pemetaan internal
+Kana Academy,ゾ,1,ゾ,pemetaan internal
+Kana Academy,ダ,1,ダ,pemetaan internal
+Kana Academy,ヂ,1,ヂ,pemetaan internal
+Kana Academy,ヅ,1,ヅ,pemetaan internal
+Kana Academy,デ,1,デ,pemetaan internal
+Kana Academy,ド,1,ド,pemetaan internal
+Kana Academy,バ,1,バ,pemetaan internal
+Kana Academy,ビ,1,ビ,pemetaan internal
+Kana Academy,ブ,1,ブ,pemetaan internal
+Kana Academy,ベ,1,ベ,pemetaan internal
+Kana Academy,ボ,1,ボ,pemetaan internal
+Kana Academy,パ,1,パ,pemetaan internal
+Kana Academy,ピ,1,ピ,pemetaan internal
+Kana Academy,プ,1,プ,pemetaan internal
+Kana Academy,ペ,1,ペ,pemetaan internal
+Kana Academy,ポ,1,ポ,pemetaan internal
+Kana Academy,キャ,1,キャ,pemetaan internal
+Kana Academy,キュ,1,キュ,pemetaan internal
+Kana Academy,キョ,1,キョ,pemetaan internal
+Kana Academy,ギャ,1,ギャ,pemetaan internal
+Kana Academy,ギュ,1,ギュ,pemetaan internal
+Kana Academy,ギョ,1,ギョ,pemetaan internal
+Kana Academy,シャ,1,シャ,pemetaan internal
+Kana Academy,シュ,1,シュ,pemetaan internal
+Kana Academy,ショ,1,ショ,pemetaan internal
+Kana Academy,ジャ,1,ジャ,pemetaan internal
+Kana Academy,ジュ,1,ジュ,pemetaan internal
+Kana Academy,ジョ,1,ジョ,pemetaan internal
+Kana Academy,チャ,1,チャ,pemetaan internal
+Kana Academy,チュ,1,チュ,pemetaan internal
+Kana Academy,チョ,1,チョ,pemetaan internal
+Kana Academy,ニャ,1,ニャ,pemetaan internal
+Kana Academy,ニュ,1,ニュ,pemetaan internal
+Kana Academy,ニョ,1,ニョ,pemetaan internal
+Kana Academy,ヒャ,1,ヒャ,pemetaan internal
+Kana Academy,ヒュ,1,ヒュ,pemetaan internal
+Kana Academy,ヒョ,1,ヒョ,pemetaan internal
+Kana Academy,ビャ,1,ビャ,pemetaan internal
+Kana Academy,ビュ,1,ビュ,pemetaan internal
+Kana Academy,ビョ,1,ビョ,pemetaan internal
+Kana Academy,ピャ,1,ピャ,pemetaan internal
+Kana Academy,ピュ,1,ピュ,pemetaan internal
+Kana Academy,ピョ,1,ピョ,pemetaan internal
+Kana Academy,ミャ,1,ミャ,pemetaan internal
+Kana Academy,ミュ,1,ミュ,pemetaan internal
+Kana Academy,ミョ,1,ミョ,pemetaan internal
+Kana Academy,リャ,1,リャ,pemetaan internal
+Kana Academy,リュ,1,リュ,pemetaan internal
+Kana Academy,リョ,1,リョ,pemetaan internal
+Flashcard Academy,kotoba-1:0,7,駅（えき）,pemetaan internal
+Flashcard Academy,kotoba-1:1,7,電車（でんしゃ）,pemetaan internal
+Flashcard Academy,kotoba-1:2,7,切符（きっぷ）,pemetaan internal
+Flashcard Academy,kotoba-1:3,7,乗ります（のります）,pemetaan internal
+Flashcard Academy,kotoba-2:0,7,値段（ねだん）,pemetaan internal
+Flashcard Academy,kotoba-2:1,7,安い（やすい）,pemetaan internal
+Flashcard Academy,kotoba-2:2,7,高い（たかい）,pemetaan internal
+Flashcard Academy,kotoba-2:3,7,買います（かいます）,pemetaan internal
+Flashcard Academy,kotoba-3:0,13,病院（びょういん）,pemetaan internal
+Flashcard Academy,kotoba-3:1,13,薬（くすり）,pemetaan internal
+Flashcard Academy,kotoba-3:2,13,熱（ねつ）,pemetaan internal
+Flashcard Academy,kotoba-3:3,13,痛い（いたい）,pemetaan internal
+Flashcard Academy,kotoba-4:0,4,会社（かいしゃ）,pemetaan internal
+Flashcard Academy,kotoba-4:1,4,会議（かいぎ）,pemetaan internal
+Flashcard Academy,kotoba-4:2,4,休み（やすみ）,pemetaan internal
+Flashcard Academy,kotoba-4:3,4,仕事（しごと）,pemetaan internal
+Flashcard Academy,kanji-9:0,6,日（ひ／にち）,pemetaan internal
+Flashcard Academy,kanji-9:1,6,月（つき／げつ）,pemetaan internal
+Flashcard Academy,kanji-9:2,6,年（とし／ねん）,pemetaan internal
+Flashcard Academy,kanji-9:3,6,時（じ）,pemetaan internal
+Flashcard Academy,kanji-10:0,5,上（うえ）,pemetaan internal
+Flashcard Academy,kanji-10:1,5,下（した）,pemetaan internal
+Flashcard Academy,kanji-10:2,5,中（なか）,pemetaan internal
+Flashcard Academy,kanji-10:3,5,外（そと）,pemetaan internal
+Flashcard Academy,kanji-11:0,6,食（た）べる,pemetaan internal
+Flashcard Academy,kanji-11:1,6,飲（の）む,pemetaan internal
+Flashcard Academy,kanji-11:2,6,見（み）る,pemetaan internal
+Flashcard Academy,kanji-11:3,6,聞（き）く,pemetaan internal
+Flashcard Academy,kanji-12:0,5,駅（えき）,pemetaan internal
+Flashcard Academy,kanji-12:1,5,店（みせ）,pemetaan internal
+Flashcard Academy,kanji-12:2,5,病院（びょういん）,pemetaan internal
+Flashcard Academy,kanji-12:3,5,学校（がっこう）,pemetaan internal
+Flashcard Academy,kotoba-m4-01:0,2,おはようございます,pemetaan internal
+Flashcard Academy,kotoba-m4-01:1,2,こんにちは,pemetaan internal
+Flashcard Academy,kotoba-m4-01:2,2,こんばんは,pemetaan internal
+Flashcard Academy,kotoba-m4-01:3,2,おやすみなさい,pemetaan internal
+Flashcard Academy,kotoba-m4-02:0,3,一つ（ひとつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-02:1,3,二つ（ふたつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-02:2,3,三つ（みっつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-02:3,3,いくつ,pemetaan internal
+Flashcard Academy,kotoba-m4-03:0,6,今日（きょう）,pemetaan internal
+Flashcard Academy,kotoba-m4-03:1,6,明日（あした）,pemetaan internal
+Flashcard Academy,kotoba-m4-03:2,6,昨日（きのう）,pemetaan internal
+Flashcard Academy,kotoba-m4-03:3,6,毎日（まいにち）,pemetaan internal
+Flashcard Academy,kotoba-m4-04:0,6,午前（ごぜん）,pemetaan internal
+Flashcard Academy,kotoba-m4-04:1,6,午後（ごご）,pemetaan internal
+Flashcard Academy,kotoba-m4-04:2,6,半（はん）,pemetaan internal
+Flashcard Academy,kotoba-m4-04:3,6,時間（じかん）,pemetaan internal
+Flashcard Academy,kotoba-m4-05:0,2,父（ちち）,pemetaan internal
+Flashcard Academy,kotoba-m4-05:1,2,母（はは）,pemetaan internal
+Flashcard Academy,kotoba-m4-05:2,2,兄（あに）,pemetaan internal
+Flashcard Academy,kotoba-m4-05:3,2,妹（いもうと）,pemetaan internal
+Flashcard Academy,kotoba-m4-06:0,5,台所（だいどころ）,pemetaan internal
+Flashcard Academy,kotoba-m4-06:1,5,玄関（げんかん）,pemetaan internal
+Flashcard Academy,kotoba-m4-06:2,5,部屋（へや）,pemetaan internal
+Flashcard Academy,kotoba-m4-06:3,5,窓（まど）,pemetaan internal
+Flashcard Academy,kotoba-m4-07:0,7,朝ご飯（あさごはん）,pemetaan internal
+Flashcard Academy,kotoba-m4-07:1,7,昼ご飯（ひるごはん）,pemetaan internal
+Flashcard Academy,kotoba-m4-07:2,7,晩ご飯（ばんごはん）,pemetaan internal
+Flashcard Academy,kotoba-m4-07:3,7,野菜（やさい）,pemetaan internal
+Flashcard Academy,kotoba-m4-08:0,7,水（みず）,pemetaan internal
+Flashcard Academy,kotoba-m4-08:1,7,お茶（おちゃ）,pemetaan internal
+Flashcard Academy,kotoba-m4-08:2,7,牛乳（ぎゅうにゅう）,pemetaan internal
+Flashcard Academy,kotoba-m4-08:3,7,注文（ちゅうもん）,pemetaan internal
+Flashcard Academy,kotoba-m4-09:0,7,メニュー,pemetaan internal
+Flashcard Academy,kotoba-m4-09:1,7,店員（てんいん）,pemetaan internal
+Flashcard Academy,kotoba-m4-09:2,7,会計（かいけい）,pemetaan internal
+Flashcard Academy,kotoba-m4-09:3,7,席（せき）,pemetaan internal
+Flashcard Academy,kotoba-m4-10:0,5,右（みぎ）,pemetaan internal
+Flashcard Academy,kotoba-m4-10:1,5,左（ひだり）,pemetaan internal
+Flashcard Academy,kotoba-m4-10:2,5,まっすぐ,pemetaan internal
+Flashcard Academy,kotoba-m4-10:3,5,近く（ちかく）,pemetaan internal
+Flashcard Academy,kotoba-m4-11:0,7,自転車（じてんしゃ）,pemetaan internal
+Flashcard Academy,kotoba-m4-11:1,7,バス,pemetaan internal
+Flashcard Academy,kotoba-m4-11:2,7,地下鉄（ちかてつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-11:3,7,飛行機（ひこうき）,pemetaan internal
+Flashcard Academy,kotoba-m4-12:0,8,晴れ（はれ）,pemetaan internal
+Flashcard Academy,kotoba-m4-12:1,8,雨（あめ）,pemetaan internal
+Flashcard Academy,kotoba-m4-12:2,8,雪（ゆき）,pemetaan internal
+Flashcard Academy,kotoba-m4-12:3,8,曇り（くもり）,pemetaan internal
+Flashcard Academy,kotoba-m4-13:0,8,春（はる）,pemetaan internal
+Flashcard Academy,kotoba-m4-13:1,8,夏（なつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-13:2,8,秋（あき）,pemetaan internal
+Flashcard Academy,kotoba-m4-13:3,8,冬（ふゆ）,pemetaan internal
+Flashcard Academy,kotoba-m4-14:0,7,服（ふく）,pemetaan internal
+Flashcard Academy,kotoba-m4-14:1,7,靴（くつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-14:2,7,帽子（ぼうし）,pemetaan internal
+Flashcard Academy,kotoba-m4-14:3,7,上着（うわぎ）,pemetaan internal
+Flashcard Academy,kotoba-m4-15:0,8,赤（あか）,pemetaan internal
+Flashcard Academy,kotoba-m4-15:1,8,青（あお）,pemetaan internal
+Flashcard Academy,kotoba-m4-15:2,8,白（しろ）,pemetaan internal
+Flashcard Academy,kotoba-m4-15:3,8,黒（くろ）,pemetaan internal
+Flashcard Academy,kotoba-m4-16:0,8,大きい（おおきい）,pemetaan internal
+Flashcard Academy,kotoba-m4-16:1,8,小さい（ちいさい）,pemetaan internal
+Flashcard Academy,kotoba-m4-16:2,8,長い（ながい）,pemetaan internal
+Flashcard Academy,kotoba-m4-16:3,8,短い（みじかい）,pemetaan internal
+Flashcard Academy,kotoba-m4-17:0,4,教室（きょうしつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-17:1,4,宿題（しゅくだい）,pemetaan internal
+Flashcard Academy,kotoba-m4-17:2,4,試験（しけん）,pemetaan internal
+Flashcard Academy,kotoba-m4-17:3,4,質問（しつもん）,pemetaan internal
+Flashcard Academy,kotoba-m4-18:0,4,書類（しょるい）,pemetaan internal
+Flashcard Academy,kotoba-m4-18:1,4,印刷（いんさつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-18:2,4,机（つくえ）,pemetaan internal
+Flashcard Academy,kotoba-m4-18:3,4,椅子（いす）,pemetaan internal
+Flashcard Academy,kotoba-m4-19:0,12,電話（でんわ）,pemetaan internal
+Flashcard Academy,kotoba-m4-19:1,12,番号（ばんごう）,pemetaan internal
+Flashcard Academy,kotoba-m4-19:2,12,連絡（れんらく）,pemetaan internal
+Flashcard Academy,kotoba-m4-19:3,12,返事（へんじ）,pemetaan internal
+Flashcard Academy,kotoba-m4-20:0,11,散歩（さんぽ）,pemetaan internal
+Flashcard Academy,kotoba-m4-20:1,11,水泳（すいえい）,pemetaan internal
+Flashcard Academy,kotoba-m4-20:2,11,旅行（りょこう）,pemetaan internal
+Flashcard Academy,kotoba-m4-20:3,11,写真（しゃしん）,pemetaan internal
+Flashcard Academy,kotoba-m4-21:0,6,起きます（おきます）,pemetaan internal
+Flashcard Academy,kotoba-m4-21:1,6,寝ます（ねます）,pemetaan internal
+Flashcard Academy,kotoba-m4-21:2,6,洗います（あらいます）,pemetaan internal
+Flashcard Academy,kotoba-m4-21:3,6,掃除します（そうじします）,pemetaan internal
+Flashcard Academy,kotoba-m4-22:0,8,うれしい,pemetaan internal
+Flashcard Academy,kotoba-m4-22:1,8,悲しい（かなしい）,pemetaan internal
+Flashcard Academy,kotoba-m4-22:2,8,心配（しんぱい）,pemetaan internal
+Flashcard Academy,kotoba-m4-22:3,8,安心（あんしん）,pemetaan internal
+Flashcard Academy,kotoba-m4-23:0,13,頭（あたま）,pemetaan internal
+Flashcard Academy,kotoba-m4-23:1,13,お腹（おなか）,pemetaan internal
+Flashcard Academy,kotoba-m4-23:2,13,喉（のど）,pemetaan internal
+Flashcard Academy,kotoba-m4-23:3,13,せき,pemetaan internal
+Flashcard Academy,kotoba-m4-24:0,13,郵便局（ゆうびんきょく）,pemetaan internal
+Flashcard Academy,kotoba-m4-24:1,13,銀行（ぎんこう）,pemetaan internal
+Flashcard Academy,kotoba-m4-24:2,13,市役所（しやくしょ）,pemetaan internal
+Flashcard Academy,kotoba-m4-24:3,13,図書館（としょかん）,pemetaan internal
+Flashcard Academy,kotoba-m4-25:0,13,地震（じしん）,pemetaan internal
+Flashcard Academy,kotoba-m4-25:1,13,火事（かじ）,pemetaan internal
+Flashcard Academy,kotoba-m4-25:2,13,避難（ひなん）,pemetaan internal
+Flashcard Academy,kotoba-m4-25:3,13,非常口（ひじょうぐち）,pemetaan internal
+Flashcard Academy,kotoba-m4-26:0,13,ごみ,pemetaan internal
+Flashcard Academy,kotoba-m4-26:1,13,分別（ぶんべつ）,pemetaan internal
+Flashcard Academy,kotoba-m4-26:2,13,燃えるごみ（もえるごみ）,pemetaan internal
+Flashcard Academy,kotoba-m4-26:3,13,捨てます（すてます）,pemetaan internal
+Flashcard Academy,kanji-m4-01:0,6,日（ひ／にち）,pemetaan internal
+Flashcard Academy,kanji-m4-01:1,6,月（つき／げつ）,pemetaan internal
+Flashcard Academy,kanji-m4-01:2,6,日曜日（にちようび）,pemetaan internal
+Flashcard Academy,kanji-m4-01:3,6,月曜日（げつようび）,pemetaan internal
+Flashcard Academy,kanji-m4-02:0,14,火（ひ／か）,pemetaan internal
+Flashcard Academy,kanji-m4-02:1,14,水（みず／すい）,pemetaan internal
+Flashcard Academy,kanji-m4-02:2,14,火曜日（かようび）,pemetaan internal
+Flashcard Academy,kanji-m4-02:3,14,水曜日（すいようび）,pemetaan internal
+Flashcard Academy,kanji-m4-03:0,14,木（き／もく）,pemetaan internal
+Flashcard Academy,kanji-m4-03:1,14,金（かね／きん）,pemetaan internal
+Flashcard Academy,kanji-m4-03:2,14,土（つち／ど）,pemetaan internal
+Flashcard Academy,kanji-m4-03:3,14,金曜日（きんようび）,pemetaan internal
+Flashcard Academy,kanji-m4-04:0,2,人（ひと／じん）,pemetaan internal
+Flashcard Academy,kanji-m4-04:1,2,男（おとこ／だん）,pemetaan internal
+Flashcard Academy,kanji-m4-04:2,2,女（おんな／じょ）,pemetaan internal
+Flashcard Academy,kanji-m4-04:3,2,女の人（おんなのひと）,pemetaan internal
+Flashcard Academy,kanji-m4-05:0,8,大（おお／だい）,pemetaan internal
+Flashcard Academy,kanji-m4-05:1,8,小（ちい／しょう）,pemetaan internal
+Flashcard Academy,kanji-m4-05:2,8,大きい（おおきい）,pemetaan internal
+Flashcard Academy,kanji-m4-05:3,8,小さい（ちいさい）,pemetaan internal
+Flashcard Academy,kanji-m4-06:0,4,学（がく）,pemetaan internal
+Flashcard Academy,kanji-m4-06:1,4,校（こう）,pemetaan internal
+Flashcard Academy,kanji-m4-06:2,4,学校（がっこう）,pemetaan internal
+Flashcard Academy,kanji-m4-06:3,4,学生（がくせい）,pemetaan internal
+Flashcard Academy,kanji-m4-07:0,4,会（かい）,pemetaan internal
+Flashcard Academy,kanji-m4-07:1,4,社（しゃ）,pemetaan internal
+Flashcard Academy,kanji-m4-07:2,4,会社（かいしゃ）,pemetaan internal
+Flashcard Academy,kanji-m4-07:3,4,社員（しゃいん）,pemetaan internal
+Flashcard Academy,kanji-m4-08:0,7,電（でん）,pemetaan internal
+Flashcard Academy,kanji-m4-08:1,7,車（くるま／しゃ）,pemetaan internal
+Flashcard Academy,kanji-m4-08:2,7,電車（でんしゃ）,pemetaan internal
+Flashcard Academy,kanji-m4-08:3,7,自転車（じてんしゃ）,pemetaan internal
+Flashcard Academy,kanji-m4-09:0,7,駅（えき）,pemetaan internal
+Flashcard Academy,kanji-m4-09:1,7,道（みち／どう）,pemetaan internal
+Flashcard Academy,kanji-m4-09:2,7,駅前（えきまえ）,pemetaan internal
+Flashcard Academy,kanji-m4-09:3,7,道路（どうろ）,pemetaan internal
+Flashcard Academy,kanji-m4-10:0,6,時（じ）,pemetaan internal
+Flashcard Academy,kanji-m4-10:1,6,分（ふん／ぷん）,pemetaan internal
+Flashcard Academy,kanji-m4-10:2,6,三時（さんじ）,pemetaan internal
+Flashcard Academy,kanji-m4-10:3,6,十分（じゅっぷん）,pemetaan internal
+Flashcard Academy,kanji-m4-11:0,7,食（た／しょく）,pemetaan internal
+Flashcard Academy,kanji-m4-11:1,7,飲（の／いん）,pemetaan internal
+Flashcard Academy,kanji-m4-11:2,7,食べる（たべる）,pemetaan internal
+Flashcard Academy,kanji-m4-11:3,7,飲み物（のみもの）,pemetaan internal
+Flashcard Academy,kanji-m4-12:0,7,買（か）,pemetaan internal
+Flashcard Academy,kanji-m4-12:1,7,売（う）,pemetaan internal
+Flashcard Academy,kanji-m4-12:2,7,買い物（かいもの）,pemetaan internal
+Flashcard Academy,kanji-m4-12:3,7,売り場（うりば）,pemetaan internal
+Flashcard Academy,kanji-m4-13:0,5,行（い／こう）,pemetaan internal
+Flashcard Academy,kanji-m4-13:1,5,来（く／らい）,pemetaan internal
+Flashcard Academy,kanji-m4-13:2,5,行きます（いきます）,pemetaan internal
+Flashcard Academy,kanji-m4-13:3,5,来ます（きます）,pemetaan internal
+Flashcard Academy,kanji-m4-14:0,14,見（み／けん）,pemetaan internal
+Flashcard Academy,kanji-m4-14:1,14,聞（き／ぶん）,pemetaan internal
+Flashcard Academy,kanji-m4-14:2,14,見ます（みます）,pemetaan internal
+Flashcard Academy,kanji-m4-14:3,14,聞きます（ききます）,pemetaan internal
+Flashcard Academy,kanji-m4-15:0,5,入（はい／にゅう）,pemetaan internal
+Flashcard Academy,kanji-m4-15:1,5,出（で／しゅつ）,pemetaan internal
+Flashcard Academy,kanji-m4-15:2,5,入口（いりぐち）,pemetaan internal
+Flashcard Academy,kanji-m4-15:3,5,出口（でぐち）,pemetaan internal
+Flashcard Academy,kanji-m4-16:0,5,上（うえ／じょう）,pemetaan internal
+Flashcard Academy,kanji-m4-16:1,5,下（した／か）,pemetaan internal
+Flashcard Academy,kanji-m4-16:2,5,上着（うわぎ）,pemetaan internal
+Flashcard Academy,kanji-m4-16:3,5,地下（ちか）,pemetaan internal

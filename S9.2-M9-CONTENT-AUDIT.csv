@@ -1,0 +1,999 @@
+﻿Source,ID,Structural result,Failed checks,Editorial scope
+Seven-Step,s41-f0-greetings,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s41-f0-numbers,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s41-f1-daily,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s41-f1-location,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f0-05,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f0-06,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f0-07,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f0-08,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f0-09,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-10,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-11,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-12,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-13,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-14,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-15,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-16,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f1-17,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f2-18,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f2-19,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f2-20,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f2-21,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s42-f2-22,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s82-plain,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s82-reason,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s82-condition,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s82-advice,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s82-plan,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s82-notice,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-dakuten,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-youon,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-sokuon-long,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-origin,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-negative,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-yesno,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-affiliation,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-tens,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-counters,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-phone,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m1-clock,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-kono,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-owner,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-purpose,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-choice,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-aru,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-iru,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-position,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-action-de,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-time-ni,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-hours,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-negative,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-past,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-past-negative,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m2-invite,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-size,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-quantity,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-try-on,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-destination,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-transfer,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-duration,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-i-negative,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-i-past,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-i-past-negative,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-na-forms,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-adjective-noun,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-adjective-connect,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-te-tt,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-te-nde,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-te-iku,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-te-other,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-request-polite,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m3-permission,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-nai-godan-a,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-nai-godan-b,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-nai-other,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-negative-request,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-obligation,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-no-obligation,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-rules-deadline,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-ta-godan-a,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-ta-godan-b,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-ta-other,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-experience-negative,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-comparison-choice,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-dictionary-godan,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-dictionary-other,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-plain-negative-past,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-plain-noun-adj,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-opinion-contrast,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m4-reason-kara-node,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-potential-godan,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-potential-ichidan,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-tara-trouble,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-temo-concession,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-advice-safety,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-change-ability,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-intention-negative,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-schedule-yotei,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-public-notice,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-work-report,PASS,,Presence/answer shape only; not semantic validation
+Seven-Step,s92m5-community-help,PASS,,Presence/answer shape only; not semantic validation
+Academy,kotoba-1,PASS,,Romaji not required by original schema
+Academy,kotoba-2,PASS,,Romaji not required by original schema
+Academy,kotoba-3,PASS,,Romaji not required by original schema
+Academy,kotoba-4,PASS,,Romaji not required by original schema
+Academy,bunpou-5,PASS,,Romaji not required by original schema
+Academy,bunpou-6,PASS,,Romaji not required by original schema
+Academy,bunpou-7,PASS,,Romaji not required by original schema
+Academy,bunpou-8,PASS,,Romaji not required by original schema
+Academy,kanji-9,PASS,,Romaji not required by original schema
+Academy,kanji-10,PASS,,Romaji not required by original schema
+Academy,kanji-11,PASS,,Romaji not required by original schema
+Academy,kanji-12,PASS,,Romaji not required by original schema
+Academy,kaiwa-13,PASS,,Romaji not required by original schema
+Academy,kaiwa-14,PASS,,Romaji not required by original schema
+Academy,kaiwa-15,PASS,,Romaji not required by original schema
+Academy,kaiwa-16,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-01,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-02,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-03,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-04,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-05,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-06,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-07,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-08,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-09,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-10,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-11,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-12,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-13,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-14,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-15,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-16,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-17,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-18,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-19,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-20,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-21,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-22,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-23,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-24,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-25,PASS,,Romaji not required by original schema
+Academy,kotoba-m4-26,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-01,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-02,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-03,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-04,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-05,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-06,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-07,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-08,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-09,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-10,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-11,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-12,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-13,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-14,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-15,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-16,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-17,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-18,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-19,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-20,PASS,,Romaji not required by original schema
+Academy,bunpou-m4-21,PASS,,Romaji not required by original schema
+Academy,kanji-m4-01,PASS,,Romaji not required by original schema
+Academy,kanji-m4-02,PASS,,Romaji not required by original schema
+Academy,kanji-m4-03,PASS,,Romaji not required by original schema
+Academy,kanji-m4-04,PASS,,Romaji not required by original schema
+Academy,kanji-m4-05,PASS,,Romaji not required by original schema
+Academy,kanji-m4-06,PASS,,Romaji not required by original schema
+Academy,kanji-m4-07,PASS,,Romaji not required by original schema
+Academy,kanji-m4-08,PASS,,Romaji not required by original schema
+Academy,kanji-m4-09,PASS,,Romaji not required by original schema
+Academy,kanji-m4-10,PASS,,Romaji not required by original schema
+Academy,kanji-m4-11,PASS,,Romaji not required by original schema
+Academy,kanji-m4-12,PASS,,Romaji not required by original schema
+Academy,kanji-m4-13,PASS,,Romaji not required by original schema
+Academy,kanji-m4-14,PASS,,Romaji not required by original schema
+Academy,kanji-m4-15,PASS,,Romaji not required by original schema
+Academy,kanji-m4-16,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-01,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-02,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-03,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-04,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-05,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-06,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-07,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-08,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-09,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-10,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-11,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-12,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-13,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-14,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-15,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-16,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-17,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-18,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-19,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-20,PASS,,Romaji not required by original schema
+Academy,kaiwa-m4-21,PASS,,Romaji not required by original schema
+Listening,s43-s41-f0-greetings,PASS,,"Text, not audio quality"
+Listening,s43-s41-f0-numbers,PASS,,"Text, not audio quality"
+Listening,s43-s41-f1-daily,PASS,,"Text, not audio quality"
+Listening,s43-s41-f1-location,PASS,,"Text, not audio quality"
+Listening,s43-s42-f0-05,PASS,,"Text, not audio quality"
+Listening,s43-s42-f0-06,PASS,,"Text, not audio quality"
+Listening,s43-s42-f0-07,PASS,,"Text, not audio quality"
+Listening,s43-s42-f0-08,PASS,,"Text, not audio quality"
+Listening,s43-s42-f0-09,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-10,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-11,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-12,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-13,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-14,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-15,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-16,PASS,,"Text, not audio quality"
+Listening,s43-s42-f1-17,PASS,,"Text, not audio quality"
+Listening,s43-s42-f2-18,PASS,,"Text, not audio quality"
+Listening,s43-s42-f2-19,PASS,,"Text, not audio quality"
+Listening,s43-s42-f2-20,PASS,,"Text, not audio quality"
+Listening,s43-s42-f2-21,PASS,,"Text, not audio quality"
+Listening,s43-s42-f2-22,PASS,,"Text, not audio quality"
+Listening,s82-listen-plain,PASS,,"Text, not audio quality"
+Listening,s82-listen-reason,PASS,,"Text, not audio quality"
+Listening,s82-listen-condition,PASS,,"Text, not audio quality"
+Listening,s82-listen-advice,PASS,,"Text, not audio quality"
+Listening,s82-listen-plan,PASS,,"Text, not audio quality"
+Listening,s82-listen-notice,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-dakuten,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-youon,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-sokuon-long,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-origin,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-negative,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-yesno,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-affiliation,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-tens,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-counters,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-phone,PASS,,"Text, not audio quality"
+Listening,s43-s92m1-clock,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-kono,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-owner,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-purpose,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-choice,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-aru,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-iru,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-position,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-action-de,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-time-ni,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-hours,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-negative,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-past,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-past-negative,PASS,,"Text, not audio quality"
+Listening,s43-s92m2-invite,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-size,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-quantity,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-try-on,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-destination,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-transfer,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-duration,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-i-negative,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-i-past,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-i-past-negative,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-na-forms,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-adjective-noun,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-adjective-connect,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-te-tt,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-te-nde,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-te-iku,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-te-other,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-request-polite,PASS,,"Text, not audio quality"
+Listening,s43-s92m3-permission,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-nai-godan-a,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-nai-godan-b,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-nai-other,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-negative-request,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-obligation,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-no-obligation,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-rules-deadline,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-ta-godan-a,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-ta-godan-b,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-ta-other,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-experience-negative,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-comparison-choice,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-dictionary-godan,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-dictionary-other,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-plain-negative-past,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-plain-noun-adj,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-opinion-contrast,PASS,,"Text, not audio quality"
+Listening,s43-s92m4-reason-kara-node,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-potential-godan,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-potential-ichidan,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-tara-trouble,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-temo-concession,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-advice-safety,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-change-ability,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-intention-negative,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-schedule-yotei,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-public-notice,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-work-report,PASS,,"Text, not audio quality"
+Listening,s43-s92m5-community-help,PASS,,"Text, not audio quality"
+Speaking,s5-s41-f0-greetings,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s41-f0-numbers,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s41-f1-daily,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s41-f1-location,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f0-05,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f0-06,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f0-07,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f0-08,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f0-09,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-10,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-11,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-12,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-13,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-14,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-15,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-16,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f1-17,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f2-18,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f2-19,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f2-20,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f2-21,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s42-f2-22,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s82-speak-plain,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s82-speak-reason,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s82-speak-condition,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s82-speak-advice,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s82-speak-plan,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s82-speak-notice,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-dakuten,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-youon,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-sokuon-long,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-origin,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-negative,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-yesno,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-affiliation,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-tens,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-counters,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-phone,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m1-clock,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-kono,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-owner,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-purpose,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-choice,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-aru,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-iru,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-position,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-action-de,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-time-ni,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-hours,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-negative,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-past,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-past-negative,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m2-invite,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-size,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-quantity,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-try-on,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-destination,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-transfer,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-duration,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-i-negative,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-i-past,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-i-past-negative,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-na-forms,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-adjective-noun,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-adjective-connect,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-te-tt,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-te-nde,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-te-iku,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-te-other,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-request-polite,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m3-permission,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-nai-godan-a,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-nai-godan-b,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-nai-other,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-negative-request,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-obligation,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-no-obligation,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-rules-deadline,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-ta-godan-a,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-ta-godan-b,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-ta-other,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-experience-negative,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-comparison-choice,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-dictionary-godan,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-dictionary-other,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-plain-negative-past,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-plain-noun-adj,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-opinion-contrast,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m4-reason-kara-node,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-potential-godan,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-potential-ichidan,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-tara-trouble,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-temo-concession,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-advice-safety,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-change-ability,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-intention-negative,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-schedule-yotei,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-public-notice,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-work-report,PASS,,Self-practice; no pronunciation evaluation
+Speaking,s5-s92m5-community-help,PASS,,Self-practice; no pronunciation evaluation
+Kotoba,v-f3495755a7e2a2e5ece7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-267a3c4e42223a8434d4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-180ff09712a77dbfe00f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d525a143154973f4114b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6583b3b9c1d95c7c3ca3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e3f302b03811f28cab9c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d35febe73f4e5522879f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7fb3ea9438692d09aa2a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-76974b250ade7cb6b3af,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c82e3b5bdfd706cbd634,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-96d2274d418d7c6e902c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-72865088e5b420a4e8a3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-23107dbf6cf1ab7ee345,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8dd77afd38c0dbb1a3f9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6c8c22c6ebc26dde9983,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9861bc09d5a003f08383,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b6be4d73fa04be211450,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c77f837d9f4d7ec84db4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c7c1f7a79a6b09c01087,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7b9f814aa3604dc9270a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-db7378fc2f709366bac6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f2d1ec3e8e6b1e5aa248,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d5141496782bf48ec66a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1fb612b982add9e87a7a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2dab77d18643698b153f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-baf8b49d4e2d77ee467b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d186ac306e76ffb19678,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5c94e378261fc1b4d435,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-251f5cd6773d27a7b8da,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b4960a6d6b36f4f6a17a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8e91e8a57bee81ff93f9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-00e017b60748d11cfed3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c3f428e5a7a648893d32,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b4d8d0ffa06739a66be2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-95d7632afc4e6f1ef5e2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a1dd0178ecc49fa9839a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f98d3e23bb67f9b74236,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-20d15859a77e6f5fbf90,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-044d5cfabdc90dd5efe5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-44c6e97fe2bd2eaa5844,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-74a9746bddd28b3aa8e8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8d37d37a50ac92995a6d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e415f60c28e3353185b6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2300200fce40566fa9a8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-79d2231a36f10b47ef85,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9afa19035386235256f0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-27d76642b87697690ed8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c45200a6de2727e4e00a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a57df3d4ff97857db2be,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fb9c441a9406d9c6cd7c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b87f67ccda3f84e6ce3a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-96998b33d49e672c05eb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-aa398a09d93b29cf9045,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-856f3868549bec9fe2c8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-81b6455390b49471401f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8386a80217045f601593,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9c86ade9b3b5e554a3de,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-350925c60b253328b38a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-357ac2ab5a22a679b02f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8fd65fea0ccb9d991f9a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3536f25fb489bf60a2c8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-afac0480fd0a8eca1e8c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2e8c8a7e05261361438e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a3fd0e790b06e0e298e0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3efe65c97d5d1074437c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-dcefbe66c6a290bbb8fb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-de2a002d164451e903ad,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e61fc73246023893023d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5330a7fe95891cc8cb87,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-800972dd87b7c35355b0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0f43bc1080c0ac33fa3c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-288fad7f30732481d033,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-30efa7c66db29cb30988,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-69178f1ad7332e202ece,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5e92cfb80ad38ec62565,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-feacb940c944e487c344,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a39cf17ef2dd6f47eef1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b6cbb14cf7d5b3c9f91a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a5d6901b0f4f9a34ee7e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d9e384b537027c45a41c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3722bdfac48d1932526d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6dbdc2e4e4a325bd24f2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f4c04b3fa6828e0b13fd,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3010241955ddff44a30f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2e097bf0c898dca51210,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8c52af19a45a295e197e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-77ab315c948bab2cf356,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-20b5eb7c47e6ca1711f7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-aca5dc3fc216261b00fc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-61a74a6de7fc20d20422,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-24e1afdd3c6a9d6918f8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-40d65a9f60d5b452b00d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a8b3b31662e410daa0ea,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fa8c3623c8f4a6a52c81,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6b88dfafa04f5235b894,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f21355767ddc250ecc8d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1b8b9a8c4f7d8bd20442,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e1528d9b313c0a8be602,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5beec097118d7582e138,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-96a5c969b9314aac6aad,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d40d245f04eaa17e94f2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5aed53171655007d0d26,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4cba9eae3bfc9041a67c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bffb456cad40a69136d2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-db8f9f0a4dc0739e77b2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fc91a66b8f97fabdd378,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-06d79bc586952cddbcaf,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-64106cf7b7f339df9961,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1bb4f715a40a8a0831f1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9840c76689eafbdd88c5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-817e1b0ac7f6ae1b61eb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-eda04bd12e9ca2f2f54e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ba5d0c5711a109b781c0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c27ccb1f06f76011e022,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bb3ceb51e36eea3574dc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4782ead6513f213c7ae9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8b9fde13f8197f6a211c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3b775ea216ee05b93c01,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-de3106444a9158dff6ac,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-471f9e149d48fb08a8fa,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a7659f1cffdb8f53830d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9fd7dfb6e6fc8555a838,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cf86faf52857ab09e6cc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-772ef2a4ee70ee6a8a6b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ee428a4565a694112e1d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9977509c51d98552014c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-30582a3f36a5c3c31ecb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-64259c3d36e50cbfb3c0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-60b1119cf639533a0936,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bb3615cfa1141b73fe1b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a1f0d6923b1991021355,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7c49d10d1c7b6f3e6f46,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-03981adc1ad5273912ca,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ce3440d1b43de62eb9c3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4b323b19715738f7f8c7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1a3248f5bb89b80c885a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-928163748455293d9122,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0750550f7eb0272be482,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ad0ec01aa86d2ef89b7f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4e5c56e7e98fe4899917,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4b8f46956ad6c557bf65,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-46f00812a9be39de8525,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c75524bec4acd0a26710,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6e6b2b8fe7bc9563322d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-57fb52a96c634c3405cb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-21378bd23caa49dd064a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e63c66b58504542f33c2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d58d213014d303ec7d68,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d87d7bbb8b0638ecd8e0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8e58fc5fc5651f7e5f76,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6430fb5908cceea8e45e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-649593677327b355e1a0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2123ae13a55f5564f444,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fa87731140e3f6bb9237,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1cabf62ec839f5798aa7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a7e1fd42e8ad64b1d55a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d8bccd1f7e86e0f61fe7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7cd6e40d3b557eac44f3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-273dd0c6f69a2c50ca94,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7c10e3187c3d7f7dff47,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7731851cfb915a6428ae,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e5fa08ece5bff5702075,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1d345ee7bc2a68cf2aa4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fbc4035fcf678f0c7ba6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-477e629b21683f27ac60,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-182ed79a83e5f334a020,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9db7ccdac22b73b908c1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1e2ab825459e3ebd95a7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-aad2b15bd1861ede6a43,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-af908c8997f5819feaf7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cec9fbc4b8b1b3bddd7e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-584208306572caa32f61,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-38c840c7368d6008ee5d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2e466f902301001011c8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6b7b3742de80bdfe4981,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0f6fb91e56e8ae9e826c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-140cc2977731726c2a4e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9afc9dbfbc820256441b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3e3a246ab8338cb3bb8b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-832391a5ea109845409e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5d7a0efb6ec70f746a0e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-798fa7c3671212bd01f8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0f1381bc1cfeb4d44961,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d3e43ea62ed4fe035486,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-93a48fc95fdc0a5180ad,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ce3082c436dba6013767,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b94f5dabc787a86795d1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9d19d3e156a3c329e117,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fe625b08ef2efc932db7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-76120fdaeae2a1ff20c0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-840347806bcd190249f2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a6809eacf1aacfdf9864,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-51916489c11072f6bc45,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e176dcb2f37f7349fc64,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b12d9f206a90dca01074,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a10bd2b568149ad27201,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-50441245fcea9fc18430,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9e3ea4945eec6ef226d1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1e586b7bad89b27a9606,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-11420082e865f410d9e1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-dde80e41a5b280a5cbf1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7bfd9d3e0e23476f77cf,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5fdb344fefe22b649fbe,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c385708d08a209315f36,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-070bb719b2fce513e4ac,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f961a22b0071af3e7e9c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-16188496fa5680901f88,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b87c675314d5f120c9e7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-93fb3783123464108bee,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-141851e9ccb164bb2196,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-96edd9e05845a531ee17,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d10cafff488ead40d2d5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5b8f619780958c16881f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f71245533846e5c4ca31,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-98e18125f205a1fd5792,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2a21848eeb9ee6bf756b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0794df6560e2643f384e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8567d1962952e2911e1c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1ab829dcda304f39f761,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1e108e0b24d3e9bc4fea,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1663e077858294219125,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-451c9da0a6f8feeba6ff,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-abe97fe984ea3e802459,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-55b8f7d9c6982f134614,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d04590aefd53f696ff47,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-62449e6c48119bf9935c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-882eec7f0ebbc7d211e3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d3cb2744aec685f7e7b3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-195c82fe4d32eafd0d01,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-684dd9f7c3a869eae973,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6ecabc7a02e6cced48d9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1674b54761443deef1db,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f50f2220be8a491486cf,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-db8fd4b2fc51f2c7ae81,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-616e53738c8753565ac8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-18bbca98246e46c3c0c7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a79ce6c52f6c4020b0fc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-42571eef1bd37e4a623a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3ba1b5d05f06b3de13eb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a87820a49c1ee0d15b54,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-13d29bdfff4ef6d546a3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9c99f348a49e4425867f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d59e2c881fdf769a2a92,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9cd0c22a014944c585ff,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b38a74c7a4f5ad374d28,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2d85e19b37319328b87e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-48c88030574b2998a528,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b6daaeea75279902ae73,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1e936f3dd3bff838a304,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9109c4c9fb7afb75e77b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-53b3a523de91d49f0a42,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8df331861f8ff96267ba,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0a0f9663745e8f2d28a4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9b8bea6c7f97689d34fc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-385065191958beaa7806,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4c4bd7a1d431e7c11b79,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-89df9dd00d2e78fc7849,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-227cff86301c3e2d7c2a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-63aeab07f94f47193e07,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-77b02062fa277dddb7fb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-99ac9af44bb9c54c75b3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f219ba89a0ae587eafdb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-501807907cd6437624c5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5810db596b6470fb3572,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9a1045b618ab01dc66b8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-457120cedb8b5703d1b4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-13d6792019318a865818,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1533c35f8cace2292179,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-eb9d3ca3fbf9717cf243,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6ae0afc50572980efaad,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-44e46d6df621d21ace5f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-79b2200c4a7cc07006a2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d776d9fbea323bf0c04d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-53a58b68afc3d5b00342,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d0ed01bc79aedadfed3b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d795501fc1f35dc5b0b3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-17693a208093906d3583,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4551114dbeb95a579db5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ee22cf95e268df572443,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-15600e7d383075b5fbfa,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bc71bd9d5a183d0985aa,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-163e1b67ad16f4c565dd,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c7a8b45c809f9fd4a8e3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f5e398c9592980485706,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c4be8d1ca1778a713081,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-eb4c79f254106dc363d0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7c18ffd76df92dd76f18,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b409843f6849fd659290,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0b4ab8381a1aeffd3256,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-985b341cc0fd59e6ce29,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b4a6e80b6367d1f5f8f8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9d1fe0156004882f2c40,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-85b3ef08f8324282ff9e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-73a5f9458b527f404a04,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ee103e0c91fc6954313e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c387c7126bd55b11aaa6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-16b10a14111e8676d136,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5624165d85df98885022,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b284cd99b11876ad3060,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b950affd163d5187df1b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7f5ab57ea2cf935decb7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c9e1830dbf6d59fd64b1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-18e4c53cda97234f1ad6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e421623d1b89d169c9ec,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8708cc80f2e547594df7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-590bd1c8f2d5a19a711d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-12314ef71978ed72ab98,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b923ac62d024cba4dc18,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b8616d4917fc813f26d6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-93078fc2065c62586b85,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8f93cf1df4fe9955a535,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a36fcfc83f746508a280,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fa2107fd24399cd399f0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-96c17327332a6006ff88,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e7d2b9565350bab947a8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e10f80651b3d8b44d755,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-100ebdba7fbeb0db8168,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2755caf1338191d1ded4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fc12ad5547dd1b3aebe2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-777e73e0c91e311b394c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c09188e733c57a749813,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-98b15c773f90227d6409,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d204f18292588d3b9df4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-39671ed7e19459dd458e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-09a886fb0e6fed057ef3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e173e42c9ea42171303c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d8e8a656840e94b76b35,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1e492f830a95fd3a3e8a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d1d6c8c5b2e4e99f19b3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d45663552740e9e905da,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7d08abb187a2e5d2f7d5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1449d3c3a4a483143250,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a1d21cfad51f6c699990,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0f124947455a93ac6ed1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0982f82383a7e3cd407a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-06ce4f6c61f0bafbd8e6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-06fbb4757ec6e52285a6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cfc4789ca3063660e06e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b6240186bd2b5e5e43e1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7629a6f322c39bbadb77,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a23b0c666c08b2ce1c68,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7b789bff33d077b7c6b1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f9f9051d1f938458e1e1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-aa377fb5547f2485407e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6066e77a1a354acb07c4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-749639e0fe83e46d12e9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-77a46d00be79f84dfb02,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0af2e72dd430a74cf70a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d37b760fc32e97a7a4b3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fc6ac868f2de27e41ba1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e4ad060b447d670555de,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0624c6a64e8e700e37a4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1c516e3a05dffd85b424,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cae3f2634c6731bc8f72,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6b5e881d16dc95ca5ef6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-806573ec1ee64f2865a0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c16c343cf35d4f64901a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-05fff7f7336127949e59,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0cd1acae88ce2a467a6e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6716482f809aefa38560,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-43317e35c94b18ba66cb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-133fdc9f043b9ca48976,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-69e5d3182a310d0068a2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-33c109e145e0e4ec610a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-11398392e3751e428b50,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f2d90af2bf6eb1b5d122,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e0b91acfad4275a2cac4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-59a9698911512d31e64f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-379f59868d8b0cede793,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6bfe19e0490e2dba0e05,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b61f2560c0f215346bce,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-edc99a27b0db161b81b0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d60e5d2a16137a3e44fd,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9d9b955978589f6c3afc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-19c4c88e0a5462c40d5b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-660e95a79999bf8daf32,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7938fbba2a03768e4fbc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a3e0a835694ff9c40de3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2ea2c328c5d14f898d4b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f3797ea1984df1f0d24c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-93a19970cd85d361b2c5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-dcac47459a3d6291bd34,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2fb47c1a17cc1a757e37,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f05652242b52f907584d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2f9ad8cda9d86aa12124,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-12bd1a75af7e18467c6b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-76e1adad38528443bc23,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-54806cd9e0502611d9b3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-23abf43462555a39d6ba,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6bf5411229c4399c9401,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-18961e4ffe573e364903,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3c485dc51ae33a16e3cd,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5116da1de06d97b682f7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3d3c6c85bace6d1d7a48,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f704e9d0ab81547efc1b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fd8cf8c438e58572c01a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-67a0471e0905e8b03ce7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b33ecb3fdb4c28db2378,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c8bf62012a5a3c28269b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8f5e16487da8a135f8f5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-80215e3f75835d0f745a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d2d50eee2ec08d6009d8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1bb868681050acd009ff,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fd5c76b86fb54e4148a1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-de1cf6797199ccec1797,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d9e44745d7a0e654486e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fa8ba7e63e1ceca26068,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f5bbb7c826ab3dde53e0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cf49047150658cee1362,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-50f7c4880fd5133ee7b9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a51b4134bda9f751195d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-16e5b1674b2689cf95db,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c710b311ce1d4f00519c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f9b51e1a26d10b407a86,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fefcd60fc96fffb75891,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4514613fd5f02f4e6ef0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-73157c074ae0f060d4b5,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-de785fcca710e562a5e2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7e81b6dfe668891512af,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cb8fffd434540061eaeb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-19f662421be9801f44d1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6c8f187726299ab533af,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9725307425459467ebd1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bcf4a2eda1e312a456b2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a0e014d7db6636553cfe,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4e1a934ca1a62bc1e852,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f7f704abe661285cc9ea,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c7d288e29946e33f0b29,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-00bba9094448088f2f30,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6cbeaee9bd2c65390330,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-74b0802d6960ac28b6c9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-83b116318ee3e2bc158f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-759c12af98a10b391bb8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9d565ebad87512865a61,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a88ab43de979821af636,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bfcd8af3fa9a2c3997d9,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7ff9c2573c2f006c5a2e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d9b003e8c7f7cc3e5ffb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2aa6b0b91175839e1eeb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-dcdb70412da44e3766d2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c38c0db05ad179b19635,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3c57f66cb095da2f90e1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a518537c110136be9dbd,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2b3280fdf77a8cb6ec78,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bf823b41b213f9680688,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cd315f678a20e7920416,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-67c39ca7c3f0eb316e3b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-5d6e91ddea50fdf3abd1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-501fb48188f0c4c17ba0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-69d1cf58fb9dabdbab5d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-f5a8d16401bab9171779,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-241398220a4c95c51cb4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-71ba459b0797664d637c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-600533d4c60f43abc2b3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-da391d43df040b8b542d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fb4aac2f1f9f9b8fd067,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-66d42ffa786f1cd0179a,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bf9f6ff9fe96aed445cb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a5856ffbf01f7cd7e9ea,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-182dc20facb23aab383d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-64ef45bdf24dff777159,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8b5423565f49ff2fe935,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-579f5f53aae9ff3db3c8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3984a1b8dffaae02abac,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-757c2d3c213ea9a78159,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c79d9e60fd3684cf2195,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fee3fd53c5b9b175ec7e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-480e1ceb9090ad996520,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1c628fd3e37725ad1575,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-867c3a3191f75e856f59,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1e835c116dcc623cec67,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6663580f11448bcf7637,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c151bbe77a85a8be2cb0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-cab5f74b0352911749b1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9f67b6ddb70875116a42,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-063c3fbec2cd2f927869,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-514ee85ebb3f30754bc4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4cff1ee13998964c2202,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e06b1d17b753ff8d6d2e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-47047359468ecdced3a3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1f93ce5b8a3499062ae8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-59be4875ef18956c2fa8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-bb1ecbb2fa4f9b9b2153,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-417bb8fd162d6d06ea46,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c58c0b6e03d162f86e74,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4cfd2a03859199930a5d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8fce32f4e13ad4903225,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8f5452a29f20b7aeb3f8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6cd39cf13eb541c372b0,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e60944bf6b82d46a140c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1876cbf6734f88f7efe2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-e8c91534f5f0ea219e77,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8197ffce144909305a3d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-481fc355ffc90d89b5eb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c960daa55ae24e2e2f60,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2b3580aaebfd2438e93e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ed931a2c8f5ba1d72bc4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d50d67b99edffbf6675b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-00485485a3c12e0eb9a6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7cc23aeeff6add543879,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-45c5534d832235a753f1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b944205f9a5f481e1a66,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-06aec84877348eb7b119,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ed7c3eb383d03930bd96,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-23b2d6a69f938fcc2113,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-592495626a023e3051bc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b3fdde617d4061a706fc,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1f3a49e6e852f0a3f8dd,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1d79aee5114d03f6d45b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-de487122e522e8732b1d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-83ade404eec105c271f1,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b4040fbafe403ad69e2c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-d82fb5cc3582e30166fd,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ebc30f767e95e03483d2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-b9ced436349911ffe301,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-8836fb42677df78a196b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2a096e6f7e07a3349fc4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-991db06f9794811eebe8,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-85346c1323d8e204d2c4,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-fca0ce0f830778835779,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-08c20f8c8230462597e6,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-97ef6d4686daa92a86c3,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0847534e3349f99a446e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-4662133959354680e5c7,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-6f082baca6a986580d77,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9dbcbd0aac3d6ad9e9bb,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-eb433f29d26abb7110ce,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-ca1ef3c9660b34c34d4f,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-0a4393c165970de7740b,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1945f067b1e2b3c58399,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-430afd17ea20a6df32f2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1d954e2212d2fdbfab2c,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1c123e79bd6f2c820e58,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-1f57e3c5f2ef18211757,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2d1b8b2440c10948c168,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-3d33168952568652dec2,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7f9f0deff1e5d9ee9f20,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-c6a147711e96f9344653,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2be839f9440af1724e32,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-9e34e9adb7b376828fba,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-2429d7eca5abbbe40f5d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-a3924a664ba58866c1bf,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-7659803907cfedfc5a5e,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kotoba,v-78f7a90ab891aeb68c3d,PASS,,"Example is source context, not guaranteed lemma example; semantic review pending"
+Kanji,k-65e5,PASS,,Selected readings only
+Kanji,k-6708,PASS,,Selected readings only
+Kanji,k-5e74,PASS,,Selected readings only
+Kanji,k-6642,PASS,,Selected readings only
+Kanji,k-4e0a,PASS,,Selected readings only
+Kanji,k-4e0b,PASS,,Selected readings only
+Kanji,k-4e2d,PASS,,Selected readings only
+Kanji,k-5916,PASS,,Selected readings only
+Kanji,k-98df,PASS,,Selected readings only
+Kanji,k-98f2,PASS,,Selected readings only
+Kanji,k-898b,PASS,,Selected readings only
+Kanji,k-805e,PASS,,Selected readings only
+Kanji,k-99c5,PASS,,Selected readings only
+Kanji,k-5e97,PASS,,Selected readings only
+Kanji,k-75c5,PASS,,Selected readings only
+Kanji,k-9662,PASS,,Selected readings only
+Kanji,k-5b66,PASS,,Selected readings only
+Kanji,k-6821,PASS,,Selected readings only
+Kanji,k-706b,PASS,,Selected readings only
+Kanji,k-6c34,PASS,,Selected readings only
+Kanji,k-6728,PASS,,Selected readings only
+Kanji,k-91d1,PASS,,Selected readings only
+Kanji,k-571f,PASS,,Selected readings only
+Kanji,k-4eba,PASS,,Selected readings only
+Kanji,k-7537,PASS,,Selected readings only
+Kanji,k-5973,PASS,,Selected readings only
+Kanji,k-5927,PASS,,Selected readings only
+Kanji,k-5c0f,PASS,,Selected readings only
+Kanji,k-4f1a,PASS,,Selected readings only
+Kanji,k-793e,PASS,,Selected readings only
+Kanji,k-96fb,PASS,,Selected readings only
+Kanji,k-8eca,PASS,,Selected readings only
+Kanji,k-9053,PASS,,Selected readings only
+Kanji,k-5206,PASS,,Selected readings only
+Kanji,k-8cb7,PASS,,Selected readings only
+Kanji,k-58f2,PASS,,Selected readings only
+Kanji,k-884c,PASS,,Selected readings only
+Kanji,k-6765,PASS,,Selected readings only
+Kanji,k-5165,PASS,,Selected readings only
+Kanji,k-51fa,PASS,,Selected readings only
+Skills M7,s92m7-bab01,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab02,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab03,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab04,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab05,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab06,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab07,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab08,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab09,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab10,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab11,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab12,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab13,PASS,,Answer and context spot-checked separately; not native-speaker certification
+Skills M7,s92m7-bab14,PASS,,Answer and context spot-checked separately; not native-speaker certification

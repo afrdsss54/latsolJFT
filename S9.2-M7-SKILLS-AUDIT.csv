@@ -1,0 +1,101 @@
+﻿unit ID,BAB,stage,title,explicit Dokkai prompt count,listening ID,dictation target present,listening variants,all dialogue translations present,speaking ID,shadowing lines,roleplay prompt present,dialogue repeated across units (exact normalized),M7 chapter pack,audit status
+s41-f0-greetings,2,F0,Salam dan perkenalan diri,0,s43-s41-f0-greetings,True,2,True,s5-s41-f0-greetings,3,True,False,s92m7-bab02,structural only; editorial review pending
+s41-f0-numbers,3,F0,Angka 1–5 dan harga sederhana,0,s43-s41-f0-numbers,True,2,True,s5-s41-f0-numbers,2,True,False,s92m7-bab03,structural only; editorial review pending
+s41-f1-daily,6,F1,Rutinitas: を dan ます,0,s43-s41-f1-daily,True,2,True,s5-s41-f1-daily,2,True,False,s92m7-bab06,structural only; editorial review pending
+s41-f1-location,5,F1,Pergi ke tempat: に いきます,0,s43-s41-f1-location,True,2,True,s5-s41-f1-location,2,True,False,s92m7-bab05,structural only; editorial review pending
+s42-f0-05,1,F0,Hiragana vokal あいうえお,0,s43-s42-f0-05,True,2,True,s5-s42-f0-05,2,True,False,s92m7-bab01,structural only; editorial review pending
+s42-f0-06,1,F0,Hiragana baris K dan S,0,s43-s42-f0-06,True,2,True,s5-s42-f0-06,2,True,False,s92m7-bab01,structural only; editorial review pending
+s42-f0-07,1,F0,Katakana vokal アイウエオ,0,s43-s42-f0-07,True,2,True,s5-s42-f0-07,2,True,False,s92m7-bab01,structural only; editorial review pending
+s42-f0-08,3,F0,Angka dan harga dasar,0,s43-s42-f0-08,True,2,True,s5-s42-f0-08,2,True,False,s92m7-bab03,structural only; editorial review pending
+s42-f0-09,2,F0,Waktu dan salam harian,0,s43-s42-f0-09,True,2,True,s5-s42-f0-09,2,True,False,s92m7-bab02,structural only; editorial review pending
+s42-f1-10,4,F1,Memperkenalkan pekerjaan,0,s43-s42-f1-10,True,2,True,s5-s42-f1-10,2,True,False,s92m7-bab04,structural only; editorial review pending
+s42-f1-11,4,F1,Menunjuk benda これ・それ・あれ,0,s43-s42-f1-11,True,2,True,s5-s42-f1-11,2,True,False,s92m7-bab04,structural only; editorial review pending
+s42-f1-12,5,F1,Tempat ここ・そこ・あそこ,0,s43-s42-f1-12,True,2,True,s5-s42-f1-12,2,True,False,s92m7-bab05,structural only; editorial review pending
+s42-f1-13,6,F1,Waktu aktivitas dan ます,0,s43-s42-f1-13,True,2,True,s5-s42-f1-13,2,True,False,s92m7-bab06,structural only; editorial review pending
+s42-f1-14,5,F1,Pergi ke tempat dengan に,0,s43-s42-f1-14,True,2,True,s5-s42-f1-14,2,True,False,s92m7-bab05,structural only; editorial review pending
+s42-f1-15,7,F1,Belanja dan partikel を,0,s43-s42-f1-15,True,2,True,s5-s42-f1-15,2,True,False,s92m7-bab07,structural only; editorial review pending
+s42-f1-16,7,F1,Transportasi dengan で,0,s43-s42-f1-16,True,2,True,s5-s42-f1-16,2,True,False,s92m7-bab07,structural only; editorial review pending
+s42-f1-17,8,F1,Kata sifat い dan な,0,s43-s42-f1-17,True,2,True,s5-s42-f1-17,2,True,False,s92m7-bab08,structural only; editorial review pending
+s42-f2-18,9,F2,Permintaan dengan ～てください,0,s43-s42-f2-18,True,2,True,s5-s42-f2-18,2,True,False,s92m7-bab09,structural only; editorial review pending
+s42-f2-19,9,F2,Izin dengan ～てもいいですか,0,s43-s42-f2-19,True,2,True,s5-s42-f2-19,2,True,False,s92m7-bab09,structural only; editorial review pending
+s42-f2-20,10,F2,Larangan dengan ～てはいけません,0,s43-s42-f2-20,True,2,True,s5-s42-f2-20,2,True,False,s92m7-bab10,structural only; editorial review pending
+s42-f2-21,11,F2,Pengalaman dengan ～たことがあります,0,s43-s42-f2-21,True,2,True,s5-s42-f2-21,2,True,False,s92m7-bab11,structural only; editorial review pending
+s42-f2-22,11,F2,Membandingkan dengan ～より,0,s43-s42-f2-22,True,2,True,s5-s42-f2-22,2,True,False,s92m7-bab11,structural only; editorial review pending
+s82-plain,12,F3,Bentuk biasa dan pendapat,1,s82-listen-plain,True,2,True,s82-speak-plain,2,True,False,s92m7-bab12,structural only; editorial review pending
+s82-reason,12,F3,Alasan dan penjelasan,1,s82-listen-reason,True,2,True,s82-speak-reason,2,True,False,s92m7-bab12,structural only; editorial review pending
+s82-condition,13,F4,Kondisi dan petunjuk kerja,1,s82-listen-condition,True,2,True,s82-speak-condition,2,True,False,s92m7-bab13,structural only; editorial review pending
+s82-advice,13,F4,Saran dan kesehatan,1,s82-listen-advice,True,2,True,s82-speak-advice,2,True,False,s92m7-bab13,structural only; editorial review pending
+s82-plan,14,F5,Rencana dan perubahan jadwal,1,s82-listen-plan,True,2,True,s82-speak-plan,2,True,False,s92m7-bab14,structural only; editorial review pending
+s82-notice,14,F5,Memahami pengumuman dan aturan,1,s82-listen-notice,True,2,True,s82-speak-notice,2,True,False,s92m7-bab14,structural only; editorial review pending
+s92m1-dakuten,1,F0,Membedakan dakuten dan handakuten,1,s43-s92m1-dakuten,True,2,True,s5-s92m1-dakuten,2,True,False,s92m7-bab01,structural only; editorial review pending
+s92m1-youon,1,F0,Bunyi gabungan kecil ゃ・ゅ・ょ,1,s43-s92m1-youon,True,2,True,s5-s92m1-youon,2,True,False,s92m7-bab01,structural only; editorial review pending
+s92m1-sokuon-long,1,F0,Konsonan rangkap dan vokal panjang,1,s43-s92m1-sokuon-long,True,2,True,s5-s92m1-sokuon-long,2,True,False,s92m7-bab01,structural only; editorial review pending
+s92m1-origin,2,F0,Asal negara dengan から,1,s43-s92m1-origin,True,2,True,s5-s92m1-origin,2,True,False,s92m7-bab02,structural only; editorial review pending
+s92m1-negative,2,F0,Identitas negatif dengan じゃありません,1,s43-s92m1-negative,True,2,True,s5-s92m1-negative,2,True,False,s92m7-bab02,structural only; editorial review pending
+s92m1-yesno,2,F0,Pertanyaan identitas dengan か,1,s43-s92m1-yesno,True,2,True,s5-s92m1-yesno,2,True,False,s92m7-bab02,structural only; editorial review pending
+s92m1-affiliation,2,F0,Afiliasi dengan の dan も,1,s43-s92m1-affiliation,True,2,True,s5-s92m1-affiliation,2,True,False,s92m7-bab02,structural only; editorial review pending
+s92m1-tens,3,F0,Angka puluhan dan ratusan,1,s43-s92m1-tens,True,2,True,s5-s92m1-tens,2,True,False,s92m7-bab03,structural only; editorial review pending
+s92m1-counters,3,F0,Menghitung benda dengan ～つ,1,s43-s92m1-counters,True,2,True,s5-s92m1-counters,2,True,False,s92m7-bab03,structural only; editorial review pending
+s92m1-phone,3,F0,Nomor telepon dan pembacaan digit,1,s43-s92m1-phone,True,2,True,s5-s92m1-phone,2,True,False,s92m7-bab03,structural only; editorial review pending
+s92m1-clock,3,F0,Jam dan menit dasar,1,s43-s92m1-clock,True,2,True,s5-s92m1-clock,2,True,False,s92m7-bab03,structural only; editorial review pending
+s92m2-kono,4,F1,Memilih benda dengan この・その・あの,1,s43-s92m2-kono,True,2,True,s5-s92m2-kono,2,True,False,s92m7-bab04,structural only; editorial review pending
+s92m2-owner,4,F1,Kepemilikan dengan だれの,1,s43-s92m2-owner,True,2,True,s5-s92m2-owner,2,True,False,s92m7-bab04,structural only; editorial review pending
+s92m2-purpose,4,F1,Jenis benda dengan なんの,1,s43-s92m2-purpose,True,2,True,s5-s92m2-purpose,2,True,False,s92m7-bab04,structural only; editorial review pending
+s92m2-choice,4,F1,Memilih satu benda dengan どれ・どの,1,s43-s92m2-choice,True,2,True,s5-s92m2-choice,2,True,False,s92m7-bab04,structural only; editorial review pending
+s92m2-aru,5,F1,Keberadaan benda dengan あります,1,s43-s92m2-aru,True,2,True,s5-s92m2-aru,2,True,False,s92m7-bab05,structural only; editorial review pending
+s92m2-iru,5,F1,Keberadaan orang dengan います,1,s43-s92m2-iru,True,2,True,s5-s92m2-iru,2,True,False,s92m7-bab05,structural only; editorial review pending
+s92m2-position,5,F1,Posisi relatif dengan うえ・した・となり,1,s43-s92m2-position,True,2,True,s5-s92m2-position,2,True,False,s92m7-bab05,structural only; editorial review pending
+s92m2-action-de,5,F1,Lokasi aktivitas dengan で,1,s43-s92m2-action-de,True,2,True,s5-s92m2-action-de,2,True,False,s92m7-bab05,structural only; editorial review pending
+s92m2-time-ni,6,F1,Waktu tertentu dengan に,1,s43-s92m2-time-ni,True,2,True,s5-s92m2-time-ni,2,True,False,s92m7-bab06,structural only; editorial review pending
+s92m2-hours,6,F1,Rentang waktu から・まで,1,s43-s92m2-hours,True,2,True,s5-s92m2-hours,2,True,False,s92m7-bab06,structural only; editorial review pending
+s92m2-negative,6,F1,Bentuk sopan negatif ません,1,s43-s92m2-negative,True,2,True,s5-s92m2-negative,2,True,False,s92m7-bab06,structural only; editorial review pending
+s92m2-past,6,F1,Bentuk sopan lampau ました,1,s43-s92m2-past,True,2,True,s5-s92m2-past,2,True,False,s92m7-bab06,structural only; editorial review pending
+s92m2-past-negative,6,F1,Bentuk sopan lampau negatif ませんでした,1,s43-s92m2-past-negative,True,2,True,s5-s92m2-past-negative,2,True,False,s92m7-bab06,structural only; editorial review pending
+s92m2-invite,6,F1,Ajakan dengan ませんか・ましょう,1,s43-s92m2-invite,True,2,True,s5-s92m2-invite,2,True,False,s92m7-bab06,structural only; editorial review pending
+s92m3-size,7,F1,Memilih ukuran pakaian,1,s43-s92m3-size,True,2,True,s5-s92m3-size,2,True,False,s92m7-bab07,structural only; editorial review pending
+s92m3-quantity,7,F1,Memesan jumlah barang,1,s43-s92m3-quantity,True,2,True,s5-s92m3-quantity,2,True,False,s92m7-bab07,structural only; editorial review pending
+s92m3-try-on,7,F1,Mencoba pakaian dan sepatu,1,s43-s92m3-try-on,True,2,True,s5-s92m3-try-on,2,True,False,s92m7-bab07,structural only; editorial review pending
+s92m3-destination,7,F1,Tujuan dengan へ dan に,1,s43-s92m3-destination,True,2,True,s5-s92m3-destination,2,True,False,s92m7-bab07,structural only; editorial review pending
+s92m3-transfer,7,F1,"Naik, turun dan pindah kendaraan",1,s43-s92m3-transfer,True,2,True,s5-s92m3-transfer,2,True,False,s92m7-bab07,structural only; editorial review pending
+s92m3-duration,7,F1,Durasi perjalanan dan tarif,1,s43-s92m3-duration,True,2,True,s5-s92m3-duration,2,True,False,s92m7-bab07,structural only; editorial review pending
+s92m3-i-negative,8,F1,Negatif kata sifat い,1,s43-s92m3-i-negative,True,2,True,s5-s92m3-i-negative,2,True,False,s92m7-bab08,structural only; editorial review pending
+s92m3-i-past,8,F1,Lampau kata sifat い,1,s43-s92m3-i-past,True,2,True,s5-s92m3-i-past,2,True,False,s92m7-bab08,structural only; editorial review pending
+s92m3-i-past-negative,8,F1,Lampau negatif kata sifat い,1,s43-s92m3-i-past-negative,True,2,True,s5-s92m3-i-past-negative,2,True,False,s92m7-bab08,structural only; editorial review pending
+s92m3-na-forms,8,F1,Empat bentuk predikat kata sifat な,1,s43-s92m3-na-forms,True,2,True,s5-s92m3-na-forms,2,True,False,s92m7-bab08,structural only; editorial review pending
+s92m3-adjective-noun,8,F1,Menerangkan benda dengan kata sifat,1,s43-s92m3-adjective-noun,True,2,True,s5-s92m3-adjective-noun,2,True,False,s92m7-bab08,structural only; editorial review pending
+s92m3-adjective-connect,8,F1,Menggabungkan sifat dan menyatakan derajat,1,s43-s92m3-adjective-connect,True,2,True,s5-s92m3-adjective-connect,2,True,False,s92m7-bab08,structural only; editorial review pending
+s92m3-te-tt,9,F2,Bentuk て kelompok 1: う・つ・る,1,s43-s92m3-te-tt,True,2,True,s5-s92m3-te-tt,2,True,False,s92m7-bab09,structural only; editorial review pending
+s92m3-te-nde,9,F2,Bentuk て kelompok 1: む・ぶ・ぬ,1,s43-s92m3-te-nde,True,2,True,s5-s92m3-te-nde,2,True,False,s92m7-bab09,structural only; editorial review pending
+s92m3-te-iku,9,F2,Bentuk て kelompok 1: く・ぐ dan 行く,1,s43-s92m3-te-iku,True,2,True,s5-s92m3-te-iku,2,True,False,s92m7-bab09,structural only; editorial review pending
+s92m3-te-other,9,F2,"Bentuk て: す, kelompok 2, dan tidak beraturan",1,s43-s92m3-te-other,True,2,True,s5-s92m3-te-other,2,True,False,s92m7-bab09,structural only; editorial review pending
+s92m3-request-polite,9,F2,Permintaan positif dan negatif,1,s43-s92m3-request-polite,True,2,True,s5-s92m3-request-polite,2,True,False,s92m7-bab09,structural only; editorial review pending
+s92m3-permission,9,F2,Meminta dan memberi izin,1,s43-s92m3-permission,True,2,True,s5-s92m3-permission,2,True,False,s92m7-bab09,structural only; editorial review pending
+s92m4-nai-godan-a,10,F2,Bentuk ない kelompok 1: う・つ・る,1,s43-s92m4-nai-godan-a,True,2,True,s5-s92m4-nai-godan-a,2,True,False,s92m7-bab10,structural only; editorial review pending
+s92m4-nai-godan-b,10,F2,Bentuk ない kelompok 1: む・ぶ・ぬ・く・ぐ・す,1,s43-s92m4-nai-godan-b,True,2,True,s5-s92m4-nai-godan-b,2,True,False,s92m7-bab10,structural only; editorial review pending
+s92m4-nai-other,10,F2,Bentuk ない kelompok 2 dan tidak beraturan,1,s43-s92m4-nai-other,True,2,True,s5-s92m4-nai-other,2,True,False,s92m7-bab10,structural only; editorial review pending
+s92m4-negative-request,10,F2,Permintaan untuk tidak melakukan,1,s43-s92m4-negative-request,True,2,True,s5-s92m4-negative-request,2,True,False,s92m7-bab10,structural only; editorial review pending
+s92m4-obligation,10,F2,Kewajiban dengan なければなりません,1,s43-s92m4-obligation,True,2,True,s5-s92m4-obligation,2,True,False,s92m7-bab10,structural only; editorial review pending
+s92m4-no-obligation,10,F2,Tidak wajib dengan なくてもいいです,1,s43-s92m4-no-obligation,True,2,True,s5-s92m4-no-obligation,2,True,False,s92m7-bab10,structural only; editorial review pending
+s92m4-rules-deadline,10,F2,Aturan dan batas waktu,1,s43-s92m4-rules-deadline,True,2,True,s5-s92m4-rules-deadline,2,True,False,s92m7-bab10,structural only; editorial review pending
+s92m4-ta-godan-a,11,F2,Bentuk た kelompok 1: う・つ・る,1,s43-s92m4-ta-godan-a,True,2,True,s5-s92m4-ta-godan-a,2,True,False,s92m7-bab11,structural only; editorial review pending
+s92m4-ta-godan-b,11,F2,Bentuk た kelompok 1: む・ぶ・ぬ・く・ぐ・す,1,s43-s92m4-ta-godan-b,True,2,True,s5-s92m4-ta-godan-b,2,True,False,s92m7-bab11,structural only; editorial review pending
+s92m4-ta-other,11,F2,Bentuk た kelompok 2 dan tidak beraturan,1,s43-s92m4-ta-other,True,2,True,s5-s92m4-ta-other,2,True,False,s92m7-bab11,structural only; editorial review pending
+s92m4-experience-negative,11,F2,Pengalaman pernah dan belum pernah,1,s43-s92m4-experience-negative,True,2,True,s5-s92m4-experience-negative,2,True,False,s92m7-bab11,structural only; editorial review pending
+s92m4-comparison-choice,11,F2,Membandingkan dua pilihan dan superlatif,1,s43-s92m4-comparison-choice,True,2,True,s5-s92m4-comparison-choice,2,True,False,s92m7-bab11,structural only; editorial review pending
+s92m4-dictionary-godan,12,F3,Bentuk kamus kelompok 1 dari ます,1,s43-s92m4-dictionary-godan,True,2,True,s5-s92m4-dictionary-godan,2,True,False,s92m7-bab12,structural only; editorial review pending
+s92m4-dictionary-other,12,F3,Bentuk kamus kelompok 2 dan tidak beraturan,1,s43-s92m4-dictionary-other,True,2,True,s5-s92m4-dictionary-other,2,True,False,s92m7-bab12,structural only; editorial review pending
+s92m4-plain-negative-past,12,F3,Bentuk biasa negatif lampau,1,s43-s92m4-plain-negative-past,True,2,True,s5-s92m4-plain-negative-past,2,True,False,s92m7-bab12,structural only; editorial review pending
+s92m4-plain-noun-adj,12,F3,Bentuk biasa kata benda dan kata sifat,1,s43-s92m4-plain-noun-adj,True,2,True,s5-s92m4-plain-noun-adj,2,True,False,s92m7-bab12,structural only; editorial review pending
+s92m4-opinion-contrast,12,F3,Pendapat dan perkiraan dengan と思います,1,s43-s92m4-opinion-contrast,True,2,True,s5-s92m4-opinion-contrast,2,True,False,s92m7-bab12,structural only; editorial review pending
+s92m4-reason-kara-node,12,F3,Alasan dengan から dan ので,1,s43-s92m4-reason-kara-node,True,2,True,s5-s92m4-reason-kara-node,2,True,False,s92m7-bab12,structural only; editorial review pending
+s92m5-potential-godan,13,F4,Bentuk potensial: kata kerja kelompok 1,1,s43-s92m5-potential-godan,True,2,True,s5-s92m5-potential-godan,2,True,False,s92m7-bab13,structural only; editorial review pending
+s92m5-potential-ichidan,13,F4,Bentuk potensial: kelompok 2 dan tidak beraturan,1,s43-s92m5-potential-ichidan,True,2,True,s5-s92m5-potential-ichidan,2,True,False,s92m7-bab13,structural only; editorial review pending
+s92m5-tara-trouble,13,F4,Kondisi たら: tindakan saat terjadi masalah,1,s43-s92m5-tara-trouble,True,2,True,s5-s92m5-tara-trouble,2,True,False,s92m7-bab13,structural only; editorial review pending
+s92m5-temo-concession,13,F4,Kondisi ても: meskipun,1,s43-s92m5-temo-concession,True,2,True,s5-s92m5-temo-concession,2,True,False,s92m7-bab13,structural only; editorial review pending
+s92m5-advice-safety,13,F4,Saran keselamatan dengan ほうがいい,1,s43-s92m5-advice-safety,True,2,True,s5-s92m5-advice-safety,2,True,False,s92m7-bab13,structural only; editorial review pending
+s92m5-change-ability,13,F4,Perubahan kemampuan dengan ようになる,1,s43-s92m5-change-ability,True,2,True,s5-s92m5-change-ability,2,True,False,s92m7-bab13,structural only; editorial review pending
+s92m5-intention-negative,14,F5,Niat pribadi: つもり positif dan negatif,1,s43-s92m5-intention-negative,True,2,True,s5-s92m5-intention-negative,2,True,False,s92m7-bab14,structural only; editorial review pending
+s92m5-schedule-yotei,14,F5,Jadwal dan perubahan dengan よてい,1,s43-s92m5-schedule-yotei,True,2,True,s5-s92m5-schedule-yotei,2,True,False,s92m7-bab14,structural only; editorial review pending
+s92m5-public-notice,14,F5,Dokkai pengumuman fasilitas dan jam layanan,1,s43-s92m5-public-notice,True,2,True,s5-s92m5-public-notice,2,True,False,s92m7-bab14,structural only; editorial review pending
+s92m5-work-report,14,F5,Melaporkan pekerjaan dengan てあります dan ておきます,1,s43-s92m5-work-report,True,2,True,s5-s92m5-work-report,2,True,False,s92m7-bab14,structural only; editorial review pending
+s92m5-community-help,14,F5,Simulasi A2: meminta bantuan dan menindaklanjuti,1,s43-s92m5-community-help,True,2,True,s5-s92m5-community-help,2,True,False,s92m7-bab14,structural only; editorial review pending

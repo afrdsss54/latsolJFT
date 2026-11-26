@@ -119,3 +119,47 @@ Acceptance checkpoint: see S9.0-QA-REPORT.md. Browser acceptance blocked; not Pr
 
 ## S9.1
 Shared white-blue UI layer, learning navigation and chapter workspace. See S9.1-QA-REPORT.md. Browser acceptance pending.
+
+## S9.2 M1
+39 Seven-Step units and linked listening/speaking labs. BAB 01–03 now contain six units each. See S9.2-M1-QA-REPORT.md and S9.2-GAP-MATRIX.csv. Vercel-only deployment: GitHub Pages workflow removed. Browser acceptance pending.
+
+## S9.2 M2 — Basic Grammar Expansion
+53 Seven-Step units with 53 linked listening and speaking entries. BAB 04–06 expanded by 14 original draft units. See S9.2-M2-QA-REPORT.md and S9.2-GAP-MATRIX.csv. Browser E2E remains unverified; checkpoint only.
+
+### S9.2 M3 — Daily Communication Expansion
+71 Seven-Step units with linked Listening and Speaking labs. Adds 18 original draft units in BAB 07–09 (shopping, transport, i/na adjectives, te-form groups, requests and permission). Includes 70 new active-practice questions. See `S9.2-M3-QA-REPORT.md` and `S9.2-GAP-MATRIX.csv`. Development checkpoint; browser acceptance and linguistic review remain pending.
+
+### S9.2 M4 — Advanced Grammar Expansion
+18 original Seven-Step units for BAB 10–12, bringing all three linked learning catalogs to 89. See `S9.2-M4-QA-REPORT.md` and `S9.2-GAP-MATRIX.csv`. Existing CBT and storage untouched; browser acceptance and independent linguistic review pending. Development checkpoint only.
+
+### S9.2 M5 — 100-unit curriculum checkpoint
+
+Adds 11 units for BAB 13–14 (100 Seven-Step units, 100 Listening Lab items, 100 Speaking Lab items). All previous IDs retained. See `S9.2-GAP-MATRIX.csv` and `S9.2-M5-QA-REPORT.md`. Structural target reached; independent editorial review and browser E2E pending. Use Vercel, back up progress before deploying. M6–M9 remain pending.
+
+### S9.2 M6 — Unified Kotoba & Kanji
+- Buka katalog melalui setiap BAB atau Adaptive Path 2.0. 544 entri eksplisit (termasuk ungkapan dan karakter), 75 lema kata kerja dengan 6 bentuk kana, 40 kanji dasar. Pencarian, filter, latihan, SRS, mastery per kartu. Bukti M6 terpisah dari mastery lama. Data disimpan per profil melalui Unified Storage.
+- Rebuild katalog dengan `python tools/build_lexicon.py` dari root; kemudian jalankan `node tests/test_s92m6.js`. Lihat QA, cakupan sumber, audit leksikal dan gap matrix untuk batasan. Bukan kamus komprehensif atau verifikasi editorial eksternal. Browser E2E belum lulus.
+
+### S9.2 M7 — Language Skills Integration
+New supplementary Language Skills Lab (14 BAB packs, 56 objective review cards + 14 self-practice speaking cards), available from BAB and Adaptive Path 2.0. Japanese device TTS required for listening, dictation and shadowing. No pronunciation score. Separate per-profile review state via Unified Storage. See S9.2-M7-QA-REPORT.md and S9.2-M7-SKILLS-AUDIT.csv. 100 legacy Seven-Step units retained. Browser E2E pending.
+
+### S9.2 M8 — Adaptive Path 3.0
+Open **Rencana personal → Adaptive Path 3.0** (or the sidebar's Rencana personal). Use the due/weak review filters, daily budget, last opened target and per-source progress dashboard. V2 remains accessible. Explicit unit prerequisites are required; chapter prerequisite order is advisory. Planner preferences and last target use a new profile-specific Unified Storage record; old progress remains unchanged. M8 does not merge CBT-derived Smart Learning reviews, count semantic duplicates as one score, assess pronunciation, or track actual daily time. See `S9.2-M8-PROGRESS-AUDIT.md`, `S9.2-M8-QA-REPORT.md`, and gap matrix. Node regression 46/46; browser E2E blocked. Back up before deployment; M9 final QA remains pending.
+
+### S9.2 M9 — Mega Final Clean Edition
+Final S9.2 development checkpoint: 100 Seven-Step units, 100 Academy modules, 544 Kotoba entries, 75 verb lemmas, 40 Kanji, 100 Listening, 100 Speaking, 14 M7 packs and Adaptive V3 retained. See `S9.2-FINAL-QA-REPORT.md`, `S9.2-DEPLOYMENT-CHECKLIST.md`, `S9.2-GAP-MATRIX.csv` and `S9.2-M9-CONTENT-AUDIT.csv`. Re-run `python tools/audit_s92m9.py`, `python validate_bank.py` and each `node tests/test_*.js` script individually from the project root. Node regression 47/47; browser E2E blocked. Not Production Stable; test Vercel preview and save backups first.
+
+### S9.3 M0 — Interactive Learning 3.0 (pilot)
+Open from BAB or Adaptive Path 3.0. Fifteen pilot exercises cover five modes, with explicit answer variants, feedback, independent per-card spaced review and profile-specific Unified Storage. Existing learning and CBT remain available. See `S9.3-M0-QA-REPORT.md` for actual checks and limitations. Browser E2E remains pending; not Production Stable.
+
+### S9.3 Mega M1–M9
+264 kartu Interactive Learning 3.0 dalam tujuh mode, termasuk 101 Sentence Builder, remedial, dictation TTS, satu skenario Kaiwa bercabang, dan akses latihan BAB dari semua unit Seven-Step. Lihat `S9.3-FINAL-QA-REPORT.md` dan `S9.3-EXERCISE-COVERAGE.csv`. 49 skrip regresi lulus; browser E2E belum terverifikasi. Development checkpoint.
+
+## S9.4 Mega Smart Examination 2.0
+Open BAB 02–14 → Smart Examination 2.0 for 390 final and 156 practice questions. The old evaluation remains separate; existing CBT and progress are retained. See `S9.4-FINAL-QA-REPORT.md` and `S9.4-EXAM-COVERAGE.csv`. Development checkpoint; browser E2E and independent linguistic review are pending.
+
+## S9.5 Immersive Japanese Lab
+Open any BAB → Immersive Japanese Lab, or Adaptive Path 3.0 → Immersive Japanese Lab. Eight fictional scenarios, 48 cards including 16 goal-dependent follow-up responses. Speaking is self-practice without pronunciation scoring. See `S9.5-FINAL-QA-REPORT.md` and `S9.5-SCENARIO-COVERAGE.csv`. Browser E2E and independent linguistic review are pending.
+
+## S9.6 Curriculum Alignment
+Open Jalur Belajar → Audit Kurikulum S9.6. New evidence ledger, candidate chapter mapping, inventory and gap analyzer distinguish verified reference facts from provisional thematic links. No official equivalence, new mastery score, mandatory prerequisite change or CBT scoring change. See S9.6-FINAL-QA-REPORT.md, S9.6-EVIDENCE-GAP.csv and S9.6-INVENTORY.csv. Browser acceptance remains pending.

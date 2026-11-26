@@ -1,0 +1,10 @@
+Scenario,BAB,Stage,Dokkai,Choukai,Dictation,KaiwaRoutes,SpeakingSelfPractice,TotalCards
+Housing,5,F1,1,1,1,2,1,6
+Shopping,7,F1,1,1,1,2,1,6
+Restaurant,9,F2,1,1,1,2,1,6
+Transit,7,F1,1,1,1,2,1,6
+Workplace,12,F3,1,1,1,2,1,6
+Clinic,13,F4,1,1,1,2,1,6
+Administration,14,F5,1,1,1,2,1,6
+Emergency,13,F4,1,1,1,2,1,6
+TOTAL,,,8,8,8,16,8,48
