@@ -112,3 +112,10 @@ Adaptive Path lama → Adaptive Path 2.0. See S8.4.4-QA-REPORT.md.
 
 ## S8.4.5
 Stabilization checkpoint; see S8.4.5-QA-REPORT.md. Browser E2E blocked; not production stable.
+
+## S9.0
+Acceptance checkpoint: see S9.0-QA-REPORT.md. Browser acceptance blocked; not Production Stable.
+
+
+## S9.1
+Shared white-blue UI layer, learning navigation and chapter workspace. See S9.1-QA-REPORT.md. Browser acceptance pending.
