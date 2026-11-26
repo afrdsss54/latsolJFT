@@ -1,0 +1,674 @@
+{
+  "schemaVersion": "s4.0.1",
+  "disclaimer": "Original high-level topic index; not reproduced textbook material; lesson alignment requires checking exact edition/table of contents. F-stage placement is pedagogical proposal, not official CEFR equivalence.",
+  "lessons": [
+    {
+      "id": "minna-01",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 1,
+      "suggestedStage": "F0",
+      "topicKeywords": [
+        "introductions",
+        "copula",
+        "questions"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-02",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 2,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "demonstratives",
+        "possessives"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-03",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 3,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "places",
+        "location",
+        "shopping"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-04",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 4,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "time",
+        "verb-polite",
+        "daily-routine"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-05",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 5,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "movement",
+        "transport",
+        "companions"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-06",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 6,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "actions",
+        "objects",
+        "instruments"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-07",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 7,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "giving",
+        "receiving",
+        "language"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-08",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 8,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "adjectives",
+        "description"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-09",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 9,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "likes",
+        "ability",
+        "reasons"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-10",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 10,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "existence",
+        "location",
+        "people-objects"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-11",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 11,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "counters",
+        "quantity",
+        "frequency"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-12",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 12,
+      "suggestedStage": "F1",
+      "topicKeywords": [
+        "past-adjectives",
+        "comparison"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-13",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 13,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "desire",
+        "purpose-of-movement"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-14",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 14,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "te-form",
+        "requests",
+        "ongoing-action"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-15",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 15,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "permission",
+        "prohibition"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-16",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 16,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "te-form-sequences",
+        "adjective-linking"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-17",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 17,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "nai-form",
+        "obligation",
+        "unnecessary-action"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-18",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 18,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "dictionary-form",
+        "ability",
+        "hobbies"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-19",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 19,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "ta-form",
+        "experience",
+        "enumeration"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-20",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 20,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "plain-form",
+        "quotation",
+        "thoughts"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-21",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 21,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "noun-modification",
+        "relative-clauses"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-22",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 22,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "time-clauses",
+        "conditional-toki"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-23",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 23,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "conditional-to",
+        "directions"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-24",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 24,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "giving-receiving-actions",
+        "assistance"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-25",
+      "reference": "Minna no Nihongo Shokyu I",
+      "lessonNumber": 25,
+      "suggestedStage": "F2",
+      "topicKeywords": [
+        "conditional-tara",
+        "concession"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-26",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 26,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "explanations-n-desu",
+        "requests"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-27",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 27,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "potential-form",
+        "ability"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-28",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 28,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "simultaneous-actions",
+        "nagara",
+        "habits"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-29",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 29,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "state-result",
+        "te-imasu"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-30",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 30,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "preparation",
+        "te-oku",
+        "completion"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-31",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 31,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "volitional-form",
+        "plans"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-32",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 32,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "advice",
+        "intention",
+        "plans"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-33",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 33,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "imperative",
+        "prohibitive",
+        "signs"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-34",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 34,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "quoting",
+        "instructions",
+        "meaning"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-35",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 35,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "conditional-ba",
+        "conditional-nara"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-36",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 36,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "purpose",
+        "you-ni",
+        "change"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-37",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 37,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "passive-form"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-38",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 38,
+      "suggestedStage": "F3",
+      "topicKeywords": [
+        "nominalization",
+        "no",
+        "emphasis"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-39",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 39,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "causes",
+        "reasons",
+        "consequences"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-40",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 40,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "try-action",
+        "preparation"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-41",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 41,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "giving-receiving",
+        "benefactive"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-42",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 42,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "purpose",
+        "intended-use"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-43",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 43,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "appearance",
+        "sou-desu"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-44",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 44,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "conjecture",
+        "hearsay"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-45",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 45,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "case",
+        "baai",
+        "concession"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-46",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 46,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "causative-form"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-47",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 47,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "causative-passive",
+        "requests"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-48",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 48,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "honorific-language"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-49",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 49,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "humble-language"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    },
+    {
+      "id": "minna-50",
+      "reference": "Minna no Nihongo Shokyu II",
+      "lessonNumber": 50,
+      "suggestedStage": "F4",
+      "topicKeywords": [
+        "polite-service-expressions"
+      ],
+      "mappingStatus": "provisional-topic-level",
+      "contentUse": "original explanations and exercises only",
+      "verifiedAgainstEdition": false
+    }
+  ]
+}

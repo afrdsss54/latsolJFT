@@ -1,0 +1,11017 @@
+window.JFT_SEVEN_STEP_UNITS = [
+  {
+    "id": "s41-f0-greetings",
+    "stage": "F0",
+    "title": "Salam dan perkenalan diri",
+    "canDo": "Menyapa dan memperkenalkan nama dengan sopan.",
+    "vocab": [
+      [
+        "こんにちは",
+        "konnichiwa",
+        "Halo / selamat siang"
+      ],
+      [
+        "はじめまして",
+        "hajimemashite",
+        "Salam kenal"
+      ],
+      [
+        "よろしく おねがいします",
+        "yoroshiku onegaishimasu",
+        "Senang berkenalan dengan Anda"
+      ]
+    ],
+    "grammar": {
+      "pattern": "わたしは [nama] です。",
+      "explanation": "は menandai topik dan dibaca wa. です memberi nuansa sopan. Untuk memperkenalkan nama, isi bagian [nama] dengan nama Anda.",
+      "example": "わたしは ミラ です。",
+      "romaji": "Watashi wa Mira desu.",
+      "meaning": "Saya Mira.",
+      "commonMistake": "Partikel は pada pola ini dibaca wa, bukan ha."
+    },
+    "dialogue": [
+      "こんにちは。はじめまして。",
+      "わたしは ミラ です。",
+      "よろしく おねがいします。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Siapa yang sedang memperkenalkan diri?",
+      "options": [
+        "ミラ",
+        "タロウ",
+        "ユキ"
+      ],
+      "answer": 0,
+      "explanation": "Dalam dialog terdengar わたしは ミラ です。"
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih ungkapan untuk “salam kenal”.",
+        "options": [
+          "はじめまして",
+          "おやすみなさい",
+          "さようなら"
+        ],
+        "answer": 0,
+        "explanation": "はじめまして dipakai ketika pertama kali bertemu."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk です.",
+        "answers": [
+          "desu"
+        ],
+        "explanation": "です ditulis desu; bunyi u sering melemah dalam percakapan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dalam わたしは, は dibaca ...",
+        "options": [
+          "ha",
+          "wa",
+          "wo"
+        ],
+        "answer": 1,
+        "explanation": "Partikel topik は dibaca wa."
+      }
+    ],
+    "roleplay": "Ucapkan salam, sebutkan nama Anda, lalu tutup dengan よろしく おねがいします。",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s41-f0-numbers",
+    "stage": "F0",
+    "title": "Angka 1–5 dan harga sederhana",
+    "canDo": "Mengenali angka 1–5 ketika mendengar dan membaca.",
+    "vocab": [
+      [
+        "いち",
+        "ichi",
+        "Satu"
+      ],
+      [
+        "に",
+        "ni",
+        "Dua"
+      ],
+      [
+        "さん",
+        "san",
+        "Tiga"
+      ],
+      [
+        "よん",
+        "yon",
+        "Empat"
+      ],
+      [
+        "ご",
+        "go",
+        "Lima"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[angka] です。",
+      "explanation": "Angka dapat diucapkan sebagai jawaban singkat. Untuk harga yang lengkap, tambahkan えん setelah angka.",
+      "example": "ごえん です。",
+      "romaji": "Go-en desu.",
+      "meaning": "Harganya lima yen.",
+      "commonMistake": "Untuk empat, よん sering lebih mudah dipakai bagi pemula daripada し."
+    },
+    "dialogue": [
+      "いくつ ですか。",
+      "ご です。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Angka berapa yang disebut dalam jawaban?",
+      "options": [
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "ご berarti lima."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Mana yang berarti tiga?",
+        "options": [
+          "に",
+          "さん",
+          "ご"
+        ],
+        "answer": 1,
+        "explanation": "さん adalah tiga."
+      },
+      {
+        "type": "input",
+        "prompt": "Tulis romaji dari よん.",
+        "answers": [
+          "yon"
+        ],
+        "explanation": "よん dibaca yon."
+      },
+      {
+        "type": "choice",
+        "prompt": "ご berarti ...",
+        "options": [
+          "lima",
+          "dua",
+          "empat"
+        ],
+        "answer": 0,
+        "explanation": "ご berarti lima."
+      }
+    ],
+    "roleplay": "Hitung いち、に、さん、よん、ご dengan suara lantang.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s41-f1-daily",
+    "stage": "F1",
+    "title": "Rutinitas: を dan ます",
+    "canDo": "Menyebutkan aktivitas sederhana secara sopan.",
+    "vocab": [
+      [
+        "みず",
+        "mizu",
+        "Air"
+      ],
+      [
+        "のみます",
+        "nomimasu",
+        "Minum"
+      ],
+      [
+        "ごはん",
+        "gohan",
+        "Nasi / makanan"
+      ],
+      [
+        "たべます",
+        "tabemasu",
+        "Makan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[objek] を [kata kerja ます]。",
+      "explanation": "を menandai objek yang dikenai tindakan dan dibaca o. Kata kerja bentuk ます menyatakan tindakan secara sopan.",
+      "example": "みずを のみます。",
+      "romaji": "Mizu o nomimasu.",
+      "meaning": "Saya minum air.",
+      "commonMistake": "を adalah penanda objek; jangan gunakan は secara otomatis untuk setiap kata benda."
+    },
+    "dialogue": [
+      "なにを のみますか。",
+      "みずを のみます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang diminum dalam dialog?",
+      "options": [
+        "Air",
+        "Teh",
+        "Kopi"
+      ],
+      "answer": 0,
+      "explanation": "みずを のみます berarti minum air."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Partikel objek dalam みずを のみます adalah ...",
+        "options": [
+          "は",
+          "を",
+          "に"
+        ],
+        "answer": 1,
+        "explanation": "を menandai objek."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk のみます.",
+        "answers": [
+          "nomimasu"
+        ],
+        "explanation": "のみます dibaca nomimasu."
+      },
+      {
+        "type": "choice",
+        "prompt": "Arti ごはんを たべます adalah ...",
+        "options": [
+          "Makan nasi",
+          "Minum air",
+          "Pergi sekolah"
+        ],
+        "answer": 0,
+        "explanation": "ごはん = nasi/makanan, たべます = makan."
+      }
+    ],
+    "roleplay": "Ucapkan dua aktivitas Anda menggunakan ～を ～ます.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s41-f1-location",
+    "stage": "F1",
+    "title": "Pergi ke tempat: に いきます",
+    "canDo": "Mengatakan tujuan perjalanan sederhana.",
+    "vocab": [
+      [
+        "がっこう",
+        "gakkou",
+        "Sekolah"
+      ],
+      [
+        "えき",
+        "eki",
+        "Stasiun"
+      ],
+      [
+        "いきます",
+        "ikimasu",
+        "Pergi"
+      ],
+      [
+        "あした",
+        "ashita",
+        "Besok"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[tempat] に いきます。",
+      "explanation": "に dapat menandai tujuan gerakan. Dalam konteks tujuan perjalanan, へ juga sering digunakan.",
+      "example": "あした えきに いきます。",
+      "romaji": "Ashita eki ni ikimasu.",
+      "meaning": "Besok saya pergi ke stasiun.",
+      "commonMistake": "に di sini menandai tujuan, bukan objek langsung."
+    },
+    "dialogue": [
+      "あした どこに いきますか。",
+      "えきに いきます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Ke mana pembicara pergi?",
+      "options": [
+        "Sekolah",
+        "Stasiun",
+        "Rumah"
+      ],
+      "answer": 1,
+      "explanation": "えきに いきます berarti pergi ke stasiun."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "えき artinya ...",
+        "options": [
+          "Stasiun",
+          "Sekolah",
+          "Rumah"
+        ],
+        "answer": 0,
+        "explanation": "えき adalah stasiun."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk あした.",
+        "answers": [
+          "ashita"
+        ],
+        "explanation": "あした dibaca ashita."
+      },
+      {
+        "type": "choice",
+        "prompt": "Partikel yang menandai tujuan dalam えきに いきます adalah ...",
+        "options": [
+          "を",
+          "で",
+          "に"
+        ],
+        "answer": 2,
+        "explanation": "に menandai tujuan perjalanan."
+      }
+    ],
+    "roleplay": "Sampaikan rencana besok dengan pola あした [tempat] に いきます。",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s42-f0-05",
+    "stage": "F0",
+    "title": "Hiragana vokal あいうえお",
+    "canDo": "Mengenali lima bunyi vokal hiragana.",
+    "vocab": [
+      [
+        "あ",
+        "a",
+        "a"
+      ],
+      [
+        "い",
+        "i",
+        "i"
+      ],
+      [
+        "う",
+        "u",
+        "u"
+      ],
+      [
+        "え",
+        "e",
+        "e"
+      ],
+      [
+        "お",
+        "o",
+        "o"
+      ]
+    ],
+    "grammar": {
+      "pattern": "あ・い・う・え・お",
+      "explanation": "Setiap kana mewakili satu mora; latih bentuk dan bunyinya secara berurutan.",
+      "example": "あ い う え お",
+      "romaji": "a i u e o",
+      "meaning": "Lima vokal hiragana",
+      "commonMistake": "Jangan mengira お dibaca u."
+    },
+    "dialogue": [
+      "あ、い、う、え、お。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kana mana yang dibaca e?",
+      "options": [
+        "あ",
+        "え",
+        "お"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: あ、い、う、え、お。 Artinya: Lima vokal hiragana"
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: あ い う え お",
+        "options": [
+          "Lima vokal hiragana",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: あ い う え お berarti Lima vokal hiragana"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "あ・い・う・え・お",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: あ・い・う・え・お. Setiap kana mewakili satu mora; latih bentuk dan bunyinya secara berurutan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「あ」 (huruf kecil).",
+        "answers": [
+          "a"
+        ],
+        "explanation": "あ dibaca a."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「あ い う え お」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f0-06",
+    "stage": "F0",
+    "title": "Hiragana baris K dan S",
+    "canDo": "Mengenali kana かきくけこ dan さしすせそ.",
+    "vocab": [
+      [
+        "か",
+        "ka",
+        "ka"
+      ],
+      [
+        "き",
+        "ki",
+        "ki"
+      ],
+      [
+        "く",
+        "ku",
+        "ku"
+      ],
+      [
+        "し",
+        "shi",
+        "shi"
+      ],
+      [
+        "す",
+        "su",
+        "su"
+      ]
+    ],
+    "grammar": {
+      "pattern": "か・き・く・け・こ / さ・し・す・せ・そ",
+      "explanation": "Perhatikan し dibaca shi, bukan si dalam romanisasi Hepburn.",
+      "example": "かき くけこ。さし すせそ。",
+      "romaji": "kaki kukeko. sashi suseso.",
+      "meaning": "Latihan bunyi baris K dan S",
+      "commonMistake": "Jangan membaca し sebagai sa."
+    },
+    "dialogue": [
+      "か、き、く、け、こ。し、す。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kana yang dibaca shi?",
+      "options": [
+        "す",
+        "し",
+        "き"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: か、き、く、け、こ。し、す。 Artinya: Latihan bunyi baris K dan S"
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: かき くけこ。さし すせそ。",
+        "options": [
+          "Latihan bunyi baris K dan S",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: かき くけこ。さし すせそ。 berarti Latihan bunyi baris K dan S"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "か・き・く・け・こ / さ・し・す・せ・そ",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: か・き・く・け・こ / さ・し・す・せ・そ. Perhatikan し dibaca shi, bukan si dalam romanisasi Hepburn."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「か」 (huruf kecil).",
+        "answers": [
+          "ka"
+        ],
+        "explanation": "か dibaca ka."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「かき くけこ。さし すせそ。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f0-07",
+    "stage": "F0",
+    "title": "Katakana vokal アイウエオ",
+    "canDo": "Mengenali lima vokal katakana untuk kata serapan.",
+    "vocab": [
+      [
+        "ア",
+        "a",
+        "a"
+      ],
+      [
+        "イ",
+        "i",
+        "i"
+      ],
+      [
+        "ウ",
+        "u",
+        "u"
+      ],
+      [
+        "エ",
+        "e",
+        "e"
+      ],
+      [
+        "オ",
+        "o",
+        "o"
+      ]
+    ],
+    "grammar": {
+      "pattern": "ア・イ・ウ・エ・オ",
+      "explanation": "Katakana dipakai antara lain untuk kata serapan; bunyinya setara dengan hiragana.",
+      "example": "ア イ ウ エ オ",
+      "romaji": "a i u e o",
+      "meaning": "Lima vokal katakana",
+      "commonMistake": "Jangan mencampur ア dengan あ sebagai bentuk tulisan yang sama."
+    },
+    "dialogue": [
+      "ア、イ、ウ、エ、オ。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Katakana yang dibaca i?",
+      "options": [
+        "イ",
+        "エ",
+        "ア"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: ア、イ、ウ、エ、オ。 Artinya: Lima vokal katakana"
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: ア イ ウ エ オ",
+        "options": [
+          "Lima vokal katakana",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: ア イ ウ エ オ berarti Lima vokal katakana"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "ア・イ・ウ・エ・オ",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: ア・イ・ウ・エ・オ. Katakana dipakai antara lain untuk kata serapan; bunyinya setara dengan hiragana."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「ア」 (huruf kecil).",
+        "answers": [
+          "a"
+        ],
+        "explanation": "ア dibaca a."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「ア イ ウ エ オ」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f0-08",
+    "stage": "F0",
+    "title": "Angka dan harga dasar",
+    "canDo": "Menyebut angka sederhana dan menanyakan harga.",
+    "vocab": [
+      [
+        "いち",
+        "ichi",
+        "satu"
+      ],
+      [
+        "に",
+        "ni",
+        "dua"
+      ],
+      [
+        "さん",
+        "san",
+        "tiga"
+      ],
+      [
+        "ひゃく",
+        "hyaku",
+        "seratus"
+      ],
+      [
+        "えん",
+        "en",
+        "yen"
+      ]
+    ],
+    "grammar": {
+      "pattern": "いくらですか",
+      "explanation": "いくらですか menanyakan harga. Nominal biasanya diikuti えん.",
+      "example": "これは ひゃくえんです。",
+      "romaji": "Kore wa hyaku en desu.",
+      "meaning": "Ini seratus yen.",
+      "commonMistake": "Jangan gunakan いくつ untuk bertanya harga dalam konteks ini."
+    },
+    "dialogue": [
+      "これは いくらですか。ひゃくえんです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Berapa harga barang?",
+      "options": [
+        "100 yen",
+        "200 yen",
+        "300 yen"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: これは いくらですか。ひゃくえんです。 Artinya: Ini seratus yen."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: これは ひゃくえんです。",
+        "options": [
+          "Ini seratus yen.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: これは ひゃくえんです。 berarti Ini seratus yen."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "いくらですか",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: いくらですか. いくらですか menanyakan harga. Nominal biasanya diikuti えん."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「いち」 (huruf kecil).",
+        "answers": [
+          "ichi"
+        ],
+        "explanation": "いち dibaca ichi."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「これは ひゃくえんです。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f0-09",
+    "stage": "F0",
+    "title": "Waktu dan salam harian",
+    "canDo": "Memilih salam sesuai waktu.",
+    "vocab": [
+      [
+        "おはようございます",
+        "ohayou gozaimasu",
+        "selamat pagi (sopan)"
+      ],
+      [
+        "こんにちは",
+        "konnichiwa",
+        "selamat siang / halo"
+      ],
+      [
+        "こんばんは",
+        "konbanwa",
+        "selamat malam (salam)"
+      ],
+      [
+        "おやすみなさい",
+        "oyasuminasai",
+        "selamat tidur"
+      ],
+      [
+        "ありがとう",
+        "arigatou",
+        "terima kasih"
+      ]
+    ],
+    "grammar": {
+      "pattern": "あいさつ",
+      "explanation": "Salam dipilih menurut situasi. こんばんは digunakan saat menyapa pada malam hari.",
+      "example": "こんばんは。",
+      "romaji": "Konbanwa.",
+      "meaning": "Selamat malam.",
+      "commonMistake": "おやすみなさい biasanya saat berpisah untuk tidur, bukan menyapa."
+    },
+    "dialogue": [
+      "こんばんは。おげんきですか。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Salam untuk menyapa pada malam hari?",
+      "options": [
+        "おはようございます",
+        "こんばんは",
+        "おやすみなさい"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: こんばんは。おげんきですか。 Artinya: Selamat malam."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: こんばんは。",
+        "options": [
+          "Selamat malam.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: こんばんは。 berarti Selamat malam."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "あいさつ",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: あいさつ. Salam dipilih menurut situasi. こんばんは digunakan saat menyapa pada malam hari."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「おはようございます」 (huruf kecil).",
+        "answers": [
+          "ohayou gozaimasu"
+        ],
+        "explanation": "おはようございます dibaca ohayou gozaimasu."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「こんばんは。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-10",
+    "stage": "F1",
+    "title": "Memperkenalkan pekerjaan",
+    "canDo": "Menyebut pekerjaan dengan kalimat sopan.",
+    "vocab": [
+      [
+        "がくせい",
+        "gakusei",
+        "pelajar"
+      ],
+      [
+        "せんせい",
+        "sensei",
+        "guru"
+      ],
+      [
+        "かいしゃいん",
+        "kaishain",
+        "pegawai perusahaan"
+      ],
+      [
+        "しごと",
+        "shigoto",
+        "pekerjaan"
+      ],
+      [
+        "わたし",
+        "watashi",
+        "saya"
+      ]
+    ],
+    "grammar": {
+      "pattern": "A は B です",
+      "explanation": "は menandai topik, です menyatakan informasi secara sopan.",
+      "example": "わたしは がくせいです。",
+      "romaji": "Watashi wa gakusei desu.",
+      "meaning": "Saya pelajar.",
+      "commonMistake": "Tidak perlu menambahkan です dua kali."
+    },
+    "dialogue": [
+      "わたしは がくせいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa pekerjaan pembicara?",
+      "options": [
+        "pelajar",
+        "guru",
+        "dokter"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: わたしは がくせいです。 Artinya: Saya pelajar."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: わたしは がくせいです。",
+        "options": [
+          "Saya pelajar.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: わたしは がくせいです。 berarti Saya pelajar."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "A は B です",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: A は B です. は menandai topik, です menyatakan informasi secara sopan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「がくせい」 (huruf kecil).",
+        "answers": [
+          "gakusei"
+        ],
+        "explanation": "がくせい dibaca gakusei."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「わたしは がくせいです。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-11",
+    "stage": "F1",
+    "title": "Menunjuk benda これ・それ・あれ",
+    "canDo": "Membedakan benda dekat pembicara, lawan bicara, dan jauh.",
+    "vocab": [
+      [
+        "これ",
+        "kore",
+        "ini"
+      ],
+      [
+        "それ",
+        "sore",
+        "itu (dekat lawan bicara)"
+      ],
+      [
+        "あれ",
+        "are",
+        "itu (jauh)"
+      ],
+      [
+        "ほん",
+        "hon",
+        "buku"
+      ],
+      [
+        "かばん",
+        "kaban",
+        "tas"
+      ]
+    ],
+    "grammar": {
+      "pattern": "これは N です",
+      "explanation": "これ digunakan untuk benda dekat pembicara; それ dekat lawan bicara; あれ jauh dari keduanya.",
+      "example": "これは ほんです。",
+      "romaji": "Kore wa hon desu.",
+      "meaning": "Ini buku.",
+      "commonMistake": "Jangan gunakan これ langsung sebelum nomina; gunakan この + nomina."
+    },
+    "dialogue": [
+      "これは ほんです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang ditunjuk?",
+      "options": [
+        "buku",
+        "tas",
+        "sepatu"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: これは ほんです。 Artinya: Ini buku."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: これは ほんです。",
+        "options": [
+          "Ini buku.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: これは ほんです。 berarti Ini buku."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "これは N です",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: これは N です. これ digunakan untuk benda dekat pembicara; それ dekat lawan bicara; あれ jauh dari keduanya."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「これ」 (huruf kecil).",
+        "answers": [
+          "kore"
+        ],
+        "explanation": "これ dibaca kore."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「これは ほんです。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-12",
+    "stage": "F1",
+    "title": "Tempat ここ・そこ・あそこ",
+    "canDo": "Menunjukkan lokasi sederhana.",
+    "vocab": [
+      [
+        "ここ",
+        "koko",
+        "di sini"
+      ],
+      [
+        "そこ",
+        "soko",
+        "di situ"
+      ],
+      [
+        "あそこ",
+        "asoko",
+        "di sana"
+      ],
+      [
+        "えき",
+        "eki",
+        "stasiun"
+      ],
+      [
+        "トイレ",
+        "toire",
+        "toilet"
+      ]
+    ],
+    "grammar": {
+      "pattern": "N は どこですか",
+      "explanation": "どこですか dipakai untuk menanyakan lokasi. Bacalah contoh perlahan, lalu buat satu kalimat lain menggunakan pola ini.",
+      "example": "トイレは どこですか。",
+      "romaji": "Toire wa doko desu ka.",
+      "meaning": "Di mana toilet?",
+      "commonMistake": "どこ menanyakan tempat, bukan waktu."
+    },
+    "dialogue": [
+      "トイレは あそこです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana toilet?",
+      "options": [
+        "di sini",
+        "di situ",
+        "di sana"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: トイレは あそこです。 Artinya: Di mana toilet?"
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: トイレは どこですか。",
+        "options": [
+          "Di mana toilet?",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: トイレは どこですか。 berarti Di mana toilet?"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "N は どこですか",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: N は どこですか. どこですか dipakai untuk menanyakan lokasi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「ここ」 (huruf kecil).",
+        "answers": [
+          "koko"
+        ],
+        "explanation": "ここ dibaca koko."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「トイレは どこですか。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-13",
+    "stage": "F1",
+    "title": "Waktu aktivitas dan ます",
+    "canDo": "Menceritakan rutinitas menggunakan kata kerja sopan.",
+    "vocab": [
+      [
+        "おきます",
+        "okimasu",
+        "bangun"
+      ],
+      [
+        "ねます",
+        "nemasu",
+        "tidur"
+      ],
+      [
+        "はたらきます",
+        "hatarakimasu",
+        "bekerja"
+      ],
+      [
+        "べんきょうします",
+        "benkyou shimasu",
+        "belajar"
+      ],
+      [
+        "まいにち",
+        "mainichi",
+        "setiap hari"
+      ]
+    ],
+    "grammar": {
+      "pattern": "まいにち + Vます",
+      "explanation": "Bentuk ます dipakai untuk menyatakan tindakan dengan sopan; まいにち menunjukkan kebiasaan.",
+      "example": "まいにち べんきょうします。",
+      "romaji": "Mainichi benkyou shimasu.",
+      "meaning": "Saya belajar setiap hari.",
+      "commonMistake": "Jangan mengira ます selalu berarti masa depan."
+    },
+    "dialogue": [
+      "まいにち べんきょうします。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang dilakukan setiap hari?",
+      "options": [
+        "bekerja",
+        "belajar",
+        "tidur"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: まいにち べんきょうします。 Artinya: Saya belajar setiap hari."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: まいにち べんきょうします。",
+        "options": [
+          "Saya belajar setiap hari.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: まいにち べんきょうします。 berarti Saya belajar setiap hari."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "まいにち + Vます",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: まいにち + Vます. Bentuk ます dipakai untuk menyatakan tindakan dengan sopan; まいにち menunjukkan kebiasaan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「おきます」 (huruf kecil).",
+        "answers": [
+          "okimasu"
+        ],
+        "explanation": "おきます dibaca okimasu."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「まいにち べんきょうします。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-14",
+    "stage": "F1",
+    "title": "Pergi ke tempat dengan に",
+    "canDo": "Menyatakan tujuan perjalanan.",
+    "vocab": [
+      [
+        "いきます",
+        "ikimasu",
+        "pergi"
+      ],
+      [
+        "きます",
+        "kimasu",
+        "datang"
+      ],
+      [
+        "かえります",
+        "kaerimasu",
+        "pulang"
+      ],
+      [
+        "がっこう",
+        "gakkou",
+        "sekolah"
+      ],
+      [
+        "えき",
+        "eki",
+        "stasiun"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Tempat に いきます",
+      "explanation": "に menandai tujuan kedatangan/perjalanan pada pola ini.",
+      "example": "がっこうに いきます。",
+      "romaji": "Gakkou ni ikimasu.",
+      "meaning": "Pergi ke sekolah.",
+      "commonMistake": "に pada tujuan perjalanan berbeda dari で yang menandai tempat kegiatan."
+    },
+    "dialogue": [
+      "がっこうに いきます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Ke mana pembicara pergi?",
+      "options": [
+        "sekolah",
+        "stasiun",
+        "rumah sakit"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: がっこうに いきます。 Artinya: Pergi ke sekolah."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: がっこうに いきます。",
+        "options": [
+          "Pergi ke sekolah.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: がっこうに いきます。 berarti Pergi ke sekolah."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "Tempat に いきます",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: Tempat に いきます. に menandai tujuan kedatangan/perjalanan pada pola ini."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「いきます」 (huruf kecil).",
+        "answers": [
+          "ikimasu"
+        ],
+        "explanation": "いきます dibaca ikimasu."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「がっこうに いきます。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-15",
+    "stage": "F1",
+    "title": "Belanja dan partikel を",
+    "canDo": "Menyatakan barang yang dibeli.",
+    "vocab": [
+      [
+        "かいます",
+        "kaimasu",
+        "membeli"
+      ],
+      [
+        "みせ",
+        "mise",
+        "toko"
+      ],
+      [
+        "パン",
+        "pan",
+        "roti"
+      ],
+      [
+        "みず",
+        "mizu",
+        "air"
+      ],
+      [
+        "やさい",
+        "yasai",
+        "sayur"
+      ]
+    ],
+    "grammar": {
+      "pattern": "N を かいます",
+      "explanation": "を menandai objek langsung dari tindakan membeli.",
+      "example": "パンを かいます。",
+      "romaji": "Pan o kaimasu.",
+      "meaning": "Saya membeli roti.",
+      "commonMistake": "Partikel を biasanya dibaca o, bukan wo."
+    },
+    "dialogue": [
+      "みせで パンを かいます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang dibeli?",
+      "options": [
+        "roti",
+        "air",
+        "sayur"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: みせで パンを かいます。 Artinya: Saya membeli roti."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: パンを かいます。",
+        "options": [
+          "Saya membeli roti.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: パンを かいます。 berarti Saya membeli roti."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "N を かいます",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: N を かいます. を menandai objek langsung dari tindakan membeli."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「かいます」 (huruf kecil).",
+        "answers": [
+          "kaimasu"
+        ],
+        "explanation": "かいます dibaca kaimasu."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「パンを かいます。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-16",
+    "stage": "F1",
+    "title": "Transportasi dengan で",
+    "canDo": "Menjelaskan sarana perjalanan.",
+    "vocab": [
+      [
+        "でんしゃ",
+        "densha",
+        "kereta"
+      ],
+      [
+        "バス",
+        "basu",
+        "bus"
+      ],
+      [
+        "じてんしゃ",
+        "jitensha",
+        "sepeda"
+      ],
+      [
+        "あるいて",
+        "aruite",
+        "dengan berjalan kaki"
+      ],
+      [
+        "えき",
+        "eki",
+        "stasiun"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Transportasi で いきます",
+      "explanation": "で menunjukkan alat atau sarana perjalanan; あるいて tidak memakai で.",
+      "example": "バスで いきます。",
+      "romaji": "Basu de ikimasu.",
+      "meaning": "Pergi naik bus.",
+      "commonMistake": "Jangan mengatakan あるいてで."
+    },
+    "dialogue": [
+      "バスで えきに いきます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Naik apa pembicara?",
+      "options": [
+        "kereta",
+        "bus",
+        "sepeda"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: バスで えきに いきます。 Artinya: Pergi naik bus."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: バスで いきます。",
+        "options": [
+          "Pergi naik bus.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: バスで いきます。 berarti Pergi naik bus."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "Transportasi で いきます",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: Transportasi で いきます. で menunjukkan alat atau sarana perjalanan; あるいて tidak memakai で."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「でんしゃ」 (huruf kecil).",
+        "answers": [
+          "densha"
+        ],
+        "explanation": "でんしゃ dibaca densha."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「バスで いきます。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f1-17",
+    "stage": "F1",
+    "title": "Kata sifat い dan な",
+    "canDo": "Mendeskripsikan tempat atau benda secara sederhana.",
+    "vocab": [
+      [
+        "おおきい",
+        "ookii",
+        "besar"
+      ],
+      [
+        "ちいさい",
+        "chiisai",
+        "kecil"
+      ],
+      [
+        "しずか",
+        "shizuka",
+        "tenang"
+      ],
+      [
+        "きれい",
+        "kirei",
+        "indah / bersih"
+      ],
+      [
+        "まち",
+        "machi",
+        "kota"
+      ]
+    ],
+    "grammar": {
+      "pattern": "い-adj + N / な-adj + な + N",
+      "explanation": "Sebelum nomina, kata sifat な memakai な. きれい adalah kata sifat な walaupun berakhir い.",
+      "example": "しずかな まちです。",
+      "romaji": "Shizuka na machi desu.",
+      "meaning": "Ini kota yang tenang.",
+      "commonMistake": "Jangan menyebut きれい sebagai kata sifat い hanya karena akhir bunyinya."
+    },
+    "dialogue": [
+      "ここは しずかな まちです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana kota itu?",
+      "options": [
+        "ramai",
+        "tenang",
+        "besar"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: ここは しずかな まちです。 Artinya: Ini kota yang tenang."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: しずかな まちです。",
+        "options": [
+          "Ini kota yang tenang.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: しずかな まちです。 berarti Ini kota yang tenang."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "い-adj + N / な-adj + な + N",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: い-adj + N / な-adj + な + N. Sebelum nomina, kata sifat な memakai な. きれい adalah kata sifat な walaupun berakhir い."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「おおきい」 (huruf kecil).",
+        "answers": [
+          "ookii"
+        ],
+        "explanation": "おおきい dibaca ookii."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「しずかな まちです。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f2-18",
+    "stage": "F2",
+    "title": "Permintaan dengan ～てください",
+    "canDo": "Meminta seseorang melakukan tindakan secara sopan.",
+    "vocab": [
+      [
+        "まって",
+        "matte",
+        "tunggu (bentuk て)"
+      ],
+      [
+        "みて",
+        "mite",
+        "lihat (bentuk て)"
+      ],
+      [
+        "きいて",
+        "kiite",
+        "dengar (bentuk て)"
+      ],
+      [
+        "すわって",
+        "suwatte",
+        "duduk (bentuk て)"
+      ],
+      [
+        "ください",
+        "kudasai",
+        "tolong"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vて + ください",
+      "explanation": "Bentuk て diikuti ください untuk meminta tindakan secara sopan; tingkat kesopanan tetap bergantung situasi.",
+      "example": "ちょっと まってください。",
+      "romaji": "Chotto matte kudasai.",
+      "meaning": "Tolong tunggu sebentar.",
+      "commonMistake": "Jangan menyambungkan ます langsung ke ください."
+    },
+    "dialogue": [
+      "ちょっと まってください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa permintaan pembicara?",
+      "options": [
+        "tunggu",
+        "lihat",
+        "duduk"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: ちょっと まってください。 Artinya: Tolong tunggu sebentar."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: ちょっと まってください。",
+        "options": [
+          "Tolong tunggu sebentar.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: ちょっと まってください。 berarti Tolong tunggu sebentar."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "Vて + ください",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: Vて + ください. Bentuk て diikuti ください untuk meminta tindakan secara sopan; tingkat kesopanan tetap bergantung situasi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「まって」 (huruf kecil).",
+        "answers": [
+          "matte"
+        ],
+        "explanation": "まって dibaca matte."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「ちょっと まってください。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f2-19",
+    "stage": "F2",
+    "title": "Izin dengan ～てもいいですか",
+    "canDo": "Meminta izin sebelum melakukan sesuatu.",
+    "vocab": [
+      [
+        "はいって",
+        "haitte",
+        "masuk (bentuk て)"
+      ],
+      [
+        "つかって",
+        "tsukatte",
+        "pakai (bentuk て)"
+      ],
+      [
+        "とって",
+        "totte",
+        "ambil (bentuk て)"
+      ],
+      [
+        "しゃしん",
+        "shashin",
+        "foto"
+      ],
+      [
+        "いい",
+        "ii",
+        "baik / boleh"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vて + もいいですか",
+      "explanation": "Pola ini digunakan untuk meminta izin melakukan tindakan.",
+      "example": "しゃしんを とってもいいですか。",
+      "romaji": "Shashin o totte mo ii desu ka.",
+      "meaning": "Bolehkah saya mengambil foto?",
+      "commonMistake": "Jangan menganggap ～てもいいですか sebagai perintah."
+    },
+    "dialogue": [
+      "しゃしんを とってもいいですか。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang diminta?",
+      "options": [
+        "izin mengambil foto",
+        "meminta membeli foto",
+        "melarang foto"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: しゃしんを とってもいいですか。 Artinya: Bolehkah saya mengambil foto?"
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: しゃしんを とってもいいですか。",
+        "options": [
+          "Bolehkah saya mengambil foto?",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: しゃしんを とってもいいですか。 berarti Bolehkah saya mengambil foto?"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "Vて + もいいですか",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: Vて + もいいですか. Pola ini digunakan untuk meminta izin melakukan tindakan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「はいって」 (huruf kecil).",
+        "answers": [
+          "haitte"
+        ],
+        "explanation": "はいって dibaca haitte."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「しゃしんを とってもいいですか。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f2-20",
+    "stage": "F2",
+    "title": "Larangan dengan ～てはいけません",
+    "canDo": "Memahami larangan pada aturan sederhana.",
+    "vocab": [
+      [
+        "たばこ",
+        "tabako",
+        "rokok"
+      ],
+      [
+        "すいます",
+        "suimasu",
+        "mengisap / merokok"
+      ],
+      [
+        "ここ",
+        "koko",
+        "di sini"
+      ],
+      [
+        "だめ",
+        "dame",
+        "tidak boleh"
+      ],
+      [
+        "きんし",
+        "kinshi",
+        "larangan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vて + はいけません",
+      "explanation": "Pola ini menunjukkan larangan; umum dalam aturan dan instruksi.",
+      "example": "ここで たばこを すってはいけません。",
+      "romaji": "Koko de tabako o sutte wa ikemasen.",
+      "meaning": "Tidak boleh merokok di sini.",
+      "commonMistake": "Jangan menafsirkan はいけません sebagai izin."
+    },
+    "dialogue": [
+      "ここで たばこを すってはいけません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa aturan di sini?",
+      "options": [
+        "boleh merokok",
+        "dilarang merokok",
+        "wajib membeli rokok"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: ここで たばこを すってはいけません。 Artinya: Tidak boleh merokok di sini."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: ここで たばこを すってはいけません。",
+        "options": [
+          "Tidak boleh merokok di sini.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: ここで たばこを すってはいけません。 berarti Tidak boleh merokok di sini."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "Vて + はいけません",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: Vて + はいけません. Pola ini menunjukkan larangan; umum dalam aturan dan instruksi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「たばこ」 (huruf kecil).",
+        "answers": [
+          "tabako"
+        ],
+        "explanation": "たばこ dibaca tabako."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「ここで たばこを すってはいけません。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f2-21",
+    "stage": "F2",
+    "title": "Pengalaman dengan ～たことがあります",
+    "canDo": "Menceritakan pengalaman yang pernah dilakukan.",
+    "vocab": [
+      [
+        "いった",
+        "itta",
+        "pernah pergi (bentuk た)"
+      ],
+      [
+        "たべた",
+        "tabeta",
+        "sudah makan (bentuk た)"
+      ],
+      [
+        "みた",
+        "mita",
+        "sudah melihat (bentuk た)"
+      ],
+      [
+        "にほん",
+        "nihon",
+        "Jepang"
+      ],
+      [
+        "りょこう",
+        "ryokou",
+        "perjalanan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vた + ことがあります",
+      "explanation": "Pola ini menyatakan pernah memiliki pengalaman melakukan tindakan.",
+      "example": "にほんに いったことがあります。",
+      "romaji": "Nihon ni itta koto ga arimasu.",
+      "meaning": "Saya pernah pergi ke Jepang.",
+      "commonMistake": "Jangan mengartikan pola ini sebagai kegiatan yang sedang berlangsung."
+    },
+    "dialogue": [
+      "にほんに いったことがあります。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa pengalaman pembicara?",
+      "options": [
+        "pernah ke Jepang",
+        "akan ke Jepang besok",
+        "sedang di Jepang"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: にほんに いったことがあります。 Artinya: Saya pernah pergi ke Jepang."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: にほんに いったことがあります。",
+        "options": [
+          "Saya pernah pergi ke Jepang.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: にほんに いったことがあります。 berarti Saya pernah pergi ke Jepang."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "Vた + ことがあります",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: Vた + ことがあります. Pola ini menyatakan pernah memiliki pengalaman melakukan tindakan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「いった」 (huruf kecil).",
+        "answers": [
+          "itta"
+        ],
+        "explanation": "いった dibaca itta."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「にほんに いったことがあります。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s42-f2-22",
+    "stage": "F2",
+    "title": "Membandingkan dengan ～より",
+    "canDo": "Membandingkan dua benda atau pilihan.",
+    "vocab": [
+      [
+        "はやい",
+        "hayai",
+        "cepat"
+      ],
+      [
+        "おそい",
+        "osoi",
+        "lambat"
+      ],
+      [
+        "やすい",
+        "yasui",
+        "murah"
+      ],
+      [
+        "たかい",
+        "takai",
+        "mahal"
+      ],
+      [
+        "でんしゃ",
+        "densha",
+        "kereta"
+      ]
+    ],
+    "grammar": {
+      "pattern": "A は B より + adj です",
+      "explanation": "より menandai pembanding; A memiliki sifat yang lebih tinggi daripada B pada contoh.",
+      "example": "でんしゃは バスより はやいです。",
+      "romaji": "Densha wa basu yori hayai desu.",
+      "meaning": "Kereta lebih cepat daripada bus.",
+      "commonMistake": "Jangan membalik A dan B saat menyimpulkan perbandingan."
+    },
+    "dialogue": [
+      "でんしゃは バスより はやいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Mana yang lebih cepat?",
+      "options": [
+        "bus",
+        "kereta",
+        "sama cepat"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: でんしゃは バスより はやいです。 Artinya: Kereta lebih cepat daripada bus."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Pilih arti atau informasi yang tepat: でんしゃは バスより はやいです。",
+        "options": [
+          "Kereta lebih cepat daripada bus.",
+          "Saya sedang membaca koran.",
+          "Saya akan bermain sepak bola."
+        ],
+        "answer": 0,
+        "explanation": "Contoh: でんしゃは バスより はやいです。 berarti Kereta lebih cepat daripada bus."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pola yang dipelajari dalam bab ini?",
+        "options": [
+          "A は B より + adj です",
+          "N は いつですか",
+          "N が ほしいです"
+        ],
+        "answer": 0,
+        "explanation": "Fokus pola: A は B より + adj です. より menandai pembanding; A memiliki sifat yang lebih tinggi daripada B pada contoh."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji kata 「はやい」 (huruf kecil).",
+        "answers": [
+          "hayai"
+        ],
+        "explanation": "はやい dibaca hayai."
+      }
+    ],
+    "roleplay": "Ucapkan contoh 「でんしゃは バスより はやいです。」 dengan jelas. Kemudian buat satu variasi yang sesuai situasi Anda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ]
+  },
+  {
+    "id": "s82-plain",
+    "stage": "F3",
+    "title": "Bentuk biasa dan pendapat",
+    "canDo": "Menyampaikan pendapat tentang jadwal kerja.",
+    "vocab": [
+      [
+        "予定（よてい）",
+        "yotei",
+        "jadwal"
+      ],
+      [
+        "意見（いけん）",
+        "iken",
+        "pendapat"
+      ],
+      [
+        "忙しい（いそがしい）",
+        "isogashii",
+        "sibuk"
+      ],
+      [
+        "会議（かいぎ）",
+        "kaigi",
+        "rapat"
+      ],
+      [
+        "思う（おもう）",
+        "omou",
+        "berpikir"
+      ]
+    ],
+    "grammar": {
+      "pattern": "普通形 + とおもいます",
+      "explanation": "Kata kerja: いきます→いく、いきません→いかない、いきました→いった、いきませんでした→いかなかった. Nomina dan kata sifat な afirmatif kini memakai だ sebelum と.",
+      "example": "あしたは いそがしいと おもいます。",
+      "romaji": "Ashita wa isogashii to omoimasu.",
+      "meaning": "Saya pikir besok sibuk.",
+      "commonMistake": "Jangan memakai いそがしいだ sebelum と."
+    },
+    "dialogue": [
+      "あしたは いそがしいですか。",
+      "はい、かいぎが おおいと おもいます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Mengapa besok mungkin sibuk?",
+      "options": [
+        "Banyak rapat",
+        "Libur",
+        "Tidak ada pekerjaan"
+      ],
+      "answer": 0,
+      "explanation": "Ya, saya pikir banyak rapat."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 予定 (よてい)?",
+        "options": [
+          "pendapat",
+          "jadwal",
+          "sibuk"
+        ],
+        "answer": 1,
+        "explanation": "jadwal"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: あしたは いそがしいと おもいます。",
+        "options": [
+          "Saya pikir besok sibuk.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Saya pikir besok sibuk."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 明日は会議が三つあります。午後は忙しいと思います。 — Berapa rapat besok?",
+        "options": [
+          "Tiga",
+          "Dua",
+          "Satu"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Tiga"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk いそがしい",
+        "answers": [
+          "isogashii"
+        ],
+        "explanation": "isogashii"
+      }
+    ],
+    "roleplay": "Menyampaikan pendapat tentang jadwal kerja. Gunakan pola 普通形 + とおもいます dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s42-f2-22"
+    ]
+  },
+  {
+    "id": "s82-reason",
+    "stage": "F3",
+    "title": "Alasan dan penjelasan",
+    "canDo": "Menjelaskan keterlambatan dengan sopan.",
+    "vocab": [
+      [
+        "遅れる（おくれる）",
+        "okureru",
+        "terlambat"
+      ],
+      [
+        "遅刻（ちこく）",
+        "chikoku",
+        "datang terlambat"
+      ],
+      [
+        "連絡（れんらく）",
+        "renraku",
+        "menghubungi"
+      ],
+      [
+        "理由（りゆう）",
+        "riyuu",
+        "alasan"
+      ],
+      [
+        "電車（でんしゃ）",
+        "densha",
+        "kereta"
+      ]
+    ],
+    "grammar": {
+      "pattern": "普通形 + ので",
+      "explanation": "ので menyampaikan alasan dengan nada relatif halus. Nomina dan kata sifat な memakai な sebelum ので. から juga menyatakan alasan.",
+      "example": "でんしゃが おくれたので、ちこくしました。",
+      "romaji": "Densha ga okureta node, chikoku shimashita.",
+      "meaning": "Saya terlambat karena kereta terlambat.",
+      "commonMistake": "Bukan しずかだので, melainkan しずかなので."
+    },
+    "dialogue": [
+      "どうして おくれたんですか。",
+      "でんしゃが おくれたので、すみません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa penyebab keterlambatan?",
+      "options": [
+        "Kereta terlambat",
+        "Salah alamat",
+        "Bangun kesiangan"
+      ],
+      "answer": 0,
+      "explanation": "Karena kereta terlambat, maaf."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 遅れる (おくれる)?",
+        "options": [
+          "datang terlambat",
+          "terlambat",
+          "menghubungi"
+        ],
+        "answer": 1,
+        "explanation": "terlambat"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: でんしゃが おくれたので、ちこくしました。",
+        "options": [
+          "Saya terlambat karena kereta terlambat.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Saya terlambat karena kereta terlambat."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 電車が遅れています。会社に九時半に着きます。 — Kapan tiba di kantor?",
+        "options": [
+          "09.30",
+          "09.00",
+          "10.30"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: 09.30"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk れんらく",
+        "answers": [
+          "renraku"
+        ],
+        "explanation": "renraku"
+      }
+    ],
+    "roleplay": "Menjelaskan keterlambatan dengan sopan. Gunakan pola 普通形 + ので dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-plain"
+    ]
+  },
+  {
+    "id": "s82-condition",
+    "stage": "F4",
+    "title": "Kondisi dan petunjuk kerja",
+    "canDo": "Memahami instruksi jika terjadi masalah.",
+    "vocab": [
+      [
+        "機械（きかい）",
+        "kikai",
+        "mesin"
+      ],
+      [
+        "止まる（とまる）",
+        "tomaru",
+        "berhenti"
+      ],
+      [
+        "担当（たんとう）",
+        "tantou",
+        "penanggung jawab"
+      ],
+      [
+        "確認（かくにん）",
+        "kakunin",
+        "memeriksa"
+      ],
+      [
+        "故障（こしょう）",
+        "koshou",
+        "kerusakan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vた + ら",
+      "explanation": "たら menyatakan kondisi; bentuk negatif ない→なかったら. Setelah kondisi terpenuhi, lakukan tindakan berikut.",
+      "example": "きかいが とまったら、れんらくしてください。",
+      "romaji": "Kikai ga tomattara, renraku shite kudasai.",
+      "meaning": "Jika mesin berhenti, hubungi petugas.",
+      "commonMistake": "Bukan とまるたら; gunakan とまったら."
+    },
+    "dialogue": [
+      "きかいが とまったら、どうしますか。",
+      "たんとうの ひとに れんらくしてください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Siapa yang harus dihubungi?",
+      "options": [
+        "Penanggung jawab",
+        "Pelanggan",
+        "Teman sekolah"
+      ],
+      "answer": 0,
+      "explanation": "Hubungi penanggung jawab."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 機械 (きかい)?",
+        "options": [
+          "berhenti",
+          "mesin",
+          "penanggung jawab"
+        ],
+        "answer": 1,
+        "explanation": "mesin"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: きかいが とまったら、れんらくしてください。",
+        "options": [
+          "Jika mesin berhenti, hubungi petugas.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Jika mesin berhenti, hubungi petugas."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 機械が止まったら、担当者に連絡してください。自分で直さないでください。 — Apa yang tidak boleh dilakukan?",
+        "options": [
+          "Memperbaiki sendiri",
+          "Menghubungi petugas",
+          "Melapor"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Memperbaiki sendiri"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk たんとう",
+        "answers": [
+          "tantou"
+        ],
+        "explanation": "tantou"
+      }
+    ],
+    "roleplay": "Memahami instruksi jika terjadi masalah. Gunakan pola Vた + ら dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-reason"
+    ]
+  },
+  {
+    "id": "s82-advice",
+    "stage": "F4",
+    "title": "Saran dan kesehatan",
+    "canDo": "Memberi saran sederhana saat teman kurang sehat.",
+    "vocab": [
+      [
+        "熱（ねつ）",
+        "netsu",
+        "demam"
+      ],
+      [
+        "休む（やすむ）",
+        "yasumu",
+        "beristirahat"
+      ],
+      [
+        "病院（びょういん）",
+        "byouin",
+        "rumah sakit"
+      ],
+      [
+        "無理（むり）",
+        "muri",
+        "memaksakan diri"
+      ],
+      [
+        "薬（くすり）",
+        "kusuri",
+        "obat"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vた + ほうがいい / Vない + ほうがいい",
+      "explanation": "Bentuk た memberi saran melakukan sesuatu; bentuk ない menyarankan menghindarinya. Gunakan dengan sopan.",
+      "example": "きょうは はやく ねたほうが いいですよ。",
+      "romaji": "Kyou wa hayaku neta hou ga ii desu yo.",
+      "meaning": "Sebaiknya tidur lebih awal hari ini.",
+      "commonMistake": "Untuk saran negatif gunakan むりをしないほうがいい."
+    },
+    "dialogue": [
+      "きのうから ねつが あります。",
+      "きょうは やすんだほうが いいですよ。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa saran yang diberikan?",
+      "options": [
+        "Beristirahat",
+        "Bekerja lembur",
+        "Berolahraga"
+      ],
+      "answer": 0,
+      "explanation": "Sebaiknya beristirahat hari ini."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 熱 (ねつ)?",
+        "options": [
+          "beristirahat",
+          "demam",
+          "rumah sakit"
+        ],
+        "answer": 1,
+        "explanation": "demam"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: きょうは はやく ねたほうが いいですよ。",
+        "options": [
+          "Sebaiknya tidur lebih awal hari ini.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Sebaiknya tidur lebih awal hari ini."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 今日は熱があるので、仕事を休みます。午後、病院に行きます。 — Apa rencana sore hari?",
+        "options": [
+          "Pergi ke rumah sakit",
+          "Pergi bekerja",
+          "Berbelanja"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Pergi ke rumah sakit"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk びょういん",
+        "answers": [
+          "byouin"
+        ],
+        "explanation": "byouin"
+      }
+    ],
+    "roleplay": "Memberi saran sederhana saat teman kurang sehat. Gunakan pola Vた + ほうがいい / Vない + ほうがいい dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-condition"
+    ]
+  },
+  {
+    "id": "s82-plan",
+    "stage": "F5",
+    "title": "Rencana dan perubahan jadwal",
+    "canDo": "Menyampaikan rencana dan perubahan jadwal.",
+    "vocab": [
+      [
+        "引っ越す（ひっこす）",
+        "hikkosu",
+        "pindah rumah"
+      ],
+      [
+        "予約（よやく）",
+        "yoyaku",
+        "reservasi"
+      ],
+      [
+        "変更（へんこう）",
+        "henkou",
+        "perubahan"
+      ],
+      [
+        "来週（らいしゅう）",
+        "raishuu",
+        "minggu depan"
+      ],
+      [
+        "都合（つごう）",
+        "tsugou",
+        "ketersediaan waktu"
+      ]
+    ],
+    "grammar": {
+      "pattern": "V辞書形 / Vない + つもりです",
+      "explanation": "つもり menyatakan niat pribadi. 予定です menyatakan jadwal atau rencana yang sudah diatur.",
+      "example": "らいしゅう ひっこす つもりです。",
+      "romaji": "Raishuu hikkosu tsumori desu.",
+      "meaning": "Saya berniat pindah minggu depan.",
+      "commonMistake": "Bukan ひっこしますつもり; gunakan bentuk kamus."
+    },
+    "dialogue": [
+      "いつ ひっこす つもりですか。",
+      "らいしゅうの どようびです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kapan rencana pindah?",
+      "options": [
+        "Sabtu minggu depan",
+        "Minggu ini",
+        "Senin depan"
+      ],
+      "answer": 0,
+      "explanation": "Sabtu minggu depan."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 引っ越す (ひっこす)?",
+        "options": [
+          "reservasi",
+          "pindah rumah",
+          "perubahan"
+        ],
+        "answer": 1,
+        "explanation": "pindah rumah"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: らいしゅう ひっこす つもりです。",
+        "options": [
+          "Saya berniat pindah minggu depan.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Saya berniat pindah minggu depan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 予約を土曜日から日曜日に変更しました。時間は午前十時です。 — Kapan jadwal baru?",
+        "options": [
+          "Minggu pukul 10",
+          "Sabtu pukul 10",
+          "Minggu pukul 12"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Minggu pukul 10"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk へんこう",
+        "answers": [
+          "henkou"
+        ],
+        "explanation": "henkou"
+      }
+    ],
+    "roleplay": "Menyampaikan rencana dan perubahan jadwal. Gunakan pola V辞書形 / Vない + つもりです dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-advice"
+    ]
+  },
+  {
+    "id": "s82-notice",
+    "stage": "F5",
+    "title": "Memahami pengumuman dan aturan",
+    "canDo": "Memahami pengumuman fasilitas dan kewajiban.",
+    "vocab": [
+      [
+        "受付（うけつけ）",
+        "uketsuke",
+        "resepsionis"
+      ],
+      [
+        "入口（いりぐち）",
+        "iriguchi",
+        "pintu masuk"
+      ],
+      [
+        "利用（りよう）",
+        "riyou",
+        "penggunaan"
+      ],
+      [
+        "記入（きにゅう）",
+        "kinyuu",
+        "mengisi formulir"
+      ],
+      [
+        "禁止（きんし）",
+        "kinshi",
+        "larangan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vない + なければなりません",
+      "explanation": "Ubah ない menjadi なければなりません untuk kewajiban. Vなくてもいい menyatakan tidak wajib.",
+      "example": "うけつけで なまえを かかなければ なりません。",
+      "romaji": "Uketsuke de namae o kakanakereba narimasen.",
+      "meaning": "Harus menulis nama di resepsionis.",
+      "commonMistake": "Bukan かくなければ; bentuknya かかなければ."
+    },
+    "dialogue": [
+      "ここで なにを しますか。",
+      "うけつけで なまえを かいてください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang harus ditulis?",
+      "options": [
+        "Nama",
+        "Alamat kantor",
+        "Nomor kereta"
+      ],
+      "answer": 0,
+      "explanation": "Silakan tulis nama di resepsionis."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Arti 受付 (うけつけ)?",
+        "options": [
+          "pintu masuk",
+          "resepsionis",
+          "penggunaan"
+        ],
+        "answer": 1,
+        "explanation": "resepsionis"
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti kalimat: うけつけで なまえを かかなければ なりません。",
+        "options": [
+          "Harus menulis nama di resepsionis.",
+          "Saya tidak tahu jadwalnya.",
+          "Silakan tunggu di sini."
+        ],
+        "answer": 0,
+        "explanation": "Harus menulis nama di resepsionis."
+      },
+      {
+        "type": "choice",
+        "prompt": "Dokkai: 利用時間は九時から五時までです。入口で名前を記入してください。 — Kapan fasilitas tutup?",
+        "options": [
+          "Pukul lima sore",
+          "Pukul sembilan",
+          "Pukul tujuh"
+        ],
+        "answer": 0,
+        "explanation": "Jawaban: Pukul lima sore"
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji untuk りよう",
+        "answers": [
+          "riyou"
+        ],
+        "explanation": "riyou"
+      }
+    ],
+    "roleplay": "Memahami pengumuman fasilitas dan kewajiban. Gunakan pola Vない + なければなりません dalam respons sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": [
+      "s82-plan"
+    ]
+  },
+  {
+    "id": "s92m1-dakuten",
+    "stage": "F0",
+    "title": "Membedakan dakuten dan handakuten",
+    "canDo": "Membedakan bunyi k/g, h/b/p dalam kata sehari-hari.",
+    "vocab": [
+      [
+        "かぎ",
+        "kagi",
+        "kunci"
+      ],
+      [
+        "かき",
+        "kaki",
+        "kesemek"
+      ],
+      [
+        "ぶた",
+        "buta",
+        "babi"
+      ],
+      [
+        "パン",
+        "pan",
+        "roti"
+      ],
+      [
+        "はな",
+        "hana",
+        "bunga"
+      ]
+    ],
+    "grammar": {
+      "pattern": "か → が、は → ば / ぱ",
+      "explanation": "Dakuten (゛) mengubah bunyi seperti k menjadi g dan h menjadi b. Handakuten (゜) mengubah h menjadi p. Tanda itu bagian dari huruf, bukan suku kata tambahan.",
+      "example": "かぎは ここです。",
+      "romaji": "Kagi wa koko desu.",
+      "meaning": "Kuncinya di sini.",
+      "commonMistake": "Jangan membaca かぎ sebagai kaki."
+    },
+    "dialogue": [
+      "かぎは どこですか。",
+      "ここです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa benda yang dicari?",
+      "options": [
+        "Kunci",
+        "Roti",
+        "Bunga"
+      ],
+      "answer": 0,
+      "explanation": "かぎ berarti kunci."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: これは パンです。 Apa benda ini?",
+        "options": [
+          "Bunga",
+          "Roti",
+          "Kunci"
+        ],
+        "answer": 1,
+        "explanation": "パン berarti roti."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji ぶた.",
+        "answers": [
+          "buta"
+        ],
+        "explanation": "ぶ dibaca bu, bukan hu."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: かぎは ここです。",
+        "options": [
+          "Rotinya di sini.",
+          "Kuncinya di sini.",
+          "Kuncinya di sana."
+        ],
+        "answer": 1,
+        "explanation": "Kuncinya di sini."
+      }
+    ],
+    "roleplay": "Tanyakan letak kunci, lalu jawab ここです。",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-youon",
+    "stage": "F0",
+    "title": "Bunyi gabungan kecil ゃ・ゅ・ょ",
+    "canDo": "Membaca gabungan kana kecil dengan benar.",
+    "vocab": [
+      [
+        "きゃく",
+        "kyaku",
+        "tamu"
+      ],
+      [
+        "きょう",
+        "kyou",
+        "hari ini"
+      ],
+      [
+        "しゃしん",
+        "shashin",
+        "foto"
+      ],
+      [
+        "りょこう",
+        "ryokou",
+        "perjalanan"
+      ],
+      [
+        "おちゃ",
+        "ocha",
+        "teh"
+      ]
+    ],
+    "grammar": {
+      "pattern": "き + ょ = きょ",
+      "explanation": "ゃ・ゅ・ょ kecil bergabung dengan huruf sebelumnya menjadi satu mora, misalnya きょ. ょ besar membentuk dua bunyi terpisah. Vokal panjang pada きょう tetap perlu diperhatikan.",
+      "example": "おちゃを ください。",
+      "romaji": "Ocha o kudasai.",
+      "meaning": "Tolong beri saya teh.",
+      "commonMistake": "Jangan membaca おちゃ sebagai ochiya."
+    },
+    "dialogue": [
+      "おちゃを ください。",
+      "はい、どうぞ。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang diminta?",
+      "options": [
+        "Foto",
+        "Teh",
+        "Kunci"
+      ],
+      "answer": 1,
+      "explanation": "おちゃ adalah teh."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きょうは りょこうです。 Kegiatan hari ini?",
+        "options": [
+          "Perjalanan",
+          "Belajar",
+          "Belanja"
+        ],
+        "answer": 0,
+        "explanation": "りょこう berarti perjalanan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji しゃしん.",
+        "answers": [
+          "shashin"
+        ],
+        "explanation": "しゃ dibaca sha."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: おちゃを ください。",
+        "options": [
+          "Tolong beri saya foto.",
+          "Tolong beri saya kopi.",
+          "Tolong beri saya teh."
+        ],
+        "answer": 2,
+        "explanation": "Tolong beri saya teh."
+      }
+    ],
+    "roleplay": "Pesan teh dengan sopan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-sokuon-long",
+    "stage": "F0",
+    "title": "Konsonan rangkap dan vokal panjang",
+    "canDo": "Membedakan っ kecil dan tanda panjang ー.",
+    "vocab": [
+      [
+        "きって",
+        "kitte",
+        "perangko"
+      ],
+      [
+        "きて",
+        "kite",
+        "datanglah"
+      ],
+      [
+        "がっこう",
+        "gakkou",
+        "sekolah"
+      ],
+      [
+        "コーヒー",
+        "koohii",
+        "kopi"
+      ],
+      [
+        "カード",
+        "kaado",
+        "kartu"
+      ]
+    ],
+    "grammar": {
+      "pattern": "っ / ッ dan ー",
+      "explanation": "っ kecil menambah satu mora berupa jeda sebelum konsonan berikutnya. ー dalam katakana memanjangkan vokal sebelumnya. Perbedaan panjang dapat mengubah makna.",
+      "example": "コーヒーを ください。",
+      "romaji": "Koohii o kudasai.",
+      "meaning": "Tolong beri saya kopi.",
+      "commonMistake": "Jangan membaca きって sebagai kite."
+    },
+    "dialogue": [
+      "コーヒーを ください。",
+      "コーヒーですね。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa minuman yang dipesan?",
+      "options": [
+        "Teh",
+        "Air",
+        "Kopi"
+      ],
+      "answer": 2,
+      "explanation": "コーヒー adalah kopi."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きってを ください。 Apa yang diminta?",
+        "options": [
+          "Kartu",
+          "Perangko",
+          "Kopi"
+        ],
+        "answer": 1,
+        "explanation": "きって berarti perangko."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji がっこう.",
+        "answers": [
+          "gakkou"
+        ],
+        "explanation": "っ menggandakan konsonan k."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: コーヒーを ください。",
+        "options": [
+          "Tolong beri saya kopi.",
+          "Tolong beri saya kartu.",
+          "Tolong beri saya teh."
+        ],
+        "answer": 0,
+        "explanation": "Tolong beri saya kopi."
+      }
+    ],
+    "roleplay": "Pesan kopi dengan memperpanjang kedua vokalnya.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-origin",
+    "stage": "F0",
+    "title": "Asal negara dengan から",
+    "canDo": "Menyebutkan negara asal dan bertanya asal lawan bicara.",
+    "vocab": [
+      [
+        "インドネシア",
+        "Indoneshia",
+        "Indonesia"
+      ],
+      [
+        "タイ",
+        "Tai",
+        "Thailand"
+      ],
+      [
+        "ベトナム",
+        "Betonamu",
+        "Vietnam"
+      ],
+      [
+        "どちら",
+        "dochira",
+        "mana (sopan)"
+      ],
+      [
+        "きました",
+        "kimashita",
+        "datang (lampau)"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[tempat] から きました。",
+      "explanation": "から menunjukkan titik asal. きました adalah bentuk sopan lampau dari くる (datang). Gunakan どちらから untuk menanyakan asal secara sopan.",
+      "example": "インドネシアから きました。",
+      "romaji": "Indoneshia kara kimashita.",
+      "meaning": "Saya datang dari Indonesia.",
+      "commonMistake": "Jangan mengganti から dengan まで untuk menyatakan asal."
+    },
+    "dialogue": [
+      "どちらから きましたか。",
+      "タイから きました。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Dari negara mana pembicara berasal?",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Indonesia"
+      ],
+      "answer": 1,
+      "explanation": "タイから berarti dari Thailand."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: ランさんは ベトナムから きました。 Asal Ran?",
+        "options": [
+          "Thailand",
+          "Indonesia",
+          "Vietnam"
+        ],
+        "answer": 2,
+        "explanation": "ベトナムから menyatakan asal Vietnam."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik partikel asal dalam hiragana.",
+        "answers": [
+          "から"
+        ],
+        "explanation": "から berarti dari."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: インドネシアから きました。",
+        "options": [
+          "Saya datang dari Vietnam.",
+          "Saya datang dari Indonesia.",
+          "Saya pergi ke Indonesia."
+        ],
+        "answer": 1,
+        "explanation": "Saya datang dari Indonesia."
+      }
+    ],
+    "roleplay": "Perkenalkan negara asalmu.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-negative",
+    "stage": "F0",
+    "title": "Identitas negatif dengan じゃありません",
+    "canDo": "Menyangkal identitas secara sopan.",
+    "vocab": [
+      [
+        "いしゃ",
+        "isha",
+        "dokter"
+      ],
+      [
+        "エンジニア",
+        "enjinia",
+        "insinyur"
+      ],
+      [
+        "てんいん",
+        "tenin",
+        "pegawai toko"
+      ],
+      [
+        "いいえ",
+        "iie",
+        "tidak"
+      ],
+      [
+        "じゃありません",
+        "ja arimasen",
+        "bukan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "A は B じゃありません。",
+      "explanation": "Untuk kata benda, です menjadi じゃありません dalam negatif sopan. ではありません adalah alternatif lebih formal. Pola ini bukan bentuk negatif kata kerja.",
+      "example": "わたしは いしゃじゃありません。",
+      "romaji": "Watashi wa isha ja arimasen.",
+      "meaning": "Saya bukan dokter.",
+      "commonMistake": "Jangan menggunakan いしゃません."
+    },
+    "dialogue": [
+      "いしゃですか。",
+      "いいえ、エンジニアです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa pekerjaan pembicara kedua?",
+      "options": [
+        "Dokter",
+        "Insinyur",
+        "Pegawai toko"
+      ],
+      "answer": 1,
+      "explanation": "エンジニア adalah insinyur."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: わたしは てんいんじゃありません。 Apa maknanya?",
+        "options": [
+          "Saya bukan pegawai toko",
+          "Saya pegawai toko",
+          "Saya bukan dokter"
+        ],
+        "answer": 0,
+        "explanation": "じゃありません menyangkal kata benda sebelumnya."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik bentuk negatif sopan percakapan dari です (tanpa spasi).",
+        "answers": [
+          "じゃありません"
+        ],
+        "explanation": "じゃありません digunakan untuk kata benda."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: わたしは いしゃじゃありません。",
+        "options": [
+          "Saya dokter.",
+          "Saya bukan insinyur.",
+          "Saya bukan dokter."
+        ],
+        "answer": 2,
+        "explanation": "Saya bukan dokter."
+      }
+    ],
+    "roleplay": "Sangkal satu pekerjaan dan sebutkan pekerjaan yang benar.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-yesno",
+    "stage": "F0",
+    "title": "Pertanyaan identitas dengan か",
+    "canDo": "Bertanya dan menjawab pertanyaan identitas.",
+    "vocab": [
+      [
+        "はい",
+        "hai",
+        "ya"
+      ],
+      [
+        "そうです",
+        "sou desu",
+        "benar"
+      ],
+      [
+        "ちがいます",
+        "chigaimasu",
+        "bukan / berbeda"
+      ],
+      [
+        "かんごし",
+        "kangoshi",
+        "perawat"
+      ],
+      [
+        "りゅうがくせい",
+        "ryuugakusei",
+        "pelajar asing"
+      ]
+    ],
+    "grammar": {
+      "pattern": "A は B ですか。",
+      "explanation": "か pada akhir kalimat sopan menandai pertanyaan. Jawab はい、そうです jika benar atau いいえ、ちがいます jika tidak benar. Tidak perlu menambahkan か pada jawaban.",
+      "example": "ミナさんは かんごしですか。",
+      "romaji": "Mina-san wa kangoshi desu ka.",
+      "meaning": "Apakah Mina perawat?",
+      "commonMistake": "Jangan menjawab はい、そうですか untuk mengiyakan."
+    },
+    "dialogue": [
+      "ミナさんは かんごしですか。",
+      "はい、そうです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah Mina perawat?",
+      "options": [
+        "Ya",
+        "Tidak",
+        "Tidak disebutkan"
+      ],
+      "answer": 0,
+      "explanation": "はい、そうです mengonfirmasi pertanyaan."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: リーさんは りゅうがくせいですか。いいえ、ちがいます。 Apakah Lee pelajar asing?",
+        "options": [
+          "Ya",
+          "Tidak",
+          "Tidak dapat diketahui"
+        ],
+        "answer": 1,
+        "explanation": "いいえ、ちがいます menyangkal pertanyaan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik partikel penanda pertanyaan.",
+        "answers": [
+          "か"
+        ],
+        "explanation": "か diletakkan di akhir pertanyaan sopan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: ミナさんは かんごしですか。",
+        "options": [
+          "Apakah Mina perawat?",
+          "Mina adalah perawat.",
+          "Apakah Mina mahasiswa?"
+        ],
+        "answer": 0,
+        "explanation": "Apakah Mina perawat?"
+      }
+    ],
+    "roleplay": "Tanya identitas teman dan jawab sesuai keadaan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-affiliation",
+    "stage": "F0",
+    "title": "Afiliasi dengan の dan も",
+    "canDo": "Menyebutkan afiliasi dan kesamaan secara sopan.",
+    "vocab": [
+      [
+        "だいがく",
+        "daigaku",
+        "universitas"
+      ],
+      [
+        "かいしゃ",
+        "kaisha",
+        "perusahaan"
+      ],
+      [
+        "しゃいん",
+        "shain",
+        "pegawai"
+      ],
+      [
+        "ともだち",
+        "tomodachi",
+        "teman"
+      ],
+      [
+        "がくせい",
+        "gakusei",
+        "mahasiswa/pelajar"
+      ]
+    ],
+    "grammar": {
+      "pattern": "A の B / C も B です。",
+      "explanation": "の menghubungkan dua kata benda: だいがくの がくせい berarti mahasiswa universitas. も menggantikan は dalam kalimat ini untuk menunjukkan kesamaan, berarti juga.",
+      "example": "わたしも がくせいです。",
+      "romaji": "Watashi mo gakusei desu.",
+      "meaning": "Saya juga mahasiswa.",
+      "commonMistake": "Jangan menumpuk はも pada pola dasar ini."
+    },
+    "dialogue": [
+      "わたしは がくせいです。",
+      "わたしも がくせいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa kesamaan kedua orang?",
+      "options": [
+        "Keduanya pegawai",
+        "Keduanya mahasiswa",
+        "Keduanya guru"
+      ],
+      "answer": 1,
+      "explanation": "も menunjukkan status yang sama."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: アリさんは ABCかいしゃの しゃいんです。 Afiliasi Ali?",
+        "options": [
+          "Universitas ABC",
+          "Toko ABC",
+          "Perusahaan ABC"
+        ],
+        "answer": 2,
+        "explanation": "かいしゃの しゃいん menunjukkan pegawai perusahaan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik partikel yang berarti juga.",
+        "answers": [
+          "も"
+        ],
+        "explanation": "も menandai kesamaan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: わたしも がくせいです。",
+        "options": [
+          "Saya bukan mahasiswa.",
+          "Saya juga mahasiswa.",
+          "Saya juga pegawai."
+        ],
+        "answer": 1,
+        "explanation": "Saya juga mahasiswa."
+      }
+    ],
+    "roleplay": "Sebutkan afiliasimu dan kesamaan dengan teman.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-tens",
+    "stage": "F0",
+    "title": "Angka puluhan dan ratusan",
+    "canDo": "Membaca harga puluhan dan ratusan yen.",
+    "vocab": [
+      [
+        "ろくじゅう",
+        "rokujuu",
+        "60"
+      ],
+      [
+        "はちじゅう",
+        "hachijuu",
+        "80"
+      ],
+      [
+        "さんびゃく",
+        "sanbyaku",
+        "300"
+      ],
+      [
+        "ろっぴゃく",
+        "roppyaku",
+        "600"
+      ],
+      [
+        "はっぴゃく",
+        "happyaku",
+        "800"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[angka] えんです。",
+      "explanation": "Puluhan dibentuk dengan angka + じゅう. Ratusan memiliki perubahan bunyi: 300 さんびゃく, 600 ろっぴゃく, 800 はっぴゃく. えん menandai yen.",
+      "example": "さんびゃくえんです。",
+      "romaji": "Sanbyaku en desu.",
+      "meaning": "Harganya 300 yen.",
+      "commonMistake": "Jangan membaca 300 sebagai さんひゃく."
+    },
+    "dialogue": [
+      "この パンは いくらですか。",
+      "ろっぴゃくえんです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Berapa harga roti?",
+      "options": [
+        "300 yen",
+        "600 yen",
+        "800 yen"
+      ],
+      "answer": 1,
+      "explanation": "ろっぴゃく = 600."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: おちゃ はちじゅうえん。 Berapa harga teh?",
+        "options": [
+          "80 yen",
+          "800 yen",
+          "60 yen"
+        ],
+        "answer": 0,
+        "explanation": "はちじゅう = 80."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik bacaan 800 dalam hiragana.",
+        "answers": [
+          "はっぴゃく"
+        ],
+        "explanation": "800 mengalami perubahan bunyi menjadi はっぴゃく."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: さんびゃくえんです。",
+        "options": [
+          "Harganya 30 yen.",
+          "Harganya 600 yen.",
+          "Harganya 300 yen."
+        ],
+        "answer": 2,
+        "explanation": "Harganya 300 yen."
+      }
+    ],
+    "roleplay": "Tanya harga dan jawab dengan 300, 600 atau 800 yen.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-counters",
+    "stage": "F0",
+    "title": "Menghitung benda dengan ～つ",
+    "canDo": "Memesan satu sampai lima benda secara sopan.",
+    "vocab": [
+      [
+        "ひとつ",
+        "hitotsu",
+        "satu buah"
+      ],
+      [
+        "ふたつ",
+        "futatsu",
+        "dua buah"
+      ],
+      [
+        "みっつ",
+        "mittsu",
+        "tiga buah"
+      ],
+      [
+        "よっつ",
+        "yottsu",
+        "empat buah"
+      ],
+      [
+        "いつつ",
+        "itsutsu",
+        "lima buah"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[benda] を [jumlah] ください。",
+      "explanation": "Bilangan ～つ digunakan untuk banyak benda umum. Bentuk satu sampai sepuluh tidak mengikuti angka Sino-Jepang biasa. を menandai benda yang diminta; jumlah diletakkan sebelum ください.",
+      "example": "りんごを みっつ ください。",
+      "romaji": "Ringo o mittsu kudasai.",
+      "meaning": "Tolong beri tiga apel.",
+      "commonMistake": "Jangan membaca みっつ sebagai さんつ."
+    },
+    "dialogue": [
+      "りんごを いくつ かいますか。",
+      "ふたつ おねがいします。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Berapa apel yang diminta?",
+      "options": [
+        "Satu",
+        "Dua",
+        "Tiga"
+      ],
+      "answer": 1,
+      "explanation": "ふたつ berarti dua buah."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: みかんを よっつ ください。 Berapa jeruk?",
+        "options": [
+          "Lima",
+          "Tiga",
+          "Empat"
+        ],
+        "answer": 2,
+        "explanation": "よっつ berarti empat buah."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik bacaan tiga buah dalam hiragana.",
+        "answers": [
+          "みっつ"
+        ],
+        "explanation": "みっつ memakai っ kecil."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: りんごを みっつ ください。",
+        "options": [
+          "Tolong beri tiga apel.",
+          "Tolong beri dua apel.",
+          "Tolong beri tiga jeruk."
+        ],
+        "answer": 0,
+        "explanation": "Tolong beri tiga apel."
+      }
+    ],
+    "roleplay": "Pesan dua atau tiga buah apel.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-phone",
+    "stage": "F0",
+    "title": "Nomor telepon dan pembacaan digit",
+    "canDo": "Menyebutkan digit nomor telepon satu per satu.",
+    "vocab": [
+      [
+        "ゼロ",
+        "zero",
+        "nol"
+      ],
+      [
+        "なな",
+        "nana",
+        "tujuh"
+      ],
+      [
+        "はち",
+        "hachi",
+        "delapan"
+      ],
+      [
+        "きゅう",
+        "kyuu",
+        "sembilan"
+      ],
+      [
+        "でんわばんごう",
+        "denwa bangou",
+        "nomor telepon"
+      ]
+    ],
+    "grammar": {
+      "pattern": "でんわばんごうは [digit] です。",
+      "explanation": "Nomor telepon dibaca digit demi digit, bukan sebagai nilai ribuan. ゼロ atau れい dapat dipakai untuk nol. よん dan なな lazim untuk menghindari kekeliruan.",
+      "example": "ばんごうは なな・ゼロ・はちです。",
+      "romaji": "Bangou wa nana, zero, hachi desu.",
+      "meaning": "Nomornya 7-0-8.",
+      "commonMistake": "Jangan membaca 708 sebagai ななひゃくはち ketika mengeja kode."
+    },
+    "dialogue": [
+      "ばんごうは なんですか。",
+      "きゅう、なな、はちです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Digit apa yang disebut?",
+      "options": [
+        "987",
+        "978",
+        "798"
+      ],
+      "answer": 1,
+      "explanation": "きゅう=9、なな=7、はち=8."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: ばんごうは ゼロ・はち・ななです。 Nomornya?",
+        "options": [
+          "087",
+          "078",
+          "807"
+        ],
+        "answer": 0,
+        "explanation": "ゼロ・はち・なな = 0-8-7."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik romaji きゅう.",
+        "answers": [
+          "kyuu"
+        ],
+        "explanation": "きゅう adalah sembilan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: ばんごうは なな・ゼロ・はちです。",
+        "options": [
+          "Nomornya 7-8-0.",
+          "Nomornya 7-0-8.",
+          "Nomornya 8-0-7."
+        ],
+        "answer": 1,
+        "explanation": "Nomornya 7-0-8."
+      }
+    ],
+    "roleplay": "Eja kode latihan 407 tanpa menggunakan nomor pribadi.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m1-clock",
+    "stage": "F0",
+    "title": "Jam dan menit dasar",
+    "canDo": "Menyebut jam serta menit untuk janji.",
+    "vocab": [
+      [
+        "よじ",
+        "yoji",
+        "jam empat"
+      ],
+      [
+        "しちじ",
+        "shichiji",
+        "jam tujuh"
+      ],
+      [
+        "くじ",
+        "kuji",
+        "jam sembilan"
+      ],
+      [
+        "ごふん",
+        "gofun",
+        "lima menit"
+      ],
+      [
+        "はん",
+        "han",
+        "setengah (jam)"
+      ]
+    ],
+    "grammar": {
+      "pattern": "いま [jam] じ [menit] です。",
+      "explanation": "じ menandai jam dan ふん/ぷん menandai menit. Jam 4, 7, 9 mempunyai bacaan よじ、しちじ、くじ. はん berarti tiga puluh menit setelah jam yang disebut.",
+      "example": "いま くじはんです。",
+      "romaji": "Ima kuji han desu.",
+      "meaning": "Sekarang pukul 9.30.",
+      "commonMistake": "Jangan membaca jam empat sebagai よんじ."
+    },
+    "dialogue": [
+      "いま なんじですか。",
+      "しちじ ごふんです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Sekarang pukul berapa?",
+      "options": [
+        "7.50",
+        "7.05",
+        "9.05"
+      ],
+      "answer": 1,
+      "explanation": "しちじ ごふん = 7.05."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: よじはんです。 Jam berapa?",
+        "options": [
+          "4.30",
+          "4.00",
+          "7.30"
+        ],
+        "answer": 0,
+        "explanation": "よじはん berarti 4.30."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik bacaan jam sembilan dalam hiragana.",
+        "answers": [
+          "くじ"
+        ],
+        "explanation": "Jam sembilan dibaca くじ."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: いま くじはんです。",
+        "options": [
+          "Sekarang pukul 9.00.",
+          "Sekarang pukul 4.30.",
+          "Sekarang pukul 9.30."
+        ],
+        "answer": 2,
+        "explanation": "Sekarang pukul 9.30."
+      }
+    ],
+    "roleplay": "Tanyakan waktu lalu jawab pukul 9.30.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-kono",
+    "stage": "F1",
+    "title": "Memilih benda dengan この・その・あの",
+    "canDo": "Menunjuk benda tertentu dalam ruang kerja.",
+    "vocab": [
+      [
+        "この",
+        "kono",
+        "ini (diikuti benda)"
+      ],
+      [
+        "その",
+        "sono",
+        "itu (dekat lawan bicara)"
+      ],
+      [
+        "あの",
+        "ano",
+        "itu (jauh)"
+      ],
+      [
+        "ノート",
+        "nooto",
+        "buku catatan"
+      ],
+      [
+        "ファイル",
+        "fairu",
+        "map berkas"
+      ]
+    ],
+    "grammar": {
+      "pattern": "この/その/あの + N",
+      "explanation": "この、その、あの harus langsung diikuti kata benda. Berbeda dengan これ、それ、あれ yang dapat berdiri sendiri. Kanji benda: 本（ほん）buku.",
+      "example": "この ノートは わたしのです。",
+      "romaji": "Kono nooto wa watashi no desu.",
+      "meaning": "Buku catatan ini milik saya.",
+      "commonMistake": "Jangan mengatakan このは ノートです; gunakan これは ノートです."
+    },
+    "dialogue": [
+      "その ファイルは つかいますか。",
+      "はい、この ファイルを つかいます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Benda apa yang akan digunakan?",
+      "options": [
+        "Map berkas",
+        "Buku catatan",
+        "Pena"
+      ],
+      "answer": 0,
+      "explanation": "ファイル berarti map berkas."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あの つくえに ノートが あります。 その ノートは せんせいのです。 Siapa pemilik buku catatan?",
+        "options": [
+          "Saya",
+          "Teman",
+          "Guru"
+        ],
+        "answer": 2,
+        "explanation": "せんせいのです menyatakan milik guru."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik penunjuk yang berarti “ini” sebelum kata benda.",
+        "answers": [
+          "この"
+        ],
+        "explanation": "この wajib diikuti kata benda."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この ノートは わたしのです。",
+        "options": [
+          "Buku catatan ini baru.",
+          "Buku catatan ini milik saya.",
+          "Buku catatan itu milik guru."
+        ],
+        "answer": 1,
+        "explanation": "Buku catatan ini milik saya."
+      }
+    ],
+    "roleplay": "Tunjuk sebuah benda dekatmu dan nyatakan siapa pemiliknya.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-owner",
+    "stage": "F1",
+    "title": "Kepemilikan dengan だれの",
+    "canDo": "Menanyakan pemilik barang yang tertinggal.",
+    "vocab": [
+      [
+        "だれ",
+        "dare",
+        "siapa"
+      ],
+      [
+        "かばん",
+        "kaban",
+        "tas"
+      ],
+      [
+        "かぎ",
+        "kagi",
+        "kunci"
+      ],
+      [
+        "ぼうし",
+        "boushi",
+        "topi"
+      ],
+      [
+        "ともだち",
+        "tomodachi",
+        "teman"
+      ]
+    ],
+    "grammar": {
+      "pattern": "N は だれのですか / N は [pemilik] のです。",
+      "explanation": "Partikel の menghubungkan pemilik dengan benda. Jika benda sudah jelas, kata bendanya dapat dihilangkan setelah の. Kanji: 友達（ともだち）teman.",
+      "example": "この かぎは だれのですか。",
+      "romaji": "Kono kagi wa dare no desu ka.",
+      "meaning": "Kunci ini milik siapa?",
+      "commonMistake": "Jangan gunakan だれですか untuk menanyakan kepemilikan barang."
+    },
+    "dialogue": [
+      "この ぼうしは だれのですか。",
+      "ともだちのです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Siapa pemilik topi?",
+      "options": [
+        "Guru",
+        "Pembicara",
+        "Teman"
+      ],
+      "answer": 2,
+      "explanation": "ともだちのです berarti milik teman."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: かばんは わたしのです。 かぎは あにのです。 Siapa pemilik kunci?",
+        "options": [
+          "Teman",
+          "Kakak laki-laki pembicara",
+          "Pembicara"
+        ],
+        "answer": 1,
+        "explanation": "あに berarti kakak laki-laki sendiri."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi partikel: これは だれ___ かばんですか。",
+        "answers": [
+          "の"
+        ],
+        "explanation": "だれの かばん = tas milik siapa."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この かぎは だれのですか。",
+        "options": [
+          "Kunci ini milik siapa?",
+          "Di mana kunci itu?",
+          "Siapa yang mencari kunci?"
+        ],
+        "answer": 0,
+        "explanation": "Kunci ini milik siapa?"
+      }
+    ],
+    "roleplay": "Tanyakan pemilik tas lalu jawab bahwa tas itu milik teman.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-purpose",
+    "stage": "F1",
+    "title": "Jenis benda dengan なんの",
+    "canDo": "Menanyakan isi dan jenis buku atau dokumen.",
+    "vocab": [
+      [
+        "じしょ",
+        "jisho",
+        "kamus"
+      ],
+      [
+        "りょうり",
+        "ryouri",
+        "masakan"
+      ],
+      [
+        "にほんご",
+        "nihongo",
+        "bahasa Jepang"
+      ],
+      [
+        "ざっし",
+        "zasshi",
+        "majalah"
+      ],
+      [
+        "しりょう",
+        "shiryou",
+        "bahan atau dokumen"
+      ]
+    ],
+    "grammar": {
+      "pattern": "なんの + N / [jenis] の + N",
+      "explanation": "の juga menunjukkan jenis, isi, atau hubungan antarkata benda, bukan hanya kepemilikan. なんの berarti tentang apa atau jenis apa. Kanji: 日本語（にほんご）bahasa Jepang.",
+      "example": "これは にほんごの じしょです。",
+      "romaji": "Kore wa nihongo no jisho desu.",
+      "meaning": "Ini kamus bahasa Jepang.",
+      "commonMistake": "だれの menanyakan pemilik, sedangkan なんの menanyakan jenis atau isi."
+    },
+    "dialogue": [
+      "それは なんの ざっしですか。",
+      "りょうりの ざっしです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Majalah tersebut membahas apa?",
+      "options": [
+        "Olahraga",
+        "Masakan",
+        "Perjalanan"
+      ],
+      "answer": 1,
+      "explanation": "りょうり berarti masakan."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: つくえの うえに じしょが あります。 にほんごの じしょです。 Kamus apa yang ada?",
+        "options": [
+          "Bahasa Jepang",
+          "Bahasa Inggris",
+          "Bahasa Indonesia"
+        ],
+        "answer": 0,
+        "explanation": "にほんごの じしょ adalah kamus bahasa Jepang."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi: それは なん___ しりょうですか。",
+        "answers": [
+          "の"
+        ],
+        "explanation": "なんの しりょう berarti dokumen tentang apa."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: これは にほんごの じしょです。",
+        "options": [
+          "Ini majalah Jepang.",
+          "Ini kamus milik guru.",
+          "Ini kamus bahasa Jepang."
+        ],
+        "answer": 2,
+        "explanation": "Ini kamus bahasa Jepang."
+      }
+    ],
+    "roleplay": "Tanyakan jenis sebuah majalah dan jawab bahwa isinya tentang masakan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-choice",
+    "stage": "F1",
+    "title": "Memilih satu benda dengan どれ・どの",
+    "canDo": "Memilih barang dari beberapa pilihan.",
+    "vocab": [
+      [
+        "どれ",
+        "dore",
+        "yang mana (berdiri sendiri)"
+      ],
+      [
+        "どの",
+        "dono",
+        "yang mana (diikuti benda)"
+      ],
+      [
+        "ペン",
+        "pen",
+        "pena"
+      ],
+      [
+        "いろ",
+        "iro",
+        "warna"
+      ],
+      [
+        "しろい",
+        "shiroi",
+        "putih"
+      ]
+    ],
+    "grammar": {
+      "pattern": "どれですか / どの N ですか",
+      "explanation": "どれ menggantikan benda yang dipilih dari beberapa pilihan. どの langsung diikuti kata benda. Kanji: 色（いろ）warna.",
+      "example": "どの ペンが いいですか。",
+      "romaji": "Dono pen ga ii desu ka.",
+      "meaning": "Pena yang mana yang kamu inginkan?",
+      "commonMistake": "Jangan mengatakan どれ ペン; gunakan どの ペン."
+    },
+    "dialogue": [
+      "どの ペンが いいですか。",
+      "しろい ペンが いいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Pena warna apa yang dipilih?",
+      "options": [
+        "Putih",
+        "Hitam",
+        "Merah"
+      ],
+      "answer": 0,
+      "explanation": "しろい berarti putih."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あかい ペンと しろい ペンが あります。 わたしは あかい ペンが いいです。 Pena mana yang dipilih?",
+        "options": [
+          "Putih",
+          "Keduanya",
+          "Merah"
+        ],
+        "answer": 2,
+        "explanation": "あかい berarti merah."
+      },
+      {
+        "type": "input",
+        "prompt": "Ketik kata tanya sebelum ペン: ___ ペンが いいですか。",
+        "answers": [
+          "どの"
+        ],
+        "explanation": "どの diikuti benda."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: どの ペンが いいですか。",
+        "options": [
+          "Pena siapa ini?",
+          "Pena yang mana yang kamu inginkan?",
+          "Berapa harga pena?"
+        ],
+        "answer": 1,
+        "explanation": "Pena yang mana yang kamu inginkan?"
+      }
+    ],
+    "roleplay": "Tanyakan pilihan pena dan jawab dengan warna yang kamu pilih.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-aru",
+    "stage": "F1",
+    "title": "Keberadaan benda dengan あります",
+    "canDo": "Menjelaskan fasilitas yang tersedia di suatu tempat.",
+    "vocab": [
+      [
+        "じどうはんばいき",
+        "jidouhanbaiki",
+        "mesin penjual otomatis"
+      ],
+      [
+        "いす",
+        "isu",
+        "kursi"
+      ],
+      [
+        "こうえん",
+        "kouen",
+        "taman"
+      ],
+      [
+        "ちかく",
+        "chikaku",
+        "sekitar atau dekat"
+      ],
+      [
+        "コンビニ",
+        "konbini",
+        "minimarket"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[tempat] に [benda] が あります。",
+      "explanation": "に menandai lokasi keberadaan, が menandai benda yang ada. あります dipakai untuk benda dan tumbuhan; います untuk orang dan hewan. Kanji: 公園（こうえん）taman.",
+      "example": "こうえんに いすが あります。",
+      "romaji": "Kouen ni isu ga arimasu.",
+      "meaning": "Di taman ada kursi.",
+      "commonMistake": "Jangan gunakan で untuk menyatakan lokasi keberadaan dengan あります."
+    },
+    "dialogue": [
+      "この ちかくに コンビニが ありますか。",
+      "はい、あります。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Fasilitas apa yang ditanyakan?",
+      "options": [
+        "Stasiun",
+        "Apotek",
+        "Minimarket"
+      ],
+      "answer": 2,
+      "explanation": "コンビニ berarti minimarket."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: えきの ちかくに こうえんが あります。 こうえんに いすが あります。 Apa yang ada di taman?",
+        "options": [
+          "Bus",
+          "Kursi",
+          "Mesin tiket"
+        ],
+        "answer": 1,
+        "explanation": "いすが あります berarti ada kursi."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi: こうえん___ いすが あります。",
+        "answers": [
+          "に"
+        ],
+        "explanation": "Lokasi keberadaan menggunakan に."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: こうえんに いすが あります。",
+        "options": [
+          "Di taman ada kursi.",
+          "Saya duduk di taman.",
+          "Kursi itu tidak ada."
+        ],
+        "answer": 0,
+        "explanation": "Di taman ada kursi."
+      }
+    ],
+    "roleplay": "Tanyakan apakah ada minimarket di dekat tempatmu.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-iru",
+    "stage": "F1",
+    "title": "Keberadaan orang dengan います",
+    "canDo": "Mencari orang di kantor atau ruang umum.",
+    "vocab": [
+      [
+        "うけつけ",
+        "uketsuke",
+        "resepsionis atau meja penerima tamu"
+      ],
+      [
+        "じむしょ",
+        "jimusho",
+        "kantor"
+      ],
+      [
+        "おきゃくさん",
+        "okyakusan",
+        "tamu atau pelanggan"
+      ],
+      [
+        "ねこ",
+        "neko",
+        "kucing"
+      ],
+      [
+        "だれも",
+        "daremo",
+        "tidak seorang pun (dengan negatif)"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[orang/hewan] は [tempat] に います。",
+      "explanation": "います digunakan untuk manusia dan hewan. Untuk ketiadaan orang, gunakan だれも いません. Kanji: 人（ひと）orang.",
+      "example": "おきゃくさんは うけつけに います。",
+      "romaji": "Okyakusan wa uketsuke ni imasu.",
+      "meaning": "Tamu berada di resepsionis.",
+      "commonMistake": "Jangan gunakan あります untuk keberadaan orang."
+    },
+    "dialogue": [
+      "たなかさんは どこに いますか。",
+      "じむしょに います。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Tanaka berada di mana?",
+      "options": [
+        "Stasiun",
+        "Kantor",
+        "Kantin"
+      ],
+      "answer": 1,
+      "explanation": "じむしょ berarti kantor."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きょうしつに せんせいが います。 じむしょには だれも いません。 Siapa yang ada di kantor?",
+        "options": [
+          "Tidak seorang pun",
+          "Guru",
+          "Pelanggan"
+        ],
+        "answer": 0,
+        "explanation": "だれも いません menyatakan tidak ada orang."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi kata kerja: ねこが ___。 (Ada kucing.)",
+        "answers": [
+          "います"
+        ],
+        "explanation": "Untuk hewan gunakan います."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: おきゃくさんは うけつけに います。",
+        "options": [
+          "Tamu pergi ke kantor.",
+          "Resepsionis tidak ada.",
+          "Tamu berada di resepsionis."
+        ],
+        "answer": 2,
+        "explanation": "Tamu berada di resepsionis."
+      }
+    ],
+    "roleplay": "Tanyakan lokasi seorang rekan dan jawab bahwa ia ada di kantor.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-position",
+    "stage": "F1",
+    "title": "Posisi relatif dengan うえ・した・となり",
+    "canDo": "Menerangkan posisi benda terhadap benda lain.",
+    "vocab": [
+      [
+        "うえ",
+        "ue",
+        "atas"
+      ],
+      [
+        "した",
+        "shita",
+        "bawah"
+      ],
+      [
+        "となり",
+        "tonari",
+        "sebelah"
+      ],
+      [
+        "なか",
+        "naka",
+        "dalam"
+      ],
+      [
+        "はこ",
+        "hako",
+        "kotak"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[benda] は [acuan] の [posisi] に あります。",
+      "explanation": "Gunakan の untuk menghubungkan benda acuan dan kata posisi. に menunjukkan tempat keberadaan. Kanji: 上（うえ）atas、下（した）bawah、中（なか）dalam.",
+      "example": "かぎは はこの なかに あります。",
+      "romaji": "Kagi wa hako no naka ni arimasu.",
+      "meaning": "Kunci ada di dalam kotak.",
+      "commonMistake": "Jangan hilangkan の dalam はこの なか."
+    },
+    "dialogue": [
+      "かばんは どこに ありますか。",
+      "つくえの したに あります。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana letak tas?",
+      "options": [
+        "Di bawah meja",
+        "Di atas meja",
+        "Di dalam kotak"
+      ],
+      "answer": 0,
+      "explanation": "した berarti bawah."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: つくえの うえに ほんが あります。 ほんの となりに ペンが あります。 Di mana pena?",
+        "options": [
+          "Di bawah meja",
+          "Di dalam tas",
+          "Di sebelah buku"
+        ],
+        "answer": 2,
+        "explanation": "となり berarti sebelah."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi: はこ___ なかに あります。",
+        "answers": [
+          "の"
+        ],
+        "explanation": "の menghubungkan acuan dengan posisi."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: かぎは はこの なかに あります。",
+        "options": [
+          "Kunci ada di bawah kotak.",
+          "Kunci ada di dalam kotak.",
+          "Kunci ada di atas kotak."
+        ],
+        "answer": 1,
+        "explanation": "Kunci ada di dalam kotak."
+      }
+    ],
+    "roleplay": "Jelaskan letak dua benda di ruanganmu.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-action-de",
+    "stage": "F1",
+    "title": "Lokasi aktivitas dengan で",
+    "canDo": "Membedakan tempat melakukan kegiatan dan tempat keberadaan.",
+    "vocab": [
+      [
+        "しょくどう",
+        "shokudou",
+        "kantin"
+      ],
+      [
+        "としょかん",
+        "toshokan",
+        "perpustakaan"
+      ],
+      [
+        "べんきょうします",
+        "benkyou shimasu",
+        "belajar"
+      ],
+      [
+        "たべます",
+        "tabemasu",
+        "makan"
+      ],
+      [
+        "よみます",
+        "yomimasu",
+        "membaca"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[tempat] で [aktivitas]。",
+      "explanation": "で menandai tempat aktivitas, に menandai keberadaan atau tujuan gerak. Bentuk sopan: よむ→よみます、たべる→たべます、べんきょうする→べんきょうします。 Kanji: 図書館（としょかん）perpustakaan.",
+      "example": "としょかんで ほんを よみます。",
+      "romaji": "Toshokan de hon o yomimasu.",
+      "meaning": "Saya membaca buku di perpustakaan.",
+      "commonMistake": "Jangan mengganti で dengan に pada aktivitas membaca buku."
+    },
+    "dialogue": [
+      "どこで ひるごはんを たべますか。",
+      "しょくどうで たべます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana orang itu makan siang?",
+      "options": [
+        "Perpustakaan",
+        "Kantor",
+        "Kantin"
+      ],
+      "answer": 2,
+      "explanation": "しょくどう berarti kantin."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: まいにち としょかんで べんきょうします。 ひるは しょくどうで たべます。 Di mana ia belajar?",
+        "options": [
+          "Rumah",
+          "Perpustakaan",
+          "Kantin"
+        ],
+        "answer": 1,
+        "explanation": "としょかんで べんきょうします berarti belajar di perpustakaan."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi: しょくどう___ ごはんを たべます。",
+        "answers": [
+          "で"
+        ],
+        "explanation": "で menandai tempat makan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: としょかんで ほんを よみます。",
+        "options": [
+          "Saya membaca buku di perpustakaan.",
+          "Saya pergi ke perpustakaan.",
+          "Buku ada di perpustakaan."
+        ],
+        "answer": 0,
+        "explanation": "Saya membaca buku di perpustakaan."
+      }
+    ],
+    "roleplay": "Sebutkan tempatmu belajar dan makan siang.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-time-ni",
+    "stage": "F1",
+    "title": "Waktu tertentu dengan に",
+    "canDo": "Menyatakan waktu kegiatan harian secara spesifik.",
+    "vocab": [
+      [
+        "おきます",
+        "okimasu",
+        "bangun"
+      ],
+      [
+        "ねます",
+        "nemasu",
+        "tidur"
+      ],
+      [
+        "しごと",
+        "shigoto",
+        "pekerjaan"
+      ],
+      [
+        "あさ",
+        "asa",
+        "pagi"
+      ],
+      [
+        "まいばん",
+        "maiban",
+        "setiap malam"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[jam] に [Vます]。",
+      "explanation": "に digunakan setelah waktu tertentu, misalnya ６じ. Ungkapan relatif seperti きょう、あした、まいばん biasanya tidak memerlukan に. おきる→おきます、ねる→ねます。 Kanji: 朝（あさ）pagi.",
+      "example": "あさ ６じに おきます。",
+      "romaji": "Asa rokuji ni okimasu.",
+      "meaning": "Saya bangun pukul enam pagi.",
+      "commonMistake": "Jangan menambahkan に secara otomatis setelah まいばん."
+    },
+    "dialogue": [
+      "なんじに ねますか。",
+      "１１じに ねます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Pukul berapa ia tidur?",
+      "options": [
+        "10",
+        "11",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "１１じに ねます menyebut jam tidur."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: まいあさ ７じに おきます。 ８じに うちを でます。 Pukul berapa ia keluar rumah?",
+        "options": [
+          "8",
+          "7",
+          "9"
+        ],
+        "answer": 0,
+        "explanation": "８じに うちを でます berarti keluar rumah pukul delapan."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi: ６じ___ おきます。",
+        "answers": [
+          "に"
+        ],
+        "explanation": "に menunjukkan waktu tertentu."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: あさ ６じに おきます。",
+        "options": [
+          "Saya tidur pukul enam pagi.",
+          "Saya bekerja pukul enam pagi.",
+          "Saya bangun pukul enam pagi."
+        ],
+        "answer": 2,
+        "explanation": "Saya bangun pukul enam pagi."
+      }
+    ],
+    "roleplay": "Ceritakan jam bangun dan jam tidurmu.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-hours",
+    "stage": "F1",
+    "title": "Rentang waktu から・まで",
+    "canDo": "Menanyakan dan menyebut jam operasional.",
+    "vocab": [
+      [
+        "はじまります",
+        "hajimarimasu",
+        "mulai"
+      ],
+      [
+        "おわります",
+        "owarimasu",
+        "selesai"
+      ],
+      [
+        "えいぎょう",
+        "eigyou",
+        "operasional"
+      ],
+      [
+        "ごぜん",
+        "gozen",
+        "AM atau sebelum tengah hari"
+      ],
+      [
+        "ごご",
+        "gogo",
+        "PM atau setelah tengah hari"
+      ]
+    ],
+    "grammar": {
+      "pattern": "[awal] から [akhir] まで",
+      "explanation": "から menunjukkan titik awal, まで titik akhir. Keduanya dapat digunakan terpisah. はじまる→はじまります、おわる→おわります。 Kanji: 午前（ごぜん）、午後（ごご）。",
+      "example": "みせは ごぜん ９じから ごご ５じまでです。",
+      "romaji": "Mise wa gozen kuji kara gogo goji made desu.",
+      "meaning": "Toko buka dari pukul 9 pagi sampai 5 sore.",
+      "commonMistake": "Jangan menukar から dan まで."
+    },
+    "dialogue": [
+      "ぎんこうは なんじまでですか。",
+      "ごご ３じまでです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bank tutup pukul berapa?",
+      "options": [
+        "3 sore",
+        "3 pagi",
+        "5 sore"
+      ],
+      "answer": 0,
+      "explanation": "ごご ３じまで berarti sampai pukul tiga sore."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きょうの じゅぎょうは １０じから １２じまでです。 そのあと ひるごはんを たべます。 Kapan pelajaran selesai?",
+        "options": [
+          "10",
+          "13",
+          "12"
+        ],
+        "answer": 2,
+        "explanation": "１２じまで menandai waktu akhir."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi: ９じから ５じ___ です。",
+        "answers": [
+          "まで"
+        ],
+        "explanation": "まで menunjukkan akhir rentang."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: みせは ごぜん ９じから ごご ５じまでです。",
+        "options": [
+          "Toko tutup pukul 9 pagi.",
+          "Toko buka dari pukul 9 pagi sampai 5 sore.",
+          "Toko buka pukul 5 pagi sampai 9 malam."
+        ],
+        "answer": 1,
+        "explanation": "Toko buka dari pukul 9 pagi sampai 5 sore."
+      }
+    ],
+    "roleplay": "Tanyakan jam tutup toko lalu jawab menggunakan まで.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-negative",
+    "stage": "F1",
+    "title": "Bentuk sopan negatif ません",
+    "canDo": "Menyatakan kegiatan yang tidak dilakukan.",
+    "vocab": [
+      [
+        "のみます",
+        "nomimasu",
+        "minum"
+      ],
+      [
+        "つかいます",
+        "tsukaimasu",
+        "menggunakan"
+      ],
+      [
+        "みます",
+        "mimasu",
+        "melihat atau menonton"
+      ],
+      [
+        "しゅうまつ",
+        "shuumatsu",
+        "akhir pekan"
+      ],
+      [
+        "おさけ",
+        "osake",
+        "minuman beralkohol"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vます → Vません",
+      "explanation": "Ganti akhiran ます dengan ません untuk bentuk sopan nonlampau negatif. のむ→のみます→のみません、みる→みます→みません、する→します→しません。 Kanji: 飲（の）む minum.",
+      "example": "わたしは おさけを のみません。",
+      "romaji": "Watashi wa osake o nomimasen.",
+      "meaning": "Saya tidak minum minuman beralkohol.",
+      "commonMistake": "Jangan menggabungkan ます dan ません menjadi のみますません."
+    },
+    "dialogue": [
+      "しゅうまつに はたらきますか。",
+      "いいえ、はたらきません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah ia bekerja akhir pekan?",
+      "options": [
+        "Ya",
+        "Hanya malam",
+        "Tidak"
+      ],
+      "answer": 2,
+      "explanation": "はたらきません adalah bentuk negatif."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あさは コーヒーを のみます。 よるは コーヒーを のみません。 Kapan ia tidak minum kopi?",
+        "options": [
+          "Sepanjang hari",
+          "Malam",
+          "Pagi"
+        ],
+        "answer": 1,
+        "explanation": "よるは のみません menunjukkan kegiatan yang tidak dilakukan malam hari."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah つかいます menjadi bentuk sopan negatif.",
+        "answers": [
+          "つかいません"
+        ],
+        "explanation": "Ganti ます dengan ません."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: わたしは おさけを のみません。",
+        "options": [
+          "Saya tidak minum minuman beralkohol.",
+          "Saya minum setiap malam.",
+          "Saya tidak minum kemarin."
+        ],
+        "answer": 0,
+        "explanation": "Saya tidak minum minuman beralkohol."
+      }
+    ],
+    "roleplay": "Sebutkan satu hal yang biasanya tidak kamu lakukan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-past",
+    "stage": "F1",
+    "title": "Bentuk sopan lampau ました",
+    "canDo": "Menceritakan aktivitas yang sudah dilakukan.",
+    "vocab": [
+      [
+        "かきます",
+        "kakimasu",
+        "menulis"
+      ],
+      [
+        "ききます",
+        "kikimasu",
+        "mendengar atau bertanya"
+      ],
+      [
+        "かえります",
+        "kaerimasu",
+        "pulang"
+      ],
+      [
+        "きのう",
+        "kinou",
+        "kemarin"
+      ],
+      [
+        "けさ",
+        "kesa",
+        "tadi pagi"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vます → Vました",
+      "explanation": "Ganti ます dengan ました untuk bentuk sopan lampau positif. かく→かきます→かきました、きく→ききます→ききました、する→します→しました。 Kanji: 昨日（きのう）kemarin.",
+      "example": "きのう メールを かきました。",
+      "romaji": "Kinou meeru o kakimashita.",
+      "meaning": "Kemarin saya menulis email.",
+      "commonMistake": "Untuk kegiatan selesai kemarin, gunakan ました, bukan ます."
+    },
+    "dialogue": [
+      "けさ なにを しましたか。",
+      "ニュースを ききました。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang dilakukan tadi pagi?",
+      "options": [
+        "Pulang",
+        "Mendengarkan berita",
+        "Menulis email"
+      ],
+      "answer": 1,
+      "explanation": "ニュースを ききました berarti mendengarkan berita."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きのう ６じに かえりました。 うちで ほんを よみました。 Apa yang ia lakukan di rumah?",
+        "options": [
+          "Membaca buku",
+          "Menulis email",
+          "Mendengarkan berita"
+        ],
+        "answer": 0,
+        "explanation": "ほんを よみました berarti membaca buku."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah かえります menjadi bentuk sopan lampau.",
+        "answers": [
+          "かえりました"
+        ],
+        "explanation": "Ganti ます dengan ました."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きのう メールを かきました。",
+        "options": [
+          "Besok saya menulis email.",
+          "Kemarin saya tidak menulis email.",
+          "Kemarin saya menulis email."
+        ],
+        "answer": 2,
+        "explanation": "Kemarin saya menulis email."
+      }
+    ],
+    "roleplay": "Ceritakan dua kegiatan yang kamu lakukan kemarin.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-past-negative",
+    "stage": "F1",
+    "title": "Bentuk sopan lampau negatif ませんでした",
+    "canDo": "Menjelaskan kegiatan yang tidak terjadi di masa lalu.",
+    "vocab": [
+      [
+        "いきます",
+        "ikimasu",
+        "pergi"
+      ],
+      [
+        "かいます",
+        "kaimasu",
+        "membeli"
+      ],
+      [
+        "あいます",
+        "aimasu",
+        "bertemu"
+      ],
+      [
+        "せんしゅう",
+        "senshuu",
+        "minggu lalu"
+      ],
+      [
+        "やすみ",
+        "yasumi",
+        "libur atau istirahat"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vます → Vませんでした",
+      "explanation": "Untuk negatif lampau sopan, ganti ます dengan ませんでした. いく→いきます→いきませんでした、かう→かいます→かいませんでした。 Kanji: 先週（せんしゅう）minggu lalu.",
+      "example": "せんしゅう えいがを みませんでした。",
+      "romaji": "Senshuu eiga o mimasen deshita.",
+      "meaning": "Minggu lalu saya tidak menonton film.",
+      "commonMistake": "ません saja bukan bentuk negatif lampau."
+    },
+    "dialogue": [
+      "きのう スーパーに いきましたか。",
+      "いいえ、いきませんでした。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah ia pergi ke supermarket kemarin?",
+      "options": [
+        "Tidak",
+        "Ya",
+        "Tidak diketahui"
+      ],
+      "answer": 0,
+      "explanation": "いきませんでした menyatakan tidak pergi pada masa lalu."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きのう スーパーに いきました。 でも、パンを かいませんでした。 Apa yang tidak ia lakukan?",
+        "options": [
+          "Pergi ke supermarket",
+          "Pulang",
+          "Membeli roti"
+        ],
+        "answer": 2,
+        "explanation": "パンを かいませんでした berarti tidak membeli roti."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah あいます menjadi bentuk sopan negatif lampau.",
+        "answers": [
+          "あいませんでした"
+        ],
+        "explanation": "Ganti ます dengan ませんでした."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: せんしゅう えいがを みませんでした。",
+        "options": [
+          "Minggu lalu saya menonton film.",
+          "Minggu lalu saya tidak menonton film.",
+          "Minggu depan saya tidak menonton film."
+        ],
+        "answer": 1,
+        "explanation": "Minggu lalu saya tidak menonton film."
+      }
+    ],
+    "roleplay": "Jawab pertanyaan tentang kegiatan kemarin dengan bentuk negatif lampau.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m2-invite",
+    "stage": "F1",
+    "title": "Ajakan dengan ませんか・ましょう",
+    "canDo": "Mengajak rekan melakukan kegiatan dan memberi respons sopan.",
+    "vocab": [
+      [
+        "いっしょに",
+        "issho ni",
+        "bersama"
+      ],
+      [
+        "ひるごはん",
+        "hirugohan",
+        "makan siang"
+      ],
+      [
+        "さんぽします",
+        "sanpo shimasu",
+        "berjalan-jalan"
+      ],
+      [
+        "いいですね",
+        "ii desu ne",
+        "bagus, ide yang baik"
+      ],
+      [
+        "ちょっと",
+        "chotto",
+        "sedikit atau ungkapan penolakan halus"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vませんか / Vましょう",
+      "explanation": "Vませんか dapat berfungsi sebagai ajakan, bukan sekadar pertanyaan negatif. Vましょう mengusulkan atau menyetujui kegiatan bersama. さんぽする→さんぽします→さんぽしませんか→さんぽしましょう。 Kanji: 一緒（いっしょ）bersama.",
+      "example": "いっしょに ひるごはんを たべませんか。",
+      "romaji": "Issho ni hirugohan o tabemasen ka.",
+      "meaning": "Maukah makan siang bersama?",
+      "commonMistake": "Jangan mengartikan semua ませんか sebagai penolakan; perhatikan konteks ajakan."
+    },
+    "dialogue": [
+      "いっしょに さんぽしませんか。",
+      "いいですね。 さんぽしましょう。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa respons lawan bicara?",
+      "options": [
+        "Menolak ajakan",
+        "Menanyakan harga",
+        "Menerima ajakan"
+      ],
+      "answer": 2,
+      "explanation": "いいですね dan ましょう menunjukkan penerimaan."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: A: コーヒーを のみませんか。 B: すみません、きょうは ちょっと…。 Apakah B menerima ajakan?",
+        "options": [
+          "B meminta kopi tambahan",
+          "Tidak, menolak secara halus",
+          "Ya, langsung menerima"
+        ],
+        "answer": 1,
+        "explanation": "すみません、きょうは ちょっと… adalah cara menolak secara halus."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah たべます menjadi bentuk ajakan ましょう.",
+        "answers": [
+          "たべましょう"
+        ],
+        "explanation": "Ganti ます dengan ましょう."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: いっしょに ひるごはんを たべませんか。",
+        "options": [
+          "Maukah makan siang bersama?",
+          "Saya tidak makan siang.",
+          "Saya sudah makan siang."
+        ],
+        "answer": 0,
+        "explanation": "Maukah makan siang bersama?"
+      }
+    ],
+    "roleplay": "Ajak teman makan siang dan praktikkan respons menerima serta menolak dengan sopan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-size",
+    "stage": "F1",
+    "title": "Memilih ukuran pakaian",
+    "canDo": "Meminta ukuran atau warna lain di toko.",
+    "vocab": [
+      [
+        "サイズ",
+        "saizu",
+        "ukuran"
+      ],
+      [
+        "シャツ",
+        "shatsu",
+        "kemeja"
+      ],
+      [
+        "おおきい",
+        "ookii",
+        "besar"
+      ],
+      [
+        "ちいさい",
+        "chiisai",
+        "kecil"
+      ],
+      [
+        "いろ",
+        "iro",
+        "warna"
+      ]
+    ],
+    "grammar": {
+      "pattern": "N の サイズ / もっと + sifat",
+      "explanation": "Partikel の menghubungkan benda dan ukuran. もっと menyatakan derajat lebih. おおきい langsung menerangkan シャツ; tidak memakai な. Kanji: 大きい（おおきい）, 小さい（ちいさい）.",
+      "example": "もっと ちいさい シャツは ありますか。",
+      "romaji": "Motto chiisai shatsu wa arimasu ka.",
+      "meaning": "Apakah ada kemeja yang lebih kecil?",
+      "commonMistake": "Jangan menulis ちいさいな シャツ; ちいさい adalah kata sifat い."
+    },
+    "dialogue": [
+      "この シャツは おおきいです。 Mサイズは ありますか。",
+      "はい、あります。 こちらです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Ukuran apa yang diminta pembeli?",
+      "options": [
+        "Ukuran M",
+        "Ukuran L",
+        "Ukuran S"
+      ],
+      "answer": 0,
+      "explanation": "Pembeli mengatakan Mサイズ."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: くろい シャツは ありません。 しろい シャツは あります。 Warna apa yang tersedia?",
+        "options": [
+          "Biru",
+          "Putih",
+          "Hitam"
+        ],
+        "answer": 1,
+        "explanation": "しろい berarti putih; ありません menunjukkan tidak tersedia."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi kata yang berarti 'lebih': ___ ちいさい シャツ。",
+        "answers": [
+          "もっと"
+        ],
+        "explanation": "もっと berarti lebih."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: もっと ちいさい シャツは ありますか。",
+        "options": [
+          "Apakah ada kemeja lebih besar?",
+          "Kemeja ini terlalu mahal.",
+          "Apakah ada kemeja yang lebih kecil?"
+        ],
+        "answer": 2,
+        "explanation": "Apakah ada kemeja yang lebih kecil?"
+      }
+    ],
+    "roleplay": "Minta ukuran lain dan tanyakan apakah warna pilihanmu tersedia.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-quantity",
+    "stage": "F1",
+    "title": "Memesan jumlah barang",
+    "canDo": "Menyatakan jumlah barang dengan penghitung umum dan 枚.",
+    "vocab": [
+      [
+        "ひとつ",
+        "hitotsu",
+        "satu buah"
+      ],
+      [
+        "ふたつ",
+        "futatsu",
+        "dua buah"
+      ],
+      [
+        "みっつ",
+        "mittsu",
+        "tiga buah"
+      ],
+      [
+        "まい",
+        "mai",
+        "penghitung benda tipis"
+      ],
+      [
+        "レシート",
+        "reshiito",
+        "struk"
+      ]
+    ],
+    "grammar": {
+      "pattern": "N を jumlah + ください",
+      "explanation": "Jumlah dapat diletakkan sesudah objek berpartikel を. Gunakan ～つ untuk benda umum dan ～まい untuk benda tipis seperti tiket atau kertas. Kanji: 枚（まい）.",
+      "example": "きっぷを にまい ください。",
+      "romaji": "Kippu o nimai kudasai.",
+      "meaning": "Tolong dua lembar tiket.",
+      "commonMistake": "にまい bukan にまいつ; jangan mencampur penghitung."
+    },
+    "dialogue": [
+      "おにぎりは いくつ いりますか。",
+      "みっつ ください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Berapa onigiri yang dipesan?",
+      "options": [
+        "Satu",
+        "Tiga",
+        "Dua"
+      ],
+      "answer": 1,
+      "explanation": "みっつ berarti tiga buah."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: パンを ふたつ、ジュースを ひとつ ください。 Berapa roti yang diminta?",
+        "options": [
+          "Satu",
+          "Tiga",
+          "Dua"
+        ],
+        "answer": 2,
+        "explanation": "ふたつ menerangkan jumlah roti."
+      },
+      {
+        "type": "input",
+        "prompt": "Lengkapi 'tiga buah' dengan hiragana.",
+        "answers": [
+          "みっつ"
+        ],
+        "explanation": "Bentuk penghitung umum untuk tiga adalah みっつ."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きっぷを にまい ください。",
+        "options": [
+          "Tolong dua lembar tiket.",
+          "Tolong tiga lembar tiket.",
+          "Tolong satu lembar tiket."
+        ],
+        "answer": 0,
+        "explanation": "Tolong dua lembar tiket."
+      }
+    ],
+    "roleplay": "Pesan dua jenis barang dengan jumlah berbeda.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-try-on",
+    "stage": "F1",
+    "title": "Mencoba pakaian dan sepatu",
+    "canDo": "Meminta izin mencoba barang sebelum membeli.",
+    "vocab": [
+      [
+        "しちゃく",
+        "shichaku",
+        "mencoba pakaian"
+      ],
+      [
+        "くつ",
+        "kutsu",
+        "sepatu"
+      ],
+      [
+        "はきます",
+        "hakimasu",
+        "memakai sepatu"
+      ],
+      [
+        "きます",
+        "kimasu",
+        "memakai pakaian atas"
+      ],
+      [
+        "かがみ",
+        "kagami",
+        "cermin"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vます tanpa ます + たいです / Vてもいいですか",
+      "explanation": "Vたい menyatakan keinginan penutur. Bentuk ます tanpa ます + たい: ためします→ためしたい, はきます→はきたい. Untuk meminta izin di toko, gunakan bentuk てもいいですか sebagai ungkapan siap pakai.",
+      "example": "この くつを はいてもいいですか。",
+      "romaji": "Kono kutsu o haite mo ii desu ka.",
+      "meaning": "Bolehkah saya mencoba memakai sepatu ini?",
+      "commonMistake": "はく→はいて; untuk sepatu gunakan はく, bukan きる."
+    },
+    "dialogue": [
+      "この コートを しちゃくしたいです。",
+      "どうぞ。 かがみは あちらです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang ingin dicoba pembeli?",
+      "options": [
+        "Topi",
+        "Sepatu",
+        "Mantel"
+      ],
+      "answer": 2,
+      "explanation": "コート berarti mantel."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: しちゃくしつは ふたつ あります。 ひとつは いま つかえません。 Berapa ruang pas yang bisa dipakai sekarang?",
+        "options": [
+          "Satu",
+          "Dua",
+          "Tidak ada"
+        ],
+        "answer": 0,
+        "explanation": "Salah satu dari dua ruang tidak dapat digunakan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah はきます menjadi bentuk keinginan たい (tanpa です).",
+        "answers": [
+          "はきたい"
+        ],
+        "explanation": "Hapus ます lalu tambah たい."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この くつを はいてもいいですか。",
+        "options": [
+          "Saya sudah membeli sepatu ini.",
+          "Bolehkah saya mencoba memakai sepatu ini?",
+          "Apakah sepatu ini murah?"
+        ],
+        "answer": 1,
+        "explanation": "Bolehkah saya mencoba memakai sepatu ini?"
+      }
+    ],
+    "roleplay": "Minta izin mencoba pakaian dan tanyakan lokasi cermin.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-destination",
+    "stage": "F1",
+    "title": "Tujuan dengan へ dan に",
+    "canDo": "Menanyakan arah keberangkatan dan tujuan kendaraan.",
+    "vocab": [
+      [
+        "えき",
+        "eki",
+        "stasiun"
+      ],
+      [
+        "くうこう",
+        "kuukou",
+        "bandara"
+      ],
+      [
+        "いき",
+        "iki",
+        "menuju"
+      ],
+      [
+        "のりば",
+        "noriba",
+        "tempat naik"
+      ],
+      [
+        "バスてい",
+        "basutei",
+        "halte bus"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Tempat へ / に いきます",
+      "explanation": "へ dibaca e dan menandai arah. に dapat menandai tujuan. で menandai sarana transportasi. Label kendaraan ～いき berarti menuju suatu tempat. Kanji: 駅（えき）.",
+      "example": "くうこうへ バスで いきます。",
+      "romaji": "Kuukou e basu de ikimasu.",
+      "meaning": "Saya pergi ke bandara dengan bus.",
+      "commonMistake": "Jangan memakai バスに sebagai sarana untuk いきます; gunakan バスで."
+    },
+    "dialogue": [
+      "この バスは えきへ いきますか。",
+      "いいえ、くうこういきです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Ke mana bus itu menuju?",
+      "options": [
+        "Bandara",
+        "Stasiun",
+        "Rumah sakit"
+      ],
+      "answer": 0,
+      "explanation": "くうこういき berarti menuju bandara."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: １ばんのりばは えきいきです。 ２ばんのりばは くうこういきです。 Di mana naik bus menuju bandara?",
+        "options": [
+          "Di stasiun",
+          "Tempat naik nomor 2",
+          "Tempat naik nomor 1"
+        ],
+        "answer": 1,
+        "explanation": "２ばん adalah nomor dua."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi partikel arah: くうこう ___ いきます。 Gunakan partikel yang dibaca e.",
+        "answers": [
+          "へ"
+        ],
+        "explanation": "へ dibaca e ketika menjadi partikel."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: くうこうへ バスで いきます。",
+        "options": [
+          "Saya pergi ke bandara dengan kereta.",
+          "Saya datang dari bandara dengan bus.",
+          "Saya pergi ke bandara dengan bus."
+        ],
+        "answer": 2,
+        "explanation": "Saya pergi ke bandara dengan bus."
+      }
+    ],
+    "roleplay": "Tanyakan kendaraan mana yang menuju tempat pilihanmu.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-transfer",
+    "stage": "F1",
+    "title": "Naik, turun dan pindah kendaraan",
+    "canDo": "Memahami petunjuk perpindahan kereta.",
+    "vocab": [
+      [
+        "のります",
+        "norimasu",
+        "naik kendaraan"
+      ],
+      [
+        "おります",
+        "orimasu",
+        "turun kendaraan"
+      ],
+      [
+        "のりかえます",
+        "norikaemasu",
+        "berganti kendaraan"
+      ],
+      [
+        "ちかてつ",
+        "chikatetsu",
+        "kereta bawah tanah"
+      ],
+      [
+        "つぎ",
+        "tsugi",
+        "berikutnya"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Kendaraan に のります / を おります",
+      "explanation": "に menandai kendaraan yang dinaiki, を menandai kendaraan yang ditinggalkan. Tempat perpindahan memakai で: えきで のりかえます. Kanji: 乗る（のる）, 降りる（おりる）.",
+      "example": "つぎの えきで ちかてつに のりかえます。",
+      "romaji": "Tsugi no eki de chikatetsu ni norikaemasu.",
+      "meaning": "Saya berganti ke kereta bawah tanah di stasiun berikutnya.",
+      "commonMistake": "Jangan menyamakan pola partikel のる dan おりる."
+    },
+    "dialogue": [
+      "どこで のりかえますか。",
+      "つぎの えきで のりかえます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana penumpang berganti kendaraan?",
+      "options": [
+        "Halte pertama",
+        "Stasiun berikutnya",
+        "Stasiun sebelumnya"
+      ],
+      "answer": 1,
+      "explanation": "つぎ berarti berikutnya."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: バスを おります。 それから でんしゃに のります。 Kendaraan apa yang dinaiki setelah turun bus?",
+        "options": [
+          "Bus",
+          "Taksi",
+          "Kereta"
+        ],
+        "answer": 2,
+        "explanation": "でんしゃに のります berarti naik kereta."
+      },
+      {
+        "type": "input",
+        "prompt": "Isi partikel: でんしゃ ___ おります。",
+        "answers": [
+          "を"
+        ],
+        "explanation": "を menandai kendaraan yang ditinggalkan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: つぎの えきで ちかてつに のりかえます。",
+        "options": [
+          "Saya berganti ke kereta bawah tanah di stasiun berikutnya.",
+          "Saya turun dari kereta bawah tanah di stasiun berikutnya.",
+          "Saya pergi ke stasiun berikutnya dengan bus."
+        ],
+        "answer": 0,
+        "explanation": "Saya berganti ke kereta bawah tanah di stasiun berikutnya."
+      }
+    ],
+    "roleplay": "Jelaskan rute dengan satu kali perpindahan kendaraan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-duration",
+    "stage": "F1",
+    "title": "Durasi perjalanan dan tarif",
+    "canDo": "Menanyakan lama perjalanan dan biaya.",
+    "vocab": [
+      [
+        "どのくらい",
+        "dono kurai",
+        "berapa lama/kira-kira berapa"
+      ],
+      [
+        "ふん",
+        "fun",
+        "menit"
+      ],
+      [
+        "かかります",
+        "kakarimasu",
+        "memerlukan waktu atau biaya"
+      ],
+      [
+        "うんちん",
+        "unchin",
+        "tarif"
+      ],
+      [
+        "やく",
+        "yaku",
+        "sekitar"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Tempat まで waktu が かかります",
+      "explanation": "まで menyatakan batas tujuan. Durasi dapat diikuti が かかります atau langsung かかります. どのくらい menanyakan perkiraan waktu atau jumlah. Kanji: 分（ふん・ぷん）.",
+      "example": "えきまで じゅっぷん かかります。",
+      "romaji": "Eki made juppun kakarimasu.",
+      "meaning": "Perjalanan sampai stasiun memerlukan sepuluh menit.",
+      "commonMistake": "じゅっぷん adalah bacaan sepuluh menit; jangan じゅうふん."
+    },
+    "dialogue": [
+      "くうこうまで どのくらい かかりますか。",
+      "やく さんじゅっぷんです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Berapa lama perjalanan menurut dialog?",
+      "options": [
+        "Sekitar 13 menit",
+        "Sekitar 3 menit",
+        "Sekitar 30 menit"
+      ],
+      "answer": 2,
+      "explanation": "さんじゅっぷん adalah tiga puluh menit."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: バスは ２００えんです。 タクシーは １０００えんです。 Berapa tarif bus?",
+        "options": [
+          "200 yen",
+          "1000 yen",
+          "1200 yen"
+        ],
+        "answer": 0,
+        "explanation": "２００えん tertulis untuk bus."
+      },
+      {
+        "type": "input",
+        "prompt": "Tulis sepuluh menit dalam hiragana (bacaan dengan じゅっ).",
+        "answers": [
+          "じゅっぷん"
+        ],
+        "explanation": "十 分 dibaca じゅっぷん dalam contoh ini."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: えきまで じゅっぷん かかります。",
+        "options": [
+          "Stasiun buka pukul sepuluh.",
+          "Perjalanan sampai stasiun memerlukan sepuluh menit.",
+          "Perjalanan sampai stasiun memerlukan satu jam."
+        ],
+        "answer": 1,
+        "explanation": "Perjalanan sampai stasiun memerlukan sepuluh menit."
+      }
+    ],
+    "roleplay": "Tanyakan durasi perjalanan dan tarif kendaraan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-i-negative",
+    "stage": "F1",
+    "title": "Negatif kata sifat い",
+    "canDo": "Mengatakan bahwa sesuatu tidak memiliki sifat tertentu.",
+    "vocab": [
+      [
+        "たかい",
+        "takai",
+        "mahal/tinggi"
+      ],
+      [
+        "やすい",
+        "yasui",
+        "murah"
+      ],
+      [
+        "おもい",
+        "omoi",
+        "berat"
+      ],
+      [
+        "かるい",
+        "karui",
+        "ringan"
+      ],
+      [
+        "いい",
+        "ii",
+        "baik"
+      ]
+    ],
+    "grammar": {
+      "pattern": "い-adj: い→くないです",
+      "explanation": "Hilangkan い terakhir dan tambah くないです: たかい→たかくないです. Pengecualian いい→よくないです. Kanji: 高い（たかい）, 安い（やすい）.",
+      "example": "この かばんは おもくないです。",
+      "romaji": "Kono kaban wa omokunai desu.",
+      "meaning": "Tas ini tidak berat.",
+      "commonMistake": "Jangan menulis おもいじゃないです untuk bentuk baku kata sifat い."
+    },
+    "dialogue": [
+      "この カメラは たかいですか。",
+      "いいえ、たかくないです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana harga kamera menurut jawaban?",
+      "options": [
+        "Tidak mahal",
+        "Mahal",
+        "Tidak dijual"
+      ],
+      "answer": 0,
+      "explanation": "たかくない adalah bentuk negatif たかい."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この くつは やすいです。 でも、かるくないです。 Apa kekurangan sepatu?",
+        "options": [
+          "Tidak tersedia",
+          "Tidak ringan",
+          "Tidak murah"
+        ],
+        "answer": 1,
+        "explanation": "かるくない berarti tidak ringan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah いい menjadi negatif biasa.",
+        "answers": [
+          "よくない"
+        ],
+        "explanation": "いい berubah melalui bentuk よい: よくない."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この かばんは おもくないです。",
+        "options": [
+          "Tas ini berat.",
+          "Tas ini tidak murah.",
+          "Tas ini tidak berat."
+        ],
+        "answer": 2,
+        "explanation": "Tas ini tidak berat."
+      }
+    ],
+    "roleplay": "Deskripsikan barang dengan satu kata sifat positif dan negatif.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-i-past",
+    "stage": "F1",
+    "title": "Lampau kata sifat い",
+    "canDo": "Menceritakan cuaca dan pengalaman masa lalu.",
+    "vocab": [
+      [
+        "あつい",
+        "atsui",
+        "panas"
+      ],
+      [
+        "さむい",
+        "samui",
+        "dingin"
+      ],
+      [
+        "たのしい",
+        "tanoshii",
+        "menyenangkan"
+      ],
+      [
+        "おいしい",
+        "oishii",
+        "enak"
+      ],
+      [
+        "きのう",
+        "kinou",
+        "kemarin"
+      ]
+    ],
+    "grammar": {
+      "pattern": "い-adj: い→かったです",
+      "explanation": "Untuk lampau positif, ganti い terakhir dengan かったです: さむい→さむかったです. いい→よかったです. Kanji: 昨日（きのう）.",
+      "example": "きのうは とても さむかったです。",
+      "romaji": "Kinou wa totemo samukatta desu.",
+      "meaning": "Kemarin sangat dingin.",
+      "commonMistake": "Jangan menggunakan さむいでした; kata sifat い berubah sendiri."
+    },
+    "dialogue": [
+      "りょこうは どうでしたか。",
+      "とても たのしかったです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana pengalaman wisata itu?",
+      "options": [
+        "Tidak menyenangkan",
+        "Sangat menyenangkan",
+        "Sangat dingin"
+      ],
+      "answer": 1,
+      "explanation": "たのしかった menyatakan lampau positif."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きのうの カレーは おいしかったです。 きょうは まだ たべていません。 Kapan ia makan kari yang enak?",
+        "options": [
+          "Hari ini",
+          "Besok",
+          "Kemarin"
+        ],
+        "answer": 2,
+        "explanation": "きのう dan おいしかった menunjukkan pengalaman kemarin."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah あつい menjadi lampau sopan.",
+        "answers": [
+          "あつかったです"
+        ],
+        "explanation": "あつい→あつかったです."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きのうは とても さむかったです。",
+        "options": [
+          "Kemarin sangat dingin.",
+          "Hari ini sangat dingin.",
+          "Kemarin tidak dingin."
+        ],
+        "answer": 0,
+        "explanation": "Kemarin sangat dingin."
+      }
+    ],
+    "roleplay": "Ceritakan pengalaman kemarin menggunakan dua kata sifat lampau.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-i-past-negative",
+    "stage": "F1",
+    "title": "Lampau negatif kata sifat い",
+    "canDo": "Mengatakan keadaan yang tidak terjadi di masa lalu.",
+    "vocab": [
+      [
+        "いそがしい",
+        "isogashii",
+        "sibuk"
+      ],
+      [
+        "むずかしい",
+        "muzukashii",
+        "sulit"
+      ],
+      [
+        "やさしい",
+        "yasashii",
+        "mudah/ramah"
+      ],
+      [
+        "あたらしい",
+        "atarashii",
+        "baru"
+      ],
+      [
+        "ふるい",
+        "furui",
+        "lama"
+      ]
+    ],
+    "grammar": {
+      "pattern": "い-adj: い→くなかったです",
+      "explanation": "Bentuk negatif くない berubah menjadi くなかった untuk lampau: いそがしい→いそがしくない→いそがしくなかったです. いい→よくなかったです. Kanji: 難しい（むずかしい）.",
+      "example": "せんしゅうは いそがしくなかったです。",
+      "romaji": "Senshuu wa isogashikunakatta desu.",
+      "meaning": "Minggu lalu saya tidak sibuk.",
+      "commonMistake": "Jangan memakai いそがしくないでした; gunakan くなかったです."
+    },
+    "dialogue": [
+      "テストは むずかしかったですか。",
+      "いいえ、むずかしくなかったです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana tes menurut penutur?",
+      "options": [
+        "Sulit",
+        "Belum dikerjakan",
+        "Tidak sulit"
+      ],
+      "answer": 2,
+      "explanation": "むずかしくなかった adalah lampau negatif."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きのうは あつくなかったです。 きょうは あついです。 Bagaimana cuaca kemarin?",
+        "options": [
+          "Tidak panas",
+          "Panas",
+          "Tidak diketahui"
+        ],
+        "answer": 0,
+        "explanation": "あつくなかった menyatakan tidak panas pada masa lalu."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah ふるい menjadi lampau negatif biasa.",
+        "answers": [
+          "ふるくなかった"
+        ],
+        "explanation": "Ganti い dengan くなかった."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: せんしゅうは いそがしくなかったです。",
+        "options": [
+          "Minggu ini saya tidak sibuk.",
+          "Minggu lalu saya tidak sibuk.",
+          "Minggu lalu saya sibuk."
+        ],
+        "answer": 1,
+        "explanation": "Minggu lalu saya tidak sibuk."
+      }
+    ],
+    "roleplay": "Bandingkan kondisi kemarin dan hari ini menggunakan bentuk positif dan negatif.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-na-forms",
+    "stage": "F1",
+    "title": "Empat bentuk predikat kata sifat な",
+    "canDo": "Menyatakan kondisi kini dan lampau secara sopan.",
+    "vocab": [
+      [
+        "べんり",
+        "benri",
+        "praktis"
+      ],
+      [
+        "げんき",
+        "genki",
+        "sehat/bersemangat"
+      ],
+      [
+        "にぎやか",
+        "nigiyaka",
+        "ramai"
+      ],
+      [
+        "ひま",
+        "hima",
+        "senggang"
+      ],
+      [
+        "きれい",
+        "kirei",
+        "bersih/indah"
+      ]
+    ],
+    "grammar": {
+      "pattern": "な-adj + です / じゃありません / でした / じゃありませんでした",
+      "explanation": "Contoh げんきです (sehat), げんきじゃありません (tidak sehat), げんきでした (dulu sehat), げんきじゃありませんでした (dulu tidak sehat). きれい termasuk kata sifat な. Kanji: 元気（げんき）.",
+      "example": "きのうは ひまじゃありませんでした。",
+      "romaji": "Kinou wa hima ja arimasen deshita.",
+      "meaning": "Kemarin saya tidak senggang.",
+      "commonMistake": "Jangan memakai きれくない; きれい adalah kata sifat な."
+    },
+    "dialogue": [
+      "きのうの こうえんは にぎやかでしたか。",
+      "はい、にぎやかでした。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana keadaan taman kemarin?",
+      "options": [
+        "Ramai",
+        "Sepi",
+        "Tutup"
+      ],
+      "answer": 0,
+      "explanation": "にぎやかでした menyatakan ramai pada masa lalu."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この ホテルは きれいです。 でも、べんりじゃありません。 Apa kekurangan hotel?",
+        "options": [
+          "Tidak tersedia",
+          "Tidak praktis",
+          "Tidak bersih"
+        ],
+        "answer": 1,
+        "explanation": "べんりじゃありません menunjukkan tidak praktis."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah げんきです menjadi lampau positif sopan.",
+        "answers": [
+          "げんきでした"
+        ],
+        "explanation": "Ganti です dengan でした."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きのうは ひまじゃありませんでした。",
+        "options": [
+          "Kemarin saya senggang.",
+          "Hari ini saya tidak senggang.",
+          "Kemarin saya tidak senggang."
+        ],
+        "answer": 2,
+        "explanation": "Kemarin saya tidak senggang."
+      }
+    ],
+    "roleplay": "Deskripsikan tempat menggunakan keempat bentuk predikat な.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-adjective-noun",
+    "stage": "F1",
+    "title": "Menerangkan benda dengan kata sifat",
+    "canDo": "Memilih な atau tanpa な sebelum kata benda.",
+    "vocab": [
+      [
+        "しんせつ",
+        "shinsetsu",
+        "baik hati"
+      ],
+      [
+        "ゆうめい",
+        "yuumei",
+        "terkenal"
+      ],
+      [
+        "すてき",
+        "suteki",
+        "menawan"
+      ],
+      [
+        "ひろい",
+        "hiroi",
+        "luas"
+      ],
+      [
+        "せまい",
+        "semai",
+        "sempit"
+      ]
+    ],
+    "grammar": {
+      "pattern": "い-adj + N / な-adj + な + N",
+      "explanation": "ひろい へや adalah kamar luas; しんせつな ひと adalah orang baik hati. Jangan sisipkan な pada kata sifat い. Kanji: 親切（しんせつ）.",
+      "example": "しんせつな てんいんが います。",
+      "romaji": "Shinsetsu na tenin ga imasu.",
+      "meaning": "Ada pegawai toko yang baik hati.",
+      "commonMistake": "しんせつ てんいん kurang な; ひろいな へや salah."
+    },
+    "dialogue": [
+      "どんな へやが いいですか。",
+      "ひろい へやが いいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kamar seperti apa yang diinginkan?",
+      "options": [
+        "Gelap",
+        "Luas",
+        "Sempit"
+      ],
+      "answer": 1,
+      "explanation": "ひろい berarti luas."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: ここは ゆうめいな みせです。 ちいさい みせですが、てんいんは しんせつです。 Bagaimana pegawainya?",
+        "options": [
+          "Terkenal",
+          "Tidak ramah",
+          "Baik hati"
+        ],
+        "answer": 2,
+        "explanation": "てんいんは しんせつです menunjukkan sifat pegawai."
+      },
+      {
+        "type": "input",
+        "prompt": "Lengkapi bentuk sebelum kata benda: ゆうめい ___ みせ。",
+        "answers": [
+          "な"
+        ],
+        "explanation": "ゆうめい adalah kata sifat な."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: しんせつな てんいんが います。",
+        "options": [
+          "Ada pegawai toko yang baik hati.",
+          "Ada pegawai toko terkenal.",
+          "Pegawai toko itu sedang pergi."
+        ],
+        "answer": 0,
+        "explanation": "Ada pegawai toko yang baik hati."
+      }
+    ],
+    "roleplay": "Deskripsikan orang dan tempat dengan kata sifat い dan な.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-adjective-connect",
+    "stage": "F1",
+    "title": "Menggabungkan sifat dan menyatakan derajat",
+    "canDo": "Menjelaskan dua sifat dalam satu kalimat.",
+    "vocab": [
+      [
+        "あかるい",
+        "akarui",
+        "terang"
+      ],
+      [
+        "おしゃれ",
+        "oshare",
+        "bergaya"
+      ],
+      [
+        "とても",
+        "totemo",
+        "sangat"
+      ],
+      [
+        "あまり",
+        "amari",
+        "tidak begitu (dengan negatif)"
+      ],
+      [
+        "すこし",
+        "sukoshi",
+        "sedikit"
+      ]
+    ],
+    "grammar": {
+      "pattern": "い-adj→くて / な-adj→で",
+      "explanation": "Gabungkan sifat dengan くて untuk kata sifat い dan で untuk kata sifat な: あかるい→あかるくて, おしゃれ→おしゃれで. とても menguatkan, あまり biasanya diikuti negatif. Kanji: 明るい（あかるい）.",
+      "example": "この カフェは あかるくて おしゃれです。",
+      "romaji": "Kono kafe wa akarukute oshare desu.",
+      "meaning": "Kafe ini terang dan bergaya.",
+      "commonMistake": "Jangan menulis あかるいで; bentuk penghubungnya あかるくて."
+    },
+    "dialogue": [
+      "この まちは どうですか。",
+      "しずかで、あまり さむくないです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana suhu kota itu?",
+      "options": [
+        "Sangat dingin",
+        "Sangat panas",
+        "Tidak begitu dingin"
+      ],
+      "answer": 2,
+      "explanation": "あまり さむくない berarti tidak begitu dingin."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: へやは ひろくて きれいです。 でも、すこし たかいです。 Apa kekurangan kamar?",
+        "options": [
+          "Agak mahal",
+          "Sempit",
+          "Kotor"
+        ],
+        "answer": 0,
+        "explanation": "すこし たかい berarti agak mahal."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah あかるい ke bentuk penghubung くて.",
+        "answers": [
+          "あかるくて"
+        ],
+        "explanation": "Ganti い dengan くて."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この カフェは あかるくて おしゃれです。",
+        "options": [
+          "Kafe ini terang tetapi tidak bergaya.",
+          "Kafe ini terang dan bergaya.",
+          "Kafe ini gelap dan bergaya."
+        ],
+        "answer": 1,
+        "explanation": "Kafe ini terang dan bergaya."
+      }
+    ],
+    "roleplay": "Jelaskan tempat favorit dengan dua sifat dan satu keterangan derajat.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-te-tt",
+    "stage": "F2",
+    "title": "Bentuk て kelompok 1: う・つ・る",
+    "canDo": "Mengubah kata kerja berakhiran う, つ, る kelompok 1 menjadi って.",
+    "vocab": [
+      [
+        "かう",
+        "kau",
+        "membeli"
+      ],
+      [
+        "まつ",
+        "matsu",
+        "menunggu"
+      ],
+      [
+        "とる",
+        "toru",
+        "mengambil"
+      ],
+      [
+        "もつ",
+        "motsu",
+        "membawa/memegang"
+      ],
+      [
+        "つかう",
+        "tsukau",
+        "menggunakan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Kelompok 1: う・つ・る→って",
+      "explanation": "かう→かって, まつ→まって, とる→とって. Akhiran る pada kelompok 2 tidak mengikuti aturan ini. Bentuk て sendiri tidak menyatakan waktu. Kanji: 待つ（まつ）.",
+      "example": "ここで すこし まってください。",
+      "romaji": "Koko de sukoshi matte kudasai.",
+      "meaning": "Tolong tunggu sebentar di sini.",
+      "commonMistake": "まつ→まって, bukan まつて."
+    },
+    "dialogue": [
+      "にもつを もってください。",
+      "はい、わかりました。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang diminta penutur?",
+      "options": [
+        "Membawa barang bawaan",
+        "Membeli tiket",
+        "Menunggu bus"
+      ],
+      "answer": 0,
+      "explanation": "にもつを もってください berarti tolong bawa barang bawaan."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きっぷを かって、えきへ いきます。 Apa yang dilakukan sebelum pergi ke stasiun?",
+        "options": [
+          "Menunggu bus",
+          "Membeli tiket",
+          "Mengambil foto"
+        ],
+        "answer": 1,
+        "explanation": "かって berasal dari かう, membeli."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah とる (kelompok 1) menjadi bentuk て.",
+        "answers": [
+          "とって"
+        ],
+        "explanation": "Kelompok 1 berakhiran る menjadi って."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: ここで すこし まってください。",
+        "options": [
+          "Tolong tunggu di luar.",
+          "Tolong pergi sekarang.",
+          "Tolong tunggu sebentar di sini."
+        ],
+        "answer": 2,
+        "explanation": "Tolong tunggu sebentar di sini."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah かう menjadi bentuk て.",
+        "answers": [
+          "かって"
+        ],
+        "explanation": "かう → かって. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah まつ menjadi bentuk て.",
+        "answers": [
+          "まって"
+        ],
+        "explanation": "まつ → まって. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah もつ menjadi bentuk て.",
+        "answers": [
+          "もって"
+        ],
+        "explanation": "もつ → もって. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah つかう menjadi bentuk て.",
+        "answers": [
+          "つかって"
+        ],
+        "explanation": "つかう → つかって. Ikuti aturan kelompok kata kerja pada materi."
+      }
+    ],
+    "roleplay": "Latih permintaan untuk menunggu, membawa barang, dan menggunakan alat.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-te-nde",
+    "stage": "F2",
+    "title": "Bentuk て kelompok 1: む・ぶ・ぬ",
+    "canDo": "Membentuk んで dari akhiran む, ぶ, ぬ.",
+    "vocab": [
+      [
+        "よむ",
+        "yomu",
+        "membaca"
+      ],
+      [
+        "のむ",
+        "nomu",
+        "minum"
+      ],
+      [
+        "あそぶ",
+        "asobu",
+        "bermain"
+      ],
+      [
+        "えらぶ",
+        "erabu",
+        "memilih"
+      ],
+      [
+        "しぬ",
+        "shinu",
+        "meninggal"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Kelompok 1: む・ぶ・ぬ→んで",
+      "explanation": "よむ→よんで, のむ→のんで, あそぶ→あそんで, しぬ→しんで. Contoh しぬ hanya untuk mengenali pola, bukan permintaan. Kanji: 読む（よむ）, 飲む（のむ）.",
+      "example": "この せつめいを よんでください。",
+      "romaji": "Kono setsumei o yonde kudasai.",
+      "meaning": "Tolong baca penjelasan ini.",
+      "commonMistake": "よむ→よんで, bukan よむて atau よんて."
+    },
+    "dialogue": [
+      "すきな いろを えらんでください。",
+      "じゃ、あおに します。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Warna apa yang dipilih?",
+      "options": [
+        "Putih",
+        "Biru",
+        "Merah"
+      ],
+      "answer": 1,
+      "explanation": "あお berarti biru."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: みずを のんで、すこし やすみます。 Apa yang dilakukan sebelum istirahat?",
+        "options": [
+          "Membaca buku",
+          "Memilih warna",
+          "Minum air"
+        ],
+        "answer": 2,
+        "explanation": "のんで berasal dari のむ, minum."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah あそぶ menjadi bentuk て.",
+        "answers": [
+          "あそんで"
+        ],
+        "explanation": "ぶ berubah menjadi んで."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この せつめいを よんでください。",
+        "options": [
+          "Tolong baca penjelasan ini.",
+          "Tolong tulis penjelasan ini.",
+          "Tolong baca buku itu."
+        ],
+        "answer": 0,
+        "explanation": "Tolong baca penjelasan ini."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah よむ menjadi bentuk て.",
+        "answers": [
+          "よんで"
+        ],
+        "explanation": "よむ → よんで. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah のむ menjadi bentuk て.",
+        "answers": [
+          "のんで"
+        ],
+        "explanation": "のむ → のんで. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah えらぶ menjadi bentuk て.",
+        "answers": [
+          "えらんで"
+        ],
+        "explanation": "えらぶ → えらんで. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah しぬ menjadi bentuk て.",
+        "answers": [
+          "しんで"
+        ],
+        "explanation": "しぬ → しんで. Ikuti aturan kelompok kata kerja pada materi."
+      }
+    ],
+    "roleplay": "Minta seseorang membaca petunjuk dan memilih warna.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-te-iku",
+    "stage": "F2",
+    "title": "Bentuk て kelompok 1: く・ぐ dan 行く",
+    "canDo": "Membedakan いて, いで serta pengecualian いく.",
+    "vocab": [
+      [
+        "かく",
+        "kaku",
+        "menulis"
+      ],
+      [
+        "きく",
+        "kiku",
+        "mendengar/bertanya"
+      ],
+      [
+        "およぐ",
+        "oyogu",
+        "berenang"
+      ],
+      [
+        "いそぐ",
+        "isogu",
+        "bergegas"
+      ],
+      [
+        "いく",
+        "iku",
+        "pergi"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Kelompok 1: く→いて / ぐ→いで",
+      "explanation": "かく→かいて, きく→きいて, およぐ→およいで, いそぐ→いそいで. Pengecualian いく→いって, bukan いいて. Kanji: 書く（かく）, 行く（いく）.",
+      "example": "なまえを ここに かいてください。",
+      "romaji": "Namae o koko ni kaite kudasai.",
+      "meaning": "Tolong tulis nama di sini.",
+      "commonMistake": "かく→かいて dan いく→いって; jangan menggeneralisasi semua く."
+    },
+    "dialogue": [
+      "すみません、えきは どこですか。",
+      "あの ひとに きいてください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa saran lawan bicara?",
+      "options": [
+        "Menulis nama",
+        "Berenang",
+        "Bertanya kepada orang itu"
+      ],
+      "answer": 2,
+      "explanation": "きく dapat berarti bertanya kepada orang dengan に."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: プールへ いって、およぎます。 Ke mana orang tersebut pergi?",
+        "options": [
+          "Kolam renang",
+          "Stasiun",
+          "Toko"
+        ],
+        "answer": 0,
+        "explanation": "プール adalah kolam renang; いって adalah bentuk て dari いく."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah いく menjadi bentuk て.",
+        "answers": [
+          "いって"
+        ],
+        "explanation": "Pengecualian いく→いって."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: なまえを ここに かいてください。",
+        "options": [
+          "Tolong baca nama ini.",
+          "Tolong tulis nama di sini.",
+          "Tolong tulis alamat di sana."
+        ],
+        "answer": 1,
+        "explanation": "Tolong tulis nama di sini."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah かく menjadi bentuk て.",
+        "answers": [
+          "かいて"
+        ],
+        "explanation": "かく → かいて. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah きく menjadi bentuk て.",
+        "answers": [
+          "きいて"
+        ],
+        "explanation": "きく → きいて. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah およぐ menjadi bentuk て.",
+        "answers": [
+          "およいで"
+        ],
+        "explanation": "およぐ → およいで. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah いそぐ menjadi bentuk て.",
+        "answers": [
+          "いそいで"
+        ],
+        "explanation": "いそぐ → いそいで. Ikuti aturan kelompok kata kerja pada materi."
+      }
+    ],
+    "roleplay": "Berikan petunjuk untuk menulis nama dan bertanya kepada petugas.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-te-other",
+    "stage": "F2",
+    "title": "Bentuk て: す, kelompok 2, dan tidak beraturan",
+    "canDo": "Mengubah kata kerja す, kelompok 2, する, dan くる.",
+    "vocab": [
+      [
+        "はなす",
+        "hanasu",
+        "berbicara"
+      ],
+      [
+        "みせる",
+        "miseru",
+        "memperlihatkan"
+      ],
+      [
+        "あける",
+        "akeru",
+        "membuka"
+      ],
+      [
+        "する",
+        "suru",
+        "melakukan"
+      ],
+      [
+        "くる",
+        "kuru",
+        "datang"
+      ]
+    ],
+    "grammar": {
+      "pattern": "す→して / kelompok 2 る→て / する→して / くる→きて",
+      "explanation": "はなす→はなして; みせる→みせて; あける→あけて; する→して; くる→きて. Kenali kelompok sebelum mengubah akhiran る. Kanji: 話す（はなす）, 見せる（みせる）.",
+      "example": "ゆっくり はなしてください。",
+      "romaji": "Yukkuri hanashite kudasai.",
+      "meaning": "Tolong bicara pelan-pelan.",
+      "commonMistake": "くる→きて, bukan くて; みせる→みせて, bukan みせって."
+    },
+    "dialogue": [
+      "パスポートを みせてください。",
+      "はい、どうぞ。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Dokumen apa yang diminta?",
+      "options": [
+        "Paspor",
+        "Tiket",
+        "Struk"
+      ],
+      "answer": 0,
+      "explanation": "パスポート berarti paspor."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: ドアを あけて、なかに はいります。 Apa yang dilakukan terlebih dahulu?",
+        "options": [
+          "Menutup pintu",
+          "Membuka pintu",
+          "Masuk ke dalam"
+        ],
+        "answer": 1,
+        "explanation": "あけて berasal dari あける, membuka."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah くる menjadi bentuk て.",
+        "answers": [
+          "きて"
+        ],
+        "explanation": "くる adalah kata kerja tidak beraturan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: ゆっくり はなしてください。",
+        "options": [
+          "Tolong bicara keras-keras.",
+          "Tolong berhenti berbicara.",
+          "Tolong bicara pelan-pelan."
+        ],
+        "answer": 2,
+        "explanation": "Tolong bicara pelan-pelan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah はなす menjadi bentuk て.",
+        "answers": [
+          "はなして"
+        ],
+        "explanation": "はなす → はなして. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah みせる menjadi bentuk て.",
+        "answers": [
+          "みせて"
+        ],
+        "explanation": "みせる → みせて. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah あける menjadi bentuk て.",
+        "answers": [
+          "あけて"
+        ],
+        "explanation": "あける → あけて. Ikuti aturan kelompok kata kerja pada materi."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah する menjadi bentuk て.",
+        "answers": [
+          "して"
+        ],
+        "explanation": "する → して. Ikuti aturan kelompok kata kerja pada materi."
+      }
+    ],
+    "roleplay": "Praktikkan permintaan memperlihatkan dokumen dan membuka pintu.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-request-polite",
+    "stage": "F2",
+    "title": "Permintaan positif dan negatif",
+    "canDo": "Membuat permintaan sopan dengan てください dan ないでください.",
+    "vocab": [
+      [
+        "さわる",
+        "sawaru",
+        "menyentuh"
+      ],
+      [
+        "おす",
+        "osu",
+        "menekan"
+      ],
+      [
+        "はいる",
+        "hairu",
+        "masuk"
+      ],
+      [
+        "けす",
+        "kesu",
+        "mematikan/menghapus"
+      ],
+      [
+        "きんえん",
+        "kinen",
+        "dilarang merokok"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vてください / Vないでください",
+      "explanation": "Vてください meminta tindakan; Vないでください meminta agar tindakan tidak dilakukan. おす→おしてください / おさないでください. さわる kelompok 1→さわらないでください. Kanji: 触る（さわる）, 禁煙（きんえん）.",
+      "example": "この ボタンを おさないでください。",
+      "romaji": "Kono botan o osanaide kudasai.",
+      "meaning": "Tolong jangan tekan tombol ini.",
+      "commonMistake": "ないでください bukan なくてください; gunakan bentuk negatif biasa + でください."
+    },
+    "dialogue": [
+      "すみません、ここは きんえんです。",
+      "はい、たばこを すいません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa aturan di tempat itu?",
+      "options": [
+        "Dilarang berbicara",
+        "Dilarang merokok",
+        "Dilarang makan"
+      ],
+      "answer": 1,
+      "explanation": "きんえん berarti larangan merokok."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この へやに はいらないでください。 となりの へやで まってください。 Di mana harus menunggu?",
+        "options": [
+          "Kamar ini",
+          "Di luar gedung",
+          "Kamar sebelah"
+        ],
+        "answer": 2,
+        "explanation": "となりの へやで まってください adalah permintaan menunggu di kamar sebelah."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah さわる menjadi permintaan negatif sopan.",
+        "answers": [
+          "さわらないでください"
+        ],
+        "explanation": "Kelompok 1 さわる→さわらない＋でください."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この ボタンを おさないでください。",
+        "options": [
+          "Tolong jangan tekan tombol ini.",
+          "Tolong tekan tombol ini.",
+          "Tolong jangan matikan lampu."
+        ],
+        "answer": 0,
+        "explanation": "Tolong jangan tekan tombol ini."
+      }
+    ],
+    "roleplay": "Buat satu permintaan melakukan tindakan dan satu permintaan tidak melakukannya.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m3-permission",
+    "stage": "F2",
+    "title": "Meminta dan memberi izin",
+    "canDo": "Meminta izin dan memahami jawaban persetujuan atau larangan.",
+    "vocab": [
+      [
+        "つかう",
+        "tsukau",
+        "menggunakan"
+      ],
+      [
+        "すわる",
+        "suwaru",
+        "duduk"
+      ],
+      [
+        "かりる",
+        "kariru",
+        "meminjam"
+      ],
+      [
+        "だいじょうぶ",
+        "daijoubu",
+        "tidak apa-apa"
+      ],
+      [
+        "ちょっと",
+        "chotto",
+        "sedikit/penolakan halus"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vてもいいですか / Vてはいけません",
+      "explanation": "すわる→すわってもいいですか untuk meminta izin. いいですよ atau どうぞ memberi izin. てはいけません menyatakan larangan; すみません、ちょっと… dapat menolak secara halus. Kanji: 座る（すわる）.",
+      "example": "この いすに すわってもいいですか。",
+      "romaji": "Kono isu ni suwatte mo ii desu ka.",
+      "meaning": "Bolehkah saya duduk di kursi ini?",
+      "commonMistake": "Jangan samakan てもいいですか (meminta izin) dengan てください (meminta tindakan)."
+    },
+    "dialogue": [
+      "ここで パソコンを つかってもいいですか。",
+      "はい、いいですよ。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah penggunaan komputer diizinkan?",
+      "options": [
+        "Tidak",
+        "Belum ada jawaban",
+        "Ya"
+      ],
+      "answer": 2,
+      "explanation": "はい、いいですよ adalah persetujuan."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: ここで しゃしんを とってはいけません。 でも、メモを かいてもいいです。 Apa yang diizinkan?",
+        "options": [
+          "Menulis catatan",
+          "Mengambil foto",
+          "Keduanya"
+        ],
+        "answer": 0,
+        "explanation": "かいてもいいです memberi izin menulis catatan."
+      },
+      {
+        "type": "input",
+        "prompt": "Ubah かりる menjadi pertanyaan izin dengan てもいいですか (tanpa tanda titik).",
+        "answers": [
+          "かりてもいいですか"
+        ],
+        "explanation": "かりる kelompok 2→かりて＋もいいですか."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この いすに すわってもいいですか。",
+        "options": [
+          "Anda tidak boleh duduk di kursi ini.",
+          "Bolehkah saya duduk di kursi ini?",
+          "Tolong duduk di kursi ini."
+        ],
+        "answer": 1,
+        "explanation": "Bolehkah saya duduk di kursi ini?"
+      }
+    ],
+    "roleplay": "Minta izin duduk atau meminjam barang, lalu praktikkan jawaban menerima dan menolak.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-nai-godan-a",
+    "stage": "F2",
+    "title": "Bentuk ない kelompok 1: う・つ・る",
+    "canDo": "Mengubah kata kerja godan ke bentuk negatif biasa.",
+    "vocab": [
+      [
+        "かう",
+        "kau",
+        "membeli"
+      ],
+      [
+        "まつ",
+        "matsu",
+        "menunggu"
+      ],
+      [
+        "かえる",
+        "kaeru",
+        "pulang"
+      ],
+      [
+        "つかう",
+        "tsukau",
+        "menggunakan"
+      ],
+      [
+        "とる",
+        "toru",
+        "mengambil"
+      ]
+    ],
+    "grammar": {
+      "pattern": "う→わない、つ→たない、る→らない",
+      "explanation": "Untuk godan, ubah bunyi akhir ke baris a, khusus う menjadi わ. 買う（かう）→かわない、待つ（まつ）→またない、帰る（かえる）→かえらない.",
+      "example": "きょうは おかしを かわない。",
+      "romaji": "Kyou wa okashi o kawanai.",
+      "meaning": "Hari ini saya tidak membeli camilan.",
+      "commonMistake": "Jangan memakai かあない; う menjadi わない."
+    },
+    "dialogue": [
+      "あしたも ここで まつ？",
+      "ううん、あしたは またない。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah B menunggu besok?",
+      "options": [
+        "Tidak",
+        "Ya",
+        "Tidak diketahui"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Besok menunggu di sini juga? — Tidak, besok tidak menunggu."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きょうは バスを つかわない。 あるいて かえる。 Bagaimana cara pulang?",
+        "options": [
+          "Naik bus",
+          "Naik taksi",
+          "Berjalan kaki"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Hari ini tidak memakai bus. Pulang berjalan kaki. Jawaban: Berjalan kaki."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: つかう→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "つかわない"
+        ],
+        "explanation": "Jawaban: つかわない. Untuk godan, ubah bunyi akhir ke baris a, khusus う menjadi わ. 買う（かう）→かわない、待つ（まつ）→またない、帰る（かえる）→かえらない."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: まつ→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "またない"
+        ],
+        "explanation": "Jawaban: またない. Untuk godan, ubah bunyi akhir ke baris a, khusus う menjadi わ. 買う（かう）→かわない、待つ（まつ）→またない、帰る（かえる）→かえらない."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: とる→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "とらない"
+        ],
+        "explanation": "Jawaban: とらない. Untuk godan, ubah bunyi akhir ke baris a, khusus う menjadi わ. 買う（かう）→かわない、待つ（まつ）→またない、帰る（かえる）→かえらない."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きょうは おかしを かわない。",
+        "options": [
+          "Tidak, besok tidak menunggu.",
+          "Hari ini saya tidak membeli camilan.",
+          "Besok menunggu di sini juga?"
+        ],
+        "answer": 1,
+        "explanation": "Hari ini saya tidak membeli camilan."
+      }
+    ],
+    "roleplay": "Bicarakan tiga hal yang tidak kamu lakukan hari ini.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-nai-godan-b",
+    "stage": "F2",
+    "title": "Bentuk ない kelompok 1: む・ぶ・ぬ・く・ぐ・す",
+    "canDo": "Mengubah akhir godan yang tersisa.",
+    "vocab": [
+      [
+        "よむ",
+        "yomu",
+        "membaca"
+      ],
+      [
+        "あそぶ",
+        "asobu",
+        "bermain"
+      ],
+      [
+        "かく",
+        "kaku",
+        "menulis"
+      ],
+      [
+        "およぐ",
+        "oyogu",
+        "berenang"
+      ],
+      [
+        "はなす",
+        "hanasu",
+        "berbicara"
+      ]
+    ],
+    "grammar": {
+      "pattern": "む→まない・ぶ→ばない・ぬ→なない・く→かない・ぐ→がない・す→さない",
+      "explanation": "読む（よむ）→よまない、遊ぶ（あそぶ）→あそばない、死ぬ（しぬ）→しなない、書く（かく）→かかない、泳ぐ（およぐ）→およがない、話す（はなす）→はなさない.",
+      "example": "ここでは おおきな こえで はなさない。",
+      "romaji": "Koko de wa ookina koe de hanasanai.",
+      "meaning": "Di sini saya tidak berbicara keras.",
+      "commonMistake": "Jangan membentuk かく menjadi きない."
+    },
+    "dialogue": [
+      "プールで およぐ？",
+      "いいえ、きょうは およがない。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang tidak dilakukan B hari ini?",
+      "options": [
+        "Membaca",
+        "Menulis",
+        "Berenang"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Berenang di kolam? — Tidak, hari ini tidak berenang."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あしたは うちで ほんを よむ。 そとでは あそばない。 Apa rencana besok?",
+        "options": [
+          "Berenang",
+          "Membaca di rumah",
+          "Bermain di luar"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Besok membaca buku di rumah. Tidak bermain di luar. Jawaban: Membaca di rumah."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: よむ→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "よまない"
+        ],
+        "explanation": "Jawaban: よまない. 読む（よむ）→よまない、遊ぶ（あそぶ）→あそばない、死ぬ（しぬ）→しなない、書く（かく）→かかない、泳ぐ（およぐ）→およがない、話す（はなす）→はなさない."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: あそぶ→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "あそばない"
+        ],
+        "explanation": "Jawaban: あそばない. 読む（よむ）→よまない、遊ぶ（あそぶ）→あそばない、死ぬ（しぬ）→しなない、書く（かく）→かかない、泳ぐ（およぐ）→およがない、話す（はなす）→はなさない."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: かく→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "かかない"
+        ],
+        "explanation": "Jawaban: かかない. 読む（よむ）→よまない、遊ぶ（あそぶ）→あそばない、死ぬ（しぬ）→しなない、書く（かく）→かかない、泳ぐ（およぐ）→およがない、話す（はなす）→はなさない."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: およぐ→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "およがない"
+        ],
+        "explanation": "Jawaban: およがない. 読む（よむ）→よまない、遊ぶ（あそぶ）→あそばない、死ぬ（しぬ）→しなない、書く（かく）→かかない、泳ぐ（およぐ）→およがない、話す（はなす）→はなさない."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: はなす→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "はなさない"
+        ],
+        "explanation": "Jawaban: はなさない. 読む（よむ）→よまない、遊ぶ（あそぶ）→あそばない、死ぬ（しぬ）→しなない、書く（かく）→かかない、泳ぐ（およぐ）→およがない、話す（はなす）→はなさない."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: しぬ→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "しなない"
+        ],
+        "explanation": "Jawaban: しなない. 読む（よむ）→よまない、遊ぶ（あそぶ）→あそばない、死ぬ（しぬ）→しなない、書く（かく）→かかない、泳ぐ（およぐ）→およがない、話す（はなす）→はなさない."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: ここでは おおきな こえで はなさない。",
+        "options": [
+          "Di sini saya tidak berbicara keras.",
+          "Berenang di kolam?",
+          "Tidak, hari ini tidak berenang."
+        ],
+        "answer": 0,
+        "explanation": "Di sini saya tidak berbicara keras."
+      }
+    ],
+    "roleplay": "Sebutkan apa yang tidak dilakukan di perpustakaan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-nai-other",
+    "stage": "F2",
+    "title": "Bentuk ない kelompok 2 dan tidak beraturan",
+    "canDo": "Membedakan ichidan dan kata kerja tidak beraturan.",
+    "vocab": [
+      [
+        "たべる",
+        "taberu",
+        "makan"
+      ],
+      [
+        "みる",
+        "miru",
+        "melihat"
+      ],
+      [
+        "おきる",
+        "okiru",
+        "bangun"
+      ],
+      [
+        "する",
+        "suru",
+        "melakukan"
+      ],
+      [
+        "くる",
+        "kuru",
+        "datang"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vる→Vない (ichidan) / する→しない / くる→こない",
+      "explanation": "食べる（たべる）→たべない、見る（みる）→みない. Untuk ichidan hilangkan る. する→しない、来る（くる）→こない. ある→ない adalah pengecualian penting. はいる dan かえる bukan ichidan.",
+      "example": "きょうは デザートを たべない。",
+      "romaji": "Kyou wa dezaato o tabenai.",
+      "meaning": "Hari ini saya tidak makan hidangan penutup.",
+      "commonMistake": "Jangan mengubah くる menjadi きない."
+    },
+    "dialogue": [
+      "あした べんきょうする？",
+      "ううん、あしたは しない。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah B belajar besok?",
+      "options": [
+        "Pagi hari",
+        "Tidak",
+        "Ya"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Besok belajar? — Tidak, besok tidak."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きょうは テレビを みない。 はやく ねる。 Apa yang dilakukan hari ini?",
+        "options": [
+          "Tidur cepat",
+          "Menonton TV",
+          "Bangun siang"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Hari ini tidak menonton televisi. Tidur cepat. Jawaban: Tidur cepat."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: たべる→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "たべない"
+        ],
+        "explanation": "Jawaban: たべない. 食べる（たべる）→たべない、見る（みる）→みない. Untuk ichidan hilangkan る. する→しない、来る（くる）→こない. ある→ない adalah pengecualian penting. はいる dan かえる bukan ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: みる→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "みない"
+        ],
+        "explanation": "Jawaban: みない. 食べる（たべる）→たべない、見る（みる）→みない. Untuk ichidan hilangkan る. する→しない、来る（くる）→こない. ある→ない adalah pengecualian penting. はいる dan かえる bukan ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: おきる→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "おきない"
+        ],
+        "explanation": "Jawaban: おきない. 食べる（たべる）→たべない、見る（みる）→みない. Untuk ichidan hilangkan る. する→しない、来る（くる）→こない. ある→ない adalah pengecualian penting. はいる dan かえる bukan ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: する→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "しない"
+        ],
+        "explanation": "Jawaban: しない. 食べる（たべる）→たべない、見る（みる）→みない. Untuk ichidan hilangkan る. する→しない、来る（くる）→こない. ある→ない adalah pengecualian penting. はいる dan かえる bukan ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: くる→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "こない"
+        ],
+        "explanation": "Jawaban: こない. 食べる（たべる）→たべない、見る（みる）→みない. Untuk ichidan hilangkan る. する→しない、来る（くる）→こない. ある→ない adalah pengecualian penting. はいる dan かえる bukan ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: ある→ない (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "ない"
+        ],
+        "explanation": "Jawaban: ない. 食べる（たべる）→たべない、見る（みる）→みない. Untuk ichidan hilangkan る. する→しない、来る（くる）→こない. ある→ない adalah pengecualian penting. はいる dan かえる bukan ichidan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きょうは デザートを たべない。",
+        "options": [
+          "Besok belajar?",
+          "Tidak, besok tidak.",
+          "Hari ini saya tidak makan hidangan penutup."
+        ],
+        "answer": 2,
+        "explanation": "Hari ini saya tidak makan hidangan penutup."
+      }
+    ],
+    "roleplay": "Tanyakan apakah teman akan melakukan kegiatan besok.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-negative-request",
+    "stage": "F2",
+    "title": "Permintaan untuk tidak melakukan",
+    "canDo": "Menyampaikan permintaan negatif secara sopan.",
+    "vocab": [
+      [
+        "はいる",
+        "hairu",
+        "masuk"
+      ],
+      [
+        "さわる",
+        "sawaru",
+        "menyentuh"
+      ],
+      [
+        "わすれる",
+        "wasureru",
+        "lupa"
+      ],
+      [
+        "あける",
+        "akeru",
+        "membuka"
+      ],
+      [
+        "へや",
+        "heya",
+        "ruangan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vないでください",
+      "explanation": "入る（はいる）→はいらない＋でください. Pola ini meminta seseorang untuk tidak melakukan tindakan; てはいけません lebih menyatakan aturan.",
+      "example": "この へやに はいらないでください。",
+      "romaji": "Kono heya ni hairanaide kudasai.",
+      "meaning": "Tolong jangan masuk ruangan ini.",
+      "commonMistake": "Jangan memakai はいらなくてください."
+    },
+    "dialogue": [
+      "この はこを あけてもいいですか。",
+      "すみません、まだ あけないでください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa permintaan B?",
+      "options": [
+        "Jangan membuka dulu",
+        "Buka sekarang",
+        "Buang kotak"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Bolehkah membuka kotak ini? — Maaf, tolong jangan dibuka dulu."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この きかいに さわらないでください。 せつめいを きいてください。 Apa yang diminta?",
+        "options": [
+          "Sentuh mesin",
+          "Matikan mesin",
+          "Dengarkan penjelasan"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Tolong jangan menyentuh mesin ini. Dengarkan penjelasan. Jawaban: Dengarkan penjelasan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: さわる→ないでください (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "さわらないでください"
+        ],
+        "explanation": "Jawaban: さわらないでください. 入る（はいる）→はいらない＋でください. Pola ini meminta seseorang untuk tidak melakukan tindakan; てはいけません lebih menyatakan aturan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: わすれる→ないでください (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "わすれないでください"
+        ],
+        "explanation": "Jawaban: わすれないでください. 入る（はいる）→はいらない＋でください. Pola ini meminta seseorang untuk tidak melakukan tindakan; てはいけません lebih menyatakan aturan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この へやに はいらないでください。",
+        "options": [
+          "Maaf, tolong jangan dibuka dulu.",
+          "Tolong jangan masuk ruangan ini.",
+          "Bolehkah membuka kotak ini?"
+        ],
+        "answer": 1,
+        "explanation": "Tolong jangan masuk ruangan ini."
+      }
+    ],
+    "roleplay": "Berperan sebagai petugas yang meminta pengunjung tidak menyentuh barang.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-obligation",
+    "stage": "F2",
+    "title": "Kewajiban dengan なければなりません",
+    "canDo": "Menyatakan kewajiban dalam pekerjaan atau kehidupan sehari-hari.",
+    "vocab": [
+      [
+        "だす",
+        "dasu",
+        "menyerahkan"
+      ],
+      [
+        "しょるい",
+        "shorui",
+        "dokumen"
+      ],
+      [
+        "きんようび",
+        "kinyoubi",
+        "Jumat"
+      ],
+      [
+        "はらう",
+        "harau",
+        "membayar"
+      ],
+      [
+        "もっていく",
+        "motteiku",
+        "membawa pergi"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vなければなりません",
+      "explanation": "Bentuk ない hilangkan い lalu tambah ければなりません. 出す（だす）→ださない→ださなければなりません. Artinya harus, bukan larangan.",
+      "example": "きんようびまでに しょるいを ださなければなりません。",
+      "romaji": "Kinyoubi made ni shorui o dasanakereba narimasen.",
+      "meaning": "Saya harus menyerahkan dokumen paling lambat Jumat.",
+      "commonMistake": "Jangan menambahkan ければ langsung ke ます."
+    },
+    "dialogue": [
+      "いつまでに はらいますか。",
+      "あしたまでに はらわなければなりません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kapan batas pembayaran?",
+      "options": [
+        "Hari ini",
+        "Minggu depan",
+        "Besok"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Sampai kapan harus membayar? — Harus membayar paling lambat besok."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あしたは けんこうしんだんです。 ほけんしょうを もっていかなければなりません。 Apa yang harus dibawa?",
+        "options": [
+          "Payung",
+          "Kartu asuransi kesehatan",
+          "Buku"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Besok ada pemeriksaan kesehatan. Harus membawa kartu asuransi kesehatan. Jawaban: Kartu asuransi kesehatan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: はらう→なければなりません (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "はらわなければなりません"
+        ],
+        "explanation": "Jawaban: はらわなければなりません. Bentuk ない hilangkan い lalu tambah ければなりません. 出す（だす）→ださない→ださなければなりません. Artinya harus, bukan larangan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: もっていく→なければなりません (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "もっていかなければなりません"
+        ],
+        "explanation": "Jawaban: もっていかなければなりません. Bentuk ない hilangkan い lalu tambah ければなりません. 出す（だす）→ださない→ださなければなりません. Artinya harus, bukan larangan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きんようびまでに しょるいを ださなければなりません。",
+        "options": [
+          "Saya harus menyerahkan dokumen paling lambat Jumat.",
+          "Sampai kapan harus membayar?",
+          "Harus membayar paling lambat besok."
+        ],
+        "answer": 0,
+        "explanation": "Saya harus menyerahkan dokumen paling lambat Jumat."
+      }
+    ],
+    "roleplay": "Jelaskan dua kewajiban sebelum berangkat kerja.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-no-obligation",
+    "stage": "F2",
+    "title": "Tidak wajib dengan なくてもいいです",
+    "canDo": "Membedakan tidak wajib dan tidak boleh.",
+    "vocab": [
+      [
+        "にちようび",
+        "nichiyoubi",
+        "Minggu"
+      ],
+      [
+        "かいしゃ",
+        "kaisha",
+        "kantor"
+      ],
+      [
+        "もってくる",
+        "mottekuru",
+        "membawa datang"
+      ],
+      [
+        "きる",
+        "kiru",
+        "memakai pakaian"
+      ],
+      [
+        "ひつよう",
+        "hitsuyou",
+        "perlu"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vなくてもいいです",
+      "explanation": "Bentuk ない hilangkan い lalu tambah くてもいいです. 来る（くる）→こなくてもいいです berarti tidak perlu datang; tetap berbeda dengan きてはいけません.",
+      "example": "にちようびは かいしゃに こなくてもいいです。",
+      "romaji": "Nichiyoubi wa kaisha ni konakute mo ii desu.",
+      "meaning": "Hari Minggu tidak perlu datang ke kantor.",
+      "commonMistake": "Jangan mengartikan なくてもいい sebagai larangan."
+    },
+    "dialogue": [
+      "あしたも せいふくを きますか。",
+      "いいえ、きなくてもいいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah seragam wajib besok?",
+      "options": [
+        "Dilarang memakai",
+        "Tidak wajib",
+        "Wajib"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Besok juga memakai seragam? — Tidak, tidak wajib memakai seragam."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: タオルは ここに あります。 もってこなくてもいいです。 Apa yang tidak perlu dibawa?",
+        "options": [
+          "Handuk",
+          "Sepatu",
+          "Buku"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Handuk tersedia di sini. Tidak perlu membawanya. Jawaban: Handuk."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: くる→なくてもいいです (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "こなくてもいいです"
+        ],
+        "explanation": "Jawaban: こなくてもいいです. Bentuk ない hilangkan い lalu tambah くてもいいです. 来る（くる）→こなくてもいいです berarti tidak perlu datang; tetap berbeda dengan きてはいけません."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: きる（memakai pakaian）→なくてもいいです (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "きなくてもいいです"
+        ],
+        "explanation": "Jawaban: きなくてもいいです. Bentuk ない hilangkan い lalu tambah くてもいいです. 来る（くる）→こなくてもいいです berarti tidak perlu datang; tetap berbeda dengan きてはいけません."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: にちようびは かいしゃに こなくてもいいです。",
+        "options": [
+          "Besok juga memakai seragam?",
+          "Tidak, tidak wajib memakai seragam.",
+          "Hari Minggu tidak perlu datang ke kantor."
+        ],
+        "answer": 2,
+        "explanation": "Hari Minggu tidak perlu datang ke kantor."
+      }
+    ],
+    "roleplay": "Tanyakan apa yang tidak wajib dibawa ke acara.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-rules-deadline",
+    "stage": "F2",
+    "title": "Aturan dan batas waktu",
+    "canDo": "Memahami larangan dan kewajiban dalam pengumuman.",
+    "vocab": [
+      [
+        "でる",
+        "deru",
+        "keluar"
+      ],
+      [
+        "きんし",
+        "kinshi",
+        "larangan"
+      ],
+      [
+        "じかん",
+        "jikan",
+        "waktu"
+      ],
+      [
+        "まもる",
+        "mamoru",
+        "mematuhi"
+      ],
+      [
+        "ごみ",
+        "gomi",
+        "sampah"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vてはいけません / Vなければなりません / までに",
+      "explanation": "までに menunjukkan tenggat, sedangkan まで menunjukkan tindakan berlanjut sampai waktu tertentu. 禁止（きんし） berarti larangan.",
+      "example": "ごご ５じまでに へやを でなければなりません。",
+      "romaji": "Gogo goji made ni heya o denakereba narimasen.",
+      "meaning": "Harus keluar ruangan paling lambat pukul lima sore.",
+      "commonMistake": "Jangan mengganti までに dengan まで untuk tindakan sekali selesai."
+    },
+    "dialogue": [
+      "ここで ごみを すててもいいですか。",
+      "いいえ、すててはいけません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa aturannya?",
+      "options": [
+        "Dilarang membuang sampah",
+        "Wajib membuang sampah",
+        "Boleh membuang sampah"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Bolehkah membuang sampah di sini? — Tidak, dilarang membuang sampah."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この へやで たべてはいけません。 ６じまでに でてください。 Kapan harus keluar?",
+        "options": [
+          "Pukul tujuh",
+          "Tidak ada batas",
+          "Paling lambat pukul enam"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Dilarang makan di ruangan ini. Tolong keluar paling lambat pukul enam. Jawaban: Paling lambat pukul enam."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: まもる→なければなりません (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "まもらなければなりません"
+        ],
+        "explanation": "Jawaban: まもらなければなりません. までに menunjukkan tenggat, sedangkan まで menunjukkan tindakan berlanjut sampai waktu tertentu. 禁止（きんし） berarti larangan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: でる→ないでください (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "でないでください"
+        ],
+        "explanation": "Jawaban: でないでください. までに menunjukkan tenggat, sedangkan まで menunjukkan tindakan berlanjut sampai waktu tertentu. 禁止（きんし） berarti larangan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: ごご ５じまでに へやを でなければなりません。",
+        "options": [
+          "Tidak, dilarang membuang sampah.",
+          "Harus keluar ruangan paling lambat pukul lima sore.",
+          "Bolehkah membuang sampah di sini?"
+        ],
+        "answer": 1,
+        "explanation": "Harus keluar ruangan paling lambat pukul lima sore."
+      }
+    ],
+    "roleplay": "Jelaskan peraturan ruang belajar kepada teman.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-ta-godan-a",
+    "stage": "F2",
+    "title": "Bentuk た kelompok 1: う・つ・る",
+    "canDo": "Mengubah godan menjadi bentuk lampau biasa.",
+    "vocab": [
+      [
+        "つくる",
+        "tsukuru",
+        "membuat"
+      ],
+      [
+        "かう",
+        "kau",
+        "membeli"
+      ],
+      [
+        "まつ",
+        "matsu",
+        "menunggu"
+      ],
+      [
+        "うる",
+        "uru",
+        "menjual"
+      ],
+      [
+        "おべんとう",
+        "obentou",
+        "bekal"
+      ]
+    ],
+    "grammar": {
+      "pattern": "う・つ・る→った",
+      "explanation": "買う（かう）→かった、待つ（まつ）→まった、作る（つくる）→つくった. Sama pola bunyinya seperti bentuk て, tetapi akhir て diganti た.",
+      "example": "きのう おべんとうを つくった。",
+      "romaji": "Kinou obentou o tsukutta.",
+      "meaning": "Kemarin saya membuat bekal.",
+      "commonMistake": "Jangan menulis つくりた."
+    },
+    "dialogue": [
+      "もう きっぷを かった？",
+      "うん、えきで かった。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana tiket dibeli?",
+      "options": [
+        "Rumah",
+        "Toko pakaian",
+        "Stasiun"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Sudah membeli tiket? — Ya, membeli di stasiun."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きのう みせで かばんを かった。 きょうは それを つかう。 Apa yang dibeli kemarin?",
+        "options": [
+          "Tiket",
+          "Tas",
+          "Bekal"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Kemarin membeli tas di toko. Hari ini menggunakannya. Jawaban: Tas."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: つくる→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "つくった"
+        ],
+        "explanation": "Jawaban: つくった. 買う（かう）→かった、待つ（まつ）→まった、作る（つくる）→つくった. Sama pola bunyinya seperti bentuk て, tetapi akhir て diganti た."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: まつ→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "まった"
+        ],
+        "explanation": "Jawaban: まった. 買う（かう）→かった、待つ（まつ）→まった、作る（つくる）→つくった. Sama pola bunyinya seperti bentuk て, tetapi akhir て diganti た."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: うる→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "うった"
+        ],
+        "explanation": "Jawaban: うった. 買う（かう）→かった、待つ（まつ）→まった、作る（つくる）→つくった. Sama pola bunyinya seperti bentuk て, tetapi akhir て diganti た."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きのう おべんとうを つくった。",
+        "options": [
+          "Kemarin saya membuat bekal.",
+          "Sudah membeli tiket?",
+          "Ya, membeli di stasiun."
+        ],
+        "answer": 0,
+        "explanation": "Kemarin saya membuat bekal."
+      }
+    ],
+    "roleplay": "Ceritakan barang yang dibeli kemarin.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-ta-godan-b",
+    "stage": "F2",
+    "title": "Bentuk た kelompok 1: む・ぶ・ぬ・く・ぐ・す",
+    "canDo": "Membentuk lampau biasa pada akhir godan lainnya.",
+    "vocab": [
+      [
+        "かく",
+        "kaku",
+        "menulis"
+      ],
+      [
+        "よむ",
+        "yomu",
+        "membaca"
+      ],
+      [
+        "あそぶ",
+        "asobu",
+        "bermain"
+      ],
+      [
+        "およぐ",
+        "oyogu",
+        "berenang"
+      ],
+      [
+        "いく",
+        "iku",
+        "pergi"
+      ]
+    ],
+    "grammar": {
+      "pattern": "む・ぶ・ぬ→んだ / く→いた / ぐ→いだ / す→した",
+      "explanation": "読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian.",
+      "example": "けさ みじかい メールを かいた。",
+      "romaji": "Kesa mijikai meeru o kaita.",
+      "meaning": "Tadi pagi saya menulis email pendek.",
+      "commonMistake": "Jangan memakai いく→いいた."
+    },
+    "dialogue": [
+      "きのう どこへ いった？",
+      "こうえんで ともだちと あそんだ。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana B bermain?",
+      "options": [
+        "Stasiun",
+        "Taman",
+        "Kantor"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Kemarin pergi ke mana? — Bermain dengan teman di taman."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: けさ ニュースを よんだ。 それから ともだちと はなした。 Apa yang dilakukan setelah membaca berita?",
+        "options": [
+          "Berbicara dengan teman",
+          "Berenang",
+          "Pergi ke stasiun"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Tadi pagi membaca berita. Setelah itu berbicara dengan teman. Jawaban: Berbicara dengan teman."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: よむ→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "よんだ"
+        ],
+        "explanation": "Jawaban: よんだ. 読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: あそぶ→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "あそんだ"
+        ],
+        "explanation": "Jawaban: あそんだ. 読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: かく→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "かいた"
+        ],
+        "explanation": "Jawaban: かいた. 読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: およぐ→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "およいだ"
+        ],
+        "explanation": "Jawaban: およいだ. 読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: はなす→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "はなした"
+        ],
+        "explanation": "Jawaban: はなした. 読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: いく→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "いった"
+        ],
+        "explanation": "Jawaban: いった. 読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: しぬ→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "しんだ"
+        ],
+        "explanation": "Jawaban: しんだ. 読む（よむ）→よんだ、遊ぶ（あそぶ）→あそんだ、死ぬ（しぬ）→しんだ、書く（かく）→かいた、泳ぐ（およぐ）→およいだ、話す（はなす）→はなした. いく→いった adalah pengecualian."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: けさ みじかい メールを かいた。",
+        "options": [
+          "Kemarin pergi ke mana?",
+          "Bermain dengan teman di taman.",
+          "Tadi pagi saya menulis email pendek."
+        ],
+        "answer": 2,
+        "explanation": "Tadi pagi saya menulis email pendek."
+      }
+    ],
+    "roleplay": "Ceritakan dua kegiatan kemarin dalam bentuk biasa.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-ta-other",
+    "stage": "F2",
+    "title": "Bentuk た kelompok 2 dan tidak beraturan",
+    "canDo": "Membentuk lampau biasa ichidan dan kata kerja khusus.",
+    "vocab": [
+      [
+        "みる",
+        "miru",
+        "menonton"
+      ],
+      [
+        "たべる",
+        "taberu",
+        "makan"
+      ],
+      [
+        "おきる",
+        "okiru",
+        "bangun"
+      ],
+      [
+        "する",
+        "suru",
+        "melakukan"
+      ],
+      [
+        "くる",
+        "kuru",
+        "datang"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vる→Vた (ichidan) / する→した / くる→きた",
+      "explanation": "食べる（たべる）→たべた、見る（みる）→みた、する→した、来る（くる）→きた. Hilangkan る hanya pada ichidan.",
+      "example": "きのう あたらしい えいがを みた。",
+      "romaji": "Kinou atarashii eiga o mita.",
+      "meaning": "Kemarin saya menonton film baru.",
+      "commonMistake": "Jangan memakai くる→くた."
+    },
+    "dialogue": [
+      "もう ひるごはんを たべた？",
+      "うん、１２じに たべた。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kapan B makan?",
+      "options": [
+        "Pukul dua belas",
+        "Pukul sebelas",
+        "Pukul satu"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Sudah makan siang? — Ya, makan pukul dua belas."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: けさ ６じに おきた。 そのあと そうじを した。 Apa yang dilakukan setelah bangun?",
+        "options": [
+          "Makan siang",
+          "Menonton film",
+          "Bersih-bersih"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Tadi pagi bangun pukul enam. Setelah itu bersih-bersih. Jawaban: Bersih-bersih."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: みる→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "みた"
+        ],
+        "explanation": "Jawaban: みた. 食べる（たべる）→たべた、見る（みる）→みた、する→した、来る（くる）→きた. Hilangkan る hanya pada ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: たべる→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "たべた"
+        ],
+        "explanation": "Jawaban: たべた. 食べる（たべる）→たべた、見る（みる）→みた、する→した、来る（くる）→きた. Hilangkan る hanya pada ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: おきる→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "おきた"
+        ],
+        "explanation": "Jawaban: おきた. 食べる（たべる）→たべた、見る（みる）→みた、する→した、来る（くる）→きた. Hilangkan る hanya pada ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: する→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "した"
+        ],
+        "explanation": "Jawaban: した. 食べる（たべる）→たべた、見る（みる）→みた、する→した、来る（くる）→きた. Hilangkan る hanya pada ichidan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: くる→た (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "きた"
+        ],
+        "explanation": "Jawaban: きた. 食べる（たべる）→たべた、見る（みる）→みた、する→した、来る（くる）→きた. Hilangkan る hanya pada ichidan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きのう あたらしい えいがを みた。",
+        "options": [
+          "Ya, makan pukul dua belas.",
+          "Kemarin saya menonton film baru.",
+          "Sudah makan siang?"
+        ],
+        "answer": 1,
+        "explanation": "Kemarin saya menonton film baru."
+      }
+    ],
+    "roleplay": "Tanyakan apa yang sudah dilakukan teman pagi ini.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-experience-negative",
+    "stage": "F2",
+    "title": "Pengalaman pernah dan belum pernah",
+    "canDo": "Menanyakan serta menjawab pengalaman hidup.",
+    "vocab": [
+      [
+        "のる",
+        "noru",
+        "naik"
+      ],
+      [
+        "しんかんせん",
+        "shinkansen",
+        "kereta cepat"
+      ],
+      [
+        "りょこうする",
+        "ryokou suru",
+        "bepergian"
+      ],
+      [
+        "つくる",
+        "tsukuru",
+        "membuat"
+      ],
+      [
+        "まだ",
+        "mada",
+        "belum"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vたことがあります / Vたことがありません",
+      "explanation": "乗る（のる）→のったことがあります. Pola ini membicarakan pengalaman; untuk kejadian kemarin yang spesifik gunakan lampau biasa atau sopan.",
+      "example": "まだ しんかんせんに のったことがありません。",
+      "romaji": "Mada shinkansen ni notta koto ga arimasen.",
+      "meaning": "Saya belum pernah naik shinkansen.",
+      "commonMistake": "Jangan menggunakan bentuk ます sebelum ことがあります."
+    },
+    "dialogue": [
+      "おこのみやきを つくったことがありますか。",
+      "いいえ、まだ ありません。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah B pernah membuat okonomiyaki?",
+      "options": [
+        "Pernah",
+        "Sering",
+        "Belum"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Pernah membuat okonomiyaki? — Tidak, belum pernah."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きょうとへ いったことがあります。 でも、おおさかへは いったことがありません。 Kota mana yang belum pernah dikunjungi?",
+        "options": [
+          "Keduanya",
+          "Osaka",
+          "Kyoto"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Pernah pergi ke Kyoto. Namun belum pernah ke Osaka. Jawaban: Osaka."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: のる→たことがあります (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "のったことがあります"
+        ],
+        "explanation": "Jawaban: のったことがあります. 乗る（のる）→のったことがあります. Pola ini membicarakan pengalaman; untuk kejadian kemarin yang spesifik gunakan lampau biasa atau sopan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: つくる→たことがありません (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "つくったことがありません"
+        ],
+        "explanation": "Jawaban: つくったことがありません. 乗る（のる）→のったことがあります. Pola ini membicarakan pengalaman; untuk kejadian kemarin yang spesifik gunakan lampau biasa atau sopan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: まだ しんかんせんに のったことがありません。",
+        "options": [
+          "Saya belum pernah naik shinkansen.",
+          "Pernah membuat okonomiyaki?",
+          "Tidak, belum pernah."
+        ],
+        "answer": 0,
+        "explanation": "Saya belum pernah naik shinkansen."
+      }
+    ],
+    "roleplay": "Wawancarai teman tentang pengalaman naik kendaraan dan memasak.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-comparison-choice",
+    "stage": "F2",
+    "title": "Membandingkan dua pilihan dan superlatif",
+    "canDo": "Memilih satu dari dua pilihan atau kelompok.",
+    "vocab": [
+      [
+        "かるい",
+        "karui",
+        "ringan"
+      ],
+      [
+        "おもい",
+        "omoi",
+        "berat"
+      ],
+      [
+        "はやい",
+        "hayai",
+        "cepat"
+      ],
+      [
+        "どちら",
+        "dochira",
+        "yang mana dari dua"
+      ],
+      [
+        "いちばん",
+        "ichiban",
+        "paling"
+      ]
+    ],
+    "grammar": {
+      "pattern": "AとBと どちらが / Aのほうが / Nのなかで いちばん",
+      "explanation": "電車（でんしゃ）と バスと どちらが はやいですか. Jawab でんしゃのほうが はやいです. Gunakan いちばん untuk pilihan tertinggi dalam kelompok.",
+      "example": "この ３つの なかで あおい かばんが いちばん かるいです。",
+      "romaji": "Kono mittsu no naka de aoi kaban ga ichiban karui desu.",
+      "meaning": "Di antara tiga ini, tas biru paling ringan.",
+      "commonMistake": "Jangan menggunakan いちばん untuk menyatakan sekadar lebih dari satu pilihan tanpa kelompok."
+    },
+    "dialogue": [
+      "バスと でんしゃと どちらが やすいですか。",
+      "バスのほうが やすいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Mana lebih murah?",
+      "options": [
+        "Sama harga",
+        "Bus",
+        "Kereta"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Bus dan kereta, mana lebih murah? — Bus lebih murah."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: Aの かばんは ２キロです。 Bは ３キロ、Cは １キロです。 Tas mana paling ringan?",
+        "options": [
+          "C",
+          "A",
+          "B"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Tas A beratnya dua kilogram. B tiga kilogram, C satu kilogram. Jawaban: C."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: Lengkapi バスの___が やすいです (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "ほう"
+        ],
+        "explanation": "Jawaban: ほう. 電車（でんしゃ）と バスと どちらが はやいですか. Jawab でんしゃのほうが はやいです. Gunakan いちばん untuk pilihan tertinggi dalam kelompok."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: Lengkapi ３つの なかで ___ かるいです (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "いちばん"
+        ],
+        "explanation": "Jawaban: いちばん. 電車（でんしゃ）と バスと どちらが はやいですか. Jawab でんしゃのほうが はやいです. Gunakan いちばん untuk pilihan tertinggi dalam kelompok."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この ３つの なかで あおい かばんが いちばん かるいです。",
+        "options": [
+          "Bus dan kereta, mana lebih murah?",
+          "Bus lebih murah.",
+          "Di antara tiga ini, tas biru paling ringan."
+        ],
+        "answer": 2,
+        "explanation": "Di antara tiga ini, tas biru paling ringan."
+      }
+    ],
+    "roleplay": "Bandingkan biaya dan waktu dua kendaraan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-dictionary-godan",
+    "stage": "F3",
+    "title": "Bentuk kamus kelompok 1 dari ます",
+    "canDo": "Mengenali dan mengubah kata kerja sopan menjadi bentuk kamus.",
+    "vocab": [
+      [
+        "かきます",
+        "kakimasu",
+        "menulis"
+      ],
+      [
+        "はなします",
+        "hanashimasu",
+        "berbicara"
+      ],
+      [
+        "よみます",
+        "yomimasu",
+        "membaca"
+      ],
+      [
+        "まちます",
+        "machimasu",
+        "menunggu"
+      ],
+      [
+        "かいます",
+        "kaimasu",
+        "membeli"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Baris i sebelum ます→baris u (godan)",
+      "explanation": "書きます（かきます）→かく、話します→はなす、読みます→よむ、待ちます→まつ、買います→かう. Identifikasi kelompok sebelum mengubah; います tidak selalu godan.",
+      "example": "しごとの あとで ほんを よむ。",
+      "romaji": "Shigoto no ato de hon o yomu.",
+      "meaning": "Setelah bekerja saya membaca buku.",
+      "commonMistake": "Jangan menganggap semua kata berakhiran ります sebagai ichidan."
+    },
+    "dialogue": [
+      "あとで なにを する？",
+      "スーパーで やさいを かう。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang dibeli?",
+      "options": [
+        "Sayur",
+        "Buku",
+        "Tiket"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Nanti melakukan apa? — Membeli sayur di supermarket."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あしたは えきで ともだちを まつ。 それから いっしょに あるく。 Di mana menunggu teman?",
+        "options": [
+          "Supermarket",
+          "Kantor",
+          "Stasiun"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Besok menunggu teman di stasiun. Lalu berjalan bersama. Jawaban: Stasiun."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: かきます→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "かく"
+        ],
+        "explanation": "Jawaban: かく. 書きます（かきます）→かく、話します→はなす、読みます→よむ、待ちます→まつ、買います→かう. Identifikasi kelompok sebelum mengubah; います tidak selalu godan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: はなします→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "はなす"
+        ],
+        "explanation": "Jawaban: はなす. 書きます（かきます）→かく、話します→はなす、読みます→よむ、待ちます→まつ、買います→かう. Identifikasi kelompok sebelum mengubah; います tidak selalu godan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: よみます→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "よむ"
+        ],
+        "explanation": "Jawaban: よむ. 書きます（かきます）→かく、話します→はなす、読みます→よむ、待ちます→まつ、買います→かう. Identifikasi kelompok sebelum mengubah; います tidak selalu godan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: まちます→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "まつ"
+        ],
+        "explanation": "Jawaban: まつ. 書きます（かきます）→かく、話します→はなす、読みます→よむ、待ちます→まつ、買います→かう. Identifikasi kelompok sebelum mengubah; います tidak selalu godan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: かいます→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "かう"
+        ],
+        "explanation": "Jawaban: かう. 書きます（かきます）→かく、話します→はなす、読みます→よむ、待ちます→まつ、買います→かう. Identifikasi kelompok sebelum mengubah; います tidak selalu godan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: しごとの あとで ほんを よむ。",
+        "options": [
+          "Membeli sayur di supermarket.",
+          "Setelah bekerja saya membaca buku.",
+          "Nanti melakukan apa?"
+        ],
+        "answer": 1,
+        "explanation": "Setelah bekerja saya membaca buku."
+      }
+    ],
+    "roleplay": "Ubah tiga rutinitas dari ます menjadi bentuk kamus.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-dictionary-other",
+    "stage": "F3",
+    "title": "Bentuk kamus kelompok 2 dan tidak beraturan",
+    "canDo": "Mengembalikan bentuk sopan ichidan dan kata kerja khusus ke bentuk kamus.",
+    "vocab": [
+      [
+        "ねます",
+        "nemasu",
+        "tidur"
+      ],
+      [
+        "みます",
+        "mimasu",
+        "melihat"
+      ],
+      [
+        "おきます",
+        "okimasu",
+        "bangun"
+      ],
+      [
+        "します",
+        "shimasu",
+        "melakukan"
+      ],
+      [
+        "きます",
+        "kimasu",
+        "datang (来ます)"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Ichidan: buang ます＋る / します→する / きます→くる",
+      "explanation": "食べます（たべます）→たべる、見ます→みる、起きます→おきる、します→する、来ます（きます）→くる. 着ます（きます） berarti memakai pakaian dan bentuk kamusnya きる.",
+      "example": "まいばん １１じに ねる。",
+      "romaji": "Maiban juuichiji ni neru.",
+      "meaning": "Setiap malam saya tidur pukul sebelas.",
+      "commonMistake": "Jangan menyamakan 来ます dengan 着ます."
+    },
+    "dialogue": [
+      "あした なんじに おきる？",
+      "７じに おきる。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Pukul berapa B bangun?",
+      "options": [
+        "Pukul enam",
+        "Pukul delapan",
+        "Pukul tujuh"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Besok bangun pukul berapa? — Bangun pukul tujuh."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: まいあさ ６じに おきる。 そのあと あさごはんを たべる。 Apa yang dilakukan setelah bangun?",
+        "options": [
+          "Datang ke kantor",
+          "Makan sarapan",
+          "Tidur"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Setiap pagi bangun pukul enam. Setelah itu sarapan. Jawaban: Makan sarapan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: ねます→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "ねる"
+        ],
+        "explanation": "Jawaban: ねる. 食べます（たべます）→たべる、見ます→みる、起きます→おきる、します→する、来ます（きます）→くる. 着ます（きます） berarti memakai pakaian dan bentuk kamusnya きる."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: みます→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "みる"
+        ],
+        "explanation": "Jawaban: みる. 食べます（たべます）→たべる、見ます→みる、起きます→おきる、します→する、来ます（きます）→くる. 着ます（きます） berarti memakai pakaian dan bentuk kamusnya きる."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: おきます→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "おきる"
+        ],
+        "explanation": "Jawaban: おきる. 食べます（たべます）→たべる、見ます→みる、起きます→おきる、します→する、来ます（きます）→くる. 着ます（きます） berarti memakai pakaian dan bentuk kamusnya きる."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: します→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "する"
+        ],
+        "explanation": "Jawaban: する. 食べます（たべます）→たべる、見ます→みる、起きます→おきる、します→する、来ます（きます）→くる. 着ます（きます） berarti memakai pakaian dan bentuk kamusnya きる."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: きます（datang）→bentuk kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "くる"
+        ],
+        "explanation": "Jawaban: くる. 食べます（たべます）→たべる、見ます→みる、起きます→おきる、します→する、来ます（きます）→くる. 着ます（きます） berarti memakai pakaian dan bentuk kamusnya きる."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: まいばん １１じに ねる。",
+        "options": [
+          "Setiap malam saya tidur pukul sebelas.",
+          "Besok bangun pukul berapa?",
+          "Bangun pukul tujuh."
+        ],
+        "answer": 0,
+        "explanation": "Setiap malam saya tidur pukul sebelas."
+      }
+    ],
+    "roleplay": "Ceritakan jadwal pagi dalam bentuk kamus.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-plain-negative-past",
+    "stage": "F3",
+    "title": "Bentuk biasa negatif lampau",
+    "canDo": "Menggunakan empat bentuk biasa kata kerja.",
+    "vocab": [
+      [
+        "いく",
+        "iku",
+        "pergi"
+      ],
+      [
+        "たべる",
+        "taberu",
+        "makan"
+      ],
+      [
+        "いそがしい",
+        "isogashii",
+        "sibuk"
+      ],
+      [
+        "ひるごはん",
+        "hirugohan",
+        "makan siang"
+      ],
+      [
+        "きのう",
+        "kinou",
+        "kemarin"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vじしょけい / Vない / Vた / Vなかった",
+      "explanation": "行く（いく）→いく・いかない・いった・いかなかった. Untuk negatif lampau ganti ない menjadi なかった. たべない→たべなかった.",
+      "example": "きのうは いそがしくて、ひるごはんを たべなかった。",
+      "romaji": "Kinou wa isogashikute, hirugohan o tabenakatta.",
+      "meaning": "Kemarin karena sibuk saya tidak makan siang.",
+      "commonMistake": "Jangan membentuk たべないでした untuk bentuk biasa."
+    },
+    "dialogue": [
+      "きのう えきへ いった？",
+      "ううん、いかなかった。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apakah B pergi ke stasiun?",
+      "options": [
+        "Besok",
+        "Tidak",
+        "Ya"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Kemarin pergi ke stasiun? — Tidak, tidak pergi."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きのうは あめだった。 そとへ でなかった。 Apa yang tidak dilakukan?",
+        "options": [
+          "Keluar rumah",
+          "Tidur",
+          "Membaca"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Kemarin hujan. Tidak keluar rumah. Jawaban: Keluar rumah."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: いく→negatif lampau biasa (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "いかなかった"
+        ],
+        "explanation": "Jawaban: いかなかった. 行く（いく）→いく・いかない・いった・いかなかった. Untuk negatif lampau ganti ない menjadi なかった. たべない→たべなかった."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: たべる→negatif lampau biasa (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "たべなかった"
+        ],
+        "explanation": "Jawaban: たべなかった. 行く（いく）→いく・いかない・いった・いかなかった. Untuk negatif lampau ganti ない menjadi なかった. たべない→たべなかった."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: する→negatif lampau biasa (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "しなかった"
+        ],
+        "explanation": "Jawaban: しなかった. 行く（いく）→いく・いかない・いった・いかなかった. Untuk negatif lampau ganti ない menjadi なかった. たべない→たべなかった."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きのうは いそがしくて、ひるごはんを たべなかった。",
+        "options": [
+          "Kemarin pergi ke stasiun?",
+          "Tidak, tidak pergi.",
+          "Kemarin karena sibuk saya tidak makan siang."
+        ],
+        "answer": 2,
+        "explanation": "Kemarin karena sibuk saya tidak makan siang."
+      }
+    ],
+    "roleplay": "Jawab pertanyaan tentang kegiatan kemarin dengan bentuk biasa.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-plain-noun-adj",
+    "stage": "F3",
+    "title": "Bentuk biasa kata benda dan kata sifat",
+    "canDo": "Mengubah predikat nomina dan adjektiva dalam empat waktu/polaritas.",
+    "vocab": [
+      [
+        "しずか",
+        "shizuka",
+        "tenang"
+      ],
+      [
+        "たかい",
+        "takai",
+        "mahal"
+      ],
+      [
+        "べんり",
+        "benri",
+        "praktis"
+      ],
+      [
+        "いい",
+        "ii",
+        "baik"
+      ],
+      [
+        "ホテル",
+        "hoteru",
+        "hotel"
+      ]
+    ],
+    "grammar": {
+      "pattern": "N・な形: だ/じゃない/だった/じゃなかった; い形: い/くない/かった/くなかった",
+      "explanation": "静か（しずか）→しずかだ・しずかじゃない・しずかだった・しずかじゃなかった. たかい→たかくない・たかかった・たかくなかった. いい→よくない・よかった・よくなかった.",
+      "example": "きのうの ホテルは しずかだった。",
+      "romaji": "Kinou no hoteru wa shizuka datta.",
+      "meaning": "Hotel kemarin tenang.",
+      "commonMistake": "Jangan menambahkan だ setelah kata sifat い seperti たかい."
+    },
+    "dialogue": [
+      "その みせは べんりだった？",
+      "うん、でも たかかった。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana harga toko?",
+      "options": [
+        "Mahal",
+        "Murah",
+        "Gratis"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Toko itu praktis? — Ya, tetapi mahal."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きのうの しけんは むずかしくなかった。 でも、へやは しずかじゃなかった。 Bagaimana ruangannya?",
+        "options": [
+          "Sangat tenang",
+          "Mahal",
+          "Tidak tenang"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Tes kemarin tidak sulit. Tetapi ruangannya tidak tenang. Jawaban: Tidak tenang."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: しずか→lampau biasa (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "しずかだった"
+        ],
+        "explanation": "Jawaban: しずかだった. 静か（しずか）→しずかだ・しずかじゃない・しずかだった・しずかじゃなかった. たかい→たかくない・たかかった・たかくなかった. いい→よくない・よかった・よくなかった."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: たかい→negatif lampau biasa (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "たかくなかった"
+        ],
+        "explanation": "Jawaban: たかくなかった. 静か（しずか）→しずかだ・しずかじゃない・しずかだった・しずかじゃなかった. たかい→たかくない・たかかった・たかくなかった. いい→よくない・よかった・よくなかった."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: いい→lampau biasa (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "よかった"
+        ],
+        "explanation": "Jawaban: よかった. 静か（しずか）→しずかだ・しずかじゃない・しずかだった・しずかじゃなかった. たかい→たかくない・たかかった・たかくなかった. いい→よくない・よかった・よくなかった."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: きのうの ホテルは しずかだった。",
+        "options": [
+          "Ya, tetapi mahal.",
+          "Hotel kemarin tenang.",
+          "Toko itu praktis?"
+        ],
+        "answer": 1,
+        "explanation": "Hotel kemarin tenang."
+      }
+    ],
+    "roleplay": "Gambarkan tempat yang dikunjungi kemarin secara informal.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-opinion-contrast",
+    "stage": "F3",
+    "title": "Pendapat dan perkiraan dengan と思います",
+    "canDo": "Menyampaikan pendapat dengan bentuk biasa yang tepat.",
+    "vocab": [
+      [
+        "おもう",
+        "omou",
+        "berpikir"
+      ],
+      [
+        "アプリ",
+        "apuri",
+        "aplikasi"
+      ],
+      [
+        "べんり",
+        "benri",
+        "praktis"
+      ],
+      [
+        "むずかしい",
+        "muzukashii",
+        "sulit"
+      ],
+      [
+        "だいじょうぶ",
+        "daijoubu",
+        "baik-baik saja"
+      ]
+    ],
+    "grammar": {
+      "pattern": "普通形＋とおもいます",
+      "explanation": "思う（おもう） menyatakan pendapat atau perkiraan. Kata benda dan kata sifat な afirmatif kini memakai だ sebelum と. Kata kerja dan kata sifat い tidak memakai だ.",
+      "example": "この アプリは べんりだと おもいます。",
+      "romaji": "Kono apuri wa benri da to omoimasu.",
+      "meaning": "Saya pikir aplikasi ini praktis.",
+      "commonMistake": "Jangan memakai べんりですとおもいます untuk pendapat biasa."
+    },
+    "dialogue": [
+      "あしたの テストは どうですか。",
+      "すこし むずかしいと おもいます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa pendapat B?",
+      "options": [
+        "Sangat mudah",
+        "Sudah selesai",
+        "Agak sulit"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Bagaimana tes besok? — Saya pikir agak sulit."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あしたは あめだと おもいます。 かさを もっていきます。 Mengapa membawa payung?",
+        "options": [
+          "Akan membeli payung",
+          "Memperkirakan hujan",
+          "Cuaca panas"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Saya pikir besok hujan. Saya akan membawa payung. Jawaban: Memperkirakan hujan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: べんり→pendapat sopan dengan とおもいます (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "べんりだとおもいます"
+        ],
+        "explanation": "Jawaban: べんりだとおもいます. 思う（おもう） menyatakan pendapat atau perkiraan. Kata benda dan kata sifat な afirmatif kini memakai だ sebelum と. Kata kerja dan kata sifat い tidak memakai だ."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: むずかしい→pendapat sopan dengan とおもいます (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "むずかしいとおもいます"
+        ],
+        "explanation": "Jawaban: むずかしいとおもいます. 思う（おもう） menyatakan pendapat atau perkiraan. Kata benda dan kata sifat な afirmatif kini memakai だ sebelum と. Kata kerja dan kata sifat い tidak memakai だ."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この アプリは べんりだと おもいます。",
+        "options": [
+          "Saya pikir aplikasi ini praktis.",
+          "Bagaimana tes besok?",
+          "Saya pikir agak sulit."
+        ],
+        "answer": 0,
+        "explanation": "Saya pikir aplikasi ini praktis."
+      }
+    ],
+    "roleplay": "Sampaikan pendapat tentang aplikasi belajar atau pekerjaan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m4-reason-kara-node",
+    "stage": "F3",
+    "title": "Alasan dengan から dan ので",
+    "canDo": "Menjelaskan alasan secara sopan dan membedakan penghubung.",
+    "vocab": [
+      [
+        "やすみ",
+        "yasumi",
+        "libur"
+      ],
+      [
+        "ゆっくり",
+        "yukkuri",
+        "santai"
+      ],
+      [
+        "りゆう",
+        "riyuu",
+        "alasan"
+      ],
+      [
+        "おくれる",
+        "okureru",
+        "terlambat"
+      ],
+      [
+        "でんしゃ",
+        "densha",
+        "kereta"
+      ]
+    ],
+    "grammar": {
+      "pattern": "普通形＋から / 普通形＋ので",
+      "explanation": "から dan ので sama-sama menghubungkan alasan. Nomina dan kata sifat な afirmatif kini memakai だから atau なので. ので sering terdengar lebih halus dalam penjelasan; keduanya bisa dipakai sopan. 理由（りゆう） artinya alasan.",
+      "example": "あしたは やすみなので、ゆっくり ねます。",
+      "romaji": "Ashita wa yasumi na node, yukkuri nemasu.",
+      "meaning": "Karena besok libur, saya akan tidur santai.",
+      "commonMistake": "Jangan menggunakan やすみだので."
+    },
+    "dialogue": [
+      "どうして おくれましたか。",
+      "でんしゃが おくれたので、ちこくしました。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa alasan B terlambat?",
+      "options": [
+        "Tidak punya tiket",
+        "Kereta terlambat",
+        "Bangun kesiangan"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Mengapa terlambat? — Karena kereta terlambat, saya datang terlambat."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きょうは びょういんに いくので、しごとを やすみます。 Mengapa tidak masuk kerja?",
+        "options": [
+          "Pergi ke rumah sakit",
+          "Liburan",
+          "Kereta terlambat"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Hari ini tidak masuk kerja karena pergi ke rumah sakit. Jawaban: Pergi ke rumah sakit."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: やすみ→alasan dengan ので (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "やすみなので"
+        ],
+        "explanation": "Jawaban: やすみなので. から dan ので sama-sama menghubungkan alasan. Nomina dan kata sifat な afirmatif kini memakai だから atau なので. ので sering terdengar lebih halus dalam penjelasan; keduanya bisa dipakai sopan. 理由（りゆう） artinya alasan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: いそがしい→alasan dengan から (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "いそがしいから"
+        ],
+        "explanation": "Jawaban: いそがしいから. から dan ので sama-sama menghubungkan alasan. Nomina dan kata sifat な afirmatif kini memakai だから atau なので. ので sering terdengar lebih halus dalam penjelasan; keduanya bisa dipakai sopan. 理由（りゆう） artinya alasan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: あしたは やすみなので、ゆっくり ねます。",
+        "options": [
+          "Mengapa terlambat?",
+          "Karena kereta terlambat, saya datang terlambat.",
+          "Karena besok libur, saya akan tidur santai."
+        ],
+        "answer": 2,
+        "explanation": "Karena besok libur, saya akan tidur santai."
+      }
+    ],
+    "roleplay": "Berikan alasan sopan saat tidak bisa menghadiri janji.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-potential-godan",
+    "stage": "F4",
+    "title": "Bentuk potensial: kata kerja kelompok 1",
+    "canDo": "Menjelaskan kemampuan dan keterbatasan saat menggunakan fasilitas.",
+    "vocab": [
+      [
+        "およぐ",
+        "oyogu",
+        "berenang"
+      ],
+      [
+        "はなす",
+        "hanasu",
+        "berbicara"
+      ],
+      [
+        "よむ",
+        "yomu",
+        "membaca"
+      ],
+      [
+        "つかう",
+        "tsukau",
+        "menggunakan"
+      ],
+      [
+        "うけつけ",
+        "uketsuke",
+        "resepsionis"
+      ]
+    ],
+    "grammar": {
+      "pattern": "五段動詞 → え段＋る",
+      "explanation": "Untuk kelompok 1, ubah bunyi akhir ke baris e lalu tambahkan る: よむ→よめる, はなす→はなせる, つかう→つかえる. Potensial kemudian berkonjugasi seperti kelompok 2. Objek kemampuan sering memakai が; を juga bisa muncul. 能力（のうりょく） berarti kemampuan.",
+      "example": "わたしは ひらがなが よめます。",
+      "romaji": "Watashi wa hiragana ga yomemasu.",
+      "meaning": "Saya bisa membaca hiragana.",
+      "commonMistake": "Jangan mengubah よむ menjadi よむれる."
+    },
+    "dialogue": [
+      "ここで カードが つかえますか。",
+      "はい、つかえます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Pembayaran apa yang dapat digunakan?",
+      "options": [
+        "Cek",
+        "Kartu",
+        "Kupon"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Apakah kartu bisa digunakan di sini? — Ya, bisa digunakan. Jawaban: Kartu."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この プールでは およげます。でも、よるは はいれません。 Kapan tidak bisa masuk?",
+        "options": [
+          "Malam hari",
+          "Pagi hari",
+          "Siang hari"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Di kolam renang ini orang bisa berenang. Namun, malam hari tidak bisa masuk. Jawaban: Malam hari."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: およぐ→potensial kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "およげる"
+        ],
+        "explanation": "Jawaban: およげる。 Untuk kelompok 1, ubah bunyi akhir ke baris e lalu tambahkan る: よむ→よめる, はなす→はなせる, つかう→つかえる. Potensial kemudian berkonjugasi seperti kelompok 2. Objek kemampuan sering memakai が; を juga bisa muncul. 能力（のうりょく） berarti kemampuan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: はなす→potensial sopan (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "はなせます"
+        ],
+        "explanation": "Jawaban: はなせます。 Untuk kelompok 1, ubah bunyi akhir ke baris e lalu tambahkan る: よむ→よめる, はなす→はなせる, つかう→つかえる. Potensial kemudian berkonjugasi seperti kelompok 2. Objek kemampuan sering memakai が; を juga bisa muncul. 能力（のうりょく） berarti kemampuan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: よむ→potensial negatif sopan (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "よめません"
+        ],
+        "explanation": "Jawaban: よめません。 Untuk kelompok 1, ubah bunyi akhir ke baris e lalu tambahkan る: よむ→よめる, はなす→はなせる, つかう→つかえる. Potensial kemudian berkonjugasi seperti kelompok 2. Objek kemampuan sering memakai が; を juga bisa muncul. 能力（のうりょく） berarti kemampuan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: わたしは ひらがなが よめます。",
+        "options": [
+          "Apakah kartu bisa digunakan di sini?",
+          "Ya, bisa digunakan.",
+          "Saya bisa membaca hiragana."
+        ],
+        "answer": 2,
+        "explanation": "Saya bisa membaca hiragana."
+      }
+    ],
+    "roleplay": "Tanyakan apakah kartu dapat digunakan di loket, lalu jelaskan kemampuan sendiri.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-potential-ichidan",
+    "stage": "F4",
+    "title": "Bentuk potensial: kelompok 2 dan tidak beraturan",
+    "canDo": "Menyatakan kemampuan memahami, melihat, datang, dan melakukan kegiatan.",
+    "vocab": [
+      [
+        "みる",
+        "miru",
+        "melihat"
+      ],
+      [
+        "たべる",
+        "taberu",
+        "makan"
+      ],
+      [
+        "くる",
+        "kuru",
+        "datang"
+      ],
+      [
+        "する",
+        "suru",
+        "melakukan"
+      ],
+      [
+        "そうだん",
+        "soudan",
+        "konsultasi"
+      ]
+    ],
+    "grammar": {
+      "pattern": "一段動詞＋られる / できる / こられる",
+      "explanation": "Kelompok 2: hapus る, tambahkan られる (みる→みられる). する→できる, くる→こられる. Bentuk られる juga memiliki fungsi pasif pada konteks lain. Gunakan bentuk standar dalam pembelajaran. 相談（そうだん） berarti konsultasi.",
+      "example": "あしたは はやく こられます。",
+      "romaji": "Ashita wa hayaku koraremasu.",
+      "meaning": "Besok saya bisa datang lebih awal.",
+      "commonMistake": "Jangan menulis くれる sebagai potensial dari くる; bentuk standar adalah こられる."
+    },
+    "dialogue": [
+      "きょう、ここで そうだんできますか。",
+      "きょうは できません。あしたは できます。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kapan konsultasi bisa dilakukan?",
+      "options": [
+        "Hari ini",
+        "Kemarin",
+        "Besok"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Bisakah berkonsultasi di sini hari ini? — Hari ini tidak bisa. Besok bisa. Jawaban: Besok."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この へやでは えいがが みられます。しょくじは できません。 Kegiatan apa yang bisa dilakukan?",
+        "options": [
+          "Makan",
+          "Menonton film",
+          "Memasak"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Di ruangan ini orang bisa menonton film. Makan tidak diperbolehkan atau tidak bisa dilakukan. Jawaban: Menonton film."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: みる→potensial kamus (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "みられる"
+        ],
+        "explanation": "Jawaban: みられる。 Kelompok 2: hapus る, tambahkan られる (みる→みられる). する→できる, くる→こられる. Bentuk られる juga memiliki fungsi pasif pada konteks lain. Gunakan bentuk standar dalam pembelajaran. 相談（そうだん） berarti konsultasi."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: する→potensial sopan (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "できます"
+        ],
+        "explanation": "Jawaban: できます。 Kelompok 2: hapus る, tambahkan られる (みる→みられる). する→できる, くる→こられる. Bentuk られる juga memiliki fungsi pasif pada konteks lain. Gunakan bentuk standar dalam pembelajaran. 相談（そうだん） berarti konsultasi."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: くる→potensial negatif sopan (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "こられません"
+        ],
+        "explanation": "Jawaban: こられません。 Kelompok 2: hapus る, tambahkan られる (みる→みられる). する→できる, くる→こられる. Bentuk られる juga memiliki fungsi pasif pada konteks lain. Gunakan bentuk standar dalam pembelajaran. 相談（そうだん） berarti konsultasi."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: あしたは はやく こられます。",
+        "options": [
+          "Besok saya bisa datang lebih awal.",
+          "Bisakah berkonsultasi di sini hari ini?",
+          "Hari ini tidak bisa. Besok bisa."
+        ],
+        "answer": 0,
+        "explanation": "Besok saya bisa datang lebih awal."
+      }
+    ],
+    "roleplay": "Tanyakan apakah konsultasi bisa dilakukan hari ini dan tawarkan waktu alternatif.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-tara-trouble",
+    "stage": "F4",
+    "title": "Kondisi たら: tindakan saat terjadi masalah",
+    "canDo": "Memahami petunjuk bersyarat ketika terjadi gangguan di tempat tinggal.",
+    "vocab": [
+      [
+        "みず",
+        "mizu",
+        "air"
+      ],
+      [
+        "もれる",
+        "moreru",
+        "bocor"
+      ],
+      [
+        "とめる",
+        "tomeru",
+        "menghentikan"
+      ],
+      [
+        "かんりにん",
+        "kanrinin",
+        "pengelola"
+      ],
+      [
+        "れんらくする",
+        "renraku suru",
+        "menghubungi"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vた＋ら、〜",
+      "explanation": "Bentuk た＋ら menyatakan kondisi atau waktu setelah tindakan selesai. Misalnya もれる→もれたら. Untuk instruksi, gunakan 〜たら、〜てください. 管理人（かんりにん） adalah pengelola gedung.",
+      "example": "みずが もれたら、かんりにんに れんらくしてください。",
+      "romaji": "Mizu ga moretara, kanrinin ni renraku shite kudasai.",
+      "meaning": "Jika air bocor, hubungi pengelola.",
+      "commonMistake": "Jangan gunakan bentuk kamus langsung: もれるたら."
+    },
+    "dialogue": [
+      "エアコンが うごかなかったら、どうしますか。",
+      "かんりにんに でんわします。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Siapa yang akan ditelepon?",
+      "options": [
+        "Pengelola",
+        "Dokter",
+        "Pengemudi"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Apa yang dilakukan jika AC tidak menyala? — Saya akan menelepon pengelola. Jawaban: Pengelola."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: かぎを なくしたら、うけつけに きてください。うけつけは ごご ろくじまでです。 Sampai jam berapa resepsionis buka?",
+        "options": [
+          "16.00",
+          "20.00",
+          "18.00"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Jika kehilangan kunci, datanglah ke resepsionis. Resepsionis buka sampai pukul enam sore. Jawaban: 18.00."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: なくす→kondisi afirmatif (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "なくしたら"
+        ],
+        "explanation": "Jawaban: なくしたら。 Bentuk た＋ら menyatakan kondisi atau waktu setelah tindakan selesai. Misalnya もれる→もれたら. Untuk instruksi, gunakan 〜たら、〜てください. 管理人（かんりにん） adalah pengelola gedung."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: うごかない→kondisi negatif (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "うごかなかったら"
+        ],
+        "explanation": "Jawaban: うごかなかったら。 Bentuk た＋ら menyatakan kondisi atau waktu setelah tindakan selesai. Misalnya もれる→もれたら. Untuk instruksi, gunakan 〜たら、〜てください. 管理人（かんりにん） adalah pengelola gedung."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: みずが もれたら、かんりにんに れんらくしてください。",
+        "options": [
+          "Apa yang dilakukan jika AC tidak menyala?",
+          "Jika air bocor, hubungi pengelola.",
+          "Saya akan menelepon pengelola."
+        ],
+        "answer": 1,
+        "explanation": "Jika air bocor, hubungi pengelola."
+      }
+    ],
+    "roleplay": "Laporkan kunci hilang dan tanyakan apa yang harus dilakukan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-temo-concession",
+    "stage": "F4",
+    "title": "Kondisi ても: meskipun",
+    "canDo": "Menjelaskan tindakan yang tetap dilakukan walaupun ada kendala.",
+    "vocab": [
+      [
+        "あめ",
+        "ame",
+        "hujan"
+      ],
+      [
+        "ふる",
+        "furu",
+        "turun (hujan)"
+      ],
+      [
+        "つづける",
+        "tsuzukeru",
+        "melanjutkan"
+      ],
+      [
+        "ちかい",
+        "chikai",
+        "dekat"
+      ],
+      [
+        "むり",
+        "muri",
+        "tidak sanggup"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vて＋も / い形容詞くても / な形容詞・名詞でも",
+      "explanation": "ても menyatakan hasil yang tetap berlaku walaupun kondisi terjadi. ふる→ふっても, たかい→たかくても, ひま→ひまでも. Bentuk negatif kata kerja: Vなくても. 雨（あめ） berarti hujan.",
+      "example": "あめが ふっても、バスで いきます。",
+      "romaji": "Ame ga futte mo, basu de ikimasu.",
+      "meaning": "Walaupun hujan, saya akan pergi naik bus.",
+      "commonMistake": "Jangan gunakan ふったも; gunakan ふっても."
+    },
+    "dialogue": [
+      "あした、あめでも れんしゅうしますか。",
+      "はい、たいいくかんで れんしゅうします。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana latihan akan berlangsung?",
+      "options": [
+        "Taman",
+        "Gedung olahraga",
+        "Stasiun"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Besok, apakah tetap berlatih meskipun hujan? — Ya, berlatih di gedung olahraga. Jawaban: Gedung olahraga."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: この みせは とおくても、よく いきます。やさいが やすいです。 Mengapa sering pergi ke toko itu?",
+        "options": [
+          "Sayuran murah",
+          "Toko dekat",
+          "Toko selalu kosong"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Walaupun toko ini jauh, saya sering pergi ke sana. Sayurannya murah. Jawaban: Sayuran murah."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: ふる→meskipun turun (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "ふっても"
+        ],
+        "explanation": "Jawaban: ふっても。 ても menyatakan hasil yang tetap berlaku walaupun kondisi terjadi. ふる→ふっても, たかい→たかくても, ひま→ひまでも. Bentuk negatif kata kerja: Vなくても. 雨（あめ） berarti hujan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: たかい→meskipun mahal (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "たかくても"
+        ],
+        "explanation": "Jawaban: たかくても。 ても menyatakan hasil yang tetap berlaku walaupun kondisi terjadi. ふる→ふっても, たかい→たかくても, ひま→ひまでも. Bentuk negatif kata kerja: Vなくても. 雨（あめ） berarti hujan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: ひま→meskipun senggang (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "ひまでも"
+        ],
+        "explanation": "Jawaban: ひまでも。 ても menyatakan hasil yang tetap berlaku walaupun kondisi terjadi. ふる→ふっても, たかい→たかくても, ひま→ひまでも. Bentuk negatif kata kerja: Vなくても. 雨（あめ） berarti hujan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: あめが ふっても、バスで いきます。",
+        "options": [
+          "Besok, apakah tetap berlatih meskipun hujan?",
+          "Ya, berlatih di gedung olahraga.",
+          "Walaupun hujan, saya akan pergi naik bus."
+        ],
+        "answer": 2,
+        "explanation": "Walaupun hujan, saya akan pergi naik bus."
+      }
+    ],
+    "roleplay": "Buat rencana latihan yang tetap bisa dilaksanakan jika hujan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-advice-safety",
+    "stage": "F4",
+    "title": "Saran keselamatan dengan ほうがいい",
+    "canDo": "Memberi saran praktis tanpa menyamakannya dengan aturan wajib.",
+    "vocab": [
+      [
+        "あぶない",
+        "abunai",
+        "berbahaya"
+      ],
+      [
+        "てぶくろ",
+        "tebukuro",
+        "sarung tangan"
+      ],
+      [
+        "さわる",
+        "sawaru",
+        "menyentuh"
+      ],
+      [
+        "きく",
+        "kiku",
+        "bertanya"
+      ],
+      [
+        "さきに",
+        "saki ni",
+        "terlebih dahulu"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vた＋ほうがいい / Vない＋ほうがいい",
+      "explanation": "Gunakan bentuk た untuk saran afirmatif dan bentuk ない untuk saran negatif. Ini saran, bukan larangan resmi atau kewajiban mutlak. 手袋（てぶくろ） artinya sarung tangan.",
+      "example": "さきに せんぱいに きいた ほうが いいです。",
+      "romaji": "Saki ni senpai ni kiita hou ga ii desu.",
+      "meaning": "Sebaiknya bertanya kepada senior terlebih dahulu.",
+      "commonMistake": "Saran negatif: さわらないほうがいい, bukan さわらなかったほうがいい untuk situasi ini."
+    },
+    "dialogue": [
+      "この きかいは あついですか。",
+      "はい、さわらない ほうが いいです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa saran B?",
+      "options": [
+        "Nyalakan mesin",
+        "Bawa mesin pulang",
+        "Jangan menyentuh mesin"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Apakah mesin ini panas? — Ya, sebaiknya jangan menyentuhnya. Jawaban: Jangan menyentuh mesin."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あしたは さむく なります。そとで はたらく ひとは てぶくろを した ほうが いいです。 Apa yang disarankan?",
+        "options": [
+          "Melepas jaket",
+          "Memakai sarung tangan",
+          "Membuka jendela"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Besok akan menjadi dingin. Orang yang bekerja di luar sebaiknya memakai sarung tangan. Jawaban: Memakai sarung tangan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: きく→sebaiknya bertanya (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "きいたほうがいい"
+        ],
+        "explanation": "Jawaban: きいたほうがいい。 Gunakan bentuk た untuk saran afirmatif dan bentuk ない untuk saran negatif. Ini saran, bukan larangan resmi atau kewajiban mutlak. 手袋（てぶくろ） artinya sarung tangan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: さわる→sebaiknya tidak menyentuh (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "さわらないほうがいい"
+        ],
+        "explanation": "Jawaban: さわらないほうがいい。 Gunakan bentuk た untuk saran afirmatif dan bentuk ない untuk saran negatif. Ini saran, bukan larangan resmi atau kewajiban mutlak. 手袋（てぶくろ） artinya sarung tangan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: さきに せんぱいに きいた ほうが いいです。",
+        "options": [
+          "Sebaiknya bertanya kepada senior terlebih dahulu.",
+          "Apakah mesin ini panas?",
+          "Ya, sebaiknya jangan menyentuhnya."
+        ],
+        "answer": 0,
+        "explanation": "Sebaiknya bertanya kepada senior terlebih dahulu."
+      }
+    ],
+    "roleplay": "Beri saran keselamatan kepada rekan yang baru mulai bekerja.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-change-ability",
+    "stage": "F4",
+    "title": "Perubahan kemampuan dengan ようになる",
+    "canDo": "Menceritakan perkembangan keterampilan dan menanyakan bantuan secara sopan.",
+    "vocab": [
+      [
+        "ひとりで",
+        "hitori de",
+        "sendiri"
+      ],
+      [
+        "りょうり",
+        "ryouri",
+        "memasak"
+      ],
+      [
+        "つくる",
+        "tsukuru",
+        "membuat"
+      ],
+      [
+        "ならう",
+        "narau",
+        "belajar dari orang"
+      ],
+      [
+        "れんしゅう",
+        "renshuu",
+        "latihan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "V可能形＋ようになる",
+      "explanation": "Bentuk potensial＋ようになる menunjukkan kemampuan yang mulai diperoleh. つくる→つくれる→つくれるようになる. Bentuk negatif できなくなる menunjukkan kehilangan kemampuan, berbeda dari できるようになる. 練習（れんしゅう） berarti latihan.",
+      "example": "ひとりで りょうりが つくれる ように なりました。",
+      "romaji": "Hitori de ryouri ga tsukureru you ni narimashita.",
+      "meaning": "Saya sudah mulai bisa memasak sendiri.",
+      "commonMistake": "Gunakan つくれる, bukan つくれます, sebelum ように なりました."
+    },
+    "dialogue": [
+      "にほんごで でんわが できる ように なりましたか。",
+      "はい、まいにち れんしゅうしました。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Bagaimana B berlatih?",
+      "options": [
+        "Setiap hari",
+        "Sebulan sekali",
+        "Tidak pernah"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Apakah sekarang sudah bisa menelepon dalam bahasa Jepang? — Ya, saya berlatih setiap hari. Jawaban: Setiap hari."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: まえは じてんしゃに のれませんでした。いまは のれる ように なりました。 Kemampuan apa yang diperoleh?",
+        "options": [
+          "Mengemudi mobil",
+          "Berenang",
+          "Naik sepeda"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Dulu saya tidak bisa naik sepeda. Sekarang sudah bisa. Jawaban: Naik sepeda."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: のれる→sudah mulai bisa (sopan lampau) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "のれるようになりました"
+        ],
+        "explanation": "Jawaban: のれるようになりました。 Bentuk potensial＋ようになる menunjukkan kemampuan yang mulai diperoleh. つくる→つくれる→つくれるようになる. Bentuk negatif できなくなる menunjukkan kehilangan kemampuan, berbeda dari できるようになる. 練習（れんしゅう） berarti latihan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: できる→mulai bisa (kamus) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "できるようになる"
+        ],
+        "explanation": "Jawaban: できるようになる。 Bentuk potensial＋ようになる menunjukkan kemampuan yang mulai diperoleh. つくる→つくれる→つくれるようになる. Bentuk negatif できなくなる menunjukkan kehilangan kemampuan, berbeda dari できるようになる. 練習（れんしゅう） berarti latihan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: ひとりで りょうりが つくれる ように なりました。",
+        "options": [
+          "Apakah sekarang sudah bisa menelepon dalam bahasa Jepang?",
+          "Saya sudah mulai bisa memasak sendiri.",
+          "Ya, saya berlatih setiap hari."
+        ],
+        "answer": 1,
+        "explanation": "Saya sudah mulai bisa memasak sendiri."
+      }
+    ],
+    "roleplay": "Ceritakan kemampuan yang dulu belum bisa, tetapi sekarang sudah bisa.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-intention-negative",
+    "stage": "F5",
+    "title": "Niat pribadi: つもり positif dan negatif",
+    "canDo": "Menyatakan niat pribadi terkait kegiatan libur dan perubahan kebiasaan.",
+    "vocab": [
+      [
+        "ちょきんする",
+        "chokin suru",
+        "menabung"
+      ],
+      [
+        "かう",
+        "kau",
+        "membeli"
+      ],
+      [
+        "こんど",
+        "kondo",
+        "lain kali"
+      ],
+      [
+        "りょこう",
+        "ryokou",
+        "perjalanan"
+      ],
+      [
+        "よさん",
+        "yosan",
+        "anggaran"
+      ]
+    ],
+    "grammar": {
+      "pattern": "V辞書形・Vない＋つもりです",
+      "explanation": "つもり menyatakan niat yang sudah dipikirkan. Bentuk kamus untuk niat melakukan, bentuk ない untuk niat tidak melakukan. Bukan jaminan bahwa rencana pasti terjadi. 予算（よさん） berarti anggaran.",
+      "example": "らいげつは あたらしい スマホを かわない つもりです。",
+      "romaji": "Raigetsu wa atarashii sumaho o kawanai tsumori desu.",
+      "meaning": "Bulan depan saya berniat tidak membeli ponsel baru.",
+      "commonMistake": "Jangan gunakan かいませんつもり; gunakan かわないつもり."
+    },
+    "dialogue": [
+      "ボーナスで なにを かう つもりですか。",
+      "なにも かわない つもりです。ちょきんします。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa niat B terhadap bonus?",
+      "options": [
+        "Membeli ponsel",
+        "Menabung",
+        "Membeli sepeda"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Apa yang berniat Anda beli dengan bonus? — Saya berniat tidak membeli apa pun. Saya akan menabung. Jawaban: Menabung."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: こんどの やすみは りょこうする つもりです。でも、くるまは かりない つもりです。 Apa yang tidak akan dilakukan?",
+        "options": [
+          "Menyewa mobil",
+          "Bepergian",
+          "Libur"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Libur berikutnya saya berniat bepergian. Namun, saya berniat tidak menyewa mobil. Jawaban: Menyewa mobil."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: りょこうする→berniat bepergian (sopan) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "りょこうするつもりです"
+        ],
+        "explanation": "Jawaban: りょこうするつもりです。 つもり menyatakan niat yang sudah dipikirkan. Bentuk kamus untuk niat melakukan, bentuk ない untuk niat tidak melakukan. Bukan jaminan bahwa rencana pasti terjadi. 予算（よさん） berarti anggaran."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: かりる→berniat tidak menyewa (sopan) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "かりないつもりです"
+        ],
+        "explanation": "Jawaban: かりないつもりです。 つもり menyatakan niat yang sudah dipikirkan. Bentuk kamus untuk niat melakukan, bentuk ない untuk niat tidak melakukan. Bukan jaminan bahwa rencana pasti terjadi. 予算（よさん） berarti anggaran."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: らいげつは あたらしい スマホを かわない つもりです。",
+        "options": [
+          "Apa yang berniat Anda beli dengan bonus?",
+          "Saya berniat tidak membeli apa pun. Saya akan menabung.",
+          "Bulan depan saya berniat tidak membeli ponsel baru."
+        ],
+        "answer": 2,
+        "explanation": "Bulan depan saya berniat tidak membeli ponsel baru."
+      }
+    ],
+    "roleplay": "Jelaskan rencana penggunaan uang bonus kepada teman.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-schedule-yotei",
+    "stage": "F5",
+    "title": "Jadwal dan perubahan dengan よてい",
+    "canDo": "Membedakan jadwal kegiatan dari niat pribadi dan mengonfirmasi waktu.",
+    "vocab": [
+      [
+        "よてい",
+        "yotei",
+        "jadwal"
+      ],
+      [
+        "かいぎ",
+        "kaigi",
+        "rapat"
+      ],
+      [
+        "しゅっちょう",
+        "shucchou",
+        "perjalanan dinas"
+      ],
+      [
+        "へんこう",
+        "henkou",
+        "perubahan"
+      ],
+      [
+        "かくにんする",
+        "kakunin suru",
+        "memastikan"
+      ]
+    ],
+    "grammar": {
+      "pattern": "V辞書形＋予定です / Nの＋予定です",
+      "explanation": "よてい menyatakan jadwal atau rencana yang sudah disusun, termasuk jadwal pihak lain. つもり lebih menonjolkan niat. Nomina memakai の: かいぎの よていです. 予定（よてい） berarti jadwal.",
+      "example": "らいしゅう おおさかへ しゅっちょうする よていです。",
+      "romaji": "Raishuu Oosaka e shucchou suru yotei desu.",
+      "meaning": "Minggu depan dijadwalkan melakukan perjalanan dinas ke Osaka.",
+      "commonMistake": "Sebelum よてい gunakan bentuk kamus, bukan しゅっちょうします."
+    },
+    "dialogue": [
+      "あしたの かいぎは なんじからですか。",
+      "ごぜん じゅうじからの よていです。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Kapan rapat dijadwalkan mulai?",
+      "options": [
+        "09.00",
+        "13.00",
+        "10.00"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Rapat besok mulai pukul berapa? — Dijadwalkan mulai pukul sepuluh pagi. Jawaban: 10.00."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: きんようびの かいぎは ちゅうしです。げつようびの ごご にじから おこなう よていです。 Kapan jadwal pengganti?",
+        "options": [
+          "Jumat 14.00",
+          "Senin 14.00",
+          "Senin 02.00"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Rapat Jumat dibatalkan. Rapat dijadwalkan dilaksanakan mulai Senin pukul dua siang. Jawaban: Senin 14.00."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: おこなう→dijadwalkan dilaksanakan (sopan) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "おこなうよていです"
+        ],
+        "explanation": "Jawaban: おこなうよていです。 よてい menyatakan jadwal atau rencana yang sudah disusun, termasuk jadwal pihak lain. つもり lebih menonjolkan niat. Nomina memakai の: かいぎの よていです. 予定（よてい） berarti jadwal."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: かいぎ→jadwal rapat (sopan) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "かいぎのよていです"
+        ],
+        "explanation": "Jawaban: かいぎのよていです。 よてい menyatakan jadwal atau rencana yang sudah disusun, termasuk jadwal pihak lain. つもり lebih menonjolkan niat. Nomina memakai の: かいぎの よていです. 予定（よてい） berarti jadwal."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: らいしゅう おおさかへ しゅっちょうする よていです。",
+        "options": [
+          "Minggu depan dijadwalkan melakukan perjalanan dinas ke Osaka.",
+          "Rapat besok mulai pukul berapa?",
+          "Dijadwalkan mulai pukul sepuluh pagi."
+        ],
+        "answer": 0,
+        "explanation": "Minggu depan dijadwalkan melakukan perjalanan dinas ke Osaka."
+      }
+    ],
+    "roleplay": "Konfirmasi jadwal rapat yang berubah kepada rekan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-public-notice",
+    "stage": "F5",
+    "title": "Dokkai pengumuman fasilitas dan jam layanan",
+    "canDo": "Menemukan waktu penutupan, alasan, dan alternatif dari pengumuman publik.",
+    "vocab": [
+      [
+        "てんけん",
+        "tenken",
+        "pemeriksaan"
+      ],
+      [
+        "りよう",
+        "riyou",
+        "penggunaan"
+      ],
+      [
+        "ちゅうし",
+        "chuushi",
+        "pembatalan"
+      ],
+      [
+        "べつ",
+        "betsu",
+        "lain"
+      ],
+      [
+        "いりぐち",
+        "iriguchi",
+        "pintu masuk"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Nのため / Nが利用できます",
+      "explanation": "Nのため dalam pengumuman dapat menyatakan alasan: てんけんのため = karena pemeriksaan. りようできます menunjukkan fasilitas dapat digunakan. 入口（いりぐち） berarti pintu masuk. Cari informasi tanggal, jam dan alternatif, bukan hanya satu kata.",
+      "example": "てんけんのため、エレベーターは りようできません。",
+      "romaji": "Tenken no tame, erebeetaa wa riyou dekimasen.",
+      "meaning": "Karena pemeriksaan, lift tidak dapat digunakan.",
+      "commonMistake": "Jangan mengartikan semua ため sebagai tujuan; konteks pengumuman ini menunjukkan alasan."
+    },
+    "dialogue": [
+      "この いりぐちは つかえますか。",
+      "いいえ、べつの いりぐちを つかってください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang harus digunakan?",
+      "options": [
+        "Pintu masuk lain",
+        "Lift yang sama",
+        "Ruang rapat"
+      ],
+      "answer": 0,
+      "explanation": "Dialog: Apakah pintu masuk ini dapat digunakan? — Tidak, silakan gunakan pintu masuk lain. Jawaban: Pintu masuk lain."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: おしらせ：すいようびは てんけんのため、プールは ごぜんちゅう りようできません。ごご いちじから りようできます。 Kapan kolam renang dapat digunakan?",
+        "options": [
+          "Rabu sepanjang pagi",
+          "Selasa mulai 13.00",
+          "Rabu mulai 13.00"
+        ],
+        "answer": 2,
+        "explanation": "Arti bacaan: Pengumuman: Rabu, karena pemeriksaan, kolam renang tidak dapat digunakan sepanjang pagi. Dapat digunakan mulai pukul satu siang. Jawaban: Rabu mulai 13.00."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: てんけん→karena pemeriksaan (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "てんけんのため"
+        ],
+        "explanation": "Jawaban: てんけんのため。 Nのため dalam pengumuman dapat menyatakan alasan: てんけんのため = karena pemeriksaan. りようできます menunjukkan fasilitas dapat digunakan. 入口（いりぐち） berarti pintu masuk. Cari informasi tanggal, jam dan alternatif, bukan hanya satu kata."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: りようする→bisa digunakan (sopan) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "りようできます"
+        ],
+        "explanation": "Jawaban: りようできます。 Nのため dalam pengumuman dapat menyatakan alasan: てんけんのため = karena pemeriksaan. りようできます menunjukkan fasilitas dapat digunakan. 入口（いりぐち） berarti pintu masuk. Cari informasi tanggal, jam dan alternatif, bukan hanya satu kata."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: てんけんのため、エレベーターは りようできません。",
+        "options": [
+          "Apakah pintu masuk ini dapat digunakan?",
+          "Karena pemeriksaan, lift tidak dapat digunakan.",
+          "Tidak, silakan gunakan pintu masuk lain."
+        ],
+        "answer": 1,
+        "explanation": "Karena pemeriksaan, lift tidak dapat digunakan."
+      }
+    ],
+    "roleplay": "Jelaskan informasi pengumuman kepada teman yang ingin menggunakan fasilitas.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-work-report",
+    "stage": "F5",
+    "title": "Melaporkan pekerjaan dengan てあります dan ておきます",
+    "canDo": "Melaporkan persiapan dan hasil pekerjaan sebelum pergantian shift.",
+    "vocab": [
+      [
+        "しりょう",
+        "shiryou",
+        "dokumen"
+      ],
+      [
+        "じゅんび",
+        "junbi",
+        "persiapan"
+      ],
+      [
+        "ならべる",
+        "naraberu",
+        "menata"
+      ],
+      [
+        "おく",
+        "oku",
+        "meletakkan"
+      ],
+      [
+        "ひきつぎ",
+        "hikitsugi",
+        "serah terima"
+      ]
+    ],
+    "grammar": {
+      "pattern": "他動詞て＋あります / Vて＋おきます",
+      "explanation": "てあります menggambarkan keadaan hasil tindakan yang disengaja, misalnya しりょうが おいてあります. ておきます berarti melakukan persiapan untuk kebutuhan berikutnya. Pada てあります, benda hasil sering ditandai が. 資料（しりょう） berarti dokumen atau bahan.",
+      "example": "かいぎの まえに しりょうを ならべて おきます。",
+      "romaji": "Kaigi no mae ni shiryou o narabete okimasu.",
+      "meaning": "Saya akan menata dokumen terlebih dahulu sebelum rapat.",
+      "commonMistake": "Jangan menggunakan bentuk kamus ならべるおきます; gunakan ならべておきます."
+    },
+    "dialogue": [
+      "しりょうは どこですか。",
+      "つくえの うえに おいてあります。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Di mana dokumennya?",
+      "options": [
+        "Di dalam lemari",
+        "Di atas meja",
+        "Di lobi"
+      ],
+      "answer": 1,
+      "explanation": "Dialog: Di mana dokumennya? — Sudah diletakkan di atas meja. Jawaban: Di atas meja."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: あしたの しごとの ために、どうぐを そろえて おきました。リストも かべに はって あります。 Apa yang sudah ditempel di dinding?",
+        "options": [
+          "Daftar",
+          "Dokumen rapat",
+          "Jadwal kereta"
+        ],
+        "answer": 0,
+        "explanation": "Arti bacaan: Untuk pekerjaan besok, peralatan sudah saya siapkan. Daftar juga sudah ditempel di dinding. Jawaban: Daftar."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: ならべる→menata sebelumnya (sopan) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "ならべておきます"
+        ],
+        "explanation": "Jawaban: ならべておきます。 てあります menggambarkan keadaan hasil tindakan yang disengaja, misalnya しりょうが おいてあります. ておきます berarti melakukan persiapan untuk kebutuhan berikutnya. Pada てあります, benda hasil sering ditandai が. 資料（しりょう） berarti dokumen atau bahan."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: おく→sudah diletakkan (sopan) (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "おいてあります"
+        ],
+        "explanation": "Jawaban: おいてあります。 てあります menggambarkan keadaan hasil tindakan yang disengaja, misalnya しりょうが おいてあります. ておきます berarti melakukan persiapan untuk kebutuhan berikutnya. Pada てあります, benda hasil sering ditandai が. 資料（しりょう） berarti dokumen atau bahan."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: かいぎの まえに しりょうを ならべて おきます。",
+        "options": [
+          "Di mana dokumennya?",
+          "Sudah diletakkan di atas meja.",
+          "Saya akan menata dokumen terlebih dahulu sebelum rapat."
+        ],
+        "answer": 2,
+        "explanation": "Saya akan menata dokumen terlebih dahulu sebelum rapat."
+      }
+    ],
+    "roleplay": "Lakukan serah terima pekerjaan: jelaskan apa yang sudah siap dan apa yang akan disiapkan.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  },
+  {
+    "id": "s92m5-community-help",
+    "stage": "F5",
+    "title": "Simulasi A2: meminta bantuan dan menindaklanjuti",
+    "canDo": "Meminta klarifikasi saat mengurus dokumen dan memahami langkah berikutnya.",
+    "vocab": [
+      [
+        "しんせい",
+        "shinsei",
+        "permohonan administratif"
+      ],
+      [
+        "ようし",
+        "youshi",
+        "formulir"
+      ],
+      [
+        "きにゅうする",
+        "kinyuu suru",
+        "mengisi"
+      ],
+      [
+        "ひつよう",
+        "hitsuyou",
+        "diperlukan"
+      ],
+      [
+        "まどぐち",
+        "madoguchi",
+        "loket"
+      ]
+    ],
+    "grammar": {
+      "pattern": "Vて＋いただけませんか / Vたら、〜",
+      "explanation": "ていただけませんか adalah permintaan bantuan yang sopan. たら mengurutkan instruksi setelah langkah pertama selesai. Pada urusan resmi, konfirmasi dokumen, waktu, dan lokasi dengan jelas. 申請（しんせい） berarti permohonan administratif.",
+      "example": "この ようしの かきかたを おしえて いただけませんか。",
+      "romaji": "Kono youshi no kakikata o oshiete itadakemasen ka.",
+      "meaning": "Bisakah Anda mengajari saya cara mengisi formulir ini?",
+      "commonMistake": "Jangan memakai おしえるいただけませんか; gunakan bentuk て おしえて."
+    },
+    "dialogue": [
+      "この ようしを かいたら、どうすれば いいですか。",
+      "みぶんしょうめいしょと いっしょに まどぐちへ だしてください。"
+    ],
+    "listeningQuestion": {
+      "prompt": "Apa yang harus disertakan?",
+      "options": [
+        "Tiket kereta",
+        "Kartu anggota toko",
+        "Bukti identitas"
+      ],
+      "answer": 2,
+      "explanation": "Dialog: Setelah mengisi formulir ini, apa yang harus saya lakukan? — Serahkan ke loket bersama bukti identitas. Jawaban: Bukti identitas."
+    },
+    "practice": [
+      {
+        "type": "choice",
+        "prompt": "Dokkai: しんせいの うけつけは ごご よじまでです。ようしに なまえと じゅうしょを かいて、まどぐちに だしてください。 Sampai pukul berapa permohonan diterima?",
+        "options": [
+          "14.00",
+          "16.00",
+          "18.00"
+        ],
+        "answer": 1,
+        "explanation": "Arti bacaan: Penerimaan permohonan sampai pukul empat sore. Tulis nama dan alamat pada formulir, lalu serahkan ke loket. Jawaban: 16.00."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: おしえる→permintaan bantuan sopan (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "おしえていただけませんか"
+        ],
+        "explanation": "Jawaban: おしえていただけませんか。 ていただけませんか adalah permintaan bantuan yang sopan. たら mengurutkan instruksi setelah langkah pertama selesai. Pada urusan resmi, konfirmasi dokumen, waktu, dan lokasi dengan jelas. 申請（しんせい） berarti permohonan administratif."
+      },
+      {
+        "type": "input",
+        "prompt": "Latihan bentuk: かく→setelah menulis (tulis kana, tanpa spasi atau tanda titik).",
+        "answers": [
+          "かいたら"
+        ],
+        "explanation": "Jawaban: かいたら。 ていただけませんか adalah permintaan bantuan yang sopan. たら mengurutkan instruksi setelah langkah pertama selesai. Pada urusan resmi, konfirmasi dokumen, waktu, dan lokasi dengan jelas. 申請（しんせい） berarti permohonan administratif."
+      },
+      {
+        "type": "choice",
+        "prompt": "Pilih arti: この ようしの かきかたを おしえて いただけませんか。",
+        "options": [
+          "Bisakah Anda mengajari saya cara mengisi formulir ini?",
+          "Setelah mengisi formulir ini, apa yang harus saya lakukan?",
+          "Serahkan ke loket bersama bukti identitas."
+        ],
+        "answer": 0,
+        "explanation": "Bisakah Anda mengajari saya cara mengisi formulir ini?"
+      }
+    ],
+    "roleplay": "Berperan sebagai pemohon di loket: minta bantuan, konfirmasi dokumen dan tenggat, lalu ulangi petunjuk.",
+    "pathways": [
+      "from-zero",
+      "jft-prep"
+    ],
+    "editorialStatus": "draft-original-unreviewed",
+    "sourceRefs": [],
+    "steps": [
+      "goal",
+      "kotoba",
+      "bunpou",
+      "listening",
+      "active-practice",
+      "speaking",
+      "mastery-review"
+    ],
+    "prerequisiteUnitIds": []
+  }
+];

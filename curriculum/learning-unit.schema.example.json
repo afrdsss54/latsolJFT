@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "s0.1",
+  "id": "f0-hiragana-intro",
+  "stage": "F0",
+  "title": "Hiragana dasar",
+  "objectives": [
+    "Mengenali 5 vokal hiragana"
+  ],
+  "prerequisites": [],
+  "legacyModuleIds": [],
+  "sections": [
+    {
+      "type": "explanation",
+      "text": "Konten baru belum ditulis"
+    },
+    {
+      "type": "guided-practice",
+      "exerciseIds": []
+    }
+  ],
+  "listeningExerciseIds": [],
+  "speakingExerciseIds": [],
+  "assessmentExerciseIds": [],
+  "editorialStatus": "draft",
+  "published": false
+}
