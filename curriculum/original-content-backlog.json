@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "s4.0.1",
+  "planningOnly": true,
+  "items": [
+    {
+      "priority": "P0",
+      "stage": "F0",
+      "slug": "kana-sequence",
+      "description": "Kana sequence, dakuten, small kana, long vowels, reading checks",
+      "estimatedUnitsOrItems": 12,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P0",
+      "stage": "F0",
+      "slug": "foundational-dialogues",
+      "description": "Greeting and introduction dialogues with original audio",
+      "estimatedUnitsOrItems": 8,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P0",
+      "stage": "F1",
+      "slug": "grammar-scaffolding",
+      "description": "Particle and polite-form micro-lessons",
+      "estimatedUnitsOrItems": 12,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P0",
+      "stage": "F1",
+      "slug": "retrieval-checks",
+      "description": "Multi-item varied mastery assessments",
+      "estimatedUnitsOrItems": 20,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P0",
+      "stage": "F0-F5",
+      "slug": "audio-production",
+      "description": "Original listening recordings or quality TTS fallback",
+      "estimatedUnitsOrItems": 60,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P1",
+      "stage": "F1-F4",
+      "slug": "conversation-scenes",
+      "description": "Roleplays for shopping, travel, services and workplace",
+      "estimatedUnitsOrItems": 30,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P1",
+      "stage": "F1-F4",
+      "slug": "reading-practical",
+      "description": "Menus, schedules, notices, instructions with original text",
+      "estimatedUnitsOrItems": 25,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P1",
+      "stage": "F2-F4",
+      "slug": "dictation",
+      "description": "Dictation with normalization and feedback",
+      "estimatedUnitsOrItems": 20,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P1",
+      "stage": "F5",
+      "slug": "jft-bridge",
+      "description": "Competency-linked review and exam preparation",
+      "estimatedUnitsOrItems": 12,
+      "status": "not-authored"
+    },
+    {
+      "priority": "P0",
+      "stage": "F0-F5",
+      "slug": "editorial-review",
+      "description": "Japanese proofreading and distractor checks",
+      "estimatedUnitsOrItems": 100,
+      "status": "not-authored"
+    }
+  ]
+}

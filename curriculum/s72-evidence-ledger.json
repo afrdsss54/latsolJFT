@@ -1,0 +1,5385 @@
+{
+  "schemaVersion": "s7.2.0",
+  "auditDate": "2026-11-23",
+  "method": "Strict source-evidence ledger; unverified is never auto-promoted. No textbook content copied.",
+  "sourceURLs": {
+    "starter": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+    "elementary01": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+    "elementary02": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf"
+  },
+  "publisherMethodURL": "https://plus.3anet.co.jp/mnc/touser_en/",
+  "references": [
+    {
+      "id": "minna-01",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 1,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "introductions",
+        "copula",
+        "questions"
+      ],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s41-f0-greetings",
+        "s42-f0-09"
+      ],
+      "candidateAcademyIds": [
+        "kotoba-m4-01"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-02",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 2,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "demonstratives",
+        "possessives"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-03",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 3,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "places",
+        "location",
+        "shopping"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s41-f0-numbers",
+        "s41-f1-location",
+        "s42-f0-08",
+        "s42-f1-12",
+        "s42-f1-14",
+        "s42-f1-15",
+        "s42-f1-17"
+      ],
+      "candidateAcademyIds": [
+        "kotoba-2",
+        "kanji-10",
+        "kaiwa-14",
+        "kotoba-m4-10",
+        "kotoba-m4-14",
+        "kotoba-m4-15",
+        "kotoba-m4-16",
+        "kanji-m4-05",
+        "kanji-m4-12",
+        "kaiwa-m4-04",
+        "kaiwa-m4-05"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-04",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 4,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "time",
+        "verb-polite",
+        "daily-routine"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s42-f0-09",
+        "s42-f1-13"
+      ],
+      "candidateAcademyIds": [
+        "kanji-9",
+        "kanji-11",
+        "kaiwa-15",
+        "kotoba-m4-03",
+        "kotoba-m4-04",
+        "kotoba-m4-07",
+        "kotoba-m4-21",
+        "kanji-m4-01",
+        "kanji-m4-10",
+        "kaiwa-m4-10",
+        "kaiwa-m4-15",
+        "kaiwa-m4-16"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-05",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 5,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "movement",
+        "transport",
+        "companions"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s42-f1-16"
+      ],
+      "candidateAcademyIds": [
+        "kotoba-1",
+        "kanji-10",
+        "kaiwa-14",
+        "kotoba-m4-10",
+        "kotoba-m4-11",
+        "kanji-m4-08",
+        "kanji-m4-09",
+        "kanji-m4-13",
+        "kaiwa-m4-08",
+        "kaiwa-m4-09"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-06",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 6,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "actions",
+        "objects",
+        "instruments"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-07",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 7,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "giving",
+        "receiving",
+        "language"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-08",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 8,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "adjectives",
+        "description"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-09",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 9,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "likes",
+        "ability",
+        "reasons"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-10",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 10,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "existence",
+        "location",
+        "people-objects"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s41-f1-location",
+        "s42-f1-12",
+        "s42-f1-14",
+        "s42-f1-17"
+      ],
+      "candidateAcademyIds": [
+        "kanji-10",
+        "kaiwa-14",
+        "kotoba-m4-10"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-11",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 11,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "counters",
+        "quantity",
+        "frequency"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-12",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 12,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "past-adjectives",
+        "comparison"
+      ],
+      "candidateStage": "F1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-13",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 13,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "desire",
+        "purpose-of-movement"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-14",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 14,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "te-form",
+        "requests",
+        "ongoing-action"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s42-f2-18",
+        "s42-f2-19"
+      ],
+      "candidateAcademyIds": [
+        "kaiwa-16",
+        "kaiwa-m4-03",
+        "kaiwa-m4-05",
+        "kaiwa-m4-12",
+        "kaiwa-m4-13",
+        "kaiwa-m4-21"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-15",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 15,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "permission",
+        "prohibition"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-16",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 16,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "te-form-sequences",
+        "adjective-linking"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-17",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 17,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "nai-form",
+        "obligation",
+        "unnecessary-action"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-18",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 18,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "dictionary-form",
+        "ability",
+        "hobbies"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-19",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 19,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "ta-form",
+        "experience",
+        "enumeration"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s42-f2-21"
+      ],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-20",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 20,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "plain-form",
+        "quotation",
+        "thoughts"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-21",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 21,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "noun-modification",
+        "relative-clauses"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-22",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 22,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "time-clauses",
+        "conditional-toki"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s42-f0-09",
+        "s42-f1-13"
+      ],
+      "candidateAcademyIds": [
+        "kanji-9",
+        "kanji-11",
+        "kaiwa-15",
+        "kotoba-m4-03",
+        "kotoba-m4-04",
+        "kotoba-m4-07",
+        "kotoba-m4-21",
+        "kanji-m4-01",
+        "kanji-m4-10",
+        "kaiwa-m4-10",
+        "kaiwa-m4-15",
+        "kaiwa-m4-16"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-23",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 23,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "conditional-to",
+        "directions"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s41-f1-location",
+        "s42-f1-12",
+        "s42-f1-14",
+        "s42-f1-17"
+      ],
+      "candidateAcademyIds": [
+        "kanji-10",
+        "kaiwa-14",
+        "kotoba-m4-10"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-24",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 24,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "giving-receiving-actions",
+        "assistance"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-25",
+      "family": "minna",
+      "volume": "Shokyu I",
+      "lesson": 25,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "conditional-tara",
+        "concession"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-26",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 26,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "explanations-n-desu",
+        "requests"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s42-f2-18",
+        "s42-f2-19"
+      ],
+      "candidateAcademyIds": [
+        "kaiwa-16",
+        "kaiwa-m4-03",
+        "kaiwa-m4-05",
+        "kaiwa-m4-12",
+        "kaiwa-m4-13",
+        "kaiwa-m4-21"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-27",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 27,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "potential-form",
+        "ability"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-28",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 28,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "simultaneous-actions",
+        "nagara",
+        "habits"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-29",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 29,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "state-result",
+        "te-imasu"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-30",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 30,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "preparation",
+        "te-oku",
+        "completion"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-31",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 31,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "volitional-form",
+        "plans"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-32",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 32,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "advice",
+        "intention",
+        "plans"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-33",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 33,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "imperative",
+        "prohibitive",
+        "signs"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-34",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 34,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "quoting",
+        "instructions",
+        "meaning"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-35",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 35,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "conditional-ba",
+        "conditional-nara"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-36",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 36,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "purpose",
+        "you-ni",
+        "change"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-37",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 37,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "passive-form"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-38",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 38,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "nominalization",
+        "no",
+        "emphasis"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-39",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 39,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "causes",
+        "reasons",
+        "consequences"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-40",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 40,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "try-action",
+        "preparation"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-41",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 41,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "giving-receiving",
+        "benefactive"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-42",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 42,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "purpose",
+        "intended-use"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-43",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 43,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "appearance",
+        "sou-desu"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-44",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 44,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "conjecture",
+        "hearsay"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-45",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 45,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "case",
+        "baai",
+        "concession"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-46",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 46,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "causative-form"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-47",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 47,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "causative-passive",
+        "requests"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [
+        "s42-f2-18",
+        "s42-f2-19"
+      ],
+      "candidateAcademyIds": [
+        "kaiwa-16",
+        "kaiwa-m4-03",
+        "kaiwa-m4-05",
+        "kaiwa-m4-12",
+        "kaiwa-m4-13",
+        "kaiwa-m4-21"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-48",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 48,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "honorific-language"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-49",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 49,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "humble-language"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "minna-50",
+      "family": "minna",
+      "volume": "Shokyu II",
+      "lesson": 50,
+      "title": null,
+      "verifiedFacts": [
+        "publisher-series-exists",
+        "edition-second",
+        "lesson-number-in-volume"
+      ],
+      "lessonObjectiveStatus": "not-verified",
+      "topicCandidate": [
+        "polite-service-expressions"
+      ],
+      "candidateStage": "F4",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html",
+      "mappingStatus": "publisher-structure-verified-topic-hypothesis-unverified",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "not-published-as-lesson-title-in-audited-source",
+      "grammarSequenceStatus": "not-verified-per-lesson",
+      "canDoStatus": "not-applicable",
+      "s72GrammarStatus": "not-verified-per-lesson",
+      "s72Evidence": "Penerbit memverifikasi 25+25 bab dan metode pola kalimat; rincian urutan Bunpou tidak diperiksa dari daftar bab resmi."
+    },
+    {
+      "id": "irodori-starter-01",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 1,
+      "title": "Good morning!",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "verified-selected-activities-only",
+      "canDoEvidence": [
+        {
+          "activity": 1,
+          "paraphraseId": "Menyapa orang ketika bertemu",
+          "source": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        {
+          "activity": 2,
+          "paraphraseId": "Berpamitan saat meninggalkan tempat",
+          "source": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        {
+          "activity": 3,
+          "paraphraseId": "Mengucapkan terima kasih atau meminta maaf",
+          "source": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        {
+          "activity": 4,
+          "paraphraseId": "Memahami stiker pesan salam atau terima kasih",
+          "source": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        }
+      ],
+      "s72ActivityStatus": "verified-sampled",
+      "s72VerifiedActivityCount": 4
+    },
+    {
+      "id": "irodori-starter-02",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 2,
+      "title": "I’m sorry, I don’t really understand.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "verified-sampled",
+      "s72VerifiedActivityCount": 3
+    },
+    {
+      "id": "irodori-starter-03",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 3,
+      "title": "Nice to meet you.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "verified-sampled",
+      "s72VerifiedActivityCount": 4
+    },
+    {
+      "id": "irodori-starter-04",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 4,
+      "title": "I live in Tokyo.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-05",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 5,
+      "title": "I like udon.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-06",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 6,
+      "title": "I’d like a cheeseburger, please.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-07",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 7,
+      "title": "There are four rooms.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-08",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 8,
+      "title": "Where is Yamada-san?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-09",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 9,
+      "title": "Lunch is from noon to 1 o’clock.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-10",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 10,
+      "title": "Please lend me the stapler.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-11",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 11,
+      "title": "What kind of manga do you like?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-12",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 12,
+      "title": "Do you want to go for a drink together?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-13",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 13,
+      "title": "Does this bus go to the airport?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [
+        "transport"
+      ],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [
+        "s42-f1-16"
+      ],
+      "candidateAcademyIds": [
+        "kotoba-1",
+        "kanji-10",
+        "kaiwa-14",
+        "kotoba-m4-10",
+        "kotoba-m4-11",
+        "kanji-m4-08",
+        "kanji-m4-09",
+        "kanji-m4-13",
+        "kaiwa-m4-08",
+        "kaiwa-m4-09"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-14",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 14,
+      "title": "It’s a big building, isn’t it.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-15",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 15,
+      "title": "I need some batteries.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-16",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 16,
+      "title": "How much is this?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-17",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 17,
+      "title": "I went to see a movie.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-starter-18",
+      "family": "irodori",
+      "volume": "starter",
+      "lesson": 18,
+      "title": "I want to go to a hot spring.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-01",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 1,
+      "title": "I work in a restaurant.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [
+        "food",
+        "work"
+      ],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [
+        "s41-f1-daily",
+        "s42-f1-10",
+        "s42-f1-13"
+      ],
+      "candidateAcademyIds": [
+        "kotoba-4",
+        "kaiwa-13",
+        "kotoba-m4-07",
+        "kotoba-m4-08",
+        "kotoba-m4-09",
+        "kotoba-m4-18",
+        "kanji-m4-07",
+        "kanji-m4-11",
+        "kaiwa-m4-06",
+        "kaiwa-m4-07",
+        "kaiwa-m4-11",
+        "kaiwa-m4-12"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-02",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 2,
+      "title": "I like playing video games.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-03",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 3,
+      "title": "It gets very cold in winter.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-04",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 4,
+      "title": "It rained heavily yesterday.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-05",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 5,
+      "title": "It is very lively and convenient.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-06",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 6,
+      "title": "Please tell me how to get to the post office.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-07",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 7,
+      "title": "I will be a bit late because I got lost.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-08",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 8,
+      "title": "Have you ever played baseball?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-09",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 9,
+      "title": "Will you tell me how to read this?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-10",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 10,
+      "title": "I would like to take a Japanese-language class.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-11",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 11,
+      "title": "I will bring meat and vegetables.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-12",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 12,
+      "title": "Your bento looks delicious.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-13",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 13,
+      "title": "It will probably end in about ten minutes.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-14",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 14,
+      "title": "May I take a day off?",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-15",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 15,
+      "title": "I have a fever, and my throat is sore.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-16",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 16,
+      "title": "I try not to eat too much.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-17",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 17,
+      "title": "This is a personal amulet my older brother gave me.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-1-18",
+      "family": "irodori",
+      "volume": "elementary01",
+      "lesson": 18,
+      "title": "How about giving something as a gift?",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-01",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 1,
+      "title": "I just came to Japan last week.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "verified-sampled",
+      "s72VerifiedActivityCount": 4
+    },
+    {
+      "id": "irodori-elementary-2-02",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 2,
+      "title": "He looks a serious person.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "verified-sampled",
+      "s72VerifiedActivityCount": 4
+    },
+    {
+      "id": "irodori-elementary-2-03",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 3,
+      "title": "I cannot eat it because of an allergy.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "verified-sampled",
+      "s72VerifiedActivityCount": 5
+    },
+    {
+      "id": "irodori-elementary-2-04",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 4,
+      "title": "Please eat it without soy sauce.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-05",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 5,
+      "title": "You should make a reservation early.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-06",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 6,
+      "title": "I am glad that I went to a lot of different places.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-07",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 7,
+      "title": "If it rains, it will be held at the hall.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-08",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 8,
+      "title": "Do you know where the food stands are?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [
+        "food"
+      ],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [
+        "kaiwa-13",
+        "kotoba-m4-07",
+        "kotoba-m4-08",
+        "kotoba-m4-09",
+        "kanji-m4-11",
+        "kaiwa-m4-06",
+        "kaiwa-m4-07"
+      ],
+      "prerequisiteReferenceIds": [],
+      "candidateMatchStatus": "keyword-suggestion-needs-human-review",
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-09",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 9,
+      "title": "What do people do on Coming-of-Age Day?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-10",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 10,
+      "title": "What kind of clothes should I wear?",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-11",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 11,
+      "title": "I forgot to bring my point card.",
+      "verifiedFacts": [
+        "official-lesson-existence",
+        "official-lesson-title"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-title-verified-can-do-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-12",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 12,
+      "title": "This vacuum cleaner is light and easy to move around.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-13",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 13,
+      "title": "They display a lot of materials.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-14",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 14,
+      "title": "Will you cut my bangs a little shorter?",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-15",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 15,
+      "title": "The lights in the meeting room were left on.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-16",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 16,
+      "title": "Do not panic in case of an earthquake.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-17",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 17,
+      "title": "I can speak Japanese better than before.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    },
+    {
+      "id": "irodori-elementary-2-18",
+      "family": "irodori",
+      "volume": "elementary02",
+      "lesson": 18,
+      "title": "I am thinking about starting my own company in the future.",
+      "verifiedFacts": [
+        "official-lesson-existence"
+      ],
+      "lessonObjectiveStatus": "not-verified-per-activity",
+      "topicCandidate": [],
+      "candidateStage": "F3",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html",
+      "mappingStatus": "official-lesson-exists-title-pending",
+      "candidateLatSolUnitIds": [],
+      "candidateAcademyIds": [],
+      "prerequisiteReferenceIds": [],
+      "titleVerification": "official-lesson-listing-checked",
+      "canDoStatus": "not-verified-per-activity",
+      "canDoEvidence": [],
+      "s72ActivityStatus": "not-verified-activity",
+      "s72VerifiedActivityCount": 0
+    }
+  ],
+  "activityEvidence": [
+    {
+      "id": "irodori-starter-01-a01",
+      "referenceId": "irodori-starter-01",
+      "lesson": 1,
+      "level": "starter",
+      "activityNumber": 1,
+      "activityLabel": "こんにちは",
+      "objectiveIdParaphrase": "Bertukar salam ketika bertemu.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 1, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-01-a02",
+      "referenceId": "irodori-starter-01",
+      "lesson": 1,
+      "level": "starter",
+      "activityNumber": 2,
+      "activityLabel": "お先に失礼します",
+      "objectiveIdParaphrase": "Berpamitan ketika meninggalkan tempat.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 2, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-01-a03",
+      "referenceId": "irodori-starter-01",
+      "lesson": 1,
+      "level": "starter",
+      "activityNumber": 3,
+      "activityLabel": "ありがとうございます",
+      "objectiveIdParaphrase": "Berterima kasih atau meminta maaf.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 3, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-01-a04",
+      "referenceId": "irodori-starter-01",
+      "lesson": 1,
+      "level": "starter",
+      "activityNumber": 4,
+      "activityLabel": "メッセージスタンプ",
+      "objectiveIdParaphrase": "Memahami stiker pesan salam atau terima kasih.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 4, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-02-a01",
+      "referenceId": "irodori-starter-02",
+      "lesson": 2,
+      "level": "starter",
+      "activityNumber": 1,
+      "activityLabel": "もういちど、お願いします",
+      "objectiveIdParaphrase": "Meminta orang mengulangi ucapan yang tidak dipahami.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 2, activity 1, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-02-a02",
+      "referenceId": "irodori-starter-02",
+      "lesson": 2,
+      "level": "starter",
+      "activityNumber": 2,
+      "activityLabel": "日本語、できますか？",
+      "objectiveIdParaphrase": "Menjawab pertanyaan kemampuan berbahasa dan menanyakan bahasa lain.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 2, activity 2, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-02-a03",
+      "referenceId": "irodori-starter-02",
+      "lesson": 2,
+      "level": "starter",
+      "activityNumber": 3,
+      "activityLabel": "これは日本語で何と言いますか？",
+      "objectiveIdParaphrase": "Menanyakan padanan suatu benda dalam bahasa Jepang.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 2, activity 3, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-03-a01",
+      "referenceId": "irodori-starter-03",
+      "lesson": 3,
+      "level": "starter",
+      "activityNumber": 1,
+      "activityLabel": "はじめまして",
+      "objectiveIdParaphrase": "Memperkenalkan nama dan daerah asal secara sederhana.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 1, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-03-a02",
+      "referenceId": "irodori-starter-03",
+      "lesson": 3,
+      "level": "starter",
+      "activityNumber": 2,
+      "activityLabel": "名札",
+      "objectiveIdParaphrase": "Menulis nama dan negara pada label nama.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 2, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-03-a03",
+      "referenceId": "irodori-starter-03",
+      "lesson": 3,
+      "level": "starter",
+      "activityNumber": 3,
+      "activityLabel": "ご出身は？",
+      "objectiveIdParaphrase": "Bertanya jawab tentang nama dan asal ketika berkenalan.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 3, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-starter-03-a04",
+      "referenceId": "irodori-starter-03",
+      "lesson": 3,
+      "level": "starter",
+      "activityNumber": 4,
+      "activityLabel": "申込書",
+      "objectiveIdParaphrase": "Mengisi informasi dasar pada formulir.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 4, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-01-a01",
+      "referenceId": "irodori-elementary-2-01",
+      "lesson": 1,
+      "level": "elementary02",
+      "activityNumber": 1,
+      "activityLabel": "みんなを紹介しますね",
+      "objectiveIdParaphrase": "Memahami nama dan peran rekan kerja saat diperkenalkan.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 1, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-01-a02",
+      "referenceId": "irodori-elementary-2-01",
+      "lesson": 1,
+      "level": "elementary02",
+      "activityNumber": 2,
+      "activityLabel": "一生懸命がんばります",
+      "objectiveIdParaphrase": "Memperkenalkan diri dengan lebih rinci di tempat kerja.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 2, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-01-a03",
+      "referenceId": "irodori-elementary-2-01",
+      "lesson": 1,
+      "level": "elementary02",
+      "activityNumber": 3,
+      "activityLabel": "とても大きい町です",
+      "objectiveIdParaphrase": "Menceritakan kampung halaman secara sederhana.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 3, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-01-a04",
+      "referenceId": "irodori-elementary-2-01",
+      "lesson": 1,
+      "level": "elementary02",
+      "activityNumber": 4,
+      "activityLabel": "SNSの自己紹介",
+      "objectiveIdParaphrase": "Menulis perkenalan diri singkat di media sosial.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 1, activity 4, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-02-a01",
+      "referenceId": "irodori-elementary-2-02",
+      "lesson": 2,
+      "level": "elementary02",
+      "activityNumber": 1,
+      "activityLabel": "どの人ですか？",
+      "objectiveIdParaphrase": "Mengenali atau menjelaskan ciri-ciri seseorang.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 2, activity 1, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-02-a02",
+      "referenceId": "irodori-elementary-2-02",
+      "lesson": 2,
+      "level": "elementary02",
+      "activityNumber": 2,
+      "activityLabel": "その写真、だれですか？",
+      "objectiveIdParaphrase": "Menjelaskan penampilan orang yang tidak hadir.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 2, activity 2, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-02-a03",
+      "referenceId": "irodori-elementary-2-02",
+      "lesson": 2,
+      "level": "elementary02",
+      "activityNumber": 3,
+      "activityLabel": "本当にかっこいいです",
+      "objectiveIdParaphrase": "Menceritakan tokoh terkenal yang disukai dan alasannya.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 2, activity 3, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-02-a04",
+      "referenceId": "irodori-elementary-2-02",
+      "lesson": 2,
+      "level": "elementary02",
+      "activityNumber": 4,
+      "activityLabel": "インタビュー記事",
+      "objectiveIdParaphrase": "Memahami isi wawancara singkat.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 2, activity 4, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-03-a01",
+      "referenceId": "irodori-elementary-2-03",
+      "lesson": 3,
+      "level": "elementary02",
+      "activityNumber": 1,
+      "activityLabel": "定食屋のメニュー",
+      "objectiveIdParaphrase": "Membaca menu, harga, dan layanan restoran.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 1, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-03-a02",
+      "referenceId": "irodori-elementary-2-03",
+      "lesson": 3,
+      "level": "elementary02",
+      "activityNumber": 2,
+      "activityLabel": "わさび抜きでお願いします",
+      "objectiveIdParaphrase": "Menjelaskan makanan yang tidak bisa dimakan beserta alasannya.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 2, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-03-a03",
+      "referenceId": "irodori-elementary-2-03",
+      "lesson": 3,
+      "level": "elementary02",
+      "activityNumber": 3,
+      "activityLabel": "人気があるのはお刺身定食です",
+      "objectiveIdParaphrase": "Menyampaikan permintaan tempat duduk atau pesanan.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 3, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-03-a04",
+      "referenceId": "irodori-elementary-2-03",
+      "lesson": 3,
+      "level": "elementary02",
+      "activityNumber": 4,
+      "activityLabel": "予約をしたいんですけど…",
+      "objectiveIdParaphrase": "Memesan tempat restoran melalui telepon.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 4, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    },
+    {
+      "id": "irodori-elementary-2-03-a05",
+      "referenceId": "irodori-elementary-2-03",
+      "lesson": 3,
+      "level": "elementary02",
+      "activityNumber": 5,
+      "activityLabel": "レストランのクーポン",
+      "objectiveIdParaphrase": "Menemukan informasi penting pada kupon restoran.",
+      "evidenceStatus": "verified-official-activity",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_contents_en.pdf",
+      "sourceLocator": "Lesson 3, activity 5, Table of Contents",
+      "limitation": "Ringkasan Indonesia, bukan kutipan lengkap Can-do; belum ditinjau pengajar."
+    }
+  ],
+  "alignment": [
+    {
+      "referenceId": "minna-01",
+      "family": "minna",
+      "lesson": 1,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s41-f0-greetings|s42-f0-09",
+      "candidateCompetencies": "F0-GREET",
+      "candidateAcademy": "kotoba-m4-01",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-02",
+      "family": "minna",
+      "lesson": 2,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-03",
+      "family": "minna",
+      "lesson": 3,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s41-f0-numbers|s41-f1-location|s42-f0-08|s42-f1-12|s42-f1-14|s42-f1-15|s42-f1-17",
+      "candidateCompetencies": "",
+      "candidateAcademy": "kotoba-2|kanji-10|kaiwa-14|kotoba-m4-10|kotoba-m4-14|kotoba-m4-15|kotoba-m4-16|kanji-m4-05|kanji-m4-12|kaiwa-m4-04|kaiwa-m4-05",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-04",
+      "family": "minna",
+      "lesson": 4,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s42-f0-09|s42-f1-13",
+      "candidateCompetencies": "F0-GREET|F1-TIME",
+      "candidateAcademy": "kanji-9|kanji-11|kaiwa-15|kotoba-m4-03|kotoba-m4-04|kotoba-m4-07|kotoba-m4-21|kanji-m4-01|kanji-m4-10|kaiwa-m4-10|kaiwa-m4-15|kaiwa-m4-16",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-05",
+      "family": "minna",
+      "lesson": 5,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s42-f1-16",
+      "candidateCompetencies": "",
+      "candidateAcademy": "kotoba-1|kanji-10|kaiwa-14|kotoba-m4-10|kotoba-m4-11|kanji-m4-08|kanji-m4-09|kanji-m4-13|kaiwa-m4-08|kaiwa-m4-09",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-06",
+      "family": "minna",
+      "lesson": 6,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-07",
+      "family": "minna",
+      "lesson": 7,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-08",
+      "family": "minna",
+      "lesson": 8,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-09",
+      "family": "minna",
+      "lesson": 9,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-10",
+      "family": "minna",
+      "lesson": 10,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s41-f1-location|s42-f1-12|s42-f1-14|s42-f1-17",
+      "candidateCompetencies": "",
+      "candidateAcademy": "kanji-10|kaiwa-14|kotoba-m4-10",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-11",
+      "family": "minna",
+      "lesson": 11,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-12",
+      "family": "minna",
+      "lesson": 12,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-13",
+      "family": "minna",
+      "lesson": 13,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-14",
+      "family": "minna",
+      "lesson": 14,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s42-f2-18|s42-f2-19",
+      "candidateCompetencies": "F2-REQUEST",
+      "candidateAcademy": "kaiwa-16|kaiwa-m4-03|kaiwa-m4-05|kaiwa-m4-12|kaiwa-m4-13|kaiwa-m4-21",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-15",
+      "family": "minna",
+      "lesson": 15,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-16",
+      "family": "minna",
+      "lesson": 16,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-17",
+      "family": "minna",
+      "lesson": 17,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-18",
+      "family": "minna",
+      "lesson": 18,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-19",
+      "family": "minna",
+      "lesson": 19,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s42-f2-21",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-20",
+      "family": "minna",
+      "lesson": 20,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-21",
+      "family": "minna",
+      "lesson": 21,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-22",
+      "family": "minna",
+      "lesson": 22,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s42-f0-09|s42-f1-13",
+      "candidateCompetencies": "F0-GREET|F1-TIME",
+      "candidateAcademy": "kanji-9|kanji-11|kaiwa-15|kotoba-m4-03|kotoba-m4-04|kotoba-m4-07|kotoba-m4-21|kanji-m4-01|kanji-m4-10|kaiwa-m4-10|kaiwa-m4-15|kaiwa-m4-16",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-23",
+      "family": "minna",
+      "lesson": 23,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s41-f1-location|s42-f1-12|s42-f1-14|s42-f1-17",
+      "candidateCompetencies": "",
+      "candidateAcademy": "kanji-10|kaiwa-14|kotoba-m4-10",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-24",
+      "family": "minna",
+      "lesson": 24,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-25",
+      "family": "minna",
+      "lesson": 25,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-26",
+      "family": "minna",
+      "lesson": 26,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s42-f2-18|s42-f2-19",
+      "candidateCompetencies": "F2-REQUEST",
+      "candidateAcademy": "kaiwa-16|kaiwa-m4-03|kaiwa-m4-05|kaiwa-m4-12|kaiwa-m4-13|kaiwa-m4-21",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-27",
+      "family": "minna",
+      "lesson": 27,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-28",
+      "family": "minna",
+      "lesson": 28,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-29",
+      "family": "minna",
+      "lesson": 29,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-30",
+      "family": "minna",
+      "lesson": 30,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-31",
+      "family": "minna",
+      "lesson": 31,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-32",
+      "family": "minna",
+      "lesson": 32,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-33",
+      "family": "minna",
+      "lesson": 33,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-34",
+      "family": "minna",
+      "lesson": 34,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-35",
+      "family": "minna",
+      "lesson": 35,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-36",
+      "family": "minna",
+      "lesson": 36,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-37",
+      "family": "minna",
+      "lesson": 37,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-38",
+      "family": "minna",
+      "lesson": 38,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-39",
+      "family": "minna",
+      "lesson": 39,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-40",
+      "family": "minna",
+      "lesson": 40,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-41",
+      "family": "minna",
+      "lesson": 41,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-42",
+      "family": "minna",
+      "lesson": 42,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-43",
+      "family": "minna",
+      "lesson": 43,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-44",
+      "family": "minna",
+      "lesson": 44,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-45",
+      "family": "minna",
+      "lesson": 45,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-46",
+      "family": "minna",
+      "lesson": 46,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-47",
+      "family": "minna",
+      "lesson": 47,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "s42-f2-18|s42-f2-19",
+      "candidateCompetencies": "F2-REQUEST",
+      "candidateAcademy": "kaiwa-16|kaiwa-m4-03|kaiwa-m4-05|kaiwa-m4-12|kaiwa-m4-13|kaiwa-m4-21",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-48",
+      "family": "minna",
+      "lesson": 48,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-49",
+      "family": "minna",
+      "lesson": 49,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "minna-50",
+      "family": "minna",
+      "lesson": 50,
+      "title": "",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-per-lesson",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P1",
+      "sourceUrl": "https://www.3anet.co.jp/en/series.html"
+    },
+    {
+      "referenceId": "irodori-starter-01",
+      "family": "irodori",
+      "lesson": 1,
+      "title": "Good morning!",
+      "activityEvidence": 4,
+      "activityStatus": "verified-sampled",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-02",
+      "family": "irodori",
+      "lesson": 2,
+      "title": "I’m sorry, I don’t really understand.",
+      "activityEvidence": 3,
+      "activityStatus": "verified-sampled",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-03",
+      "family": "irodori",
+      "lesson": 3,
+      "title": "Nice to meet you.",
+      "activityEvidence": 4,
+      "activityStatus": "verified-sampled",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-04",
+      "family": "irodori",
+      "lesson": 4,
+      "title": "I live in Tokyo.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-05",
+      "family": "irodori",
+      "lesson": 5,
+      "title": "I like udon.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-06",
+      "family": "irodori",
+      "lesson": 6,
+      "title": "I’d like a cheeseburger, please.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-07",
+      "family": "irodori",
+      "lesson": 7,
+      "title": "There are four rooms.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-08",
+      "family": "irodori",
+      "lesson": 8,
+      "title": "Where is Yamada-san?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-09",
+      "family": "irodori",
+      "lesson": 9,
+      "title": "Lunch is from noon to 1 o’clock.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-10",
+      "family": "irodori",
+      "lesson": 10,
+      "title": "Please lend me the stapler.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-11",
+      "family": "irodori",
+      "lesson": 11,
+      "title": "What kind of manga do you like?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-12",
+      "family": "irodori",
+      "lesson": 12,
+      "title": "Do you want to go for a drink together?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-13",
+      "family": "irodori",
+      "lesson": 13,
+      "title": "Does this bus go to the airport?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "s42-f1-16",
+      "candidateCompetencies": "",
+      "candidateAcademy": "kotoba-1|kanji-10|kaiwa-14|kotoba-m4-10|kotoba-m4-11|kanji-m4-08|kanji-m4-09|kanji-m4-13|kaiwa-m4-08|kaiwa-m4-09",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-14",
+      "family": "irodori",
+      "lesson": 14,
+      "title": "It’s a big building, isn’t it.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-15",
+      "family": "irodori",
+      "lesson": 15,
+      "title": "I need some batteries.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-16",
+      "family": "irodori",
+      "lesson": 16,
+      "title": "How much is this?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-17",
+      "family": "irodori",
+      "lesson": 17,
+      "title": "I went to see a movie.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-starter-18",
+      "family": "irodori",
+      "lesson": 18,
+      "title": "I want to go to a hot spring.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-01",
+      "family": "irodori",
+      "lesson": 1,
+      "title": "I work in a restaurant.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "s41-f1-daily|s42-f1-10|s42-f1-13",
+      "candidateCompetencies": "F1-TIME",
+      "candidateAcademy": "kotoba-4|kaiwa-13|kotoba-m4-07|kotoba-m4-08|kotoba-m4-09|kotoba-m4-18|kanji-m4-07|kanji-m4-11|kaiwa-m4-06|kaiwa-m4-07|kaiwa-m4-11|kaiwa-m4-12",
+      "alignmentStatus": "candidate-only",
+      "priority": "P2",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-02",
+      "family": "irodori",
+      "lesson": 2,
+      "title": "I like playing video games.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-03",
+      "family": "irodori",
+      "lesson": 3,
+      "title": "It gets very cold in winter.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-04",
+      "family": "irodori",
+      "lesson": 4,
+      "title": "It rained heavily yesterday.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-05",
+      "family": "irodori",
+      "lesson": 5,
+      "title": "It is very lively and convenient.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-06",
+      "family": "irodori",
+      "lesson": 6,
+      "title": "Please tell me how to get to the post office.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-07",
+      "family": "irodori",
+      "lesson": 7,
+      "title": "I will be a bit late because I got lost.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-08",
+      "family": "irodori",
+      "lesson": 8,
+      "title": "Have you ever played baseball?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-09",
+      "family": "irodori",
+      "lesson": 9,
+      "title": "Will you tell me how to read this?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-10",
+      "family": "irodori",
+      "lesson": 10,
+      "title": "I would like to take a Japanese-language class.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-11",
+      "family": "irodori",
+      "lesson": 11,
+      "title": "I will bring meat and vegetables.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-12",
+      "family": "irodori",
+      "lesson": 12,
+      "title": "Your bento looks delicious.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-13",
+      "family": "irodori",
+      "lesson": 13,
+      "title": "It will probably end in about ten minutes.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-14",
+      "family": "irodori",
+      "lesson": 14,
+      "title": "May I take a day off?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-15",
+      "family": "irodori",
+      "lesson": 15,
+      "title": "I have a fever, and my throat is sore.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-16",
+      "family": "irodori",
+      "lesson": 16,
+      "title": "I try not to eat too much.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-17",
+      "family": "irodori",
+      "lesson": 17,
+      "title": "This is a personal amulet my older brother gave me.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-1-18",
+      "family": "irodori",
+      "lesson": 18,
+      "title": "How about giving something as a gift?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary01/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-01",
+      "family": "irodori",
+      "lesson": 1,
+      "title": "I just came to Japan last week.",
+      "activityEvidence": 4,
+      "activityStatus": "verified-sampled",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-02",
+      "family": "irodori",
+      "lesson": 2,
+      "title": "He looks a serious person.",
+      "activityEvidence": 4,
+      "activityStatus": "verified-sampled",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-03",
+      "family": "irodori",
+      "lesson": 3,
+      "title": "I cannot eat it because of an allergy.",
+      "activityEvidence": 5,
+      "activityStatus": "verified-sampled",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-04",
+      "family": "irodori",
+      "lesson": 4,
+      "title": "Please eat it without soy sauce.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-05",
+      "family": "irodori",
+      "lesson": 5,
+      "title": "You should make a reservation early.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-06",
+      "family": "irodori",
+      "lesson": 6,
+      "title": "I am glad that I went to a lot of different places.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-07",
+      "family": "irodori",
+      "lesson": 7,
+      "title": "If it rains, it will be held at the hall.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-08",
+      "family": "irodori",
+      "lesson": 8,
+      "title": "Do you know where the food stands are?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "kaiwa-13|kotoba-m4-07|kotoba-m4-08|kotoba-m4-09|kanji-m4-11|kaiwa-m4-06|kaiwa-m4-07",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-09",
+      "family": "irodori",
+      "lesson": 9,
+      "title": "What do people do on Coming-of-Age Day?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-10",
+      "family": "irodori",
+      "lesson": 10,
+      "title": "What kind of clothes should I wear?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-11",
+      "family": "irodori",
+      "lesson": 11,
+      "title": "I forgot to bring my point card.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-12",
+      "family": "irodori",
+      "lesson": 12,
+      "title": "This vacuum cleaner is light and easy to move around.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-13",
+      "family": "irodori",
+      "lesson": 13,
+      "title": "They display a lot of materials.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-14",
+      "family": "irodori",
+      "lesson": 14,
+      "title": "Will you cut my bangs a little shorter?",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-15",
+      "family": "irodori",
+      "lesson": 15,
+      "title": "The lights in the meeting room were left on.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-16",
+      "family": "irodori",
+      "lesson": 16,
+      "title": "Do not panic in case of an earthquake.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-17",
+      "family": "irodori",
+      "lesson": 17,
+      "title": "I can speak Japanese better than before.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    },
+    {
+      "referenceId": "irodori-elementary-2-18",
+      "family": "irodori",
+      "lesson": 18,
+      "title": "I am thinking about starting my own company in the future.",
+      "activityEvidence": 0,
+      "activityStatus": "not-verified-activity",
+      "candidateUnits": "",
+      "candidateCompetencies": "",
+      "candidateAcademy": "",
+      "alignmentStatus": "unmapped",
+      "priority": "P0",
+      "sourceUrl": "https://www.irodori.jpf.go.jp/en/elementary02/pdf.html"
+    }
+  ],
+  "competencies": [
+    {
+      "id": "F0-KANA-H",
+      "name": "Read hiragana",
+      "stage": "F0",
+      "domain": "script-kana",
+      "unitIds": [
+        "s42-f0-05",
+        "s42-f0-06",
+        "s42-f0-07"
+      ],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F0-KANA-K",
+      "name": "Read katakana",
+      "stage": "F0",
+      "domain": "script-kana",
+      "unitIds": [
+        "s42-f0-05",
+        "s42-f0-06",
+        "s42-f0-07"
+      ],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F0-SOUNDS",
+      "name": "Japanese sounds and mora",
+      "stage": "F0",
+      "domain": "listening",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F0-GREET",
+      "name": "Greetings and introductions",
+      "stage": "F0",
+      "domain": "situational-communication",
+      "unitIds": [
+        "s41-f0-greetings",
+        "s42-f0-09"
+      ],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F1-PARTICLES",
+      "name": "Core particles は・が・を・に・で・へ",
+      "stage": "F1",
+      "domain": "grammar",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F0-GREET"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F1-PREDICATE",
+      "name": "Basic です/ます sentences",
+      "stage": "F1",
+      "domain": "grammar",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F1-PARTICLES"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F1-TIME",
+      "name": "Time and daily routines",
+      "stage": "F1",
+      "domain": "vocabulary",
+      "unitIds": [
+        "s42-f1-13"
+      ],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F1-PREDICATE"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F1-KANJI",
+      "name": "Basic everyday kanji",
+      "stage": "F1",
+      "domain": "script-kanji",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F1-TIME"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F2-VERBFORMS",
+      "name": "て・ない・た forms",
+      "stage": "F2",
+      "domain": "grammar",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F1-KANJI"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F2-REQUEST",
+      "name": "Requests, permission, invitation",
+      "stage": "F2",
+      "domain": "grammar",
+      "unitIds": [
+        "s42-f2-18",
+        "s42-f2-19"
+      ],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F2-VERBFORMS"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F2-LISTEN",
+      "name": "Short everyday dialogues",
+      "stage": "F2",
+      "domain": "listening",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F2-REQUEST"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F2-SPEAK",
+      "name": "Short responsive speaking",
+      "stage": "F2",
+      "domain": "speaking",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F2-LISTEN"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F3-SERVICE",
+      "name": "Shopping, transport, healthcare and work",
+      "stage": "F3",
+      "domain": "situational-communication",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F2-SPEAK"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F3-READ",
+      "name": "Practical notices and forms",
+      "stage": "F3",
+      "domain": "reading",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F3-SERVICE"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F3-LISTEN",
+      "name": "Practical spoken instructions",
+      "stage": "F3",
+      "domain": "listening",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F3-READ"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F3-SPEAK",
+      "name": "Situational roleplay",
+      "stage": "F3",
+      "domain": "speaking",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F3-LISTEN"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F4-READ",
+      "name": "Longer connected everyday texts",
+      "stage": "F4",
+      "domain": "reading",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F3-SPEAK"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F4-LISTEN",
+      "name": "Multi-turn contextual listening",
+      "stage": "F4",
+      "domain": "listening",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F4-READ"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F4-SPEAK",
+      "name": "Extended roleplay and shadowing",
+      "stage": "F4",
+      "domain": "speaking",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F4-LISTEN"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F4-GRAMMAR",
+      "name": "Integrated grammar in context",
+      "stage": "F4",
+      "domain": "grammar",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F4-SPEAK"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F5-DIAGNOSTIC",
+      "name": "Four-section diagnostic",
+      "stage": "F5",
+      "domain": "assessment",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F4-GRAMMAR"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F5-TARGET",
+      "name": "Targeted remediation",
+      "stage": "F5",
+      "domain": "assessment",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F5-DIAGNOSTIC"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    },
+    {
+      "id": "F5-MOCK",
+      "name": "Timed CBT and review",
+      "stage": "F5",
+      "domain": "assessment",
+      "unitIds": [],
+      "academyIds": [],
+      "status": "internal-draft-unreviewed",
+      "sourceMatchStatus": "candidate-not-verified",
+      "prerequisites": [
+        "F5-TARGET"
+      ],
+      "pathways": [
+        "from-zero",
+        "jft-prep"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "s41-f0-greetings",
+      "stage": "F0",
+      "title": "Salam dan perkenalan diri",
+      "prerequisites": [],
+      "competencyIds": [
+        "F0-GREET"
+      ],
+      "referenceIds": [
+        "minna-01"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s41-f0-numbers",
+      "stage": "F0",
+      "title": "Angka 1–5 dan harga sederhana",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-03"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s41-f1-daily",
+      "stage": "F1",
+      "title": "Rutinitas: を dan ます",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "irodori-elementary-1-01"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s41-f1-location",
+      "stage": "F1",
+      "title": "Pergi ke tempat: に いきます",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-03",
+        "minna-10",
+        "minna-23"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f0-05",
+      "stage": "F0",
+      "title": "Hiragana vokal あいうえお",
+      "prerequisites": [],
+      "competencyIds": [
+        "F0-KANA-H",
+        "F0-KANA-K"
+      ],
+      "referenceIds": [],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f0-06",
+      "stage": "F0",
+      "title": "Hiragana baris K dan S",
+      "prerequisites": [],
+      "competencyIds": [
+        "F0-KANA-H",
+        "F0-KANA-K"
+      ],
+      "referenceIds": [],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f0-07",
+      "stage": "F0",
+      "title": "Katakana vokal アイウエオ",
+      "prerequisites": [],
+      "competencyIds": [
+        "F0-KANA-H",
+        "F0-KANA-K"
+      ],
+      "referenceIds": [],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f0-08",
+      "stage": "F0",
+      "title": "Angka dan harga dasar",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-03"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f0-09",
+      "stage": "F0",
+      "title": "Waktu dan salam harian",
+      "prerequisites": [],
+      "competencyIds": [
+        "F0-GREET"
+      ],
+      "referenceIds": [
+        "minna-01",
+        "minna-04",
+        "minna-22"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-10",
+      "stage": "F1",
+      "title": "Memperkenalkan pekerjaan",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "irodori-elementary-1-01"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-11",
+      "stage": "F1",
+      "title": "Menunjuk benda これ・それ・あれ",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-12",
+      "stage": "F1",
+      "title": "Tempat ここ・そこ・あそこ",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-03",
+        "minna-10",
+        "minna-23"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-13",
+      "stage": "F1",
+      "title": "Waktu aktivitas dan ます",
+      "prerequisites": [],
+      "competencyIds": [
+        "F1-TIME"
+      ],
+      "referenceIds": [
+        "minna-04",
+        "minna-22",
+        "irodori-elementary-1-01"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-14",
+      "stage": "F1",
+      "title": "Pergi ke tempat dengan に",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-03",
+        "minna-10",
+        "minna-23"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-15",
+      "stage": "F1",
+      "title": "Belanja dan partikel を",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-03"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-16",
+      "stage": "F1",
+      "title": "Transportasi dengan で",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-05",
+        "irodori-starter-13"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f1-17",
+      "stage": "F1",
+      "title": "Kata sifat い dan な",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-03",
+        "minna-10",
+        "minna-23"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f2-18",
+      "stage": "F2",
+      "title": "Permintaan dengan ～てください",
+      "prerequisites": [],
+      "competencyIds": [
+        "F2-REQUEST"
+      ],
+      "referenceIds": [
+        "minna-14",
+        "minna-26",
+        "minna-47"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f2-19",
+      "stage": "F2",
+      "title": "Izin dengan ～てもいいですか",
+      "prerequisites": [],
+      "competencyIds": [
+        "F2-REQUEST"
+      ],
+      "referenceIds": [
+        "minna-14",
+        "minna-26",
+        "minna-47"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f2-20",
+      "stage": "F2",
+      "title": "Larangan dengan ～てはいけません",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f2-21",
+      "stage": "F2",
+      "title": "Pengalaman dengan ～たことがあります",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [
+        "minna-19"
+      ],
+      "matchStatus": "candidate-not-verified"
+    },
+    {
+      "id": "s42-f2-22",
+      "stage": "F2",
+      "title": "Membandingkan dengan ～より",
+      "prerequisites": [],
+      "competencyIds": [],
+      "referenceIds": [],
+      "matchStatus": "candidate-not-verified"
+    }
+  ],
+  "academyCount": 100,
+  "pathways": {
+    "from-zero": {
+      "stageOrder": [
+        "F0",
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5"
+      ],
+      "description": "Tahapan internal, bukan level resmi penerbit"
+    },
+    "jft-prep": {
+      "stageOrder": [
+        "F5",
+        "F4",
+        "F3",
+        "F2",
+        "F1",
+        "F0"
+      ],
+      "description": "Navigasi prioritas, bukan urutan prasyarat pedagogis"
+    }
+  },
+  "limitations": [
+    "Can-do only verified for sampled 6 lessons; remaining 48 lessons require per-activity evidence.",
+    "Minna lesson-by-lesson grammar sequence not verified; do not infer from thematic candidates.",
+    "No verified publisher-approved equivalence between LatSol modules and books.",
+    "No change to Adaptive Path recommendation logic or saved data."
+  ]
+}
